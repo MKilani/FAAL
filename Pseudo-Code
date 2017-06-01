@@ -1,0 +1,60 @@
+*Pre-processing*
+
+- Parse the phonetic transcriptions and build the comparison matrix. 
+- Apply saliences, if present. 
+- A series of penalties can be introduced in the matrix in order to selectively exclude some alignments. 
+      /* 
+      For instance, if the chosen settings of the algorithm do not allow for vowel-consonant matches, then every element in the matrix corresponding to such a match may be assigned very low negative values, so that they will be automatically bypassed while browsing the matrix to compose the alignment. Vice versa, if the chosen settings allow for the recognition of morphemic boundaries, then all the elements of the matrix corresponding to a match between morphemic boundary markers may receive very high values, so to be always prioritised when the algorithm builds the alignment.)
+      */
+      
+*Core matching function*
+
+- Browse the comparison matrix looking for the n Highest Initial Values (where n can be modified by the user, and is set by default as n = 6)
+
+- Organize the highest initial values in decreasing order
+
+//Build the initial segment of the alignment:
+
+- For each of the n Highest Initial Values, look for the next Highest Values in the corresponding L-shaped areas of the matrix to the *left* of the Highest Initial Value (see article, esp. Figure 1). 
+- Build a multidimensional array containing each of these values, and listing for each of them a unique ID, their coordinates in the matrix and a reference ID of the previous value in the alignment sequence (i.e. the value at the source of the L-shaped area).
+
+- Repeat iteratively the last two steps, until one of the edges of the matrix has been reached.
+If consonant-vowel matches are not allowed, then introduce an exception for cases in which such match is at the beginning or end of the alignment, or turn such matches, when in initial or final position, into sequences of two gaps alternating between the two words (this second approach is implemented in FAAL). 
+        /*
+        For instance, take the case of French “école” (IPA ekɔl) - English “school” (IPA sku:l), whose correct alignment, if vowels/consonants matches are not allowed, the alignment:
+
+	      e k ɔ  l
+        s k u: l
+
+         should be turned into either:
+
+        e - k ɔ  l
+        - s k u: l
+
+        or:
+
+        - e k ɔ  l
+        s - k u: l
+        
+        */
+
+//Build the initial segment of the alignment:
+
+- For each of the n Highest Initial Values, look for the next Highest Values in the corresponding L-shaped areas of the matrix to the *right* of the Highest Initial Value (see article, esp. Figure 1).
+- Build a multidimensional array containing each of these values, and listing for each of them a unique ID, their coordinates in the matrix and a reference ID of the previous value in the alignment sequence (i.e. the value at the source of the L-shaped area).
+
+- Repeat iteratively the last two steps, until one of the edges of the matrix has been reached.
+If consonant-vowel matches are not allowed, then introduce an exception for cases in which such match is at the beginning or end of the alignment, or turn such matches, when in initial or final position, into sequences of two gaps alternating between the two words (see above). 
+
+- Once both these arrays have been populated, build the various possible initial and final segments by starting from the elements on the edges of the matrix, and going back (using the ID references stored in the arrays) up to their corresponding Highest Initial Values. Insert gaps where required (see article, esp. fig. 1). Calculate the number of features shared by each of these segments. Store the resulting segments of alignments and the number of their shared features in two new arrays - one for the initial segments, and one for the final segments. Reverse the final segments, as they have been built backwards, starting from the right or lower edges of the matrix.
+
+- For each of the n Highest Initial Values, sum the initial and final segments with the highest scores of shared features (a limit may implemented here), and build the total alignments.
+*Post-processing*
+
+- Calculate the Global Similarity Score and the Corrected Global Similarity Score for each of the alignments found.
+
+- Organize them in decreasing order.
+
+//======
+
+Special cases (such as words formed by only one phoneme) are handled separately, before the core function.
