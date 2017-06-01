@@ -1,7 +1,7 @@
 *Pre-processing*
 
 - Parse the phonetic transcriptions and build the comparison matrix. 
-- Apply saliences, if present. 
+- If saliences are present, modify matrix accordingly. 
 - A series of penalties can be introduced in the matrix in order to selectively exclude some alignments. 
       /* 
       For instance, if the chosen settings of the algorithm do not allow for vowel-consonant matches, then every element in the matrix corresponding to such a match may be assigned very low negative values, so that they will be automatically bypassed while browsing the matrix to compose the alignment. Vice versa, if the chosen settings allow for the recognition of morphemic boundaries, then all the elements of the matrix corresponding to a match between morphemic boundary markers may receive very high values, so to be always prioritised when the algorithm builds the alignment.)
