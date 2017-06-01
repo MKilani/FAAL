@@ -23,7 +23,7 @@ If consonant-vowel matches are not allowed, then introduce an exception for case
         /*
         For instance, take the case of French “école” (IPA ekɔl) - English “school” (IPA sku:l), whose correct alignment, if vowels/consonants matches are not allowed, the alignment:
 
-	      e k ɔ  l
+	e k ɔ  l
         s k u: l
 
          should be turned into either:
