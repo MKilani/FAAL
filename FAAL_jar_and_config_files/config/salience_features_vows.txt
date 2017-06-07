@@ -1,0 +1,87 @@
+%saliences for features in table
+%lines starting with % are ignored
+%
+%
+% 0 - diphthong
+0	0
+%
+% 1 - syllabic
+1	500
+%
+% 2 - Manner - consonantal
+2	0
+%
+% 3 - Manner - sonorant
+3	0
+%
+% 4 - Manner - continuant
+4	0
+%
+% 5 - Manner - delayed release
+5	0
+%
+% 6 - Manner - approximant
+6	0
+%
+% 7 - Manner - tap
+7	0
+%
+% 8 - Manner - trill
+8	0
+%
+% 9 - Manner - nasal
+9	0
+%
+% 10 - Laryng. - voice
+10	0
+%
+% 11 - Laryng. - spread gl
+11	0
+%
+% 12 - Laryng. - constr gl
+12	0
+%
+% 13 - Place - labial%
+13	0
+%
+% 14 - Place - round%
+14	0
+%
+% 15 - Place - labiodental
+15	0
+%
+% 16 - Place - coronal
+16	0
+%
+% 17 - Place - anterior
+17	0
+%
+% 18 - Place - distributed
+18	0
+%
+% 19 - Place - strident
+19	0
+%
+% 20 - Place - lateral
+20	0
+%
+% 21 - Place - dorsal
+21	0
+%
+% 22 - Place - high%
+22	0
+%
+% 23 - Place - low%
+23	0
+%
+% 24 - Place - front
+24	0
+%
+% 25 - Place - back
+25	0
+%
+% 26 - Place - tense%
+26	0
+%
+% 27 - Place - long%
+27	0

@@ -1,0 +1,21 @@
+%list of diacritics used in the IPA transcriptions -> fare due files con i diacritic, uno per quelli scritti dopo, e uno per quelli scritti prima
+%lines starting with % are ignored
+%other diacrits
+̰	0	11;- 12;+
+̤	0	11;+ 12;-
+̥	0	10;-
+̱	0	17;- 18;+
+̪	0	17;+ 18;+
+˖	0	24;+ 25;-	
+̱	0	24;- 25;+
+:	0	27;+
+ː	0	27;+
+ʰ	0	11;+ 12;-
+ʲ	0	21;+ 22;+ 23;- 24;+ 25;-
+ʷ	0	13;+ 14;+
+ˠ	0	21;+ 22;+ 23;- 24;- 25;+
+ˤ	0	21;+ 22;- 23;+ 24;- 25;+
+~	0	9;+
+˞	0	16;+ 17;+ 18;+ 19;-
+'	0	11;- 12;+
+ⁿ	1	9;+
