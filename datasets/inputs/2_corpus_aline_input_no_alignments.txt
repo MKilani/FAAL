@@ -1,0 +1,14250 @@
+§_Spanish_0 : Faroese
+uno
+an
+§_Spanish_1 : Latin
+uno
+unus
+§_Spanish_2 : Belarusian
+uno
+aʧin
+§_Spanish_3 : Italian
+uno
+uno
+§_Spanish_4 : Middle Breton
+uno
+yn
+§_Spanish_5 : Old Irish
+uno
+on
+§_Spanish_6 : Stavangersk
+uno
+ɛn
+§_Spanish_7 : Russian
+uno
+adin
+§_Spanish_8 : Czech
+uno
+ɛdɛn
+§_Spanish_9 : Romanian
+uno
+unu
+§_Italian_0 : Slovenian
+uno
+ɛn
+§_Italian_1 : Belarusian
+uno
+aʧin
+§_Italian_2 : French
+uno
+ɛ
+§_Italian_3 : Breton
+uno
+yn
+§_Italian_4 : Slovak
+uno
+ɛɟɛn
+§_Italian_5 : Scottish Gaelic
+uno
+un
+§_Italian_6 : German
+uno
+an
+§_Italian_7 : Icelandic
+uno
+ed
+§_Italian_8 : Norwegian Riksmal
+uno
+ɛn
+§_Italian_9 : Gutnish Lau
+uno
+en
+§_Macedonian_0 : Slovenian
+edɛn
+ɛn
+§_Macedonian_1 : Gutnish Lau
+edɛn
+en
+§_Macedonian_2 : German
+edɛn
+an
+§_Macedonian_3 : Faroese
+edɛn
+an
+§_Macedonian_4 : Old Irish
+edɛn
+on
+§_Macedonian_5 : Icelandic
+edɛn
+ed
+§_Macedonian_6 : Scottish Gaelic
+edɛn
+un
+§_Macedonian_7 : Romanian
+edɛn
+unu
+§_Macedonian_8 : Sorbian Lower
+edɛn
+adɛn
+§_Macedonian_9 : Bulgarian
+edɛn
+ədin
+§_Greek_0 : Sorbian Lower
+enas
+adɛn
+§_Greek_1 : Dutch
+enas
+en
+§_Greek_2 : Slovenian
+enas
+ɛn
+§_Greek_3 : Ukrainian
+enas
+ɔdɪn
+§_Greek_4 : Middle Cornish
+enas
+ɪn
+§_Greek_5 : Slovak
+enas
+ɛɟɛn
+§_Greek_6 : Bulgarian
+enas
+ədin
+§_Greek_7 : Old Norse
+enas
+ɛn
+§_Greek_8 : Middle Breton
+enas
+yn
+§_Greek_9 : Belarusian
+enas
+aʧin
+§_Sorbian Lower_0 : Belarusian
+adɛn
+aʧin
+§_Sorbian Lower_1 : Icelandic
+adɛn
+ed
+§_Sorbian Lower_2 : Stavangersk
+adɛn
+ɛn
+§_Sorbian Lower_3 : Breton
+adɛn
+yn
+§_Sorbian Lower_4 : Swedish
+adɛn
+ɛn
+§_Sorbian Lower_5 : Scottish Gaelic
+adɛn
+un
+§_Sorbian Lower_6 : Portuguese
+adɛn
+u
+§_Sorbian Lower_7 : Middle Cornish
+adɛn
+id
+§_Sorbian Lower_8 : Middle Cornish
+adɛn
+ɪn
+§_Sorbian Lower_9 : [Legacy] Serbian
+adɛn
+edan
+§_Polish_0 : Dutch
+ɛdɛn
+en
+§_Polish_1 : Sorbian Upper
+ɛdɛn
+ɛdən
+§_Polish_2 : SerboCroatian
+ɛdɛn
+ɛdan
+§_Polish_3 : Macedonian
+ɛdɛn
+edɛn
+§_Polish_4 : Romanian
+ɛdɛn
+unu
+§_Polish_5 : Bulgarian
+ɛdɛn
+ədin
+§_Polish_6 : Gutnish Lau
+ɛdɛn
+en
+§_Polish_7 : Catalan
+ɛdɛn
+un
+§_Polish_8 : Elfdalian
+ɛdɛn
+ɛn
+§_Polish_9 : German
+ɛdɛn
+an
+§_Czech_0 : Greek
+ɛdɛn
+enas
+§_Czech_1 : Old Irish
+ɛdɛn
+on
+§_Czech_2 : Polish
+ɛdɛn
+ɛdɛn
+§_Czech_3 : Faroese
+ɛdɛn
+an
+§_Czech_4 : Russian
+ɛdɛn
+adin
+§_Czech_5 : Macedonian
+ɛdɛn
+edɛn
+§_Czech_6 : Icelandic
+ɛdɛn
+ed
+§_Czech_7 : Catalan
+ɛdɛn
+un
+§_Czech_8 : Breton
+ɛdɛn
+yn
+§_Czech_9 : [Legacy] Serbian
+ɛdɛn
+edan
+§_Slovak_0 : Old Swedish
+ɛɟɛn
+en
+§_Slovak_1 : Norwegian Riksmal
+ɛɟɛn
+ɛn
+§_Slovak_2 : Gutnish Lau
+ɛɟɛn
+en
+§_Slovak_3 : Portuguese
+ɛɟɛn
+u
+§_Slovak_4 : Old Norse
+ɛɟɛn
+ɛn
+§_Slovak_5 : German
+ɛɟɛn
+an
+§_Slovak_6 : Scottish Gaelic
+ɛɟɛn
+un
+§_Slovak_7 : Breton
+ɛɟɛn
+yn
+§_Slovak_8 : Belarusian
+ɛɟɛn
+aʧin
+§_Slovak_9 : Macedonian
+ɛɟɛn
+edɛn
+§_Latin_0 : Stavangersk
+unus
+ɛn
+§_Latin_1 : Old Church Slavonic
+unus
+ɛdinʊ
+§_Latin_2 : Icelandic
+unus
+ed
+§_Latin_3 : English
+unus
+ʌn
+§_Latin_4 : SerboCroatian
+unus
+ɛdan
+§_Latin_5 : Gutnish Lau
+unus
+en
+§_Latin_6 : French
+unus
+ɛ
+§_Latin_7 : Faroese
+unus
+an
+§_Latin_8 : Polish
+unus
+ɛdɛn
+§_Latin_9 : Macedonian
+unus
+edɛn
+§_Russian_0 : Irish
+adin
+en
+§_Russian_1 : Romanian
+adin
+unu
+§_Russian_2 : Middle Breton
+adin
+yn
+§_Russian_3 : Norwegian Riksmal
+adin
+ɛn
+§_Russian_4 : English
+adin
+ʌn
+§_Russian_5 : Sorbian Lower
+adin
+adɛn
+§_Russian_6 : Middle Cornish
+adin
+id
+§_Russian_7 : Elfdalian
+adin
+ɛn
+§_Russian_8 : Sorbian Upper
+adin
+ɛdən
+§_Russian_9 : Icelandic
+adin
+ed
+§_Belarusian_0 : Ukrainian
+aʧin
+ɔdɪn
+§_Belarusian_1 : [Legacy] Albanian T
+aʧin
+ɲə
+§_Belarusian_2 : Slovenian
+aʧin
+ɛn
+§_Belarusian_3 : Swedish
+aʧin
+ɛn
+§_Belarusian_4 : Middle Breton
+aʧin
+yn
+§_Belarusian_5 : Bulgarian
+aʧin
+ədin
+§_Belarusian_6 : Breton
+aʧin
+yn
+§_Belarusian_7 : Romanian
+aʧin
+unu
+§_Belarusian_8 : Norwegian Riksmal
+aʧin
+ɛn
+§_Belarusian_9 : Old Norse
+aʧin
+ɛn
+§_Faroese_0 : Belarusian
+an
+aʧin
+§_Faroese_1 : Slovenian
+an
+ɛn
+§_Faroese_2 : Icelandic
+an
+ed
+§_Faroese_3 : Irish
+an
+en
+§_Faroese_4 : Old Church Slavonic
+an
+ɛdinʊ
+§_Faroese_5 : Portuguese
+an
+u
+§_Faroese_6 : Czech
+an
+ɛdɛn
+§_Faroese_7 : Russian
+an
+adin
+§_Faroese_8 : Breton
+an
+yn
+§_Faroese_9 : Slovak
+an
+ɛɟɛn
+§_German_0 : Dutch
+an
+en
+§_German_1 : Middle Breton
+an
+yn
+§_German_2 : Swedish
+an
+ɛn
+§_German_3 : Slovak
+an
+ɛɟɛn
+§_German_4 : Latin
+an
+unus
+§_German_5 : Gutnish Lau
+an
+en
+§_German_6 : Slovenian
+an
+ɛn
+§_German_7 : Irish
+an
+en
+§_German_8 : Catalan
+an
+un
+§_German_9 : Italian
+an
+uno
+§_Gutnish Lau_0 : Slovak
+en
+ɛɟɛn
+§_Gutnish Lau_1 : Old Norse
+en
+ɛn
+§_Gutnish Lau_2 : Stavangersk
+en
+ɛn
+§_Gutnish Lau_3 : Latin
+en
+unus
+§_Gutnish Lau_4 : Breton
+en
+yn
+§_Gutnish Lau_5 : Irish
+en
+en
+§_Gutnish Lau_6 : Middle Cornish
+en
+ɪn
+§_Gutnish Lau_7 : Italian
+en
+uno
+§_Gutnish Lau_8 : Scottish Gaelic
+en
+un
+§_Gutnish Lau_9 : Portuguese
+en
+u
+§_Irish_0 : Portuguese
+en
+u
+§_Irish_1 : Latin
+en
+unus
+§_Irish_2 : Slovenian
+en
+ɛn
+§_Irish_3 : English
+en
+ʌn
+§_Irish_4 : Stavangersk
+en
+ɛn
+§_Irish_5 : Czech
+en
+ɛdɛn
+§_Irish_6 : SerboCroatian
+en
+ɛdan
+§_Irish_7 : Dutch
+en
+en
+§_Irish_8 : Old Irish
+en
+on
+§_Irish_9 : Swedish
+en
+ɛn
+§_Icelandic_0 : [Legacy] Serbian
+ed
+edan
+§_Icelandic_1 : Belarusian
+ed
+aʧin
+§_Icelandic_2 : Polish
+ed
+ɛdɛn
+§_Icelandic_3 : Portuguese
+ed
+u
+§_Icelandic_4 : SerboCroatian
+ed
+ɛdan
+§_Icelandic_5 : Dutch
+ed
+en
+§_Icelandic_6 : Old Irish
+ed
+on
+§_Icelandic_7 : Old Church Slavonic
+ed
+ɛdinʊ
+§_Icelandic_8 : Slovenian
+ed
+ɛn
+§_Icelandic_9 : Sorbian Upper
+ed
+ɛdən
+§_Dutch_0 : Slovak
+en
+ɛɟɛn
+§_Dutch_1 : Faroese
+en
+an
+§_Dutch_2 : Sorbian Upper
+en
+ɛdən
+§_Dutch_3 : Ukrainian
+en
+ɔdɪn
+§_Dutch_4 : Bulgarian
+en
+ədin
+§_Dutch_5 : SerboCroatian
+en
+ɛdan
+§_Dutch_6 : Scottish Gaelic
+en
+un
+§_Dutch_7 : Old Church Slavonic
+en
+ɛdinʊ
+§_Dutch_8 : Swedish
+en
+ɛn
+§_Dutch_9 : Irish
+en
+en
+§_Old Swedish_0 : Italian
+en
+uno
+§_Old Swedish_1 : [Legacy] Albanian T
+en
+ɲə
+§_Old Swedish_2 : Norwegian Riksmal
+en
+ɛn
+§_Old Swedish_3 : Irish
+en
+en
+§_Old Swedish_4 : Faroese
+en
+an
+§_Old Swedish_5 : Belarusian
+en
+aʧin
+§_Old Swedish_6 : Old Norse
+en
+ɛn
+§_Old Swedish_7 : Old Irish
+en
+on
+§_Old Swedish_8 : [Legacy] Serbian
+en
+edan
+§_Old Swedish_9 : Sorbian Upper
+en
+ɛdən
+§_Old Norse_0 : Gutnish Lau
+ɛn
+en
+§_Old Norse_1 : Polish
+ɛn
+ɛdɛn
+§_Old Norse_2 : Icelandic
+ɛn
+ed
+§_Old Norse_3 : Old Irish
+ɛn
+on
+§_Old Norse_4 : Breton
+ɛn
+yn
+§_Old Norse_5 : [Legacy] Albanian T
+ɛn
+ɲə
+§_Old Norse_6 : [Legacy] Serbian
+ɛn
+edan
+§_Old Norse_7 : Middle Cornish
+ɛn
+ɪn
+§_Old Norse_8 : Italian
+ɛn
+uno
+§_Old Norse_9 : Old Church Slavonic
+ɛn
+ɛdinʊ
+§_Stavangersk_0 : Old Norse
+ɛn
+ɛn
+§_Stavangersk_1 : Sorbian Upper
+ɛn
+ɛdən
+§_Stavangersk_2 : Irish
+ɛn
+en
+§_Stavangersk_3 : Sorbian Lower
+ɛn
+adɛn
+§_Stavangersk_4 : Portuguese
+ɛn
+u
+§_Stavangersk_5 : French
+ɛn
+ɛ
+§_Stavangersk_6 : [Legacy] Serbian
+ɛn
+edan
+§_Stavangersk_7 : Slovak
+ɛn
+ɛɟɛn
+§_Stavangersk_8 : Romanian
+ɛn
+unu
+§_Stavangersk_9 : Catalan
+ɛn
+un
+§_Slovenian_0 : SerboCroatian
+ɛn
+ɛdan
+§_Slovenian_1 : Breton
+ɛn
+yn
+§_Slovenian_2 : Stavangersk
+ɛn
+ɛn
+§_Slovenian_3 : Romanian
+ɛn
+unu
+§_Slovenian_4 : [Legacy] Albanian T
+ɛn
+ɲə
+§_Slovenian_5 : Czech
+ɛn
+ɛdɛn
+§_Slovenian_6 : Slovak
+ɛn
+ɛɟɛn
+§_Slovenian_7 : Belarusian
+ɛn
+aʧin
+§_Slovenian_8 : Middle Cornish
+ɛn
+id
+§_Slovenian_9 : Macedonian
+ɛn
+edɛn
+§_Norwegian Riksmal_0 : Old Church Slavonic
+ɛn
+ɛdinʊ
+§_Norwegian Riksmal_1 : English
+ɛn
+ʌn
+§_Norwegian Riksmal_2 : Czech
+ɛn
+ɛdɛn
+§_Norwegian Riksmal_3 : Italian
+ɛn
+uno
+§_Norwegian Riksmal_4 : Old Norse
+ɛn
+ɛn
+§_Norwegian Riksmal_5 : Belarusian
+ɛn
+aʧin
+§_Norwegian Riksmal_6 : Slovenian
+ɛn
+ɛn
+§_Norwegian Riksmal_7 : Elfdalian
+ɛn
+ɛn
+§_Norwegian Riksmal_8 : Sorbian Lower
+ɛn
+adɛn
+§_Norwegian Riksmal_9 : Scottish Gaelic
+ɛn
+un
+§_Swedish_0 : Romanian
+ɛn
+unu
+§_Swedish_1 : Stavangersk
+ɛn
+ɛn
+§_Swedish_2 : Elfdalian
+ɛn
+ɛn
+§_Swedish_3 : French
+ɛn
+ɛ
+§_Swedish_4 : Russian
+ɛn
+adin
+§_Swedish_5 : Old Church Slavonic
+ɛn
+ɛdinʊ
+§_Swedish_6 : Faroese
+ɛn
+an
+§_Swedish_7 : Old Irish
+ɛn
+on
+§_Swedish_8 : Breton
+ɛn
+yn
+§_Swedish_9 : Middle Breton
+ɛn
+yn
+§_Bulgarian_0 : Sorbian Lower
+ədin
+adɛn
+§_Bulgarian_1 : Latin
+ədin
+unus
+§_Bulgarian_2 : Macedonian
+ədin
+edɛn
+§_Bulgarian_3 : [Legacy] Albanian T
+ədin
+ɲə
+§_Bulgarian_4 : Norwegian Riksmal
+ədin
+ɛn
+§_Bulgarian_5 : Middle Cornish
+ədin
+id
+§_Bulgarian_6 : Slovenian
+ədin
+ɛn
+§_Bulgarian_7 : Old Norse
+ədin
+ɛn
+§_Bulgarian_8 : Old Church Slavonic
+ədin
+ɛdinʊ
+§_Bulgarian_9 : Belarusian
+ədin
+aʧin
+§_Middle Cornish_0 : Russian
+id
+adin
+§_Middle Cornish_1 : Slovenian
+id
+ɛn
+§_Middle Cornish_2 : Irish
+id
+en
+§_Middle Cornish_3 : French
+id
+ɛ
+§_Middle Cornish_4 : Belarusian
+id
+aʧin
+§_Middle Cornish_5 : Breton
+id
+yn
+§_Middle Cornish_6 : Swedish
+id
+ɛn
+§_Middle Cornish_7 : Catalan
+id
+un
+§_Middle Cornish_8 : Old Swedish
+id
+en
+§_Middle Cornish_9 : Ukrainian
+id
+ɔdɪn
+§_Elfdalian_0 : Russian
+ɛn
+adin
+§_Elfdalian_1 : Bulgarian
+ɛn
+ədin
+§_Elfdalian_2 : Sorbian Lower
+ɛn
+adɛn
+§_Elfdalian_3 : Dutch
+ɛn
+en
+§_Elfdalian_4 : Irish
+ɛn
+en
+§_Elfdalian_5 : Middle Cornish
+ɛn
+id
+§_Elfdalian_6 : Greek
+ɛn
+enas
+§_Elfdalian_7 : Latin
+ɛn
+unus
+§_Elfdalian_8 : Macedonian
+ɛn
+edɛn
+§_Elfdalian_9 : Faroese
+ɛn
+an
+§_[Legacy] Serbian_0 : Faroese
+edan
+an
+§_[Legacy] Serbian_1 : Middle Cornish
+edan
+ɪn
+§_[Legacy] Serbian_2 : Middle Breton
+edan
+yn
+§_[Legacy] Serbian_3 : Macedonian
+edan
+edɛn
+§_[Legacy] Serbian_4 : Old Church Slavonic
+edan
+ɛdinʊ
+§_[Legacy] Serbian_5 : Scottish Gaelic
+edan
+un
+§_[Legacy] Serbian_6 : Sorbian Upper
+edan
+ɛdən
+§_[Legacy] Serbian_7 : SerboCroatian
+edan
+ɛdan
+§_[Legacy] Serbian_8 : Old Norse
+edan
+ɛn
+§_[Legacy] Serbian_9 : English
+edan
+ʌn
+§_SerboCroatian_0 : Old Norse
+ɛdan
+ɛn
+§_SerboCroatian_1 : Irish
+ɛdan
+en
+§_SerboCroatian_2 : Czech
+ɛdan
+ɛdɛn
+§_SerboCroatian_3 : Icelandic
+ɛdan
+ed
+§_SerboCroatian_4 : Norwegian Riksmal
+ɛdan
+ɛn
+§_SerboCroatian_5 : Dutch
+ɛdan
+en
+§_SerboCroatian_6 : Sorbian Lower
+ɛdan
+adɛn
+§_SerboCroatian_7 : Romanian
+ɛdan
+unu
+§_SerboCroatian_8 : Belarusian
+ɛdan
+aʧin
+§_SerboCroatian_9 : Latin
+ɛdan
+unus
+§_Sorbian Upper_0 : Greek
+ɛdən
+enas
+§_Sorbian Upper_1 : SerboCroatian
+ɛdən
+ɛdan
+§_Sorbian Upper_2 : Ukrainian
+ɛdən
+ɔdɪn
+§_Sorbian Upper_3 : Breton
+ɛdən
+yn
+§_Sorbian Upper_4 : Irish
+ɛdən
+en
+§_Sorbian Upper_5 : [Legacy] Serbian
+ɛdən
+edan
+§_Sorbian Upper_6 : German
+ɛdən
+an
+§_Sorbian Upper_7 : Portuguese
+ɛdən
+u
+§_Sorbian Upper_8 : Belarusian
+ɛdən
+aʧin
+§_Sorbian Upper_9 : Icelandic
+ɛdən
+ed
+§_Old Church Slavonic_0 : Italian
+ɛdinʊ
+uno
+§_Old Church Slavonic_1 : Faroese
+ɛdinʊ
+an
+§_Old Church Slavonic_2 : Romanian
+ɛdinʊ
+unu
+§_Old Church Slavonic_3 : Polish
+ɛdinʊ
+ɛdɛn
+§_Old Church Slavonic_4 : Sorbian Upper
+ɛdinʊ
+ɛdən
+§_Old Church Slavonic_5 : Gutnish Lau
+ɛdinʊ
+en
+§_Old Church Slavonic_6 : Bulgarian
+ɛdinʊ
+ədin
+§_Old Church Slavonic_7 : [Legacy] Albanian T
+ɛdinʊ
+ɲə
+§_Old Church Slavonic_8 : Middle Cornish
+ɛdinʊ
+ɪn
+§_Old Church Slavonic_9 : German
+ɛdinʊ
+an
+§_[Legacy] Albanian T_0 : Greek
+ɲə
+enas
+§_[Legacy] Albanian T_1 : Elfdalian
+ɲə
+ɛn
+§_[Legacy] Albanian T_2 : Old Irish
+ɲə
+on
+§_[Legacy] Albanian T_3 : Dutch
+ɲə
+en
+§_[Legacy] Albanian T_4 : Ukrainian
+ɲə
+ɔdɪn
+§_[Legacy] Albanian T_5 : Faroese
+ɲə
+an
+§_[Legacy] Albanian T_6 : Polish
+ɲə
+ɛdɛn
+§_[Legacy] Albanian T_7 : Sorbian Lower
+ɲə
+adɛn
+§_[Legacy] Albanian T_8 : Slovenian
+ɲə
+ɛn
+§_[Legacy] Albanian T_9 : Middle Cornish
+ɲə
+id
+§_French_0 : Old Swedish
+ɛ
+en
+§_French_1 : Middle Breton
+ɛ
+yn
+§_French_2 : Bulgarian
+ɛ
+ədin
+§_French_3 : Slovenian
+ɛ
+ɛn
+§_French_4 : Swedish
+ɛ
+ɛn
+§_French_5 : [Legacy] Serbian
+ɛ
+edan
+§_French_6 : Middle Cornish
+ɛ
+id
+§_French_7 : German
+ɛ
+an
+§_French_8 : Icelandic
+ɛ
+ed
+§_French_9 : Norwegian Riksmal
+ɛ
+ɛn
+§_Old Irish_0 : Slovenian
+on
+ɛn
+§_Old Irish_1 : Czech
+on
+ɛdɛn
+§_Old Irish_2 : SerboCroatian
+on
+ɛdan
+§_Old Irish_3 : Middle Cornish
+on
+id
+§_Old Irish_4 : Macedonian
+on
+edɛn
+§_Old Irish_5 : Faroese
+on
+an
+§_Old Irish_6 : Scottish Gaelic
+on
+un
+§_Old Irish_7 : Portuguese
+on
+u
+§_Old Irish_8 : English
+on
+ʌn
+§_Old Irish_9 : [Legacy] Albanian T
+on
+ɲə
+§_Ukrainian_0 : Old Irish
+ɔdɪn
+on
+§_Ukrainian_1 : Scottish Gaelic
+ɔdɪn
+un
+§_Ukrainian_2 : Romanian
+ɔdɪn
+unu
+§_Ukrainian_3 : Middle Breton
+ɔdɪn
+yn
+§_Ukrainian_4 : Norwegian Riksmal
+ɔdɪn
+ɛn
+§_Ukrainian_5 : English
+ɔdɪn
+ʌn
+§_Ukrainian_6 : Faroese
+ɔdɪn
+an
+§_Ukrainian_7 : Old Norse
+ɔdɪn
+ɛn
+§_Ukrainian_8 : Old Swedish
+ɔdɪn
+en
+§_Ukrainian_9 : Greek
+ɔdɪn
+enas
+§_Portuguese_0 : Middle Breton
+u
+yn
+§_Portuguese_1 : Slovak
+u
+ɛɟɛn
+§_Portuguese_2 : Faroese
+u
+an
+§_Portuguese_3 : Sorbian Lower
+u
+adɛn
+§_Portuguese_4 : Swedish
+u
+ɛn
+§_Portuguese_5 : Scottish Gaelic
+u
+un
+§_Portuguese_6 : SerboCroatian
+u
+ɛdan
+§_Portuguese_7 : Norwegian Riksmal
+u
+ɛn
+§_Portuguese_8 : English
+u
+ʌn
+§_Portuguese_9 : Dutch
+u
+en
+§_Romanian_0 : Ukrainian
+unu
+ɔdɪn
+§_Romanian_1 : Stavangersk
+unu
+ɛn
+§_Romanian_2 : Bulgarian
+unu
+ədin
+§_Romanian_3 : Old Norse
+unu
+ɛn
+§_Romanian_4 : Old Swedish
+unu
+en
+§_Romanian_5 : Middle Cornish
+unu
+id
+§_Romanian_6 : Elfdalian
+unu
+ɛn
+§_Romanian_7 : Catalan
+unu
+un
+§_Romanian_8 : Old Irish
+unu
+on
+§_Romanian_9 : Slovak
+unu
+ɛɟɛn
+§_Catalan_0 : Stavangersk
+un
+ɛn
+§_Catalan_1 : [Legacy] Albanian T
+un
+ɲə
+§_Catalan_2 : Sorbian Lower
+un
+adɛn
+§_Catalan_3 : Gutnish Lau
+un
+en
+§_Catalan_4 : Old Norse
+un
+ɛn
+§_Catalan_5 : Middle Cornish
+un
+id
+§_Catalan_6 : Greek
+un
+enas
+§_Catalan_7 : Swedish
+un
+ɛn
+§_Catalan_8 : Macedonian
+un
+edɛn
+§_Catalan_9 : Italian
+un
+uno
+§_Scottish Gaelic_0 : Portuguese
+un
+u
+§_Scottish Gaelic_1 : Breton
+un
+yn
+§_Scottish Gaelic_2 : SerboCroatian
+un
+ɛdan
+§_Scottish Gaelic_3 : Elfdalian
+un
+ɛn
+§_Scottish Gaelic_4 : Old Irish
+un
+on
+§_Scottish Gaelic_5 : Gutnish Lau
+un
+en
+§_Scottish Gaelic_6 : Ukrainian
+un
+ɔdɪn
+§_Scottish Gaelic_7 : Italian
+un
+uno
+§_Scottish Gaelic_8 : English
+un
+ʌn
+§_Scottish Gaelic_9 : Icelandic
+un
+ed
+§_English_0 : Ukrainian
+ʌn
+ɔdɪn
+§_English_1 : Greek
+ʌn
+enas
+§_English_2 : Swedish
+ʌn
+ɛn
+§_English_3 : Czech
+ʌn
+ɛdɛn
+§_English_4 : Sorbian Upper
+ʌn
+ɛdən
+§_English_5 : Slovak
+ʌn
+ɛɟɛn
+§_English_6 : Gutnish Lau
+ʌn
+en
+§_English_7 : Irish
+ʌn
+en
+§_English_8 : German
+ʌn
+an
+§_English_9 : Russian
+ʌn
+adin
+§_Middle Breton_0 : Sorbian Lower
+yn
+adɛn
+§_Middle Breton_1 : German
+yn
+an
+§_Middle Breton_2 : Bulgarian
+yn
+ədin
+§_Middle Breton_3 : Stavangersk
+yn
+ɛn
+§_Middle Breton_4 : Old Irish
+yn
+on
+§_Middle Breton_5 : [Legacy] Albanian T
+yn
+ɲə
+§_Middle Breton_6 : Latin
+yn
+unus
+§_Middle Breton_7 : English
+yn
+ʌn
+§_Middle Breton_8 : Scottish Gaelic
+yn
+un
+§_Middle Breton_9 : Middle Cornish
+yn
+id
+§_Breton_0 : Sorbian Lower
+yn
+adɛn
+§_Breton_1 : SerboCroatian
+yn
+ɛdan
+§_Breton_2 : Old Swedish
+yn
+en
+§_Breton_3 : Irish
+yn
+en
+§_Breton_4 : Bulgarian
+yn
+ədin
+§_Breton_5 : Middle Cornish
+yn
+id
+§_Breton_6 : Swedish
+yn
+ɛn
+§_Breton_7 : Old Irish
+yn
+on
+§_Breton_8 : Elfdalian
+yn
+ɛn
+§_Breton_9 : Romanian
+yn
+unu
+§_Middle Cornish_0 : Belarusian
+ɪn
+aʧin
+§_Middle Cornish_1 : Italian
+ɪn
+uno
+§_Middle Cornish_2 : Portuguese
+ɪn
+u
+§_Middle Cornish_3 : Old Norse
+ɪn
+ɛn
+§_Middle Cornish_4 : Dutch
+ɪn
+en
+§_Middle Cornish_5 : English
+ɪn
+ʌn
+§_Middle Cornish_6 : Middle Cornish
+ɪn
+id
+§_Middle Cornish_7 : Latin
+ɪn
+unus
+§_Middle Cornish_8 : Gutnish Lau
+ɪn
+en
+§_Middle Cornish_9 : Middle Breton
+ɪn
+yn
+§_Italian_0 : Punjabi
+due
+do
+§_Italian_1 : Old Swedish
+due
+tver
+§_Italian_2 : [Legacy] Breton St
+due
+dɔ
+§_Italian_3 : Sorbian Upper
+due
+da
+§_Italian_4 : Romanian
+due
+do
+§_Italian_5 : Old Church Slavonic
+due
+dʊvɑ
+§_Italian_6 : Latin
+due
+duo
+§_Italian_7 : Ancient Greek
+due
+dyo
+§_Italian_8 : Oriya
+due
+du
+§_Italian_9 : French
+due
+dø
+§_Greek_0 : Middle Breton
+ðo
+do
+§_Greek_1 : Classical Armenian
+ðo
+erko
+§_Greek_2 : Punjabi
+ðo
+do
+§_Greek_3 : Mycenaean Greek
+ðo
+do
+§_Greek_4 : Old Norse
+ðo
+tvɛr
+§_Greek_5 : Marathi
+ðo
+don
+§_Greek_6 : Faroese
+ðo
+tvar
+§_Greek_7 : Czech
+ðo
+dva
+§_Greek_8 : Magahi
+ðo
+du
+§_Greek_9 : [Legacy] Serbian
+ðo
+dʋa
+§_Middle Breton_0 : Sorbian Upper
+do
+da
+§_Middle Breton_1 : Mycenaean Greek
+do
+do
+§_Middle Breton_2 : Spanish
+do
+dos
+§_Middle Breton_3 : Sinhalese
+do
+dekə
+§_Middle Breton_4 : English
+do
+tu
+§_Middle Breton_5 : French
+do
+dø
+§_Middle Breton_6 : Greek
+do
+ðo
+§_Middle Breton_7 : Marathi
+do
+don
+§_Middle Breton_8 : Bihari
+do
+du
+§_Middle Breton_9 : Faroese
+do
+tvar
+§_Latin_0 : Gutnish Lau
+duo
+tvɑ
+§_Latin_1 : Bihari
+duo
+du
+§_Latin_2 : Old Church Slavonic
+duo
+dʊvɑ
+§_Latin_3 : Oriya
+duo
+du
+§_Latin_4 : Ossetic Iron
+duo
+dyɐ
+§_Latin_5 : Ancient Greek
+duo
+dyo
+§_Latin_6 : [Legacy] Albanian T
+duo
+dy
+§_Latin_7 : Ukrainian
+duo
+dʋa
+§_Latin_8 : Catalan
+duo
+dos
+§_Latin_9 : Ossetic
+duo
+dɨwæ
+§_Sindhi_0 : English
+bə
+tu
+§_Sindhi_1 : Bulgarian
+bə
+dva
+§_Sindhi_2 : Armenian Eastern
+bə
+ɛɾku
+§_Sindhi_3 : Dutch
+bə
+te
+§_Sindhi_4 : Marathi
+bə
+don
+§_Sindhi_5 : Gutnish Lau
+bə
+tvɑ
+§_Sindhi_6 : Portuguese
+bə
+doʃ
+§_Sindhi_7 : Classical Armenian
+bə
+erko
+§_Sindhi_8 : Ossetic Digor
+bə
+duɐ
+§_Sindhi_9 : Bihari
+bə
+du
+§_Old Irish_0 : Assamese
+da
+du
+§_Old Irish_1 : Sorbian Lower
+da
+da
+§_Old Irish_2 : Punjabi
+da
+do
+§_Old Irish_3 : Mycenaean Greek
+da
+do
+§_Old Irish_4 : Middle Breton
+da
+do
+§_Old Irish_5 : Dutch
+da
+te
+§_Old Irish_6 : Magahi
+da
+du
+§_Old Irish_7 : Russian
+da
+dva
+§_Old Irish_8 : German
+da
+ʤva
+§_Old Irish_9 : Ukrainian
+da
+dʋa
+§_Sinhalese_0 : Portuguese
+dekə
+doʃ
+§_Sinhalese_1 : Punjabi
+dekə
+do
+§_Sinhalese_2 : [Legacy] Breton St
+dekə
+dɔ
+§_Sinhalese_3 : [Legacy] Brazilian
+dekə
+dos
+§_Sinhalese_4 : Icelandic
+dekə
+tver
+§_Sinhalese_5 : Macedonian
+dekə
+dva
+§_Sinhalese_6 : Nepali
+dekə
+du
+§_Sinhalese_7 : Marathi
+dekə
+don
+§_Sinhalese_8 : Czech
+dekə
+dva
+§_Sinhalese_9 : Assamese
+dekə
+du
+§_Middle Cornish_0 : Mycenaean Greek
+dɛ
+do
+§_Middle Cornish_1 : Slovak
+dɛ
+dva
+§_Middle Cornish_2 : [Legacy] Breton St
+dɛ
+dɔ
+§_Middle Cornish_3 : Nepali
+dɛ
+du
+§_Middle Cornish_4 : Stavangersk
+dɛ
+tu
+§_Middle Cornish_5 : Ossetic
+dɛ
+dɨwæ
+§_Middle Cornish_6 : English
+dɛ
+tu
+§_Middle Cornish_7 : Belarusian
+dɛ
+dva
+§_Middle Cornish_8 : Swedish
+dɛ
+tvo
+§_Middle Cornish_9 : Spanish
+dɛ
+dos
+§_Ossetic_0 : Marathi
+dɨwæ
+don
+§_Ossetic_1 : Norwegian Riksmal
+dɨwæ
+tu
+§_Ossetic_2 : Ukrainian
+dɨwæ
+dʋa
+§_Ossetic_3 : Middle Breton
+dɨwæ
+do
+§_Ossetic_4 : Czech
+dɨwæ
+dva
+§_Ossetic_5 : Ossetic Iron
+dɨwæ
+dyɐ
+§_Ossetic_6 : SerboCroatian
+dɨwæ
+dva
+§_Ossetic_7 : Ancient Greek
+dɨwæ
+dyo
+§_Ossetic_8 : French
+dɨwæ
+dø
+§_Ossetic_9 : Russian
+dɨwæ
+dva
+§_Punjabi_0 : Sorbian Lower
+do
+da
+§_Punjabi_1 : Oriya
+do
+du
+§_Punjabi_2 : Mycenaean Greek
+do
+do
+§_Punjabi_3 : Latin
+do
+duo
+§_Punjabi_4 : [Legacy] Albanian T
+do
+dy
+§_Punjabi_5 : Stavangersk
+do
+tu
+§_Punjabi_6 : Polish
+do
+dva
+§_Punjabi_7 : Bihari
+do
+du
+§_Punjabi_8 : Bulgarian
+do
+dva
+§_Punjabi_9 : Armenian Eastern
+do
+ɛɾku
+§_French_0 : Romanian
+dø
+do
+§_French_1 : Sinhalese
+dø
+dekə
+§_French_2 : Stavangersk
+dø
+tu
+§_French_3 : Faroese
+dø
+tvar
+§_French_4 : Icelandic
+dø
+tver
+§_French_5 : Urdu
+dø
+do
+§_French_6 : Classical Armenian
+dø
+erko
+§_French_7 : Marathi
+dø
+don
+§_French_8 : Middle Breton
+dø
+do
+§_French_9 : Frisian
+dø
+tva
+§_Urdu_0 : Sindhi
+do
+bə
+§_Urdu_1 : Middle Cornish
+do
+dɛ
+§_Urdu_2 : SerboCroatian
+do
+dva
+§_Urdu_3 : Slovenian
+do
+dva
+§_Urdu_4 : Punjabi
+do
+do
+§_Urdu_5 : French
+do
+dø
+§_Urdu_6 : Russian
+do
+dva
+§_Urdu_7 : Old Church Slavonic
+do
+dʊvɑ
+§_Urdu_8 : Oriya
+do
+du
+§_Urdu_9 : Marathi
+do
+don
+§_[Legacy] Brazilian_0 : Ancient Greek
+dos
+dyo
+§_[Legacy] Brazilian_1 : Polish
+dos
+dva
+§_[Legacy] Brazilian_2 : Magahi
+dos
+du
+§_[Legacy] Brazilian_3 : Ossetic
+dos
+dɨwæ
+§_[Legacy] Brazilian_4 : Sindhi
+dos
+bə
+§_[Legacy] Brazilian_5 : Portuguese
+dos
+doʃ
+§_[Legacy] Brazilian_6 : Mycenaean Greek
+dos
+do
+§_[Legacy] Brazilian_7 : Slovenian
+dos
+dva
+§_[Legacy] Brazilian_8 : Dutch
+dos
+te
+§_[Legacy] Brazilian_9 : Urdu
+dos
+do
+§_Portuguese_0 : Ossetic
+doʃ
+dɨwæ
+§_Portuguese_1 : Sinhalese
+doʃ
+dekə
+§_Portuguese_2 : Sindhi
+doʃ
+bə
+§_Portuguese_3 : Marathi
+doʃ
+don
+§_Portuguese_4 : Ossetic Digor
+doʃ
+duɐ
+§_Portuguese_5 : Gutnish Lau
+doʃ
+tvɑ
+§_Portuguese_6 : [Legacy] Brazilian
+doʃ
+dos
+§_Portuguese_7 : Armenian Eastern
+doʃ
+ɛɾku
+§_Portuguese_8 : Elfdalian
+doʃ
+tɔ
+§_Portuguese_9 : Middle Breton
+doʃ
+do
+§_Romanian_0 : Old Norse
+do
+tvɛr
+§_Romanian_1 : Mycenaean Greek
+do
+do
+§_Romanian_2 : [Legacy] Serbian
+do
+dʋa
+§_Romanian_3 : Czech
+do
+dva
+§_Romanian_4 : Punjabi
+do
+do
+§_Romanian_5 : Sindhi
+do
+bə
+§_Romanian_6 : Old Swedish
+do
+tver
+§_Romanian_7 : [Legacy] Brazilian
+do
+dos
+§_Romanian_8 : Bulgarian
+do
+dva
+§_Romanian_9 : Sorbian Lower
+do
+da
+§_Marathi_0 : Old Norse
+don
+tvɛr
+§_Marathi_1 : Macedonian
+don
+dva
+§_Marathi_2 : Ukrainian
+don
+dʋa
+§_Marathi_3 : Icelandic
+don
+tver
+§_Marathi_4 : Old Irish
+don
+da
+§_Marathi_5 : Norwegian Riksmal
+don
+tu
+§_Marathi_6 : Ancient Greek
+don
+dyo
+§_Marathi_7 : Ossetic Digor
+don
+duɐ
+§_Marathi_8 : Ossetic Iron
+don
+dyɐ
+§_Marathi_9 : Bulgarian
+don
+dva
+§_Catalan_0 : Classical Armenian
+dos
+erko
+§_Catalan_1 : Urdu
+dos
+do
+§_Catalan_2 : Russian
+dos
+dva
+§_Catalan_3 : Sorbian Upper
+dos
+da
+§_Catalan_4 : French
+dos
+dø
+§_Catalan_5 : Slovak
+dos
+dva
+§_Catalan_6 : Stavangersk
+dos
+tu
+§_Catalan_7 : Armenian Eastern
+dos
+ɛɾku
+§_Catalan_8 : Belarusian
+dos
+dva
+§_Catalan_9 : Frisian
+dos
+tva
+§_Spanish_0 : Classical Armenian
+dos
+erko
+§_Spanish_1 : Frisian
+dos
+tva
+§_Spanish_2 : Mycenaean Greek
+dos
+do
+§_Spanish_3 : Icelandic
+dos
+tver
+§_Spanish_4 : [Legacy] Brazilian
+dos
+dos
+§_Spanish_5 : Bihari
+dos
+du
+§_Spanish_6 : Assamese
+dos
+du
+§_Spanish_7 : Bulgarian
+dos
+dva
+§_Spanish_8 : Ossetic
+dos
+dɨwæ
+§_Spanish_9 : Norwegian Riksmal
+dos
+tu
+§_[Legacy] Breton St_0 : Elfdalian
+dɔ
+tɔ
+§_[Legacy] Breton St_1 : Sinhalese
+dɔ
+dekə
+§_[Legacy] Breton St_2 : Punjabi
+dɔ
+do
+§_[Legacy] Breton St_3 : Stavangersk
+dɔ
+tu
+§_[Legacy] Breton St_4 : Old Swedish
+dɔ
+tver
+§_[Legacy] Breton St_5 : Ukrainian
+dɔ
+dʋa
+§_[Legacy] Breton St_6 : German
+dɔ
+ʤva
+§_[Legacy] Breton St_7 : Old Church Slavonic
+dɔ
+dʊvɑ
+§_[Legacy] Breton St_8 : Old Irish
+dɔ
+da
+§_[Legacy] Breton St_9 : Old Norse
+dɔ
+tvɛr
+§_Bihari_0 : Nepali
+du
+du
+§_Bihari_1 : [Legacy] Serbian
+du
+dʋa
+§_Bihari_2 : French
+du
+dø
+§_Bihari_3 : Swedish
+du
+tvo
+§_Bihari_4 : Mycenaean Greek
+du
+do
+§_Bihari_5 : Czech
+du
+dva
+§_Bihari_6 : Frisian
+du
+tva
+§_Bihari_7 : Faroese
+du
+tvar
+§_Bihari_8 : Ancient Greek
+du
+dyo
+§_Bihari_9 : Stavangersk
+du
+tu
+§_Magahi_0 : Marathi
+du
+don
+§_Magahi_1 : French
+du
+dø
+§_Magahi_2 : Gutnish Lau
+du
+tvɑ
+§_Magahi_3 : Old Irish
+du
+da
+§_Magahi_4 : Spanish
+du
+dos
+§_Magahi_5 : Belarusian
+du
+dva
+§_Magahi_6 : Polish
+du
+dva
+§_Magahi_7 : Russian
+du
+dva
+§_Magahi_8 : Ukrainian
+du
+dʋa
+§_Magahi_9 : Middle Cornish
+du
+dɛ
+§_Nepali_0 : Marathi
+du
+don
+§_Nepali_1 : Sorbian Upper
+du
+da
+§_Nepali_2 : Elfdalian
+du
+tɔ
+§_Nepali_3 : Romanian
+du
+do
+§_Nepali_4 : [Legacy] Serbian
+du
+dʋa
+§_Nepali_5 : Norwegian Riksmal
+du
+tu
+§_Nepali_6 : Magahi
+du
+du
+§_Nepali_7 : Polish
+du
+dva
+§_Nepali_8 : Russian
+du
+dva
+§_Nepali_9 : Icelandic
+du
+tver
+§_Assamese_0 : [Legacy] Breton St
+du
+dɔ
+§_Assamese_1 : [Legacy] Brazilian
+du
+dos
+§_Assamese_2 : Ossetic Iron
+du
+dyɐ
+§_Assamese_3 : Old Irish
+du
+da
+§_Assamese_4 : Nepali
+du
+du
+§_Assamese_5 : Gutnish Lau
+du
+tvɑ
+§_Assamese_6 : Elfdalian
+du
+tɔ
+§_Assamese_7 : Sinhalese
+du
+dekə
+§_Assamese_8 : Armenian Eastern
+du
+ɛɾku
+§_Assamese_9 : Greek
+du
+ðo
+§_Oriya_0 : Gutnish Lau
+du
+tvɑ
+§_Oriya_1 : Ossetic Digor
+du
+duɐ
+§_Oriya_2 : Faroese
+du
+tvar
+§_Oriya_3 : Old Norse
+du
+tvɛr
+§_Oriya_4 : Old Church Slavonic
+du
+dʊvɑ
+§_Oriya_5 : Portuguese
+du
+doʃ
+§_Oriya_6 : Middle Cornish
+du
+dɛ
+§_Oriya_7 : German
+du
+ʤva
+§_Oriya_8 : Nepali
+du
+du
+§_Oriya_9 : [Legacy] Brazilian
+du
+dos
+§_Mycenaean Greek_0 : Stavangersk
+do
+tu
+§_Mycenaean Greek_1 : Bihari
+do
+du
+§_Mycenaean Greek_2 : Sorbian Lower
+do
+da
+§_Mycenaean Greek_3 : [Legacy] Breton St
+do
+dɔ
+§_Mycenaean Greek_4 : Greek
+do
+ðo
+§_Mycenaean Greek_5 : Punjabi
+do
+do
+§_Mycenaean Greek_6 : Slovenian
+do
+dva
+§_Mycenaean Greek_7 : Russian
+do
+dva
+§_Mycenaean Greek_8 : Slovak
+do
+dva
+§_Mycenaean Greek_9 : Nepali
+do
+du
+§_Ossetic Digor_0 : Bulgarian
+duɐ
+dva
+§_Ossetic Digor_1 : Gutnish Lau
+duɐ
+tvɑ
+§_Ossetic Digor_2 : Ukrainian
+duɐ
+dʋa
+§_Ossetic Digor_3 : Polish
+duɐ
+dva
+§_Ossetic Digor_4 : Armenian Eastern
+duɐ
+ɛɾku
+§_Ossetic Digor_5 : Icelandic
+duɐ
+tver
+§_Ossetic Digor_6 : Sorbian Lower
+duɐ
+da
+§_Ossetic Digor_7 : Russian
+duɐ
+dva
+§_Ossetic Digor_8 : Ossetic
+duɐ
+dɨwæ
+§_Ossetic Digor_9 : Old Swedish
+duɐ
+tver
+§_Old Church Slavonic_0 : SerboCroatian
+dʊvɑ
+dva
+§_Old Church Slavonic_1 : Armenian Eastern
+dʊvɑ
+ɛɾku
+§_Old Church Slavonic_2 : Faroese
+dʊvɑ
+tvar
+§_Old Church Slavonic_3 : Catalan
+dʊvɑ
+dos
+§_Old Church Slavonic_4 : Elfdalian
+dʊvɑ
+tɔ
+§_Old Church Slavonic_5 : Swedish
+dʊvɑ
+tvo
+§_Old Church Slavonic_6 : Sindhi
+dʊvɑ
+bə
+§_Old Church Slavonic_7 : Romanian
+dʊvɑ
+do
+§_Old Church Slavonic_8 : Gutnish Lau
+dʊvɑ
+tvɑ
+§_Old Church Slavonic_9 : [Legacy] Brazilian
+dʊvɑ
+dos
+§_Bulgarian_0 : Punjabi
+dva
+do
+§_Bulgarian_1 : Marathi
+dva
+don
+§_Bulgarian_2 : Macedonian
+dva
+dva
+§_Bulgarian_3 : Sorbian Upper
+dva
+da
+§_Bulgarian_4 : Polish
+dva
+dva
+§_Bulgarian_5 : Middle Breton
+dva
+do
+§_Bulgarian_6 : Sorbian Lower
+dva
+da
+§_Bulgarian_7 : Slovenian
+dva
+dva
+§_Bulgarian_8 : Icelandic
+dva
+tver
+§_Bulgarian_9 : German
+dva
+ʤva
+§_Macedonian_0 : [Legacy] Serbian
+dva
+dʋa
+§_Macedonian_1 : Russian
+dva
+dva
+§_Macedonian_2 : Icelandic
+dva
+tver
+§_Macedonian_3 : German
+dva
+ʤva
+§_Macedonian_4 : French
+dva
+dø
+§_Macedonian_5 : Czech
+dva
+dva
+§_Macedonian_6 : Sorbian Upper
+dva
+da
+§_Macedonian_7 : Classical Armenian
+dva
+erko
+§_Macedonian_8 : Old Church Slavonic
+dva
+dʊvɑ
+§_Macedonian_9 : English
+dva
+tu
+§_Russian_0 : German
+dva
+ʤva
+§_Russian_1 : Old Norse
+dva
+tvɛr
+§_Russian_2 : Polish
+dva
+dva
+§_Russian_3 : Sinhalese
+dva
+dekə
+§_Russian_4 : Icelandic
+dva
+tver
+§_Russian_5 : Old Irish
+dva
+da
+§_Russian_6 : Sindhi
+dva
+bə
+§_Russian_7 : Mycenaean Greek
+dva
+do
+§_Russian_8 : Sorbian Upper
+dva
+da
+§_Russian_9 : English
+dva
+tu
+§_Polish_0 : Ossetic Iron
+dva
+dyɐ
+§_Polish_1 : French
+dva
+dø
+§_Polish_2 : SerboCroatian
+dva
+dva
+§_Polish_3 : Old Church Slavonic
+dva
+dʊvɑ
+§_Polish_4 : Bihari
+dva
+du
+§_Polish_5 : Old Norse
+dva
+tvɛr
+§_Polish_6 : Armenian Eastern
+dva
+ɛɾku
+§_Polish_7 : Elfdalian
+dva
+tɔ
+§_Polish_8 : Czech
+dva
+dva
+§_Polish_9 : Romanian
+dva
+do
+§_Belarusian_0 : [Legacy] Serbian
+dva
+dʋa
+§_Belarusian_1 : Slovenian
+dva
+dva
+§_Belarusian_2 : Classical Armenian
+dva
+erko
+§_Belarusian_3 : Middle Breton
+dva
+do
+§_Belarusian_4 : Ossetic
+dva
+dɨwæ
+§_Belarusian_5 : Slovak
+dva
+dva
+§_Belarusian_6 : Old Church Slavonic
+dva
+dʊvɑ
+§_Belarusian_7 : Sindhi
+dva
+bə
+§_Belarusian_8 : SerboCroatian
+dva
+dva
+§_Belarusian_9 : Swedish
+dva
+tvo
+§_Slovak_0 : Urdu
+dva
+do
+§_Slovak_1 : Magahi
+dva
+du
+§_Slovak_2 : [Legacy] Albanian T
+dva
+dy
+§_Slovak_3 : Swedish
+dva
+tvo
+§_Slovak_4 : Mycenaean Greek
+dva
+do
+§_Slovak_5 : Ossetic Digor
+dva
+duɐ
+§_Slovak_6 : Old Church Slavonic
+dva
+dʊvɑ
+§_Slovak_7 : Macedonian
+dva
+dva
+§_Slovak_8 : Ancient Greek
+dva
+dyo
+§_Slovak_9 : Punjabi
+dva
+do
+§_Czech_0 : Bihari
+dva
+du
+§_Czech_1 : Middle Breton
+dva
+do
+§_Czech_2 : [Legacy] Breton St
+dva
+dɔ
+§_Czech_3 : Mycenaean Greek
+dva
+do
+§_Czech_4 : Sinhalese
+dva
+dekə
+§_Czech_5 : [Legacy] Albanian T
+dva
+dy
+§_Czech_6 : Oriya
+dva
+du
+§_Czech_7 : Magahi
+dva
+du
+§_Czech_8 : Stavangersk
+dva
+tu
+§_Czech_9 : Ossetic
+dva
+dɨwæ
+§_SerboCroatian_0 : Ossetic Digor
+dva
+duɐ
+§_SerboCroatian_1 : Russian
+dva
+dva
+§_SerboCroatian_2 : Punjabi
+dva
+do
+§_SerboCroatian_3 : Assamese
+dva
+du
+§_SerboCroatian_4 : Sorbian Upper
+dva
+da
+§_SerboCroatian_5 : Ossetic
+dva
+dɨwæ
+§_SerboCroatian_6 : French
+dva
+dø
+§_SerboCroatian_7 : Norwegian Riksmal
+dva
+tu
+§_SerboCroatian_8 : Sorbian Lower
+dva
+da
+§_SerboCroatian_9 : Bihari
+dva
+du
+§_Slovenian_0 : Nepali
+dva
+du
+§_Slovenian_1 : Classical Armenian
+dva
+erko
+§_Slovenian_2 : English
+dva
+tu
+§_Slovenian_3 : Old Norse
+dva
+tvɛr
+§_Slovenian_4 : Russian
+dva
+dva
+§_Slovenian_5 : Middle Cornish
+dva
+dɛ
+§_Slovenian_6 : Greek
+dva
+ðo
+§_Slovenian_7 : Ancient Greek
+dva
+dyo
+§_Slovenian_8 : French
+dva
+dø
+§_Slovenian_9 : SerboCroatian
+dva
+dva
+§_Ukrainian_0 : [Legacy] Albanian T
+dʋa
+dy
+§_Ukrainian_1 : Old Norse
+dʋa
+tvɛr
+§_Ukrainian_2 : Sorbian Lower
+dʋa
+da
+§_Ukrainian_3 : Ossetic Iron
+dʋa
+dyɐ
+§_Ukrainian_4 : Latin
+dʋa
+duo
+§_Ukrainian_5 : Icelandic
+dʋa
+tver
+§_Ukrainian_6 : French
+dʋa
+dø
+§_Ukrainian_7 : Elfdalian
+dʋa
+tɔ
+§_Ukrainian_8 : Ancient Greek
+dʋa
+dyo
+§_Ukrainian_9 : Sinhalese
+dʋa
+dekə
+§_[Legacy] Serbian_0 : Sinhalese
+dʋa
+dekə
+§_[Legacy] Serbian_1 : Romanian
+dʋa
+do
+§_[Legacy] Serbian_2 : Armenian Eastern
+dʋa
+ɛɾku
+§_[Legacy] Serbian_3 : Bulgarian
+dʋa
+dva
+§_[Legacy] Serbian_4 : Marathi
+dʋa
+don
+§_[Legacy] Serbian_5 : Norwegian Riksmal
+dʋa
+tu
+§_[Legacy] Serbian_6 : Elfdalian
+dʋa
+tɔ
+§_[Legacy] Serbian_7 : Classical Armenian
+dʋa
+erko
+§_[Legacy] Serbian_8 : German
+dʋa
+ʤva
+§_[Legacy] Serbian_9 : Frisian
+dʋa
+tva
+§_Sorbian Lower_0 : Urdu
+da
+do
+§_Sorbian Lower_1 : Ossetic
+da
+dɨwæ
+§_Sorbian Lower_2 : English
+da
+tu
+§_Sorbian Lower_3 : Slovenian
+da
+dva
+§_Sorbian Lower_4 : German
+da
+ʤva
+§_Sorbian Lower_5 : Gutnish Lau
+da
+tvɑ
+§_Sorbian Lower_6 : Sindhi
+da
+bə
+§_Sorbian Lower_7 : SerboCroatian
+da
+dva
+§_Sorbian Lower_8 : Old Irish
+da
+da
+§_Sorbian Lower_9 : Stavangersk
+da
+tu
+§_Sorbian Upper_0 : French
+da
+dø
+§_Sorbian Upper_1 : Ossetic Digor
+da
+duɐ
+§_Sorbian Upper_2 : Slovak
+da
+dva
+§_Sorbian Upper_3 : Frisian
+da
+tva
+§_Sorbian Upper_4 : Assamese
+da
+du
+§_Sorbian Upper_5 : [Legacy] Brazilian
+da
+dos
+§_Sorbian Upper_6 : [Legacy] Albanian T
+da
+dy
+§_Sorbian Upper_7 : Sindhi
+da
+bə
+§_Sorbian Upper_8 : Bulgarian
+da
+dva
+§_Sorbian Upper_9 : Norwegian Riksmal
+da
+tu
+§_[Legacy] Albanian T_0 : Greek
+dy
+ðo
+§_[Legacy] Albanian T_1 : Ossetic Digor
+dy
+duɐ
+§_[Legacy] Albanian T_2 : Macedonian
+dy
+dva
+§_[Legacy] Albanian T_3 : Czech
+dy
+dva
+§_[Legacy] Albanian T_4 : Norwegian Riksmal
+dy
+tu
+§_[Legacy] Albanian T_5 : [Legacy] Brazilian
+dy
+dos
+§_[Legacy] Albanian T_6 : [Legacy] Serbian
+dy
+dʋa
+§_[Legacy] Albanian T_7 : [Legacy] Breton St
+dy
+dɔ
+§_[Legacy] Albanian T_8 : Mycenaean Greek
+dy
+do
+§_[Legacy] Albanian T_9 : Romanian
+dy
+do
+§_Ancient Greek_0 : Old Church Slavonic
+dyo
+dʊvɑ
+§_Ancient Greek_1 : SerboCroatian
+dyo
+dva
+§_Ancient Greek_2 : Frisian
+dyo
+tva
+§_Ancient Greek_3 : [Legacy] Breton St
+dyo
+dɔ
+§_Ancient Greek_4 : Russian
+dyo
+dva
+§_Ancient Greek_5 : Nepali
+dyo
+du
+§_Ancient Greek_6 : French
+dyo
+dø
+§_Ancient Greek_7 : [Legacy] Albanian T
+dyo
+dy
+§_Ancient Greek_8 : Old Swedish
+dyo
+tver
+§_Ancient Greek_9 : Romanian
+dyo
+do
+§_Ossetic Iron_0 : Gutnish Lau
+dyɐ
+tvɑ
+§_Ossetic Iron_1 : Assamese
+dyɐ
+du
+§_Ossetic Iron_2 : [Legacy] Breton St
+dyɐ
+dɔ
+§_Ossetic Iron_3 : Sorbian Upper
+dyɐ
+da
+§_Ossetic Iron_4 : Bulgarian
+dyɐ
+dva
+§_Ossetic Iron_5 : Macedonian
+dyɐ
+dva
+§_Ossetic Iron_6 : Marathi
+dyɐ
+don
+§_Ossetic Iron_7 : Middle Cornish
+dyɐ
+dɛ
+§_Ossetic Iron_8 : Romanian
+dyɐ
+do
+§_Ossetic Iron_9 : Spanish
+dyɐ
+dos
+§_Classical Armenian_0 : Icelandic
+erko
+tver
+§_Classical Armenian_1 : [Legacy] Serbian
+erko
+dʋa
+§_Classical Armenian_2 : Sindhi
+erko
+bə
+§_Classical Armenian_3 : Old Irish
+erko
+da
+§_Classical Armenian_4 : Assamese
+erko
+du
+§_Classical Armenian_5 : Macedonian
+erko
+dva
+§_Classical Armenian_6 : Catalan
+erko
+dos
+§_Classical Armenian_7 : Slovak
+erko
+dva
+§_Classical Armenian_8 : Gutnish Lau
+erko
+tvɑ
+§_Classical Armenian_9 : Stavangersk
+erko
+tu
+§_Armenian Eastern_0 : Ossetic Digor
+ɛɾku
+duɐ
+§_Armenian Eastern_1 : Elfdalian
+ɛɾku
+tɔ
+§_Armenian Eastern_2 : Catalan
+ɛɾku
+dos
+§_Armenian Eastern_3 : Greek
+ɛɾku
+ðo
+§_Armenian Eastern_4 : Middle Breton
+ɛɾku
+do
+§_Armenian Eastern_5 : Nepali
+ɛɾku
+du
+§_Armenian Eastern_6 : Ukrainian
+ɛɾku
+dʋa
+§_Armenian Eastern_7 : Romanian
+ɛɾku
+do
+§_Armenian Eastern_8 : Macedonian
+ɛɾku
+dva
+§_Armenian Eastern_9 : Stavangersk
+ɛɾku
+tu
+§_Faroese_0 : Sinhalese
+tvar
+dekə
+§_Faroese_1 : Ossetic Iron
+tvar
+dyɐ
+§_Faroese_2 : Marathi
+tvar
+don
+§_Faroese_3 : Portuguese
+tvar
+doʃ
+§_Faroese_4 : Slovak
+tvar
+dva
+§_Faroese_5 : Icelandic
+tvar
+tver
+§_Faroese_6 : Norwegian Riksmal
+tvar
+tu
+§_Faroese_7 : Old Irish
+tvar
+da
+§_Faroese_8 : Old Swedish
+tvar
+tver
+§_Faroese_9 : Swedish
+tvar
+tvo
+§_German_0 : Armenian Eastern
+ʤva
+ɛɾku
+§_German_1 : Urdu
+ʤva
+do
+§_German_2 : Spanish
+ʤva
+dos
+§_German_3 : Mycenaean Greek
+ʤva
+do
+§_German_4 : Faroese
+ʤva
+tvar
+§_German_5 : Sinhalese
+ʤva
+dekə
+§_German_6 : Magahi
+ʤva
+du
+§_German_7 : [Legacy] Brazilian
+ʤva
+dos
+§_German_8 : Ancient Greek
+ʤva
+dyo
+§_German_9 : Assamese
+ʤva
+du
+§_English_0 : [Legacy] Brazilian
+tu
+dos
+§_English_1 : Oriya
+tu
+du
+§_English_2 : Spanish
+tu
+dos
+§_English_3 : Romanian
+tu
+do
+§_English_4 : Old Irish
+tu
+da
+§_English_5 : Sorbian Lower
+tu
+da
+§_English_6 : Frisian
+tu
+tva
+§_English_7 : Bulgarian
+tu
+dva
+§_English_8 : Middle Cornish
+tu
+dɛ
+§_English_9 : French
+tu
+dø
+§_Norwegian Riksmal_0 : Frisian
+tu
+tva
+§_Norwegian Riksmal_1 : Swedish
+tu
+tvo
+§_Norwegian Riksmal_2 : Portuguese
+tu
+doʃ
+§_Norwegian Riksmal_3 : Old Swedish
+tu
+tver
+§_Norwegian Riksmal_4 : [Legacy] Breton St
+tu
+dɔ
+§_Norwegian Riksmal_5 : Old Church Slavonic
+tu
+dʊvɑ
+§_Norwegian Riksmal_6 : Icelandic
+tu
+tver
+§_Norwegian Riksmal_7 : Gutnish Lau
+tu
+tvɑ
+§_Norwegian Riksmal_8 : Oriya
+tu
+du
+§_Norwegian Riksmal_9 : Macedonian
+tu
+dva
+§_Stavangersk_0 : Gutnish Lau
+tu
+tvɑ
+§_Stavangersk_1 : Sinhalese
+tu
+dekə
+§_Stavangersk_2 : [Legacy] Breton St
+tu
+dɔ
+§_Stavangersk_3 : German
+tu
+ʤva
+§_Stavangersk_4 : Ancient Greek
+tu
+dyo
+§_Stavangersk_5 : Icelandic
+tu
+tver
+§_Stavangersk_6 : Old Irish
+tu
+da
+§_Stavangersk_7 : Slovak
+tu
+dva
+§_Stavangersk_8 : Old Church Slavonic
+tu
+dʊvɑ
+§_Stavangersk_9 : [Legacy] Serbian
+tu
+dʋa
+§_Frisian_0 : Romanian
+tva
+do
+§_Frisian_1 : French
+tva
+dø
+§_Frisian_2 : Ossetic
+tva
+dɨwæ
+§_Frisian_3 : Bulgarian
+tva
+dva
+§_Frisian_4 : Bihari
+tva
+du
+§_Frisian_5 : [Legacy] Albanian T
+tva
+dy
+§_Frisian_6 : Sindhi
+tva
+bə
+§_Frisian_7 : [Legacy] Brazilian
+tva
+dos
+§_Frisian_8 : Nepali
+tva
+du
+§_Frisian_9 : Sinhalese
+tva
+dekə
+§_Gutnish Lau_0 : [Legacy] Breton St
+tvɑ
+dɔ
+§_Gutnish Lau_1 : Portuguese
+tvɑ
+doʃ
+§_Gutnish Lau_2 : Marathi
+tvɑ
+don
+§_Gutnish Lau_3 : Faroese
+tvɑ
+tvar
+§_Gutnish Lau_4 : Punjabi
+tvɑ
+do
+§_Gutnish Lau_5 : Ukrainian
+tvɑ
+dʋa
+§_Gutnish Lau_6 : German
+tvɑ
+ʤva
+§_Gutnish Lau_7 : Magahi
+tvɑ
+du
+§_Gutnish Lau_8 : Spanish
+tvɑ
+dos
+§_Gutnish Lau_9 : Old Church Slavonic
+tvɑ
+dʊvɑ
+§_Old Swedish_0 : Russian
+tver
+dva
+§_Old Swedish_1 : Bulgarian
+tver
+dva
+§_Old Swedish_2 : Polish
+tver
+dva
+§_Old Swedish_3 : Swedish
+tver
+tvo
+§_Old Swedish_4 : Greek
+tver
+ðo
+§_Old Swedish_5 : Classical Armenian
+tver
+erko
+§_Old Swedish_6 : SerboCroatian
+tver
+dva
+§_Old Swedish_7 : Slovak
+tver
+dva
+§_Old Swedish_8 : Czech
+tver
+dva
+§_Old Swedish_9 : Belarusian
+tver
+dva
+§_Icelandic_0 : [Legacy] Serbian
+tver
+dʋa
+§_Icelandic_1 : Classical Armenian
+tver
+erko
+§_Icelandic_2 : Frisian
+tver
+tva
+§_Icelandic_3 : Ossetic
+tver
+dɨwæ
+§_Icelandic_4 : Stavangersk
+tver
+tu
+§_Icelandic_5 : Ancient Greek
+tver
+dyo
+§_Icelandic_6 : Norwegian Riksmal
+tver
+tu
+§_Icelandic_7 : Polish
+tver
+dva
+§_Icelandic_8 : Armenian Eastern
+tver
+ɛɾku
+§_Icelandic_9 : Old Norse
+tver
+tvɛr
+§_Old Norse_0 : Dutch
+tvɛr
+te
+§_Old Norse_1 : [Legacy] Breton St
+tvɛr
+dɔ
+§_Old Norse_2 : Stavangersk
+tvɛr
+tu
+§_Old Norse_3 : Sorbian Lower
+tvɛr
+da
+§_Old Norse_4 : German
+tvɛr
+ʤva
+§_Old Norse_5 : French
+tvɛr
+dø
+§_Old Norse_6 : Middle Cornish
+tvɛr
+dɛ
+§_Old Norse_7 : Frisian
+tvɛr
+tva
+§_Old Norse_8 : [Legacy] Serbian
+tvɛr
+dʋa
+§_Old Norse_9 : Gutnish Lau
+tvɛr
+tvɑ
+§_Swedish_0 : Assamese
+tvo
+du
+§_Swedish_1 : Frisian
+tvo
+tva
+§_Swedish_2 : Mycenaean Greek
+tvo
+do
+§_Swedish_3 : Marathi
+tvo
+don
+§_Swedish_4 : Bihari
+tvo
+du
+§_Swedish_5 : Old Swedish
+tvo
+tver
+§_Swedish_6 : Gutnish Lau
+tvo
+tvɑ
+§_Swedish_7 : [Legacy] Breton St
+tvo
+dɔ
+§_Swedish_8 : English
+tvo
+tu
+§_Swedish_9 : Middle Cornish
+tvo
+dɛ
+§_Dutch_0 : Faroese
+te
+tvar
+§_Dutch_1 : Romanian
+te
+do
+§_Dutch_2 : Polish
+te
+dva
+§_Dutch_3 : [Legacy] Breton St
+te
+dɔ
+§_Dutch_4 : Elfdalian
+te
+tɔ
+§_Dutch_5 : Gutnish Lau
+te
+tvɑ
+§_Dutch_6 : Marathi
+te
+don
+§_Dutch_7 : Sorbian Upper
+te
+da
+§_Dutch_8 : Sindhi
+te
+bə
+§_Dutch_9 : Portuguese
+te
+doʃ
+§_Elfdalian_0 : Macedonian
+tɔ
+dva
+§_Elfdalian_1 : Punjabi
+tɔ
+do
+§_Elfdalian_2 : Bihari
+tɔ
+du
+§_Elfdalian_3 : Old Norse
+tɔ
+tvɛr
+§_Elfdalian_4 : Russian
+tɔ
+dva
+§_Elfdalian_5 : Ossetic Digor
+tɔ
+duɐ
+§_Elfdalian_6 : Czech
+tɔ
+dva
+§_Elfdalian_7 : Old Swedish
+tɔ
+tver
+§_Elfdalian_8 : Greek
+tɔ
+ðo
+§_Elfdalian_9 : Ossetic Iron
+tɔ
+dyɐ
+§_Frisian_0 : German
+trɛə
+dra
+§_Frisian_1 : Urdu
+trɛə
+tin
+§_Frisian_2 : Ossetic
+trɛə
+ærtæ
+§_Frisian_3 : Hindi
+trɛə
+tin
+§_Frisian_4 : Nepali
+trɛə
+tin
+§_Frisian_5 : Dutch
+trɛə
+dri
+§_Frisian_6 : SerboCroatian
+trɛə
+tri
+§_Frisian_7 : Marathi
+trɛə
+tin
+§_Frisian_8 : Ossetic Iron
+trɛə
+ɐrtɐ
+§_Frisian_9 : Gutnish Lau
+trɛə
+trɛ
+§_Faroese_0 : Norwegian Riksmal
+trʊʤɪr
+tɾe
+§_Faroese_1 : Italian
+trʊʤɪr
+tre
+§_Faroese_2 : Polish
+trʊʤɪr
+tə
+§_Faroese_3 : Assamese
+trʊʤɪr
+tini
+§_Faroese_4 : Old Swedish
+trʊʤɪr
+θrir
+§_Faroese_5 : Slovak
+trʊʤɪr
+tri
+§_Faroese_6 : Macedonian
+trʊʤɪr
+tri
+§_Faroese_7 : Urdu
+trʊʤɪr
+tin
+§_Faroese_8 : Dutch
+trʊʤɪr
+dri
+§_Faroese_9 : [Legacy] Breton St
+trʊʤɪr
+tri
+§_Greek_0 : Slovak
+tria
+tri
+§_Greek_1 : Sorbian Upper
+tria
+ʤi
+§_Greek_2 : Belarusian
+tria
+trɨ
+§_Greek_3 : Nepali
+tria
+tin
+§_Greek_4 : Old Irish
+tria
+tri
+§_Greek_5 : Slovenian
+tria
+tri
+§_Greek_6 : Catalan
+tria
+trɛs
+§_Greek_7 : Portuguese
+tria
+tɾeʃ
+§_Greek_8 : Bihari
+tria
+tin
+§_Greek_9 : Ossetic
+tria
+ærtæ
+§_Middle Breton_0 : Hindi
+tri
+tin
+§_Middle Breton_1 : German
+tri
+dra
+§_Middle Breton_2 : [Legacy] Albanian T
+tri
+tɾɛ
+§_Middle Breton_3 : Old Norse
+tri
+θrir
+§_Middle Breton_4 : Punjabi
+tri
+tɪn
+§_Middle Breton_5 : Greek
+tri
+tria
+§_Middle Breton_6 : Provencal
+tri
+tres
+§_Middle Breton_7 : [Legacy] Serbian
+tri
+tri
+§_Middle Breton_8 : SerboCroatian
+tri
+tri
+§_Middle Breton_9 : Sinhalese
+tri
+tunə
+§_Old Swedish_0 : Macedonian
+θrir
+tri
+§_Old Swedish_1 : Sorbian Upper
+θrir
+ʤi
+§_Old Swedish_2 : Slovak
+θrir
+tri
+§_Old Swedish_3 : Armenian Western
+θrir
+ɛɾɛk
+§_Old Swedish_4 : Marathi
+θrir
+tin
+§_Old Swedish_5 : Greek
+θrir
+tria
+§_Old Swedish_6 : Ancient Greek
+θrir
+tres
+§_Old Swedish_7 : [Legacy] Serbian
+θrir
+tri
+§_Old Swedish_8 : Romanian
+θrir
+tre
+§_Old Swedish_9 : Hindi
+θrir
+tin
+§_Ossetic_0 : Oriya
+ærtæ
+tini
+§_Ossetic_1 : Spanish
+ærtæ
+tɾes
+§_Ossetic_2 : Armenian Eastern
+ærtæ
+ɛɾɛk
+§_Ossetic_3 : English
+ærtæ
+θri
+§_Ossetic_4 : Ukrainian
+ærtæ
+trɪ
+§_Ossetic_5 : Greek
+ærtæ
+tria
+§_Ossetic_6 : Stavangersk
+ærtæ
+tʁi
+§_Ossetic_7 : Urdu
+ærtæ
+tin
+§_Ossetic_8 : Assamese
+ærtæ
+tini
+§_Ossetic_9 : Norwegian Riksmal
+ærtæ
+tɾe
+§_Ossetic Iron_0 : Norwegian Riksmal
+ɐrtɐ
+tɾe
+§_Ossetic Iron_1 : Old Church Slavonic
+ɐrtɐ
+trɪɛ
+§_Ossetic Iron_2 : German
+ɐrtɐ
+dra
+§_Ossetic Iron_3 : Greek
+ɐrtɐ
+tria
+§_Ossetic Iron_4 : Elfdalian
+ɐrtɐ
+trɪ
+§_Ossetic Iron_5 : Provencal
+ɐrtɐ
+tres
+§_Ossetic Iron_6 : Portuguese
+ɐrtɐ
+tɾeʃ
+§_Ossetic Iron_7 : Russian
+ɐrtɐ
+tri
+§_Ossetic Iron_8 : [Legacy] Brazilian
+ɐrtɐ
+tɾes
+§_Ossetic Iron_9 : [Legacy] Serbian
+ɐrtɐ
+tri
+§_Ossetic Digor_0 : Stavangersk
+ɐrtɐ
+tʁi
+§_Ossetic Digor_1 : French
+ɐrtɐ
+tʀa
+§_Ossetic Digor_2 : Norwegian Riksmal
+ɐrtɐ
+tɾe
+§_Ossetic Digor_3 : Oriya
+ɐrtɐ
+tini
+§_Ossetic Digor_4 : Ossetic
+ɐrtɐ
+ærtæ
+§_Ossetic Digor_5 : Italian
+ɐrtɐ
+tre
+§_Ossetic Digor_6 : Bihari
+ɐrtɐ
+tin
+§_Ossetic Digor_7 : Latin
+ɐrtɐ
+tres
+§_Ossetic Digor_8 : Hindi
+ɐrtɐ
+tin
+§_Ossetic Digor_9 : Nepali
+ɐrtɐ
+tin
+§_German_0 : [Legacy] Serbian
+dra
+tri
+§_German_1 : Dutch
+dra
+dri
+§_German_2 : Greek
+dra
+tria
+§_German_3 : Armenian Eastern
+dra
+ɛɾɛk
+§_German_4 : Slovenian
+dra
+tri
+§_German_5 : Stavangersk
+dra
+tʁi
+§_German_6 : Ancient Greek
+dra
+tres
+§_German_7 : Sorbian Upper
+dra
+ʤi
+§_German_8 : Punjabi
+dra
+tɪn
+§_German_9 : Ossetic Iron
+dra
+ɐrtɐ
+§_Dutch_0 : Latin
+dri
+tres
+§_Dutch_1 : Urdu
+dri
+tin
+§_Dutch_2 : Italian
+dri
+tre
+§_Dutch_3 : Gutnish Lau
+dri
+trɛ
+§_Dutch_4 : Old Swedish
+dri
+θrir
+§_Dutch_5 : Oriya
+dri
+tini
+§_Dutch_6 : [Legacy] Breton St
+dri
+tri
+§_Dutch_7 : Elfdalian
+dri
+trɪ
+§_Dutch_8 : Ukrainian
+dri
+trɪ
+§_Dutch_9 : [Legacy] Serbian
+dri
+tri
+§_Classical Armenian_0 : Icelandic
+erek
+θrir
+§_Classical Armenian_1 : Polish
+erek
+tə
+§_Classical Armenian_2 : Russian
+erek
+tri
+§_Classical Armenian_3 : Swedish
+erek
+tre
+§_Classical Armenian_4 : Ossetic
+erek
+ærtæ
+§_Classical Armenian_5 : Middle Cornish
+erek
+trə
+§_Classical Armenian_6 : Sinhalese
+erek
+tunə
+§_Classical Armenian_7 : Irish
+erek
+tɾi
+§_Classical Armenian_8 : Belarusian
+erek
+trɨ
+§_Classical Armenian_9 : Macedonian
+erek
+tri
+§_Armenian Eastern_0 : Faroese
+ɛɾɛk
+trʊʤɪr
+§_Armenian Eastern_1 : Ossetic
+ɛɾɛk
+ærtæ
+§_Armenian Eastern_2 : English
+ɛɾɛk
+θri
+§_Armenian Eastern_3 : Bulgarian
+ɛɾɛk
+tri
+§_Armenian Eastern_4 : Russian
+ɛɾɛk
+tri
+§_Armenian Eastern_5 : Gutnish Lau
+ɛɾɛk
+trɛ
+§_Armenian Eastern_6 : Old Irish
+ɛɾɛk
+tri
+§_Armenian Eastern_7 : Provencal
+ɛɾɛk
+tres
+§_Armenian Eastern_8 : Old Norse
+ɛɾɛk
+θrir
+§_Armenian Eastern_9 : Marathi
+ɛɾɛk
+tin
+§_Armenian Western_0 : Portuguese
+ɛɾɛk
+tɾeʃ
+§_Armenian Western_1 : Old Norse
+ɛɾɛk
+θrir
+§_Armenian Western_2 : Spanish
+ɛɾɛk
+tɾes
+§_Armenian Western_3 : Stavangersk
+ɛɾɛk
+tʁi
+§_Armenian Western_4 : Middle Breton
+ɛɾɛk
+tri
+§_Armenian Western_5 : Czech
+ɛɾɛk
+trɪ
+§_Armenian Western_6 : [Legacy] Serbian
+ɛɾɛk
+tri
+§_Armenian Western_7 : Old Swedish
+ɛɾɛk
+θrir
+§_Armenian Western_8 : [Legacy] Albanian T
+ɛɾɛk
+tɾɛ
+§_Armenian Western_9 : Ossetic
+ɛɾɛk
+ærtæ
+§_Polish_0 : Dutch
+tə
+dri
+§_Polish_1 : Slovenian
+tə
+tri
+§_Polish_2 : Latin
+tə
+tres
+§_Polish_3 : Old Swedish
+tə
+θrir
+§_Polish_4 : French
+tə
+tʀa
+§_Polish_5 : Italian
+tə
+tre
+§_Polish_6 : Ossetic Iron
+tə
+ɐrtɐ
+§_Polish_7 : Nepali
+tə
+tin
+§_Polish_8 : Portuguese
+tə
+tɾeʃ
+§_Polish_9 : Oriya
+tə
+tini
+§_Old Irish_0 : Punjabi
+tri
+tɪn
+§_Old Irish_1 : Sorbian Upper
+tri
+ʤi
+§_Old Irish_2 : Ancient Greek
+tri
+tres
+§_Old Irish_3 : Ossetic Digor
+tri
+ɐrtɐ
+§_Old Irish_4 : Slovenian
+tri
+tri
+§_Old Irish_5 : Sorbian Lower
+tri
+ʧi
+§_Old Irish_6 : Norwegian Riksmal
+tri
+tɾe
+§_Old Irish_7 : Latin
+tri
+tres
+§_Old Irish_8 : English
+tri
+θri
+§_Old Irish_9 : Armenian Eastern
+tri
+ɛɾɛk
+§_Sorbian Lower_0 : Swedish
+ʧi
+tre
+§_Sorbian Lower_1 : Magahi
+ʧi
+tin
+§_Sorbian Lower_2 : Latin
+ʧi
+tres
+§_Sorbian Lower_3 : Oriya
+ʧi
+tini
+§_Sorbian Lower_4 : Romanian
+ʧi
+tre
+§_Sorbian Lower_5 : German
+ʧi
+dra
+§_Sorbian Lower_6 : SerboCroatian
+ʧi
+tri
+§_Sorbian Lower_7 : [Legacy] Albanian T
+ʧi
+tɾɛ
+§_Sorbian Lower_8 : Elfdalian
+ʧi
+trɪ
+§_Sorbian Lower_9 : [Legacy] Breton St
+ʧi
+tri
+§_Marathi_0 : Armenian Eastern
+tin
+ɛɾɛk
+§_Marathi_1 : German
+tin
+dra
+§_Marathi_2 : Polish
+tin
+tə
+§_Marathi_3 : Belarusian
+tin
+trɨ
+§_Marathi_4 : Ossetic Digor
+tin
+ɐrtɐ
+§_Marathi_5 : Greek
+tin
+tria
+§_Marathi_6 : Armenian Western
+tin
+ɛɾɛk
+§_Marathi_7 : Sorbian Lower
+tin
+ʧi
+§_Marathi_8 : Ancient Greek
+tin
+tres
+§_Marathi_9 : Dutch
+tin
+dri
+§_Nepali_0 : Assamese
+tin
+tini
+§_Nepali_1 : Romanian
+tin
+tre
+§_Nepali_2 : Swedish
+tin
+tre
+§_Nepali_3 : Icelandic
+tin
+θrir
+§_Nepali_4 : English
+tin
+θri
+§_Nepali_5 : Bihari
+tin
+tin
+§_Nepali_6 : Marathi
+tin
+tin
+§_Nepali_7 : Slovak
+tin
+tri
+§_Nepali_8 : Portuguese
+tin
+tɾeʃ
+§_Nepali_9 : Ukrainian
+tin
+trɪ
+§_Bihari_0 : Elfdalian
+tin
+trɪ
+§_Bihari_1 : Belarusian
+tin
+trɨ
+§_Bihari_2 : Sorbian Lower
+tin
+ʧi
+§_Bihari_3 : Ossetic Iron
+tin
+ɐrtɐ
+§_Bihari_4 : Catalan
+tin
+trɛs
+§_Bihari_5 : Sorbian Upper
+tin
+ʤi
+§_Bihari_6 : Bulgarian
+tin
+tri
+§_Bihari_7 : Swedish
+tin
+tre
+§_Bihari_8 : [Legacy] Albanian T
+tin
+tɾɛ
+§_Bihari_9 : Romanian
+tin
+tre
+§_Magahi_0 : German
+tin
+dra
+§_Magahi_1 : Faroese
+tin
+trʊʤɪr
+§_Magahi_2 : Oriya
+tin
+tini
+§_Magahi_3 : Ossetic Digor
+tin
+ɐrtɐ
+§_Magahi_4 : Sorbian Upper
+tin
+ʤi
+§_Magahi_5 : Ossetic
+tin
+ærtæ
+§_Magahi_6 : [Legacy] Breton St
+tin
+tri
+§_Magahi_7 : Polish
+tin
+tə
+§_Magahi_8 : Stavangersk
+tin
+tʁi
+§_Magahi_9 : Slovenian
+tin
+tri
+§_Hindi_0 : Swedish
+tin
+tre
+§_Hindi_1 : Middle Cornish
+tin
+trə
+§_Hindi_2 : Classical Armenian
+tin
+erek
+§_Hindi_3 : Bulgarian
+tin
+tri
+§_Hindi_4 : Armenian Western
+tin
+ɛɾɛk
+§_Hindi_5 : Sinhalese
+tin
+tunə
+§_Hindi_6 : Old Norse
+tin
+θrir
+§_Hindi_7 : Catalan
+tin
+trɛs
+§_Hindi_8 : Urdu
+tin
+tin
+§_Hindi_9 : French
+tin
+tʀa
+§_Urdu_0 : Old Norse
+tin
+θrir
+§_Urdu_1 : Elfdalian
+tin
+trɪ
+§_Urdu_2 : Stavangersk
+tin
+tʁi
+§_Urdu_3 : Old Irish
+tin
+tri
+§_Urdu_4 : Gutnish Lau
+tin
+trɛ
+§_Urdu_5 : Portuguese
+tin
+tɾeʃ
+§_Urdu_6 : Ancient Greek
+tin
+tres
+§_Urdu_7 : Old Swedish
+tin
+θrir
+§_Urdu_8 : Assamese
+tin
+tini
+§_Urdu_9 : English
+tin
+θri
+§_Assamese_0 : Slovak
+tini
+tri
+§_Assamese_1 : Sorbian Lower
+tini
+ʧi
+§_Assamese_2 : Faroese
+tini
+trʊʤɪr
+§_Assamese_3 : Spanish
+tini
+tɾes
+§_Assamese_4 : Punjabi
+tini
+tɪn
+§_Assamese_5 : Elfdalian
+tini
+trɪ
+§_Assamese_6 : Ukrainian
+tini
+trɪ
+§_Assamese_7 : Belarusian
+tini
+trɨ
+§_Assamese_8 : Ossetic
+tini
+ærtæ
+§_Assamese_9 : Ancient Greek
+tini
+tres
+§_Oriya_0 : Bulgarian
+tini
+tri
+§_Oriya_1 : Czech
+tini
+trɪ
+§_Oriya_2 : Sorbian Lower
+tini
+ʧi
+§_Oriya_3 : Nepali
+tini
+tin
+§_Oriya_4 : SerboCroatian
+tini
+tri
+§_Oriya_5 : Macedonian
+tini
+tri
+§_Oriya_6 : [Legacy] Albanian T
+tini
+tɾɛ
+§_Oriya_7 : Old Irish
+tini
+tri
+§_Oriya_8 : Urdu
+tini
+tin
+§_Oriya_9 : Gutnish Lau
+tini
+trɛ
+§_Punjabi_0 : Sorbian Lower
+tɪn
+ʧi
+§_Punjabi_1 : Old Church Slavonic
+tɪn
+trɪɛ
+§_Punjabi_2 : Bihari
+tɪn
+tin
+§_Punjabi_3 : Ukrainian
+tɪn
+trɪ
+§_Punjabi_4 : Slovenian
+tɪn
+tri
+§_Punjabi_5 : SerboCroatian
+tɪn
+tri
+§_Punjabi_6 : Romanian
+tɪn
+tre
+§_Punjabi_7 : Russian
+tɪn
+tri
+§_Punjabi_8 : Spanish
+tɪn
+tɾes
+§_Punjabi_9 : Urdu
+tɪn
+tin
+§_Irish_0 : English
+tɾi
+θri
+§_Irish_1 : Norwegian Riksmal
+tɾi
+tɾe
+§_Irish_2 : Middle Breton
+tɾi
+tri
+§_Irish_3 : Polish
+tɾi
+tə
+§_Irish_4 : [Legacy] Serbian
+tɾi
+tri
+§_Irish_5 : Assamese
+tɾi
+tini
+§_Irish_6 : Slovenian
+tɾi
+tri
+§_Irish_7 : Classical Armenian
+tɾi
+erek
+§_Irish_8 : Punjabi
+tɾi
+tɪn
+§_Irish_9 : French
+tɾi
+tʀa
+§_Italian_0 : Urdu
+tre
+tin
+§_Italian_1 : Old Norse
+tre
+θrir
+§_Italian_2 : Macedonian
+tre
+tri
+§_Italian_3 : Spanish
+tre
+tɾes
+§_Italian_4 : [Legacy] Brazilian
+tre
+tɾes
+§_Italian_5 : SerboCroatian
+tre
+tri
+§_Italian_6 : Bulgarian
+tre
+tri
+§_Italian_7 : Old Church Slavonic
+tre
+trɪɛ
+§_Italian_8 : Portuguese
+tre
+tɾeʃ
+§_Italian_9 : Slovenian
+tre
+tri
+§_Swedish_0 : Old Church Slavonic
+tre
+trɪɛ
+§_Swedish_1 : Ossetic Digor
+tre
+ɐrtɐ
+§_Swedish_2 : Russian
+tre
+tri
+§_Swedish_3 : French
+tre
+tʀa
+§_Swedish_4 : Spanish
+tre
+tɾes
+§_Swedish_5 : Polish
+tre
+tə
+§_Swedish_6 : Bihari
+tre
+tin
+§_Swedish_7 : German
+tre
+dra
+§_Swedish_8 : Romanian
+tre
+tre
+§_Swedish_9 : Faroese
+tre
+trʊʤɪr
+§_Latin_0 : Portuguese
+tres
+tɾeʃ
+§_Latin_1 : Sorbian Upper
+tres
+ʤi
+§_Latin_2 : Slovak
+tres
+tri
+§_Latin_3 : Faroese
+tres
+trʊʤɪr
+§_Latin_4 : [Legacy] Serbian
+tres
+tri
+§_Latin_5 : Nepali
+tres
+tin
+§_Latin_6 : Urdu
+tres
+tin
+§_Latin_7 : Elfdalian
+tres
+trɪ
+§_Latin_8 : Armenian Western
+tres
+ɛɾɛk
+§_Latin_9 : Dutch
+tres
+dri
+§_Ancient Greek_0 : Sorbian Upper
+tres
+ʤi
+§_Ancient Greek_1 : Latin
+tres
+tres
+§_Ancient Greek_2 : Assamese
+tres
+tini
+§_Ancient Greek_3 : Bulgarian
+tres
+tri
+§_Ancient Greek_4 : [Legacy] Brazilian
+tres
+tɾes
+§_Ancient Greek_5 : French
+tres
+tʀa
+§_Ancient Greek_6 : Icelandic
+tres
+θrir
+§_Ancient Greek_7 : Magahi
+tres
+tin
+§_Ancient Greek_8 : Catalan
+tres
+trɛs
+§_Ancient Greek_9 : Provencal
+tres
+tres
+§_Romanian_0 : Ukrainian
+tre
+trɪ
+§_Romanian_1 : Faroese
+tre
+trʊʤɪr
+§_Romanian_2 : Nepali
+tre
+tin
+§_Romanian_3 : Icelandic
+tre
+θrir
+§_Romanian_4 : Swedish
+tre
+tre
+§_Romanian_5 : Belarusian
+tre
+trɨ
+§_Romanian_6 : Slovenian
+tre
+tri
+§_Romanian_7 : Greek
+tre
+tria
+§_Romanian_8 : Marathi
+tre
+tin
+§_Romanian_9 : Hindi
+tre
+tin
+§_Provencal_0 : Ukrainian
+tres
+trɪ
+§_Provencal_1 : Nepali
+tres
+tin
+§_Provencal_2 : [Legacy] Serbian
+tres
+tri
+§_Provencal_3 : Sorbian Upper
+tres
+ʤi
+§_Provencal_4 : Italian
+tres
+tre
+§_Provencal_5 : Ancient Greek
+tres
+tres
+§_Provencal_6 : Spanish
+tres
+tɾes
+§_Provencal_7 : French
+tres
+tʀa
+§_Provencal_8 : Czech
+tres
+trɪ
+§_Provencal_9 : Bulgarian
+tres
+tri
+§_Middle Cornish_0 : Spanish
+trə
+tɾes
+§_Middle Cornish_1 : Oriya
+trə
+tini
+§_Middle Cornish_2 : Catalan
+trə
+trɛs
+§_Middle Cornish_3 : Polish
+trə
+tə
+§_Middle Cornish_4 : Marathi
+trə
+tin
+§_Middle Cornish_5 : Stavangersk
+trə
+tʁi
+§_Middle Cornish_6 : Swedish
+trə
+tre
+§_Middle Cornish_7 : Old Church Slavonic
+trə
+trɪɛ
+§_Middle Cornish_8 : Dutch
+trə
+dri
+§_Middle Cornish_9 : Slovak
+trə
+tri
+§_Gutnish Lau_0 : Old Swedish
+trɛ
+θrir
+§_Gutnish Lau_1 : Swedish
+trɛ
+tre
+§_Gutnish Lau_2 : Provencal
+trɛ
+tres
+§_Gutnish Lau_3 : Hindi
+trɛ
+tin
+§_Gutnish Lau_4 : Russian
+trɛ
+tri
+§_Gutnish Lau_5 : Dutch
+trɛ
+dri
+§_Gutnish Lau_6 : Classical Armenian
+trɛ
+erek
+§_Gutnish Lau_7 : Punjabi
+trɛ
+tɪn
+§_Gutnish Lau_8 : Nepali
+trɛ
+tin
+§_Gutnish Lau_9 : Middle Cornish
+trɛ
+trə
+§_Catalan_0 : Macedonian
+trɛs
+tri
+§_Catalan_1 : Norwegian Riksmal
+trɛs
+tɾe
+§_Catalan_2 : Czech
+trɛs
+trɪ
+§_Catalan_3 : Bihari
+trɛs
+tin
+§_Catalan_4 : Russian
+trɛs
+tri
+§_Catalan_5 : Old Norse
+trɛs
+θrir
+§_Catalan_6 : Oriya
+trɛs
+tini
+§_Catalan_7 : Gutnish Lau
+trɛs
+trɛ
+§_Catalan_8 : Slovenian
+trɛs
+tri
+§_Catalan_9 : Dutch
+trɛs
+dri
+§_Bulgarian_0 : Middle Breton
+tri
+tri
+§_Bulgarian_1 : [Legacy] Breton St
+tri
+tri
+§_Bulgarian_2 : [Legacy] Albanian T
+tri
+tɾɛ
+§_Bulgarian_3 : Sorbian Lower
+tri
+ʧi
+§_Bulgarian_4 : [Legacy] Brazilian
+tri
+tɾes
+§_Bulgarian_5 : Polish
+tri
+tə
+§_Bulgarian_6 : Old Irish
+tri
+tri
+§_Bulgarian_7 : Ukrainian
+tri
+trɪ
+§_Bulgarian_8 : Armenian Eastern
+tri
+ɛɾɛk
+§_Bulgarian_9 : Romanian
+tri
+tre
+§_Macedonian_0 : Norwegian Riksmal
+tri
+tɾe
+§_Macedonian_1 : Spanish
+tri
+tɾes
+§_Macedonian_2 : Ossetic
+tri
+ærtæ
+§_Macedonian_3 : Old Irish
+tri
+tri
+§_Macedonian_4 : Oriya
+tri
+tini
+§_Macedonian_5 : Sorbian Lower
+tri
+ʧi
+§_Macedonian_6 : Czech
+tri
+trɪ
+§_Macedonian_7 : Bulgarian
+tri
+tri
+§_Macedonian_8 : Old Church Slavonic
+tri
+trɪɛ
+§_Macedonian_9 : Russian
+tri
+tri
+§_Slovak_0 : Romanian
+tri
+tre
+§_Slovak_1 : Old Irish
+tri
+tri
+§_Slovak_2 : Czech
+tri
+trɪ
+§_Slovak_3 : Stavangersk
+tri
+tʁi
+§_Slovak_4 : Ossetic Iron
+tri
+ɐrtɐ
+§_Slovak_5 : Dutch
+tri
+dri
+§_Slovak_6 : Sinhalese
+tri
+tunə
+§_Slovak_7 : Nepali
+tri
+tin
+§_Slovak_8 : Icelandic
+tri
+θrir
+§_Slovak_9 : Marathi
+tri
+tin
+§_[Legacy] Breton St_0 : Bihari
+tri
+tin
+§_[Legacy] Breton St_1 : Irish
+tri
+tɾi
+§_[Legacy] Breton St_2 : English
+tri
+θri
+§_[Legacy] Breton St_3 : Italian
+tri
+tre
+§_[Legacy] Breton St_4 : Stavangersk
+tri
+tʁi
+§_[Legacy] Breton St_5 : Ukrainian
+tri
+trɪ
+§_[Legacy] Breton St_6 : Magahi
+tri
+tin
+§_[Legacy] Breton St_7 : Oriya
+tri
+tini
+§_[Legacy] Breton St_8 : Provencal
+tri
+tres
+§_[Legacy] Breton St_9 : Armenian Western
+tri
+ɛɾɛk
+§_[Legacy] Serbian_0 : Ossetic Digor
+tri
+ɐrtɐ
+§_[Legacy] Serbian_1 : Stavangersk
+tri
+tʁi
+§_[Legacy] Serbian_2 : Middle Breton
+tri
+tri
+§_[Legacy] Serbian_3 : [Legacy] Brazilian
+tri
+tɾes
+§_[Legacy] Serbian_4 : Sinhalese
+tri
+tunə
+§_[Legacy] Serbian_5 : Hindi
+tri
+tin
+§_[Legacy] Serbian_6 : Slovenian
+tri
+tri
+§_[Legacy] Serbian_7 : Ukrainian
+tri
+trɪ
+§_[Legacy] Serbian_8 : Italian
+tri
+tre
+§_[Legacy] Serbian_9 : Bihari
+tri
+tin
+§_SerboCroatian_0 : Swedish
+tri
+tre
+§_SerboCroatian_1 : Old Church Slavonic
+tri
+trɪɛ
+§_SerboCroatian_2 : Punjabi
+tri
+tɪn
+§_SerboCroatian_3 : [Legacy] Breton St
+tri
+tri
+§_SerboCroatian_4 : Hindi
+tri
+tin
+§_SerboCroatian_5 : Icelandic
+tri
+θrir
+§_SerboCroatian_6 : Greek
+tri
+tria
+§_SerboCroatian_7 : Assamese
+tri
+tini
+§_SerboCroatian_8 : Sorbian Lower
+tri
+ʧi
+§_SerboCroatian_9 : Russian
+tri
+tri
+§_Slovenian_0 : Latin
+tri
+tres
+§_Slovenian_1 : Bihari
+tri
+tin
+§_Slovenian_2 : Old Norse
+tri
+θrir
+§_Slovenian_3 : Old Swedish
+tri
+θrir
+§_Slovenian_4 : Middle Cornish
+tri
+trə
+§_Slovenian_5 : [Legacy] Brazilian
+tri
+tɾes
+§_Slovenian_6 : Dutch
+tri
+dri
+§_Slovenian_7 : Magahi
+tri
+tin
+§_Slovenian_8 : French
+tri
+tʀa
+§_Slovenian_9 : Armenian Western
+tri
+ɛɾɛk
+§_Ukrainian_0 : Elfdalian
+trɪ
+trɪ
+§_Ukrainian_1 : Swedish
+trɪ
+tre
+§_Ukrainian_2 : Sinhalese
+trɪ
+tunə
+§_Ukrainian_3 : Marathi
+trɪ
+tin
+§_Ukrainian_4 : [Legacy] Brazilian
+trɪ
+tɾes
+§_Ukrainian_5 : Dutch
+trɪ
+dri
+§_Ukrainian_6 : Stavangersk
+trɪ
+tʁi
+§_Ukrainian_7 : Macedonian
+trɪ
+tri
+§_Ukrainian_8 : Assamese
+trɪ
+tini
+§_Ukrainian_9 : Greek
+trɪ
+tria
+§_Czech_0 : Ancient Greek
+trɪ
+tres
+§_Czech_1 : Oriya
+trɪ
+tini
+§_Czech_2 : German
+trɪ
+dra
+§_Czech_3 : Sorbian Lower
+trɪ
+ʧi
+§_Czech_4 : Dutch
+trɪ
+dri
+§_Czech_5 : Macedonian
+trɪ
+tri
+§_Czech_6 : [Legacy] Breton St
+trɪ
+tri
+§_Czech_7 : Greek
+trɪ
+tria
+§_Czech_8 : French
+trɪ
+tʀa
+§_Czech_9 : Stavangersk
+trɪ
+tʁi
+§_Elfdalian_0 : Romanian
+trɪ
+tre
+§_Elfdalian_1 : Nepali
+trɪ
+tin
+§_Elfdalian_2 : Latin
+trɪ
+tres
+§_Elfdalian_3 : German
+trɪ
+dra
+§_Elfdalian_4 : Marathi
+trɪ
+tin
+§_Elfdalian_5 : Irish
+trɪ
+tɾi
+§_Elfdalian_6 : Gutnish Lau
+trɪ
+trɛ
+§_Elfdalian_7 : Faroese
+trɪ
+trʊʤɪr
+§_Elfdalian_8 : Ossetic
+trɪ
+ærtæ
+§_Elfdalian_9 : Macedonian
+trɪ
+tri
+§_Old Church Slavonic_0 : Stavangersk
+trɪɛ
+tʁi
+§_Old Church Slavonic_1 : Bulgarian
+trɪɛ
+tri
+§_Old Church Slavonic_2 : Ossetic
+trɪɛ
+ærtæ
+§_Old Church Slavonic_3 : Oriya
+trɪɛ
+tini
+§_Old Church Slavonic_4 : Ukrainian
+trɪɛ
+trɪ
+§_Old Church Slavonic_5 : Belarusian
+trɪɛ
+trɨ
+§_Old Church Slavonic_6 : Icelandic
+trɪɛ
+θrir
+§_Old Church Slavonic_7 : Old Swedish
+trɪɛ
+θrir
+§_Old Church Slavonic_8 : German
+trɪɛ
+dra
+§_Old Church Slavonic_9 : Middle Cornish
+trɪɛ
+trə
+§_Belarusian_0 : French
+trɨ
+tʀa
+§_Belarusian_1 : Slovak
+trɨ
+tri
+§_Belarusian_2 : Stavangersk
+trɨ
+tʁi
+§_Belarusian_3 : Armenian Eastern
+trɨ
+ɛɾɛk
+§_Belarusian_4 : Old Church Slavonic
+trɨ
+trɪɛ
+§_Belarusian_5 : Nepali
+trɨ
+tin
+§_Belarusian_6 : SerboCroatian
+trɨ
+tri
+§_Belarusian_7 : Czech
+trɨ
+trɪ
+§_Belarusian_8 : Elfdalian
+trɨ
+trɪ
+§_Belarusian_9 : Latin
+trɨ
+tres
+§_Russian_0 : Provencal
+tri
+tres
+§_Russian_1 : Ossetic
+tri
+ærtæ
+§_Russian_2 : Oriya
+tri
+tini
+§_Russian_3 : Dutch
+tri
+dri
+§_Russian_4 : Catalan
+tri
+trɛs
+§_Russian_5 : Middle Cornish
+tri
+trə
+§_Russian_6 : Old Irish
+tri
+tri
+§_Russian_7 : Gutnish Lau
+tri
+trɛ
+§_Russian_8 : Sinhalese
+tri
+tunə
+§_Russian_9 : Bulgarian
+tri
+tri
+§_French_0 : Classical Armenian
+tʀa
+erek
+§_French_1 : Oriya
+tʀa
+tini
+§_French_2 : Hindi
+tʀa
+tin
+§_French_3 : Marathi
+tʀa
+tin
+§_French_4 : Ossetic Iron
+tʀa
+ɐrtɐ
+§_French_5 : Latin
+tʀa
+tres
+§_French_6 : Elfdalian
+tʀa
+trɪ
+§_French_7 : Bihari
+tʀa
+tin
+§_French_8 : Old Swedish
+tʀa
+θrir
+§_French_9 : Punjabi
+tʀa
+tɪn
+§_Norwegian Riksmal_0 : English
+tɾe
+θri
+§_Norwegian Riksmal_1 : Slovenian
+tɾe
+tri
+§_Norwegian Riksmal_2 : Belarusian
+tɾe
+trɨ
+§_Norwegian Riksmal_3 : Russian
+tɾe
+tri
+§_Norwegian Riksmal_4 : Middle Breton
+tɾe
+tri
+§_Norwegian Riksmal_5 : [Legacy] Brazilian
+tɾe
+tɾes
+§_Norwegian Riksmal_6 : Oriya
+tɾe
+tini
+§_Norwegian Riksmal_7 : Hindi
+tɾe
+tin
+§_Norwegian Riksmal_8 : [Legacy] Albanian T
+tɾe
+tɾɛ
+§_Norwegian Riksmal_9 : German
+tɾe
+dra
+§_Spanish_0 : Elfdalian
+tɾes
+trɪ
+§_Spanish_1 : Norwegian Riksmal
+tɾes
+tɾe
+§_Spanish_2 : Punjabi
+tɾes
+tɪn
+§_Spanish_3 : Ancient Greek
+tɾes
+tres
+§_Spanish_4 : Faroese
+tɾes
+trʊʤɪr
+§_Spanish_5 : German
+tɾes
+dra
+§_Spanish_6 : Oriya
+tɾes
+tini
+§_Spanish_7 : [Legacy] Albanian T
+tɾes
+tɾɛ
+§_Spanish_8 : Greek
+tɾes
+tria
+§_Spanish_9 : Czech
+tɾes
+trɪ
+§_[Legacy] Brazilian_0 : [Legacy] Serbian
+tɾes
+tri
+§_[Legacy] Brazilian_1 : Norwegian Riksmal
+tɾes
+tɾe
+§_[Legacy] Brazilian_2 : SerboCroatian
+tɾes
+tri
+§_[Legacy] Brazilian_3 : [Legacy] Albanian T
+tɾes
+tɾɛ
+§_[Legacy] Brazilian_4 : Ossetic Digor
+tɾes
+ɐrtɐ
+§_[Legacy] Brazilian_5 : Russian
+tɾes
+tri
+§_[Legacy] Brazilian_6 : Swedish
+tɾes
+tre
+§_[Legacy] Brazilian_7 : German
+tɾes
+dra
+§_[Legacy] Brazilian_8 : Belarusian
+tɾes
+trɨ
+§_[Legacy] Brazilian_9 : Elfdalian
+tɾes
+trɪ
+§_Portuguese_0 : Punjabi
+tɾeʃ
+tɪn
+§_Portuguese_1 : Assamese
+tɾeʃ
+tini
+§_Portuguese_2 : Old Norse
+tɾeʃ
+θrir
+§_Portuguese_3 : Dutch
+tɾeʃ
+dri
+§_Portuguese_4 : French
+tɾeʃ
+tʀa
+§_Portuguese_5 : Slovak
+tɾeʃ
+tri
+§_Portuguese_6 : Greek
+tɾeʃ
+tria
+§_Portuguese_7 : Stavangersk
+tɾeʃ
+tʁi
+§_Portuguese_8 : Spanish
+tɾeʃ
+tɾes
+§_Portuguese_9 : Magahi
+tɾeʃ
+tin
+§_[Legacy] Albanian T_0 : Middle Cornish
+tɾɛ
+trə
+§_[Legacy] Albanian T_1 : Slovak
+tɾɛ
+tri
+§_[Legacy] Albanian T_2 : Ukrainian
+tɾɛ
+trɪ
+§_[Legacy] Albanian T_3 : Urdu
+tɾɛ
+tin
+§_[Legacy] Albanian T_4 : Middle Breton
+tɾɛ
+tri
+§_[Legacy] Albanian T_5 : Punjabi
+tɾɛ
+tɪn
+§_[Legacy] Albanian T_6 : Spanish
+tɾɛ
+tɾes
+§_[Legacy] Albanian T_7 : Stavangersk
+tɾɛ
+tʁi
+§_[Legacy] Albanian T_8 : Faroese
+tɾɛ
+trʊʤɪr
+§_[Legacy] Albanian T_9 : Classical Armenian
+tɾɛ
+erek
+§_Stavangersk_0 : Sinhalese
+tʁi
+tunə
+§_Stavangersk_1 : Nepali
+tʁi
+tin
+§_Stavangersk_2 : Oriya
+tʁi
+tini
+§_Stavangersk_3 : Ancient Greek
+tʁi
+tres
+§_Stavangersk_4 : Ossetic Iron
+tʁi
+ɐrtɐ
+§_Stavangersk_5 : Sorbian Lower
+tʁi
+ʧi
+§_Stavangersk_6 : Middle Cornish
+tʁi
+trə
+§_Stavangersk_7 : English
+tʁi
+θri
+§_Stavangersk_8 : Portuguese
+tʁi
+tɾeʃ
+§_Stavangersk_9 : Middle Breton
+tʁi
+tri
+§_Sorbian Upper_0 : Ukrainian
+ʤi
+trɪ
+§_Sorbian Upper_1 : [Legacy] Brazilian
+ʤi
+tɾes
+§_Sorbian Upper_2 : Faroese
+ʤi
+trʊʤɪr
+§_Sorbian Upper_3 : Provencal
+ʤi
+tres
+§_Sorbian Upper_4 : Hindi
+ʤi
+tin
+§_Sorbian Upper_5 : Greek
+ʤi
+tria
+§_Sorbian Upper_6 : Latin
+ʤi
+tres
+§_Sorbian Upper_7 : Sinhalese
+ʤi
+tunə
+§_Sorbian Upper_8 : Middle Cornish
+ʤi
+trə
+§_Sorbian Upper_9 : Old Norse
+ʤi
+θrir
+§_Sinhalese_0 : Slovak
+tunə
+tri
+§_Sinhalese_1 : Hindi
+tunə
+tin
+§_Sinhalese_2 : German
+tunə
+dra
+§_Sinhalese_3 : Faroese
+tunə
+trʊʤɪr
+§_Sinhalese_4 : Provencal
+tunə
+tres
+§_Sinhalese_5 : Latin
+tunə
+tres
+§_Sinhalese_6 : [Legacy] Serbian
+tunə
+tri
+§_Sinhalese_7 : Portuguese
+tunə
+tɾeʃ
+§_Sinhalese_8 : Dutch
+tunə
+dri
+§_Sinhalese_9 : Icelandic
+tunə
+θrir
+§_English_0 : Faroese
+θri
+trʊʤɪr
+§_English_1 : Norwegian Riksmal
+θri
+tɾe
+§_English_2 : Russian
+θri
+tri
+§_English_3 : Ukrainian
+θri
+trɪ
+§_English_4 : Armenian Western
+θri
+ɛɾɛk
+§_English_5 : Ossetic Digor
+θri
+ɐrtɐ
+§_English_6 : Hindi
+θri
+tin
+§_English_7 : [Legacy] Serbian
+θri
+tri
+§_English_8 : Sorbian Lower
+θri
+ʧi
+§_English_9 : Italian
+θri
+tre
+§_Old Norse_0 : French
+θrir
+tʀa
+§_Old Norse_1 : Assamese
+θrir
+tini
+§_Old Norse_2 : Romanian
+θrir
+tre
+§_Old Norse_3 : Polish
+θrir
+tə
+§_Old Norse_4 : [Legacy] Breton St
+θrir
+tri
+§_Old Norse_5 : Ancient Greek
+θrir
+tres
+§_Old Norse_6 : Classical Armenian
+θrir
+erek
+§_Old Norse_7 : Marathi
+θrir
+tin
+§_Old Norse_8 : Catalan
+θrir
+trɛs
+§_Old Norse_9 : Nepali
+θrir
+tin
+§_Icelandic_0 : Sinhalese
+θrir
+tunə
+§_Icelandic_1 : Assamese
+θrir
+tini
+§_Icelandic_2 : Punjabi
+θrir
+tɪn
+§_Icelandic_3 : Faroese
+θrir
+trʊʤɪr
+§_Icelandic_4 : Urdu
+θrir
+tin
+§_Icelandic_5 : Armenian Western
+θrir
+ɛɾɛk
+§_Icelandic_6 : Spanish
+θrir
+tɾes
+§_Icelandic_7 : Oriya
+θrir
+tini
+§_Icelandic_8 : Middle Breton
+θrir
+tri
+§_Icelandic_9 : [Legacy] Serbian
+θrir
+tri
+§_Frisian_0 : Bihari
+four
+cər
+§_Frisian_1 : Czech
+four
+ʧtɪrɪ
+§_Frisian_2 : Sorbian Lower
+four
+stəri
+§_Frisian_3 : Old Irish
+four
+keθər
+§_Frisian_4 : Magahi
+four
+cɑr
+§_Frisian_5 : Ossetic Iron
+four
+sypar
+§_Frisian_6 : Punjabi
+four
+ʧaɾ
+§_Frisian_7 : Oriya
+four
+cari
+§_Frisian_8 : Armenian Eastern
+four
+ʧoɾs
+§_Frisian_9 : Provencal
+four
+katre
+§_Catalan_0 : Latin
+katɾə
+kator
+§_Catalan_1 : Belarusian
+katɾə
+tatɨrɨ
+§_Catalan_2 : Slovak
+katɾə
+ʃtiri
+§_Catalan_3 : Oriya
+katɾə
+cari
+§_Catalan_4 : Norwegian Riksmal
+katɾə
+fiɾə
+§_Catalan_5 : German
+katɾə
+fi
+§_Catalan_6 : Provencal
+katɾə
+katre
+§_Catalan_7 : Gutnish Lau
+katɾə
+fɛrɛ
+§_Catalan_8 : Sorbian Upper
+katɾə
+ʃtəʀi
+§_Catalan_9 : Ancient Greek
+katɾə
+tetares
+§_Spanish_0 : Sorbian Upper
+katɾo
+ʃtəʀi
+§_Spanish_1 : Dutch
+katɾo
+vir
+§_Spanish_2 : Stavangersk
+katɾo
+fiʁa
+§_Spanish_3 : Czech
+katɾo
+ʧtɪrɪ
+§_Spanish_4 : French
+katɾo
+katʀ
+§_Spanish_5 : Sinhalese
+katɾo
+hatəɾə
+§_Spanish_6 : Marathi
+katɾo
+ʧaɾ
+§_Spanish_7 : Portuguese
+katɾo
+katɾu
+§_Spanish_8 : Italian
+katɾo
+katro
+§_Spanish_9 : Romanian
+katɾo
+patru
+§_Italian_0 : Polish
+katro
+ttɛrə
+§_Italian_1 : Ancient Greek
+katro
+tetares
+§_Italian_2 : Greek
+katro
+tesera
+§_Italian_3 : Old Irish
+katro
+keθər
+§_Italian_4 : English
+katro
+fɔ
+§_Italian_5 : Breton
+katro
+pevar
+§_Italian_6 : Mycenaean Greek
+katro
+ketero
+§_Italian_7 : Marathi
+katro
+ʧaɾ
+§_Italian_8 : Faroese
+katro
+fʊra
+§_Italian_9 : Armenian Eastern
+katro
+ʧoɾs
+§_Romanian_0 : Bihari
+patru
+cər
+§_Romanian_1 : Punjabi
+patru
+ʧaɾ
+§_Romanian_2 : Ossetic Iron
+patru
+sypar
+§_Romanian_3 : Nepali
+patru
+ʧar
+§_Romanian_4 : SerboCroatian
+patru
+ʧetiri
+§_Romanian_5 : Classical Armenian
+patru
+cork
+§_Romanian_6 : Czech
+patru
+ʧtɪrɪ
+§_Romanian_7 : Armenian Eastern
+patru
+ʧoɾs
+§_Romanian_8 : [Legacy] Serbian
+patru
+ʧetiri
+§_Romanian_9 : Assamese
+patru
+sari
+§_[Legacy] Breton St_0 : Romanian
+pɛvar
+patru
+§_[Legacy] Breton St_1 : Icelandic
+pɛvar
+forɪr
+§_[Legacy] Breton St_2 : French
+pɛvar
+katʀ
+§_[Legacy] Breton St_3 : Elfdalian
+pɛvar
+fyrɑ
+§_[Legacy] Breton St_4 : Armenian Eastern
+pɛvar
+ʧoɾs
+§_[Legacy] Breton St_5 : Catalan
+pɛvar
+katɾə
+§_[Legacy] Breton St_6 : Macedonian
+pɛvar
+ʧetiri
+§_[Legacy] Breton St_7 : SerboCroatian
+pɛvar
+ʧetiri
+§_[Legacy] Breton St_8 : Magahi
+pɛvar
+cɑr
+§_[Legacy] Breton St_9 : Classical Armenian
+pɛvar
+cork
+§_Middle Cornish_0 : Old Church Slavonic
+pɛzar
+ʧɛturɛ
+§_Middle Cornish_1 : Romanian
+pɛzar
+patru
+§_Middle Cornish_2 : Middle Breton
+pɛzar
+pɛvar
+§_Middle Cornish_3 : Icelandic
+pɛzar
+forɪr
+§_Middle Cornish_4 : Dutch
+pɛzar
+vir
+§_Middle Cornish_5 : [Legacy] Serbian
+pɛzar
+ʧetiri
+§_Middle Cornish_6 : Ossetic Iron
+pɛzar
+sypar
+§_Middle Cornish_7 : Polish
+pɛzar
+ttɛrə
+§_Middle Cornish_8 : Assamese
+pɛzar
+sari
+§_Middle Cornish_9 : Nepali
+pɛzar
+ʧar
+§_Gutnish Lau_0 : Czech
+fɛrɛ
+ʧtɪrɪ
+§_Gutnish Lau_1 : Ossetic Digor
+fɛrɛ
+cupar
+§_Gutnish Lau_2 : [Legacy] Albanian T
+fɛrɛ
+katər
+§_Gutnish Lau_3 : Breton
+fɛrɛ
+pevar
+§_Gutnish Lau_4 : Russian
+fɛrɛ
+ʧɛtɨri
+§_Gutnish Lau_5 : Dutch
+fɛrɛ
+vir
+§_Gutnish Lau_6 : Slovak
+fɛrɛ
+ʃtiri
+§_Gutnish Lau_7 : Bulgarian
+fɛrɛ
+ʧɛtiri
+§_Gutnish Lau_8 : Portuguese
+fɛrɛ
+katɾu
+§_Gutnish Lau_9 : Old Irish
+fɛrɛ
+keθər
+§_Norwegian Riksmal_0 : Sinhalese
+fiɾə
+hatəɾə
+§_Norwegian Riksmal_1 : German
+fiɾə
+fi
+§_Norwegian Riksmal_2 : Faroese
+fiɾə
+fʊra
+§_Norwegian Riksmal_3 : Armenian Eastern
+fiɾə
+ʧoɾs
+§_Norwegian Riksmal_4 : [Legacy] Breton St
+fiɾə
+pɛvar
+§_Norwegian Riksmal_5 : Polish
+fiɾə
+ttɛrə
+§_Norwegian Riksmal_6 : Gutnish Lau
+fiɾə
+fɛrɛ
+§_Norwegian Riksmal_7 : Assamese
+fiɾə
+sari
+§_Norwegian Riksmal_8 : Italian
+fiɾə
+katro
+§_Norwegian Riksmal_9 : Dutch
+fiɾə
+vir
+§_Stavangersk_0 : Ancient Greek
+fiʁa
+tetares
+§_Stavangersk_1 : Slovak
+fiʁa
+ʃtiri
+§_Stavangersk_2 : Dutch
+fiʁa
+vir
+§_Stavangersk_3 : Portuguese
+fiʁa
+katɾu
+§_Stavangersk_4 : German
+fiʁa
+fi
+§_Stavangersk_5 : Magahi
+fiʁa
+cɑr
+§_Stavangersk_6 : Swedish
+fiʁa
+fyra
+§_Stavangersk_7 : [Legacy] Serbian
+fiʁa
+ʧetiri
+§_Stavangersk_8 : Old Norse
+fiʁa
+forir
+§_Stavangersk_9 : Old Swedish
+fiʁa
+furir
+§_Old Norse_0 : English
+forir
+fɔ
+§_Old Norse_1 : Middle Cornish
+forir
+pɛzar
+§_Old Norse_2 : Old Swedish
+forir
+furir
+§_Old Norse_3 : Italian
+forir
+katro
+§_Old Norse_4 : Gutnish Lau
+forir
+fɛrɛ
+§_Old Norse_5 : German
+forir
+fi
+§_Old Norse_6 : Bihari
+forir
+cər
+§_Old Norse_7 : Greek
+forir
+tesera
+§_Old Norse_8 : Punjabi
+forir
+ʧaɾ
+§_Old Norse_9 : Classical Armenian
+forir
+cork
+§_Icelandic_0 : Classical Armenian
+forɪr
+cork
+§_Icelandic_1 : Middle Cornish
+forɪr
+pɛzar
+§_Icelandic_2 : Swedish
+forɪr
+fyra
+§_Icelandic_3 : Macedonian
+forɪr
+ʧetiri
+§_Icelandic_4 : Belarusian
+forɪr
+tatɨrɨ
+§_Icelandic_5 : Sorbian Upper
+forɪr
+ʃtəʀi
+§_Icelandic_6 : Romanian
+forɪr
+patru
+§_Icelandic_7 : Faroese
+forɪr
+fʊra
+§_Icelandic_8 : Sorbian Lower
+forɪr
+stəri
+§_Icelandic_9 : Magahi
+forɪr
+cɑr
+§_Old Swedish_0 : Sinhalese
+furir
+hatəɾə
+§_Old Swedish_1 : Punjabi
+furir
+ʧaɾ
+§_Old Swedish_2 : Elfdalian
+furir
+fyrɑ
+§_Old Swedish_3 : Bulgarian
+furir
+ʧɛtiri
+§_Old Swedish_4 : Sorbian Lower
+furir
+stəri
+§_Old Swedish_5 : Stavangersk
+furir
+fiʁa
+§_Old Swedish_6 : Catalan
+furir
+katɾə
+§_Old Swedish_7 : Latin
+furir
+kator
+§_Old Swedish_8 : Marathi
+furir
+ʧaɾ
+§_Old Swedish_9 : Czech
+furir
+ʧtɪrɪ
+§_Faroese_0 : Romanian
+fʊra
+patru
+§_Faroese_1 : [Legacy] Serbian
+fʊra
+ʧetiri
+§_Faroese_2 : Elfdalian
+fʊra
+fyrɑ
+§_Faroese_3 : Polish
+fʊra
+ttɛrə
+§_Faroese_4 : Provencal
+fʊra
+katre
+§_Faroese_5 : Nepali
+fʊra
+ʧar
+§_Faroese_6 : Russian
+fʊra
+ʧɛtɨri
+§_Faroese_7 : Ossetic Iron
+fʊra
+sypar
+§_Faroese_8 : Sinhalese
+fʊra
+hatəɾə
+§_Faroese_9 : Armenian Eastern
+fʊra
+ʧoɾs
+§_Swedish_0 : Punjabi
+fyra
+ʧaɾ
+§_Swedish_1 : Magahi
+fyra
+cɑr
+§_Swedish_2 : Armenian Eastern
+fyra
+ʧoɾs
+§_Swedish_3 : Macedonian
+fyra
+ʧetiri
+§_Swedish_4 : Norwegian Riksmal
+fyra
+fiɾə
+§_Swedish_5 : Mycenaean Greek
+fyra
+ketero
+§_Swedish_6 : Urdu
+fyra
+ʧɑɾ
+§_Swedish_7 : Spanish
+fyra
+katɾo
+§_Swedish_8 : Sorbian Lower
+fyra
+stəri
+§_Swedish_9 : French
+fyra
+katʀ
+§_Elfdalian_0 : Russian
+fyrɑ
+ʧɛtɨri
+§_Elfdalian_1 : Belarusian
+fyrɑ
+tatɨrɨ
+§_Elfdalian_2 : Greek
+fyrɑ
+tesera
+§_Elfdalian_3 : Ancient Greek
+fyrɑ
+tetares
+§_Elfdalian_4 : Bihari
+fyrɑ
+cər
+§_Elfdalian_5 : Nepali
+fyrɑ
+ʧar
+§_Elfdalian_6 : Old Swedish
+fyrɑ
+furir
+§_Elfdalian_7 : Sinhalese
+fyrɑ
+hatəɾə
+§_Elfdalian_8 : Norwegian Riksmal
+fyrɑ
+fiɾə
+§_Elfdalian_9 : Mycenaean Greek
+fyrɑ
+ketero
+§_[Legacy] Albanian T_0 : Punjabi
+katər
+ʧaɾ
+§_[Legacy] Albanian T_1 : Icelandic
+katər
+forɪr
+§_[Legacy] Albanian T_2 : Classical Armenian
+katər
+cork
+§_[Legacy] Albanian T_3 : Old Church Slavonic
+katər
+ʧɛturɛ
+§_[Legacy] Albanian T_4 : Nepali
+katər
+ʧar
+§_[Legacy] Albanian T_5 : Latin
+katər
+kator
+§_[Legacy] Albanian T_6 : Marathi
+katər
+ʧaɾ
+§_[Legacy] Albanian T_7 : Bihari
+katər
+cər
+§_[Legacy] Albanian T_8 : Greek
+katər
+tesera
+§_[Legacy] Albanian T_9 : Old Norse
+katər
+forir
+§_Provencal_0 : Latin
+katre
+kator
+§_Provencal_1 : Faroese
+katre
+fʊra
+§_Provencal_2 : Sinhalese
+katre
+hatəɾə
+§_Provencal_3 : Portuguese
+katre
+katɾu
+§_Provencal_4 : Spanish
+katre
+katɾo
+§_Provencal_5 : Mycenaean Greek
+katre
+ketero
+§_Provencal_6 : Norwegian Riksmal
+katre
+fiɾə
+§_Provencal_7 : Russian
+katre
+ʧɛtɨri
+§_Provencal_8 : [Legacy] Breton St
+katre
+pɛvar
+§_Provencal_9 : French
+katre
+katʀ
+§_Portuguese_0 : Macedonian
+katɾu
+ʧetiri
+§_Portuguese_1 : Ossetic Digor
+katɾu
+cupar
+§_Portuguese_2 : Stavangersk
+katɾu
+fiʁa
+§_Portuguese_3 : Swedish
+katɾu
+fyra
+§_Portuguese_4 : Czech
+katɾu
+ʧtɪrɪ
+§_Portuguese_5 : Ossetic Iron
+katɾu
+sypar
+§_Portuguese_6 : Gutnish Lau
+katɾu
+fɛrɛ
+§_Portuguese_7 : Punjabi
+katɾu
+ʧaɾ
+§_Portuguese_8 : Faroese
+katɾu
+fʊra
+§_Portuguese_9 : Provencal
+katɾu
+katre
+§_Latin_0 : Dutch
+kator
+vir
+§_Latin_1 : Italian
+kator
+katro
+§_Latin_2 : Norwegian Riksmal
+kator
+fiɾə
+§_Latin_3 : Russian
+kator
+ʧɛtɨri
+§_Latin_4 : [Legacy] Breton St
+kator
+pɛvar
+§_Latin_5 : Sinhalese
+kator
+hatəɾə
+§_Latin_6 : Middle Cornish
+kator
+pɛzar
+§_Latin_7 : Icelandic
+kator
+forɪr
+§_Latin_8 : Old Church Slavonic
+kator
+ʧɛturɛ
+§_Latin_9 : Ossetic Iron
+kator
+sypar
+§_Breton_0 : Nepali
+pevar
+ʧar
+§_Breton_1 : Slovenian
+pevar
+ʃtiri
+§_Breton_2 : Punjabi
+pevar
+ʧaɾ
+§_Breton_3 : Ossetic Iron
+pevar
+sypar
+§_Breton_4 : German
+pevar
+fi
+§_Breton_5 : Italian
+pevar
+katro
+§_Breton_6 : Sorbian Lower
+pevar
+stəri
+§_Breton_7 : Old Norse
+pevar
+forir
+§_Breton_8 : Greek
+pevar
+tesera
+§_Breton_9 : Ossetic Digor
+pevar
+cupar
+§_Middle Breton_0 : [Legacy] Breton St
+pɛvar
+pɛvar
+§_Middle Breton_1 : Punjabi
+pɛvar
+ʧaɾ
+§_Middle Breton_2 : Catalan
+pɛvar
+katɾə
+§_Middle Breton_3 : [Legacy] Serbian
+pɛvar
+ʧetiri
+§_Middle Breton_4 : Classical Armenian
+pɛvar
+cork
+§_Middle Breton_5 : French
+pɛvar
+katʀ
+§_Middle Breton_6 : Magahi
+pɛvar
+cɑr
+§_Middle Breton_7 : Romanian
+pɛvar
+patru
+§_Middle Breton_8 : Italian
+pɛvar
+katro
+§_Middle Breton_9 : Ossetic Iron
+pɛvar
+sypar
+§_Sorbian Lower_0 : Ancient Greek
+stəri
+tetares
+§_Sorbian Lower_1 : Catalan
+stəri
+katɾə
+§_Sorbian Lower_2 : Spanish
+stəri
+katɾo
+§_Sorbian Lower_3 : Ossetic Digor
+stəri
+cupar
+§_Sorbian Lower_4 : Bulgarian
+stəri
+ʧɛtiri
+§_Sorbian Lower_5 : Portuguese
+stəri
+katɾu
+§_Sorbian Lower_6 : Urdu
+stəri
+ʧɑɾ
+§_Sorbian Lower_7 : Armenian Eastern
+stəri
+ʧoɾs
+§_Sorbian Lower_8 : Breton
+stəri
+pevar
+§_Sorbian Lower_9 : Magahi
+stəri
+cɑr
+§_Sorbian Upper_0 : Old Norse
+ʃtəʀi
+forir
+§_Sorbian Upper_1 : Latin
+ʃtəʀi
+kator
+§_Sorbian Upper_2 : [Legacy] Serbian
+ʃtəʀi
+ʧetiri
+§_Sorbian Upper_3 : Old Swedish
+ʃtəʀi
+furir
+§_Sorbian Upper_4 : Old Irish
+ʃtəʀi
+keθər
+§_Sorbian Upper_5 : Urdu
+ʃtəʀi
+ʧɑɾ
+§_Sorbian Upper_6 : Classical Armenian
+ʃtəʀi
+cork
+§_Sorbian Upper_7 : Slovenian
+ʃtəʀi
+ʃtiri
+§_Sorbian Upper_8 : Ukrainian
+ʃtəʀi
+tɔtɪrɪ
+§_Sorbian Upper_9 : Russian
+ʃtəʀi
+ʧɛtɨri
+§_Slovenian_0 : Urdu
+ʃtiri
+ʧɑɾ
+§_Slovenian_1 : Assamese
+ʃtiri
+sari
+§_Slovenian_2 : Sinhalese
+ʃtiri
+hatəɾə
+§_Slovenian_3 : Middle Cornish
+ʃtiri
+pɛzar
+§_Slovenian_4 : Swedish
+ʃtiri
+fyra
+§_Slovenian_5 : Italian
+ʃtiri
+katro
+§_Slovenian_6 : Stavangersk
+ʃtiri
+fiʁa
+§_Slovenian_7 : Macedonian
+ʃtiri
+ʧetiri
+§_Slovenian_8 : Gutnish Lau
+ʃtiri
+fɛrɛ
+§_Slovenian_9 : Bulgarian
+ʃtiri
+ʧɛtiri
+§_Slovak_0 : Old Church Slavonic
+ʃtiri
+ʧɛturɛ
+§_Slovak_1 : Ossetic Iron
+ʃtiri
+sypar
+§_Slovak_2 : Provencal
+ʃtiri
+katre
+§_Slovak_3 : Ukrainian
+ʃtiri
+tɔtɪrɪ
+§_Slovak_4 : Sinhalese
+ʃtiri
+hatəɾə
+§_Slovak_5 : Catalan
+ʃtiri
+katɾə
+§_Slovak_6 : Old Norse
+ʃtiri
+forir
+§_Slovak_7 : Macedonian
+ʃtiri
+ʧetiri
+§_Slovak_8 : Marathi
+ʃtiri
+ʧaɾ
+§_Slovak_9 : Classical Armenian
+ʃtiri
+cork
+§_Greek_0 : Slovak
+tesera
+ʃtiri
+§_Greek_1 : Macedonian
+tesera
+ʧetiri
+§_Greek_2 : Mycenaean Greek
+tesera
+ketero
+§_Greek_3 : Belarusian
+tesera
+tatɨrɨ
+§_Greek_4 : Sinhalese
+tesera
+hatəɾə
+§_Greek_5 : Ancient Greek
+tesera
+tetares
+§_Greek_6 : Urdu
+tesera
+ʧɑɾ
+§_Greek_7 : Classical Armenian
+tesera
+cork
+§_Greek_8 : Marathi
+tesera
+ʧaɾ
+§_Greek_9 : [Legacy] Serbian
+tesera
+ʧetiri
+§_Polish_0 : Provencal
+ttɛrə
+katre
+§_Polish_1 : Nepali
+ttɛrə
+ʧar
+§_Polish_2 : Old Church Slavonic
+ttɛrə
+ʧɛturɛ
+§_Polish_3 : Spanish
+ttɛrə
+katɾo
+§_Polish_4 : Armenian Eastern
+ttɛrə
+ʧoɾs
+§_Polish_5 : Ancient Greek
+ttɛrə
+tetares
+§_Polish_6 : [Legacy] Albanian T
+ttɛrə
+katər
+§_Polish_7 : Gutnish Lau
+ttɛrə
+fɛrɛ
+§_Polish_8 : Belarusian
+ttɛrə
+tatɨrɨ
+§_Polish_9 : [Legacy] Breton St
+ttɛrə
+pɛvar
+§_Macedonian_0 : Provencal
+ʧetiri
+katre
+§_Macedonian_1 : Swedish
+ʧetiri
+fyra
+§_Macedonian_2 : Sorbian Upper
+ʧetiri
+ʃtəʀi
+§_Macedonian_3 : German
+ʧetiri
+fi
+§_Macedonian_4 : English
+ʧetiri
+fɔ
+§_Macedonian_5 : Slovak
+ʧetiri
+ʃtiri
+§_Macedonian_6 : Sinhalese
+ʧetiri
+hatəɾə
+§_Macedonian_7 : [Legacy] Breton St
+ʧetiri
+pɛvar
+§_Macedonian_8 : Spanish
+ʧetiri
+katɾo
+§_Macedonian_9 : Italian
+ʧetiri
+katro
+§_SerboCroatian_0 : Norwegian Riksmal
+ʧetiri
+fiɾə
+§_SerboCroatian_1 : English
+ʧetiri
+fɔ
+§_SerboCroatian_2 : Czech
+ʧetiri
+ʧtɪrɪ
+§_SerboCroatian_3 : Bulgarian
+ʧetiri
+ʧɛtiri
+§_SerboCroatian_4 : Slovenian
+ʧetiri
+ʃtiri
+§_SerboCroatian_5 : Sorbian Lower
+ʧetiri
+stəri
+§_SerboCroatian_6 : Urdu
+ʧetiri
+ʧɑɾ
+§_SerboCroatian_7 : Elfdalian
+ʧetiri
+fyrɑ
+§_SerboCroatian_8 : French
+ʧetiri
+katʀ
+§_SerboCroatian_9 : Stavangersk
+ʧetiri
+fiʁa
+§_Bulgarian_0 : Punjabi
+ʧɛtiri
+ʧaɾ
+§_Bulgarian_1 : Ossetic Iron
+ʧɛtiri
+sypar
+§_Bulgarian_2 : Magahi
+ʧɛtiri
+cɑr
+§_Bulgarian_3 : Slovak
+ʧɛtiri
+ʃtiri
+§_Bulgarian_4 : Breton
+ʧɛtiri
+pevar
+§_Bulgarian_5 : Polish
+ʧɛtiri
+ttɛrə
+§_Bulgarian_6 : Faroese
+ʧɛtiri
+fʊra
+§_Bulgarian_7 : French
+ʧɛtiri
+katʀ
+§_Bulgarian_8 : Old Irish
+ʧɛtiri
+keθər
+§_Bulgarian_9 : Dutch
+ʧɛtiri
+vir
+§_Czech_0 : Marathi
+ʧtɪrɪ
+ʧaɾ
+§_Czech_1 : Urdu
+ʧtɪrɪ
+ʧɑɾ
+§_Czech_2 : Macedonian
+ʧtɪrɪ
+ʧetiri
+§_Czech_3 : Russian
+ʧtɪrɪ
+ʧɛtɨri
+§_Czech_4 : Icelandic
+ʧtɪrɪ
+forɪr
+§_Czech_5 : Slovak
+ʧtɪrɪ
+ʃtiri
+§_Czech_6 : Ossetic Digor
+ʧtɪrɪ
+cupar
+§_Czech_7 : Old Irish
+ʧtɪrɪ
+keθər
+§_Czech_8 : Classical Armenian
+ʧtɪrɪ
+cork
+§_Czech_9 : Old Swedish
+ʧtɪrɪ
+furir
+§_Oriya_0 : English
+cari
+fɔ
+§_Oriya_1 : Old Irish
+cari
+keθər
+§_Oriya_2 : Polish
+cari
+ttɛrə
+§_Oriya_3 : Russian
+cari
+ʧɛtɨri
+§_Oriya_4 : Catalan
+cari
+katɾə
+§_Oriya_5 : Romanian
+cari
+patru
+§_Oriya_6 : Classical Armenian
+cari
+cork
+§_Oriya_7 : Marathi
+cari
+ʧaɾ
+§_Oriya_8 : Punjabi
+cari
+ʧaɾ
+§_Oriya_9 : Italian
+cari
+katro
+§_Magahi_0 : Provencal
+cɑr
+katre
+§_Magahi_1 : Icelandic
+cɑr
+forɪr
+§_Magahi_2 : [Legacy] Serbian
+cɑr
+ʧetiri
+§_Magahi_3 : Spanish
+cɑr
+katɾo
+§_Magahi_4 : English
+cɑr
+fɔ
+§_Magahi_5 : Portuguese
+cɑr
+katɾu
+§_Magahi_6 : Ukrainian
+cɑr
+tɔtɪrɪ
+§_Magahi_7 : Oriya
+cɑr
+cari
+§_Magahi_8 : Bihari
+cɑr
+cər
+§_Magahi_9 : Russian
+cɑr
+ʧɛtɨri
+§_Bihari_0 : Portuguese
+cər
+katɾu
+§_Bihari_1 : Catalan
+cər
+katɾə
+§_Bihari_2 : Slovenian
+cər
+ʃtiri
+§_Bihari_3 : Dutch
+cər
+vir
+§_Bihari_4 : Russian
+cər
+ʧɛtɨri
+§_Bihari_5 : [Legacy] Serbian
+cər
+ʧetiri
+§_Bihari_6 : [Legacy] Albanian T
+cər
+katər
+§_Bihari_7 : Old Church Slavonic
+cər
+ʧɛturɛ
+§_Bihari_8 : Slovak
+cər
+ʃtiri
+§_Bihari_9 : Spanish
+cər
+katɾo
+§_Classical Armenian_0 : Slovak
+cork
+ʃtiri
+§_Classical Armenian_1 : Nepali
+cork
+ʧar
+§_Classical Armenian_2 : Macedonian
+cork
+ʧetiri
+§_Classical Armenian_3 : Sorbian Lower
+cork
+stəri
+§_Classical Armenian_4 : [Legacy] Breton St
+cork
+pɛvar
+§_Classical Armenian_5 : Breton
+cork
+pevar
+§_Classical Armenian_6 : Ossetic Iron
+cork
+sypar
+§_Classical Armenian_7 : Gutnish Lau
+cork
+fɛrɛ
+§_Classical Armenian_8 : Faroese
+cork
+fʊra
+§_Classical Armenian_9 : Bihari
+cork
+cər
+§_Ossetic Digor_0 : Bihari
+cupar
+cər
+§_Ossetic Digor_1 : [Legacy] Albanian T
+cupar
+katər
+§_Ossetic Digor_2 : Swedish
+cupar
+fyra
+§_Ossetic Digor_3 : Armenian Eastern
+cupar
+ʧoɾs
+§_Ossetic Digor_4 : Old Irish
+cupar
+keθər
+§_Ossetic Digor_5 : Punjabi
+cupar
+ʧaɾ
+§_Ossetic Digor_6 : Faroese
+cupar
+fʊra
+§_Ossetic Digor_7 : Catalan
+cupar
+katɾə
+§_Ossetic Digor_8 : Slovak
+cupar
+ʃtiri
+§_Ossetic Digor_9 : Spanish
+cupar
+katɾo
+§_German_0 : Old Norse
+fi
+forir
+§_German_1 : Marathi
+fi
+ʧaɾ
+§_German_2 : [Legacy] Breton St
+fi
+pɛvar
+§_German_3 : French
+fi
+katʀ
+§_German_4 : Greek
+fi
+tesera
+§_German_5 : Latin
+fi
+kator
+§_German_6 : Old Swedish
+fi
+furir
+§_German_7 : Polish
+fi
+ttɛrə
+§_German_8 : Assamese
+fi
+sari
+§_German_9 : Old Irish
+fi
+keθər
+§_English_0 : French
+fɔ
+katʀ
+§_English_1 : Stavangersk
+fɔ
+fiʁa
+§_English_2 : Old Swedish
+fɔ
+furir
+§_English_3 : Armenian Eastern
+fɔ
+ʧoɾs
+§_English_4 : Dutch
+fɔ
+vir
+§_English_5 : Sinhalese
+fɔ
+hatəɾə
+§_English_6 : Ancient Greek
+fɔ
+tetares
+§_English_7 : Slovenian
+fɔ
+ʃtiri
+§_English_8 : Slovak
+fɔ
+ʃtiri
+§_English_9 : Assamese
+fɔ
+sari
+§_Sinhalese_0 : Swedish
+hatəɾə
+fyra
+§_Sinhalese_1 : Norwegian Riksmal
+hatəɾə
+fiɾə
+§_Sinhalese_2 : Provencal
+hatəɾə
+katre
+§_Sinhalese_3 : Urdu
+hatəɾə
+ʧɑɾ
+§_Sinhalese_4 : Latin
+hatəɾə
+kator
+§_Sinhalese_5 : Ancient Greek
+hatəɾə
+tetares
+§_Sinhalese_6 : [Legacy] Breton St
+hatəɾə
+pɛvar
+§_Sinhalese_7 : Nepali
+hatəɾə
+ʧar
+§_Sinhalese_8 : Stavangersk
+hatəɾə
+fiʁa
+§_Sinhalese_9 : Marathi
+hatəɾə
+ʧaɾ
+§_Old Irish_0 : Bulgarian
+keθər
+ʧɛtiri
+§_Old Irish_1 : Bihari
+keθər
+cər
+§_Old Irish_2 : [Legacy] Serbian
+keθər
+ʧetiri
+§_Old Irish_3 : Greek
+keθər
+tesera
+§_Old Irish_4 : Belarusian
+keθər
+tatɨrɨ
+§_Old Irish_5 : French
+keθər
+katʀ
+§_Old Irish_6 : Sorbian Lower
+keθər
+stəri
+§_Old Irish_7 : Magahi
+keθər
+cɑr
+§_Old Irish_8 : Urdu
+keθər
+ʧɑɾ
+§_Old Irish_9 : Elfdalian
+keθər
+fyrɑ
+§_French_0 : Sinhalese
+katʀ
+hatəɾə
+§_French_1 : Assamese
+katʀ
+sari
+§_French_2 : Nepali
+katʀ
+ʧar
+§_French_3 : Latin
+katʀ
+kator
+§_French_4 : Russian
+katʀ
+ʧɛtɨri
+§_French_5 : Ossetic Digor
+katʀ
+cupar
+§_French_6 : Bihari
+katʀ
+cər
+§_French_7 : Gutnish Lau
+katʀ
+fɛrɛ
+§_French_8 : Portuguese
+katʀ
+katɾu
+§_French_9 : Romanian
+katʀ
+patru
+§_Mycenaean Greek_0 : Gutnish Lau
+ketero
+fɛrɛ
+§_Mycenaean Greek_1 : Sinhalese
+ketero
+hatəɾə
+§_Mycenaean Greek_2 : Armenian Eastern
+ketero
+ʧoɾs
+§_Mycenaean Greek_3 : French
+ketero
+katʀ
+§_Mycenaean Greek_4 : SerboCroatian
+ketero
+ʧetiri
+§_Mycenaean Greek_5 : Assamese
+ketero
+sari
+§_Mycenaean Greek_6 : Bihari
+ketero
+cər
+§_Mycenaean Greek_7 : Icelandic
+ketero
+forɪr
+§_Mycenaean Greek_8 : Polish
+ketero
+ttɛrə
+§_Mycenaean Greek_9 : Old Irish
+ketero
+keθər
+§_Assamese_0 : Ukrainian
+sari
+tɔtɪrɪ
+§_Assamese_1 : Swedish
+sari
+fyra
+§_Assamese_2 : English
+sari
+fɔ
+§_Assamese_3 : Old Swedish
+sari
+furir
+§_Assamese_4 : Classical Armenian
+sari
+cork
+§_Assamese_5 : Portuguese
+sari
+katɾu
+§_Assamese_6 : Norwegian Riksmal
+sari
+fiɾə
+§_Assamese_7 : Sorbian Upper
+sari
+ʃtəʀi
+§_Assamese_8 : Provencal
+sari
+katre
+§_Assamese_9 : Bihari
+sari
+cər
+§_Ossetic Iron_0 : Old Norse
+sypar
+forir
+§_Ossetic Iron_1 : Old Swedish
+sypar
+furir
+§_Ossetic Iron_2 : Gutnish Lau
+sypar
+fɛrɛ
+§_Ossetic Iron_3 : Sorbian Lower
+sypar
+stəri
+§_Ossetic Iron_4 : Greek
+sypar
+tesera
+§_Ossetic Iron_5 : Old Church Slavonic
+sypar
+ʧɛturɛ
+§_Ossetic Iron_6 : Portuguese
+sypar
+katɾu
+§_Ossetic Iron_7 : SerboCroatian
+sypar
+ʧetiri
+§_Ossetic Iron_8 : Ancient Greek
+sypar
+tetares
+§_Ossetic Iron_9 : Ossetic Digor
+sypar
+cupar
+§_Ancient Greek_0 : Greek
+tetares
+tesera
+§_Ancient Greek_1 : Sorbian Upper
+tetares
+ʃtəʀi
+§_Ancient Greek_2 : Urdu
+tetares
+ʧɑɾ
+§_Ancient Greek_3 : Italian
+tetares
+katro
+§_Ancient Greek_4 : Middle Breton
+tetares
+pɛvar
+§_Ancient Greek_5 : Sorbian Lower
+tetares
+stəri
+§_Ancient Greek_6 : Spanish
+tetares
+katɾo
+§_Ancient Greek_7 : Czech
+tetares
+ʧtɪrɪ
+§_Ancient Greek_8 : Faroese
+tetares
+fʊra
+§_Ancient Greek_9 : Portuguese
+tetares
+katɾu
+§_Belarusian_0 : Sorbian Lower
+tatɨrɨ
+stəri
+§_Belarusian_1 : Oriya
+tatɨrɨ
+cari
+§_Belarusian_2 : Old Irish
+tatɨrɨ
+keθər
+§_Belarusian_3 : English
+tatɨrɨ
+fɔ
+§_Belarusian_4 : Russian
+tatɨrɨ
+ʧɛtɨri
+§_Belarusian_5 : Middle Breton
+tatɨrɨ
+pɛvar
+§_Belarusian_6 : [Legacy] Serbian
+tatɨrɨ
+ʧetiri
+§_Belarusian_7 : Mycenaean Greek
+tatɨrɨ
+ketero
+§_Belarusian_8 : Urdu
+tatɨrɨ
+ʧɑɾ
+§_Belarusian_9 : Dutch
+tatɨrɨ
+vir
+§_Ukrainian_0 : [Legacy] Albanian T
+tɔtɪrɪ
+katər
+§_Ukrainian_1 : Old Irish
+tɔtɪrɪ
+keθər
+§_Ukrainian_2 : Slovak
+tɔtɪrɪ
+ʃtiri
+§_Ukrainian_3 : Bihari
+tɔtɪrɪ
+cər
+§_Ukrainian_4 : Icelandic
+tɔtɪrɪ
+forɪr
+§_Ukrainian_5 : Romanian
+tɔtɪrɪ
+patru
+§_Ukrainian_6 : Armenian Eastern
+tɔtɪrɪ
+ʧoɾs
+§_Ukrainian_7 : Italian
+tɔtɪrɪ
+katro
+§_Ukrainian_8 : Breton
+tɔtɪrɪ
+pevar
+§_Ukrainian_9 : French
+tɔtɪrɪ
+katʀ
+§_Nepali_0 : Urdu
+ʧar
+ʧɑɾ
+§_Nepali_1 : Ossetic Iron
+ʧar
+sypar
+§_Nepali_2 : SerboCroatian
+ʧar
+ʧetiri
+§_Nepali_3 : Mycenaean Greek
+ʧar
+ketero
+§_Nepali_4 : Middle Cornish
+ʧar
+pɛzar
+§_Nepali_5 : English
+ʧar
+fɔ
+§_Nepali_6 : Middle Breton
+ʧar
+pɛvar
+§_Nepali_7 : Catalan
+ʧar
+katɾə
+§_Nepali_8 : Faroese
+ʧar
+fʊra
+§_Nepali_9 : Ancient Greek
+ʧar
+tetares
+§_Punjabi_0 : Provencal
+ʧaɾ
+katre
+§_Punjabi_1 : Ossetic Iron
+ʧaɾ
+sypar
+§_Punjabi_2 : Catalan
+ʧaɾ
+katɾə
+§_Punjabi_3 : Elfdalian
+ʧaɾ
+fyrɑ
+§_Punjabi_4 : [Legacy] Albanian T
+ʧaɾ
+katər
+§_Punjabi_5 : Breton
+ʧaɾ
+pevar
+§_Punjabi_6 : Urdu
+ʧaɾ
+ʧɑɾ
+§_Punjabi_7 : Middle Breton
+ʧaɾ
+pɛvar
+§_Punjabi_8 : [Legacy] Breton St
+ʧaɾ
+pɛvar
+§_Punjabi_9 : Middle Cornish
+ʧaɾ
+pɛzar
+§_Marathi_0 : Romanian
+ʧaɾ
+patru
+§_Marathi_1 : English
+ʧaɾ
+fɔ
+§_Marathi_2 : Punjabi
+ʧaɾ
+ʧaɾ
+§_Marathi_3 : Bulgarian
+ʧaɾ
+ʧɛtiri
+§_Marathi_4 : Oriya
+ʧaɾ
+cari
+§_Marathi_5 : Urdu
+ʧaɾ
+ʧɑɾ
+§_Marathi_6 : Middle Breton
+ʧaɾ
+pɛvar
+§_Marathi_7 : Norwegian Riksmal
+ʧaɾ
+fiɾə
+§_Marathi_8 : German
+ʧaɾ
+fi
+§_Marathi_9 : Sinhalese
+ʧaɾ
+hatəɾə
+§_Urdu_0 : Nepali
+ʧɑɾ
+ʧar
+§_Urdu_1 : SerboCroatian
+ʧɑɾ
+ʧetiri
+§_Urdu_2 : Ukrainian
+ʧɑɾ
+tɔtɪrɪ
+§_Urdu_3 : Provencal
+ʧɑɾ
+katre
+§_Urdu_4 : Macedonian
+ʧɑɾ
+ʧetiri
+§_Urdu_5 : Assamese
+ʧɑɾ
+sari
+§_Urdu_6 : Gutnish Lau
+ʧɑɾ
+fɛrɛ
+§_Urdu_7 : Spanish
+ʧɑɾ
+katɾo
+§_Urdu_8 : Breton
+ʧɑɾ
+pevar
+§_Urdu_9 : Russian
+ʧɑɾ
+ʧɛtɨri
+§_[Legacy] Serbian_0 : Swedish
+ʧetiri
+fyra
+§_[Legacy] Serbian_1 : Old Irish
+ʧetiri
+keθər
+§_[Legacy] Serbian_2 : Provencal
+ʧetiri
+katre
+§_[Legacy] Serbian_3 : Russian
+ʧetiri
+ʧɛtɨri
+§_[Legacy] Serbian_4 : Urdu
+ʧetiri
+ʧɑɾ
+§_[Legacy] Serbian_5 : Old Church Slavonic
+ʧetiri
+ʧɛturɛ
+§_[Legacy] Serbian_6 : English
+ʧetiri
+fɔ
+§_[Legacy] Serbian_7 : Belarusian
+ʧetiri
+tatɨrɨ
+§_[Legacy] Serbian_8 : Middle Cornish
+ʧetiri
+pɛzar
+§_[Legacy] Serbian_9 : Elfdalian
+ʧetiri
+fyrɑ
+§_Russian_0 : Slovak
+ʧɛtɨri
+ʃtiri
+§_Russian_1 : Italian
+ʧɛtɨri
+katro
+§_Russian_2 : Sorbian Upper
+ʧɛtɨri
+ʃtəʀi
+§_Russian_3 : Greek
+ʧɛtɨri
+tesera
+§_Russian_4 : Faroese
+ʧɛtɨri
+fʊra
+§_Russian_5 : Spanish
+ʧɛtɨri
+katɾo
+§_Russian_6 : Old Norse
+ʧɛtɨri
+forir
+§_Russian_7 : Portuguese
+ʧɛtɨri
+katɾu
+§_Russian_8 : German
+ʧɛtɨri
+fi
+§_Russian_9 : Ukrainian
+ʧɛtɨri
+tɔtɪrɪ
+§_Old Church Slavonic_0 : Catalan
+ʧɛturɛ
+katɾə
+§_Old Church Slavonic_1 : Classical Armenian
+ʧɛturɛ
+cork
+§_Old Church Slavonic_2 : Marathi
+ʧɛturɛ
+ʧaɾ
+§_Old Church Slavonic_3 : Slovenian
+ʧɛturɛ
+ʃtiri
+§_Old Church Slavonic_4 : Spanish
+ʧɛturɛ
+katɾo
+§_Old Church Slavonic_5 : [Legacy] Serbian
+ʧɛturɛ
+ʧetiri
+§_Old Church Slavonic_6 : Greek
+ʧɛturɛ
+tesera
+§_Old Church Slavonic_7 : Magahi
+ʧɛturɛ
+cɑr
+§_Old Church Slavonic_8 : German
+ʧɛturɛ
+fi
+§_Old Church Slavonic_9 : Mycenaean Greek
+ʧɛturɛ
+ketero
+§_Armenian Eastern_0 : Middle Cornish
+ʧoɾs
+pɛzar
+§_Armenian Eastern_1 : [Legacy] Albanian T
+ʧoɾs
+katər
+§_Armenian Eastern_2 : Marathi
+ʧoɾs
+ʧaɾ
+§_Armenian Eastern_3 : Latin
+ʧoɾs
+kator
+§_Armenian Eastern_4 : [Legacy] Breton St
+ʧoɾs
+pɛvar
+§_Armenian Eastern_5 : Punjabi
+ʧoɾs
+ʧaɾ
+§_Armenian Eastern_6 : Old Irish
+ʧoɾs
+keθər
+§_Armenian Eastern_7 : Romanian
+ʧoɾs
+patru
+§_Armenian Eastern_8 : Portuguese
+ʧoɾs
+katɾu
+§_Armenian Eastern_9 : Slovak
+ʧoɾs
+ʃtiri
+§_Dutch_0 : Bulgarian
+vir
+ʧɛtiri
+§_Dutch_1 : Armenian Eastern
+vir
+ʧoɾs
+§_Dutch_2 : Romanian
+vir
+patru
+§_Dutch_3 : Greek
+vir
+tesera
+§_Dutch_4 : Nepali
+vir
+ʧar
+§_Dutch_5 : Ossetic Digor
+vir
+cupar
+§_Dutch_6 : Oriya
+vir
+cari
+§_Dutch_7 : SerboCroatian
+vir
+ʧetiri
+§_Dutch_8 : Breton
+vir
+pevar
+§_Dutch_9 : Old Irish
+vir
+keθər
+§_Italian_0 : Dutch
+ʧinke
+vɛf
+§_Italian_1 : Magahi
+ʧinke
+pɑc
+§_Italian_2 : Provencal
+ʧinke
+siŋk
+§_Italian_3 : Old Irish
+ʧinke
+kog
+§_Italian_4 : Greek
+ʧinke
+pende
+§_Italian_5 : [Legacy] Serbian
+ʧinke
+pet
+§_Italian_6 : Ancient Greek
+ʧinke
+pente
+§_Italian_7 : Sorbian Upper
+ʧinke
+pɛʧ
+§_Italian_8 : Armenian Eastern
+ʧinke
+hiŋg
+§_Italian_9 : Frisian
+ʧinke
+fif
+§_Spanish_0 : Slovak
+θiŋko
+pæc
+§_Spanish_1 : French
+θiŋko
+sɛk
+§_Spanish_2 : Old Irish
+θiŋko
+kog
+§_Spanish_3 : Portuguese
+θiŋko
+siku
+§_Spanish_4 : Bulgarian
+θiŋko
+pɛt
+§_Spanish_5 : Nepali
+θiŋko
+paʧ
+§_Spanish_6 : Breton
+θiŋko
+pɛmp
+§_Spanish_7 : Gutnish Lau
+θiŋko
+fɛm
+§_Spanish_8 : Ossetic Iron
+θiŋko
+fonz
+§_Spanish_9 : Catalan
+θiŋko
+siŋk
+§_Latin_0 : Magahi
+kinke
+pɑc
+§_Latin_1 : Oriya
+kinke
+pancɔ
+§_Latin_2 : Breton
+kinke
+pɛmp
+§_Latin_3 : Ossetic Digor
+kinke
+fonʧ
+§_Latin_4 : Scottish Gaelic
+kinke
+kog
+§_Latin_5 : Old Norse
+kinke
+fim
+§_Latin_6 : Macedonian
+kinke
+pet
+§_Latin_7 : SerboCroatian
+kinke
+pɛt
+§_Latin_8 : Old Irish
+kinke
+kog
+§_Latin_9 : Czech
+kinke
+pɛt
+§_Middle Breton_0 : Stavangersk
+pemp
+fɛm
+§_Middle Breton_1 : Gutnish Lau
+pemp
+fɛm
+§_Middle Breton_2 : Dutch
+pemp
+vɛf
+§_Middle Breton_3 : Khotanese
+pemp
+pɐnʧɐ
+§_Middle Breton_4 : Sinhalese
+pemp
+paha
+§_Middle Breton_5 : Sorbian Lower
+pemp
+pɪɕ
+§_Middle Breton_6 : Icelandic
+pemp
+fɪm
+§_Middle Breton_7 : Ossetic
+pemp
+fonʧ
+§_Middle Breton_8 : Ossetic Iron
+pemp
+fonz
+§_Middle Breton_9 : Armenian Western
+pemp
+hiŋk
+§_Greek_0 : Stavangersk
+pende
+fɛm
+§_Greek_1 : Old Swedish
+pende
+fæm
+§_Greek_2 : Frisian
+pende
+fif
+§_Greek_3 : Dutch
+pende
+vɛf
+§_Greek_4 : Punjabi
+pende
+pənʤ
+§_Greek_5 : Polish
+pende
+pɛɲʧ
+§_Greek_6 : Faroese
+pende
+fɪm
+§_Greek_7 : Slovak
+pende
+pæc
+§_Greek_8 : Portuguese
+pende
+siku
+§_Greek_9 : Magahi
+pende
+pɑc
+§_Breton_0 : Armenian Eastern
+pɛmp
+hiŋg
+§_Breton_1 : Sorbian Upper
+pɛmp
+pɛʧ
+§_Breton_2 : Magahi
+pɛmp
+pɑc
+§_Breton_3 : Oriya
+pɛmp
+pancɔ
+§_Breton_4 : Urdu
+pɛmp
+pɑnʧ
+§_Breton_5 : Old Swedish
+pɛmp
+fæm
+§_Breton_6 : Ossetic
+pɛmp
+fonʧ
+§_Breton_7 : English
+pɛmp
+fav
+§_Breton_8 : Catalan
+pɛmp
+siŋk
+§_Breton_9 : Czech
+pɛmp
+pɛt
+§_Portuguese_0 : [Legacy] Albanian T
+siku
+pɛsə
+§_Portuguese_1 : English
+siku
+fav
+§_Portuguese_2 : Marathi
+siku
+paʤ
+§_Portuguese_3 : Welsh
+siku
+pɪmp
+§_Portuguese_4 : Sorbian Upper
+siku
+pɛʧ
+§_Portuguese_5 : Old Irish
+siku
+kog
+§_Portuguese_6 : Ossetic Iron
+siku
+fonz
+§_Portuguese_7 : Romanian
+siku
+ʧinʧ
+§_Portuguese_8 : Sorbian Lower
+siku
+pɪɕ
+§_Portuguese_9 : Urdu
+siku
+pɑnʧ
+§_Old Swedish_0 : Latin
+fæm
+kinke
+§_Old Swedish_1 : Romanian
+fæm
+ʧinʧ
+§_Old Swedish_2 : Old Church Slavonic
+fæm
+pɛtɪ
+§_Old Swedish_3 : Russian
+fæm
+pat
+§_Old Swedish_4 : Breton
+fæm
+pɛmp
+§_Old Swedish_5 : Old Norse
+fæm
+fim
+§_Old Swedish_6 : Bulgarian
+fæm
+pɛt
+§_Old Swedish_7 : Czech
+fæm
+pɛt
+§_Old Swedish_8 : Polish
+fæm
+pɛɲʧ
+§_Old Swedish_9 : Armenian Western
+fæm
+hiŋk
+§_English_0 : [Legacy] Breton St
+fav
+pɛmp
+§_English_1 : Ukrainian
+fav
+pat
+§_English_2 : Frisian
+fav
+fif
+§_English_3 : Slovenian
+fav
+pet
+§_English_4 : Belarusian
+fav
+paʤ
+§_English_5 : Bulgarian
+fav
+pɛt
+§_English_6 : [Legacy] Albanian T
+fav
+pɛsə
+§_English_7 : Old Church Slavonic
+fav
+pɛtɪ
+§_English_8 : Swedish
+fav
+fɛm
+§_English_9 : Classical Armenian
+fav
+hing
+§_Norwegian Riksmal_0 : Portuguese
+fɛm
+siku
+§_Norwegian Riksmal_1 : Slovak
+fɛm
+pæc
+§_Norwegian Riksmal_2 : Old Norse
+fɛm
+fim
+§_Norwegian Riksmal_3 : Ossetic Iron
+fɛm
+fonz
+§_Norwegian Riksmal_4 : Oriya
+fɛm
+pancɔ
+§_Norwegian Riksmal_5 : [Legacy] Breton St
+fɛm
+pɛmp
+§_Norwegian Riksmal_6 : Faroese
+fɛm
+fɪm
+§_Norwegian Riksmal_7 : Czech
+fɛm
+pɛt
+§_Norwegian Riksmal_8 : Marathi
+fɛm
+paʤ
+§_Norwegian Riksmal_9 : Ancient Greek
+fɛm
+pente
+§_Stavangersk_0 : SerboCroatian
+fɛm
+pɛt
+§_Stavangersk_1 : Catalan
+fɛm
+siŋk
+§_Stavangersk_2 : German
+fɛm
+fɪnf
+§_Stavangersk_3 : Frisian
+fɛm
+fif
+§_Stavangersk_4 : Hindi
+fɛm
+paʧ
+§_Stavangersk_5 : [Legacy] Serbian
+fɛm
+pet
+§_Stavangersk_6 : Slovak
+fɛm
+pæc
+§_Stavangersk_7 : [Legacy] Albanian T
+fɛm
+pɛsə
+§_Stavangersk_8 : Macedonian
+fɛm
+pet
+§_Stavangersk_9 : Old Church Slavonic
+fɛm
+pɛtɪ
+§_Swedish_0 : Classical Armenian
+fɛm
+hing
+§_Swedish_1 : Frisian
+fɛm
+fif
+§_Swedish_2 : Khotanese
+fɛm
+pɐnʧɐ
+§_Swedish_3 : Old Irish
+fɛm
+kog
+§_Swedish_4 : Russian
+fɛm
+pat
+§_Swedish_5 : Faroese
+fɛm
+fɪm
+§_Swedish_6 : Dutch
+fɛm
+vɛf
+§_Swedish_7 : Armenian Eastern
+fɛm
+hiŋg
+§_Swedish_8 : Old Church Slavonic
+fɛm
+pɛtɪ
+§_Swedish_9 : Ossetic
+fɛm
+fonʧ
+§_Elfdalian_0 : Polish
+fɛm
+pɛɲʧ
+§_Elfdalian_1 : Middle Breton
+fɛm
+pemp
+§_Elfdalian_2 : Classical Armenian
+fɛm
+hing
+§_Elfdalian_3 : Slovak
+fɛm
+pæc
+§_Elfdalian_4 : Punjabi
+fɛm
+pənʤ
+§_Elfdalian_5 : Ukrainian
+fɛm
+pat
+§_Elfdalian_6 : Swedish
+fɛm
+fɛm
+§_Elfdalian_7 : [Legacy] Breton St
+fɛm
+pɛmp
+§_Elfdalian_8 : Marathi
+fɛm
+paʤ
+§_Elfdalian_9 : [Legacy] Albanian T
+fɛm
+pɛsə
+§_Gutnish Lau_0 : Ossetic Digor
+fɛm
+fonʧ
+§_Gutnish Lau_1 : Nepali
+fɛm
+paʧ
+§_Gutnish Lau_2 : Marathi
+fɛm
+paʤ
+§_Gutnish Lau_3 : Bulgarian
+fɛm
+pɛt
+§_Gutnish Lau_4 : English
+fɛm
+fav
+§_Gutnish Lau_5 : Elfdalian
+fɛm
+fɛm
+§_Gutnish Lau_6 : Portuguese
+fɛm
+siku
+§_Gutnish Lau_7 : Hindi
+fɛm
+paʧ
+§_Gutnish Lau_8 : Ossetic
+fɛm
+fonʧ
+§_Gutnish Lau_9 : [Legacy] Serbian
+fɛm
+pet
+§_Frisian_0 : Romanian
+fif
+ʧinʧ
+§_Frisian_1 : Ancient Greek
+fif
+pente
+§_Frisian_2 : Slovak
+fif
+pæc
+§_Frisian_3 : Greek
+fif
+pende
+§_Frisian_4 : Sorbian Upper
+fif
+pɛʧ
+§_Frisian_5 : Punjabi
+fif
+pənʤ
+§_Frisian_6 : [Legacy] Albanian T
+fif
+pɛsə
+§_Frisian_7 : Norwegian Riksmal
+fif
+fɛm
+§_Frisian_8 : Old Irish
+fif
+kog
+§_Frisian_9 : Hindi
+fif
+paʧ
+§_Old Norse_0 : Norwegian Riksmal
+fim
+fɛm
+§_Old Norse_1 : Old Swedish
+fim
+fæm
+§_Old Norse_2 : Frisian
+fim
+fif
+§_Old Norse_3 : Ossetic
+fim
+fonʧ
+§_Old Norse_4 : Provencal
+fim
+siŋk
+§_Old Norse_5 : Latin
+fim
+kinke
+§_Old Norse_6 : Punjabi
+fim
+pənʤ
+§_Old Norse_7 : Slovak
+fim
+pæc
+§_Old Norse_8 : Ancient Greek
+fim
+pente
+§_Old Norse_9 : Polish
+fim
+pɛɲʧ
+§_Icelandic_0 : Old Norse
+fɪm
+fim
+§_Icelandic_1 : [Legacy] Breton St
+fɪm
+pɛmp
+§_Icelandic_2 : Ossetic
+fɪm
+fonʧ
+§_Icelandic_3 : Hindi
+fɪm
+paʧ
+§_Icelandic_4 : French
+fɪm
+sɛk
+§_Icelandic_5 : Catalan
+fɪm
+siŋk
+§_Icelandic_6 : Irish
+fɪm
+kuɟ
+§_Icelandic_7 : Welsh
+fɪm
+pɪmp
+§_Icelandic_8 : Polish
+fɪm
+pɛɲʧ
+§_Icelandic_9 : Old Irish
+fɪm
+kog
+§_Faroese_0 : Ukrainian
+fɪm
+pat
+§_Faroese_1 : Dutch
+fɪm
+vɛf
+§_Faroese_2 : Macedonian
+fɪm
+pet
+§_Faroese_3 : [Legacy] Albanian T
+fɪm
+pɛsə
+§_Faroese_4 : Catalan
+fɪm
+siŋk
+§_Faroese_5 : Hindi
+fɪm
+paʧ
+§_Faroese_6 : Urdu
+fɪm
+pɑnʧ
+§_Faroese_7 : Spanish
+fɪm
+θiŋko
+§_Faroese_8 : Norwegian Riksmal
+fɪm
+fɛm
+§_Faroese_9 : Swedish
+fɪm
+fɛm
+§_Ossetic Digor_0 : Czech
+fonʧ
+pɛt
+§_Ossetic Digor_1 : Elfdalian
+fonʧ
+fɛm
+§_Ossetic Digor_2 : Catalan
+fonʧ
+siŋk
+§_Ossetic Digor_3 : Old Church Slavonic
+fonʧ
+pɛtɪ
+§_Ossetic Digor_4 : SerboCroatian
+fonʧ
+pɛt
+§_Ossetic Digor_5 : Frisian
+fonʧ
+fif
+§_Ossetic Digor_6 : Urdu
+fonʧ
+pɑnʧ
+§_Ossetic Digor_7 : Oriya
+fonʧ
+pancɔ
+§_Ossetic Digor_8 : Armenian Eastern
+fonʧ
+hiŋg
+§_Ossetic Digor_9 : Ossetic Iron
+fonʧ
+fonz
+§_Ossetic_0 : Slovak
+fonʧ
+pæc
+§_Ossetic_1 : Icelandic
+fonʧ
+fɪm
+§_Ossetic_2 : Oriya
+fonʧ
+pancɔ
+§_Ossetic_3 : Scottish Gaelic
+fonʧ
+kog
+§_Ossetic_4 : Middle Cornish
+fonʧ
+pɪmp
+§_Ossetic_5 : Faroese
+fonʧ
+fɪm
+§_Ossetic_6 : Hindi
+fonʧ
+paʧ
+§_Ossetic_7 : Sorbian Upper
+fonʧ
+pɛʧ
+§_Ossetic_8 : Ossetic Digor
+fonʧ
+fonʧ
+§_Ossetic_9 : Russian
+fonʧ
+pat
+§_Ossetic Iron_0 : Frisian
+fonz
+fif
+§_Ossetic Iron_1 : Ukrainian
+fonz
+pat
+§_Ossetic Iron_2 : Old Irish
+fonz
+kog
+§_Ossetic Iron_3 : Sinhalese
+fonz
+paha
+§_Ossetic Iron_4 : Scottish Gaelic
+fonz
+kog
+§_Ossetic Iron_5 : Urdu
+fonz
+pɑnʧ
+§_Ossetic Iron_6 : Oriya
+fonz
+pancɔ
+§_Ossetic Iron_7 : SerboCroatian
+fonz
+pɛt
+§_Ossetic Iron_8 : Romanian
+fonz
+ʧinʧ
+§_Ossetic Iron_9 : Armenian Western
+fonz
+hiŋk
+§_German_0 : English
+fɪnf
+fav
+§_German_1 : Latin
+fɪnf
+kinke
+§_German_2 : Swedish
+fɪnf
+fɛm
+§_German_3 : Catalan
+fɪnf
+siŋk
+§_German_4 : Slovak
+fɪnf
+pæc
+§_German_5 : Ancient Greek
+fɪnf
+pente
+§_German_6 : Khotanese
+fɪnf
+pɐnʧɐ
+§_German_7 : [Legacy] Serbian
+fɪnf
+pet
+§_German_8 : Middle Cornish
+fɪnf
+pɪmp
+§_German_9 : Scottish Gaelic
+fɪnf
+kog
+§_Classical Armenian_0 : Ancient Greek
+hing
+pente
+§_Classical Armenian_1 : Punjabi
+hing
+pənʤ
+§_Classical Armenian_2 : English
+hing
+fav
+§_Classical Armenian_3 : Latin
+hing
+kinke
+§_Classical Armenian_4 : Faroese
+hing
+fɪm
+§_Classical Armenian_5 : Magahi
+hing
+pɑc
+§_Classical Armenian_6 : Frisian
+hing
+fif
+§_Classical Armenian_7 : Ukrainian
+hing
+pat
+§_Classical Armenian_8 : Stavangersk
+hing
+fɛm
+§_Classical Armenian_9 : Breton
+hing
+pɛmp
+§_Armenian Eastern_0 : Bihari
+hiŋg
+pac
+§_Armenian Eastern_1 : Magahi
+hiŋg
+pɑc
+§_Armenian Eastern_2 : Sinhalese
+hiŋg
+paha
+§_Armenian Eastern_3 : Old Norse
+hiŋg
+fim
+§_Armenian Eastern_4 : Slovenian
+hiŋg
+pet
+§_Armenian Eastern_5 : German
+hiŋg
+fɪnf
+§_Armenian Eastern_6 : Swedish
+hiŋg
+fɛm
+§_Armenian Eastern_7 : [Legacy] Albanian T
+hiŋg
+pɛsə
+§_Armenian Eastern_8 : Gutnish Lau
+hiŋg
+fɛm
+§_Armenian Eastern_9 : French
+hiŋg
+sɛk
+§_Armenian Western_0 : Marathi
+hiŋk
+paʤ
+§_Armenian Western_1 : Middle Breton
+hiŋk
+pemp
+§_Armenian Western_2 : Irish
+hiŋk
+kuɟ
+§_Armenian Western_3 : Scottish Gaelic
+hiŋk
+kog
+§_Armenian Western_4 : Urdu
+hiŋk
+pɑnʧ
+§_Armenian Western_5 : Faroese
+hiŋk
+fɪm
+§_Armenian Western_6 : Old Norse
+hiŋk
+fim
+§_Armenian Western_7 : Assamese
+hiŋk
+pas
+§_Armenian Western_8 : Swedish
+hiŋk
+fɛm
+§_Armenian Western_9 : Sorbian Upper
+hiŋk
+pɛʧ
+§_Old Irish_0 : Romanian
+kog
+ʧinʧ
+§_Old Irish_1 : Norwegian Riksmal
+kog
+fɛm
+§_Old Irish_2 : Khotanese
+kog
+pɐnʧɐ
+§_Old Irish_3 : Portuguese
+kog
+siku
+§_Old Irish_4 : Elfdalian
+kog
+fɛm
+§_Old Irish_5 : [Legacy] Breton St
+kog
+pɛmp
+§_Old Irish_6 : Old Swedish
+kog
+fæm
+§_Old Irish_7 : Provencal
+kog
+siŋk
+§_Old Irish_8 : Slovenian
+kog
+pet
+§_Old Irish_9 : Frisian
+kog
+fif
+§_Scottish Gaelic_0 : Urdu
+kog
+pɑnʧ
+§_Scottish Gaelic_1 : Elfdalian
+kog
+fɛm
+§_Scottish Gaelic_2 : Middle Cornish
+kog
+pɪmp
+§_Scottish Gaelic_3 : English
+kog
+fav
+§_Scottish Gaelic_4 : [Legacy] Serbian
+kog
+pet
+§_Scottish Gaelic_5 : Slovak
+kog
+pæc
+§_Scottish Gaelic_6 : Ossetic Digor
+kog
+fonʧ
+§_Scottish Gaelic_7 : Belarusian
+kog
+paʤ
+§_Scottish Gaelic_8 : Irish
+kog
+kuɟ
+§_Scottish Gaelic_9 : Portuguese
+kog
+siku
+§_Irish_0 : Polish
+kuɟ
+pɛɲʧ
+§_Irish_1 : Spanish
+kuɟ
+θiŋko
+§_Irish_2 : Nepali
+kuɟ
+paʧ
+§_Irish_3 : Middle Breton
+kuɟ
+pemp
+§_Irish_4 : Breton
+kuɟ
+pɛmp
+§_Irish_5 : Old Irish
+kuɟ
+kog
+§_Irish_6 : Faroese
+kuɟ
+fɪm
+§_Irish_7 : Slovenian
+kuɟ
+pet
+§_Irish_8 : Frisian
+kuɟ
+fif
+§_Irish_9 : Armenian Western
+kuɟ
+hiŋk
+§_Bihari_0 : Punjabi
+pac
+pənʤ
+§_Bihari_1 : Old Swedish
+pac
+fæm
+§_Bihari_2 : Spanish
+pac
+θiŋko
+§_Bihari_3 : Sorbian Upper
+pac
+pɛʧ
+§_Bihari_4 : Polish
+pac
+pɛɲʧ
+§_Bihari_5 : Stavangersk
+pac
+fɛm
+§_Bihari_6 : Ancient Greek
+pac
+pente
+§_Bihari_7 : Bulgarian
+pac
+pɛt
+§_Bihari_8 : Portuguese
+pac
+siku
+§_Bihari_9 : Magahi
+pac
+pɑc
+§_Slovak_0 : German
+pæc
+fɪnf
+§_Slovak_1 : Urdu
+pæc
+pɑnʧ
+§_Slovak_2 : Stavangersk
+pæc
+fɛm
+§_Slovak_3 : Irish
+pæc
+kuɟ
+§_Slovak_4 : Norwegian Riksmal
+pæc
+fɛm
+§_Slovak_5 : Ossetic
+pæc
+fonʧ
+§_Slovak_6 : Old Irish
+pæc
+kog
+§_Slovak_7 : Bihari
+pæc
+pac
+§_Slovak_8 : French
+pæc
+sɛk
+§_Slovak_9 : Sorbian Upper
+pæc
+pɛʧ
+§_Sinhalese_0 : Catalan
+paha
+siŋk
+§_Sinhalese_1 : Dutch
+paha
+vɛf
+§_Sinhalese_2 : Magahi
+paha
+pɑc
+§_Sinhalese_3 : Oriya
+paha
+pancɔ
+§_Sinhalese_4 : Assamese
+paha
+pas
+§_Sinhalese_5 : [Legacy] Albanian T
+paha
+pɛsə
+§_Sinhalese_6 : German
+paha
+fɪnf
+§_Sinhalese_7 : Greek
+paha
+pende
+§_Sinhalese_8 : Stavangersk
+paha
+fɛm
+§_Sinhalese_9 : Hindi
+paha
+paʧ
+§_Oriya_0 : Spanish
+pancɔ
+θiŋko
+§_Oriya_1 : Portuguese
+pancɔ
+siku
+§_Oriya_2 : Sinhalese
+pancɔ
+paha
+§_Oriya_3 : Assamese
+pancɔ
+pas
+§_Oriya_4 : Old Norse
+pancɔ
+fim
+§_Oriya_5 : Dutch
+pancɔ
+vɛf
+§_Oriya_6 : Irish
+pancɔ
+kuɟ
+§_Oriya_7 : Russian
+pancɔ
+pat
+§_Oriya_8 : Sorbian Upper
+pancɔ
+pɛʧ
+§_Oriya_9 : Ossetic
+pancɔ
+fonʧ
+§_Assamese_0 : Russian
+pas
+pat
+§_Assamese_1 : Oriya
+pas
+pancɔ
+§_Assamese_2 : Ukrainian
+pas
+pat
+§_Assamese_3 : Catalan
+pas
+siŋk
+§_Assamese_4 : Hindi
+pas
+paʧ
+§_Assamese_5 : Faroese
+pas
+fɪm
+§_Assamese_6 : Bulgarian
+pas
+pɛt
+§_Assamese_7 : [Legacy] Serbian
+pas
+pet
+§_Assamese_8 : Old Norse
+pas
+fim
+§_Assamese_9 : Ancient Greek
+pas
+pente
+§_Marathi_0 : Armenian Western
+paʤ
+hiŋk
+§_Marathi_1 : Old Irish
+paʤ
+kog
+§_Marathi_2 : Punjabi
+paʤ
+pənʤ
+§_Marathi_3 : Ossetic Iron
+paʤ
+fonz
+§_Marathi_4 : Bulgarian
+paʤ
+pɛt
+§_Marathi_5 : Catalan
+paʤ
+siŋk
+§_Marathi_6 : Sorbian Lower
+paʤ
+pɪɕ
+§_Marathi_7 : French
+paʤ
+sɛk
+§_Marathi_8 : SerboCroatian
+paʤ
+pɛt
+§_Marathi_9 : Latin
+paʤ
+kinke
+§_Nepali_0 : Ossetic Iron
+paʧ
+fonz
+§_Nepali_1 : [Legacy] Albanian T
+paʧ
+pɛsə
+§_Nepali_2 : Czech
+paʧ
+pɛt
+§_Nepali_3 : Bihari
+paʧ
+pac
+§_Nepali_4 : Oriya
+paʧ
+pancɔ
+§_Nepali_5 : Ossetic Digor
+paʧ
+fonʧ
+§_Nepali_6 : Old Norse
+paʧ
+fim
+§_Nepali_7 : Swedish
+paʧ
+fɛm
+§_Nepali_8 : [Legacy] Breton St
+paʧ
+pɛmp
+§_Nepali_9 : Middle Cornish
+paʧ
+pɪmp
+§_Hindi_0 : Sorbian Lower
+paʧ
+pɪɕ
+§_Hindi_1 : Assamese
+paʧ
+pas
+§_Hindi_2 : Magahi
+paʧ
+pɑc
+§_Hindi_3 : German
+paʧ
+fɪnf
+§_Hindi_4 : [Legacy] Serbian
+paʧ
+pet
+§_Hindi_5 : Old Swedish
+paʧ
+fæm
+§_Hindi_6 : Ukrainian
+paʧ
+pat
+§_Hindi_7 : Polish
+paʧ
+pɛɲʧ
+§_Hindi_8 : Sorbian Upper
+paʧ
+pɛʧ
+§_Hindi_9 : Slovenian
+paʧ
+pet
+§_Khotanese_0 : Classical Armenian
+pɐnʧɐ
+hing
+§_Khotanese_1 : Ossetic Digor
+pɐnʧɐ
+fonʧ
+§_Khotanese_2 : Slovak
+pɐnʧɐ
+pæc
+§_Khotanese_3 : SerboCroatian
+pɐnʧɐ
+pɛt
+§_Khotanese_4 : Catalan
+pɐnʧɐ
+siŋk
+§_Khotanese_5 : Gutnish Lau
+pɐnʧɐ
+fɛm
+§_Khotanese_6 : Portuguese
+pɐnʧɐ
+siku
+§_Khotanese_7 : Stavangersk
+pɐnʧɐ
+fɛm
+§_Khotanese_8 : French
+pɐnʧɐ
+sɛk
+§_Khotanese_9 : Urdu
+pɐnʧɐ
+pɑnʧ
+§_Magahi_0 : Old Irish
+pɑc
+kog
+§_Magahi_1 : Provencal
+pɑc
+siŋk
+§_Magahi_2 : Irish
+pɑc
+kuɟ
+§_Magahi_3 : Spanish
+pɑc
+θiŋko
+§_Magahi_4 : Russian
+pɑc
+pat
+§_Magahi_5 : Swedish
+pɑc
+fɛm
+§_Magahi_6 : Czech
+pɑc
+pɛt
+§_Magahi_7 : Hindi
+pɑc
+paʧ
+§_Magahi_8 : SerboCroatian
+pɑc
+pɛt
+§_Magahi_9 : Punjabi
+pɑc
+pənʤ
+§_Urdu_0 : Breton
+pɑnʧ
+pɛmp
+§_Urdu_1 : Portuguese
+pɑnʧ
+siku
+§_Urdu_2 : Elfdalian
+pɑnʧ
+fɛm
+§_Urdu_3 : Assamese
+pɑnʧ
+pas
+§_Urdu_4 : Czech
+pɑnʧ
+pɛt
+§_Urdu_5 : Sinhalese
+pɑnʧ
+paha
+§_Urdu_6 : Frisian
+pɑnʧ
+fif
+§_Urdu_7 : Sorbian Lower
+pɑnʧ
+pɪɕ
+§_Urdu_8 : Hindi
+pɑnʧ
+paʧ
+§_Urdu_9 : Greek
+pɑnʧ
+pende
+§_[Legacy] Serbian_0 : Ossetic Iron
+pet
+fonz
+§_[Legacy] Serbian_1 : Greek
+pet
+pende
+§_[Legacy] Serbian_2 : Magahi
+pet
+pɑc
+§_[Legacy] Serbian_3 : Punjabi
+pet
+pənʤ
+§_[Legacy] Serbian_4 : Old Norse
+pet
+fim
+§_[Legacy] Serbian_5 : Middle Breton
+pet
+pemp
+§_[Legacy] Serbian_6 : Norwegian Riksmal
+pet
+fɛm
+§_[Legacy] Serbian_7 : Frisian
+pet
+fif
+§_[Legacy] Serbian_8 : Bihari
+pet
+pac
+§_[Legacy] Serbian_9 : Dutch
+pet
+vɛf
+§_Slovenian_0 : Gutnish Lau
+pet
+fɛm
+§_Slovenian_1 : Frisian
+pet
+fif
+§_Slovenian_2 : Swedish
+pet
+fɛm
+§_Slovenian_3 : Macedonian
+pet
+pet
+§_Slovenian_4 : Old Swedish
+pet
+fæm
+§_Slovenian_5 : Russian
+pet
+pat
+§_Slovenian_6 : Urdu
+pet
+pɑnʧ
+§_Slovenian_7 : Bihari
+pet
+pac
+§_Slovenian_8 : Latin
+pet
+kinke
+§_Slovenian_9 : Portuguese
+pet
+siku
+§_Sorbian Upper_0 : Ossetic
+pɛʧ
+fonʧ
+§_Sorbian Upper_1 : Slovak
+pɛʧ
+pæc
+§_Sorbian Upper_2 : Assamese
+pɛʧ
+pas
+§_Sorbian Upper_3 : Greek
+pɛʧ
+pende
+§_Sorbian Upper_4 : Magahi
+pɛʧ
+pɑc
+§_Sorbian Upper_5 : Urdu
+pɛʧ
+pɑnʧ
+§_Sorbian Upper_6 : Bulgarian
+pɛʧ
+pɛt
+§_Sorbian Upper_7 : Czech
+pɛʧ
+pɛt
+§_Sorbian Upper_8 : Armenian Eastern
+pɛʧ
+hiŋg
+§_Sorbian Upper_9 : Provencal
+pɛʧ
+siŋk
+§_Ancient Greek_0 : Greek
+pente
+pende
+§_Ancient Greek_1 : [Legacy] Albanian T
+pente
+pɛsə
+§_Ancient Greek_2 : Spanish
+pente
+θiŋko
+§_Ancient Greek_3 : French
+pente
+sɛk
+§_Ancient Greek_4 : Marathi
+pente
+paʤ
+§_Ancient Greek_5 : Scottish Gaelic
+pente
+kog
+§_Ancient Greek_6 : Bihari
+pente
+pac
+§_Ancient Greek_7 : Hindi
+pente
+paʧ
+§_Ancient Greek_8 : Russian
+pente
+pat
+§_Ancient Greek_9 : Latin
+pente
+kinke
+§_Macedonian_0 : Old Church Slavonic
+pet
+pɛtɪ
+§_Macedonian_1 : Sorbian Upper
+pet
+pɛʧ
+§_Macedonian_2 : Middle Breton
+pet
+pemp
+§_Macedonian_3 : SerboCroatian
+pet
+pɛt
+§_Macedonian_4 : Classical Armenian
+pet
+hing
+§_Macedonian_5 : Portuguese
+pet
+siku
+§_Macedonian_6 : Romanian
+pet
+ʧinʧ
+§_Macedonian_7 : Greek
+pet
+pende
+§_Macedonian_8 : Sorbian Lower
+pet
+pɪɕ
+§_Macedonian_9 : Swedish
+pet
+fɛm
+§_Punjabi_0 : Norwegian Riksmal
+pənʤ
+fɛm
+§_Punjabi_1 : Sorbian Upper
+pənʤ
+pɛʧ
+§_Punjabi_2 : Marathi
+pənʤ
+paʤ
+§_Punjabi_3 : Irish
+pənʤ
+kuɟ
+§_Punjabi_4 : Old Church Slavonic
+pənʤ
+pɛtɪ
+§_Punjabi_5 : Spanish
+pənʤ
+θiŋko
+§_Punjabi_6 : Slovak
+pənʤ
+pæc
+§_Punjabi_7 : SerboCroatian
+pənʤ
+pɛt
+§_Punjabi_8 : Bihari
+pənʤ
+pac
+§_Punjabi_9 : Bulgarian
+pənʤ
+pɛt
+§_SerboCroatian_0 : Macedonian
+pɛt
+pet
+§_SerboCroatian_1 : Frisian
+pɛt
+fif
+§_SerboCroatian_2 : French
+pɛt
+sɛk
+§_SerboCroatian_3 : Portuguese
+pɛt
+siku
+§_SerboCroatian_4 : Slovak
+pɛt
+pæc
+§_SerboCroatian_5 : Scottish Gaelic
+pɛt
+kog
+§_SerboCroatian_6 : Dutch
+pɛt
+vɛf
+§_SerboCroatian_7 : Punjabi
+pɛt
+pənʤ
+§_SerboCroatian_8 : Polish
+pɛt
+pɛɲʧ
+§_SerboCroatian_9 : Oriya
+pɛt
+pancɔ
+§_[Legacy] Breton St_0 : Bulgarian
+pɛmp
+pɛt
+§_[Legacy] Breton St_1 : [Legacy] Albanian T
+pɛmp
+pɛsə
+§_[Legacy] Breton St_2 : English
+pɛmp
+fav
+§_[Legacy] Breton St_3 : Hindi
+pɛmp
+paʧ
+§_[Legacy] Breton St_4 : Khotanese
+pɛmp
+pɐnʧɐ
+§_[Legacy] Breton St_5 : Breton
+pɛmp
+pɛmp
+§_[Legacy] Breton St_6 : Catalan
+pɛmp
+siŋk
+§_[Legacy] Breton St_7 : Urdu
+pɛmp
+pɑnʧ
+§_[Legacy] Breton St_8 : Spanish
+pɛmp
+θiŋko
+§_[Legacy] Breton St_9 : Gutnish Lau
+pɛmp
+fɛm
+§_[Legacy] Albanian T_0 : Portuguese
+pɛsə
+siku
+§_[Legacy] Albanian T_1 : Macedonian
+pɛsə
+pet
+§_[Legacy] Albanian T_2 : Belarusian
+pɛsə
+paʤ
+§_[Legacy] Albanian T_3 : Hindi
+pɛsə
+paʧ
+§_[Legacy] Albanian T_4 : Bihari
+pɛsə
+pac
+§_[Legacy] Albanian T_5 : Czech
+pɛsə
+pɛt
+§_[Legacy] Albanian T_6 : Oriya
+pɛsə
+pancɔ
+§_[Legacy] Albanian T_7 : Urdu
+pɛsə
+pɑnʧ
+§_[Legacy] Albanian T_8 : Ossetic
+pɛsə
+fonʧ
+§_[Legacy] Albanian T_9 : Faroese
+pɛsə
+fɪm
+§_Bulgarian_0 : Marathi
+pɛt
+paʤ
+§_Bulgarian_1 : English
+pɛt
+fav
+§_Bulgarian_2 : Ossetic
+pɛt
+fonʧ
+§_Bulgarian_3 : Provencal
+pɛt
+siŋk
+§_Bulgarian_4 : Dutch
+pɛt
+vɛf
+§_Bulgarian_5 : Middle Cornish
+pɛt
+pɪmp
+§_Bulgarian_6 : Khotanese
+pɛt
+pɐnʧɐ
+§_Bulgarian_7 : Old Swedish
+pɛt
+fæm
+§_Bulgarian_8 : Scottish Gaelic
+pɛt
+kog
+§_Bulgarian_9 : Catalan
+pɛt
+siŋk
+§_Old Church Slavonic_0 : German
+pɛtɪ
+fɪnf
+§_Old Church Slavonic_1 : Icelandic
+pɛtɪ
+fɪm
+§_Old Church Slavonic_2 : Oriya
+pɛtɪ
+pancɔ
+§_Old Church Slavonic_3 : [Legacy] Albanian T
+pɛtɪ
+pɛsə
+§_Old Church Slavonic_4 : Classical Armenian
+pɛtɪ
+hing
+§_Old Church Slavonic_5 : Macedonian
+pɛtɪ
+pet
+§_Old Church Slavonic_6 : Assamese
+pɛtɪ
+pas
+§_Old Church Slavonic_7 : Portuguese
+pɛtɪ
+siku
+§_Old Church Slavonic_8 : [Legacy] Serbian
+pɛtɪ
+pet
+§_Old Church Slavonic_9 : Ossetic Digor
+pɛtɪ
+fonʧ
+§_Sorbian Lower_0 : Swedish
+pɪɕ
+fɛm
+§_Sorbian Lower_1 : Slovenian
+pɪɕ
+pet
+§_Sorbian Lower_2 : Old Church Slavonic
+pɪɕ
+pɛtɪ
+§_Sorbian Lower_3 : Catalan
+pɪɕ
+siŋk
+§_Sorbian Lower_4 : Russian
+pɪɕ
+pat
+§_Sorbian Lower_5 : Armenian Western
+pɪɕ
+hiŋk
+§_Sorbian Lower_6 : Classical Armenian
+pɪɕ
+hing
+§_Sorbian Lower_7 : Gutnish Lau
+pɪɕ
+fɛm
+§_Sorbian Lower_8 : English
+pɪɕ
+fav
+§_Sorbian Lower_9 : Ancient Greek
+pɪɕ
+pente
+§_Middle Cornish_0 : Frisian
+pɪmp
+fif
+§_Middle Cornish_1 : Khotanese
+pɪmp
+pɐnʧɐ
+§_Middle Cornish_2 : Assamese
+pɪmp
+pas
+§_Middle Cornish_3 : Old Norse
+pɪmp
+fim
+§_Middle Cornish_4 : Ossetic
+pɪmp
+fonʧ
+§_Middle Cornish_5 : Dutch
+pɪmp
+vɛf
+§_Middle Cornish_6 : Belarusian
+pɪmp
+paʤ
+§_Middle Cornish_7 : SerboCroatian
+pɪmp
+pɛt
+§_Middle Cornish_8 : Ukrainian
+pɪmp
+pat
+§_Middle Cornish_9 : Ancient Greek
+pɪmp
+pente
+§_Welsh_0 : Sorbian Lower
+pɪmp
+pɪɕ
+§_Welsh_1 : Spanish
+pɪmp
+θiŋko
+§_Welsh_2 : Oriya
+pɪmp
+pancɔ
+§_Welsh_3 : Khotanese
+pɪmp
+pɐnʧɐ
+§_Welsh_4 : Swedish
+pɪmp
+fɛm
+§_Welsh_5 : Armenian Western
+pɪmp
+hiŋk
+§_Welsh_6 : Provencal
+pɪmp
+siŋk
+§_Welsh_7 : Slovenian
+pɪmp
+pet
+§_Welsh_8 : [Legacy] Serbian
+pɪmp
+pet
+§_Welsh_9 : Gutnish Lau
+pɪmp
+fɛm
+§_Ukrainian_0 : Magahi
+pat
+pɑc
+§_Ukrainian_1 : Macedonian
+pat
+pet
+§_Ukrainian_2 : Assamese
+pat
+pas
+§_Ukrainian_3 : Slovenian
+pat
+pet
+§_Ukrainian_4 : Breton
+pat
+pɛmp
+§_Ukrainian_5 : Scottish Gaelic
+pat
+kog
+§_Ukrainian_6 : Irish
+pat
+kuɟ
+§_Ukrainian_7 : Polish
+pat
+pɛɲʧ
+§_Ukrainian_8 : Sorbian Upper
+pat
+pɛʧ
+§_Ukrainian_9 : English
+pat
+fav
+§_Russian_0 : Gutnish Lau
+pat
+fɛm
+§_Russian_1 : Scottish Gaelic
+pat
+kog
+§_Russian_2 : Old Swedish
+pat
+fæm
+§_Russian_3 : Old Irish
+pat
+kog
+§_Russian_4 : English
+pat
+fav
+§_Russian_5 : Swedish
+pat
+fɛm
+§_Russian_6 : Welsh
+pat
+pɪmp
+§_Russian_7 : Urdu
+pat
+pɑnʧ
+§_Russian_8 : Polish
+pat
+pɛɲʧ
+§_Russian_9 : Spanish
+pat
+θiŋko
+§_Belarusian_0 : Classical Armenian
+paʤ
+hing
+§_Belarusian_1 : Urdu
+paʤ
+pɑnʧ
+§_Belarusian_2 : Bulgarian
+paʤ
+pɛt
+§_Belarusian_3 : Swedish
+paʤ
+fɛm
+§_Belarusian_4 : Elfdalian
+paʤ
+fɛm
+§_Belarusian_5 : Norwegian Riksmal
+paʤ
+fɛm
+§_Belarusian_6 : [Legacy] Breton St
+paʤ
+pɛmp
+§_Belarusian_7 : Sorbian Lower
+paʤ
+pɪɕ
+§_Belarusian_8 : Sinhalese
+paʤ
+paha
+§_Belarusian_9 : Ossetic Digor
+paʤ
+fonʧ
+§_Polish_0 : Sorbian Lower
+pɛɲʧ
+pɪɕ
+§_Polish_1 : Belarusian
+pɛɲʧ
+paʤ
+§_Polish_2 : Welsh
+pɛɲʧ
+pɪmp
+§_Polish_3 : Bihari
+pɛɲʧ
+pac
+§_Polish_4 : Oriya
+pɛɲʧ
+pancɔ
+§_Polish_5 : Icelandic
+pɛɲʧ
+fɪm
+§_Polish_6 : Frisian
+pɛɲʧ
+fif
+§_Polish_7 : Magahi
+pɛɲʧ
+pɑc
+§_Polish_8 : Latin
+pɛɲʧ
+kinke
+§_Polish_9 : Marathi
+pɛɲʧ
+paʤ
+§_Czech_0 : Catalan
+pɛt
+siŋk
+§_Czech_1 : Bihari
+pɛt
+pac
+§_Czech_2 : Irish
+pɛt
+kuɟ
+§_Czech_3 : Greek
+pɛt
+pende
+§_Czech_4 : Slovak
+pɛt
+pæc
+§_Czech_5 : [Legacy] Serbian
+pɛt
+pet
+§_Czech_6 : Assamese
+pɛt
+pas
+§_Czech_7 : Hindi
+pɛt
+paʧ
+§_Czech_8 : Elfdalian
+pɛt
+fɛm
+§_Czech_9 : Swedish
+pɛt
+fɛm
+§_French_0 : Old Swedish
+sɛk
+fæm
+§_French_1 : Breton
+sɛk
+pɛmp
+§_French_2 : Bulgarian
+sɛk
+pɛt
+§_French_3 : Dutch
+sɛk
+vɛf
+§_French_4 : Greek
+sɛk
+pende
+§_French_5 : Ossetic
+sɛk
+fonʧ
+§_French_6 : Sorbian Lower
+sɛk
+pɪɕ
+§_French_7 : Assamese
+sɛk
+pas
+§_French_8 : Belarusian
+sɛk
+paʤ
+§_French_9 : Classical Armenian
+sɛk
+hing
+§_Catalan_0 : English
+siŋk
+fav
+§_Catalan_1 : Portuguese
+siŋk
+siku
+§_Catalan_2 : [Legacy] Serbian
+siŋk
+pet
+§_Catalan_3 : Provencal
+siŋk
+siŋk
+§_Catalan_4 : Spanish
+siŋk
+θiŋko
+§_Catalan_5 : Middle Cornish
+siŋk
+pɪmp
+§_Catalan_6 : Scottish Gaelic
+siŋk
+kog
+§_Catalan_7 : Czech
+siŋk
+pɛt
+§_Catalan_8 : Macedonian
+siŋk
+pet
+§_Catalan_9 : [Legacy] Breton St
+siŋk
+pɛmp
+§_Provencal_0 : Classical Armenian
+siŋk
+hing
+§_Provencal_1 : Welsh
+siŋk
+pɪmp
+§_Provencal_2 : Nepali
+siŋk
+paʧ
+§_Provencal_3 : Sorbian Upper
+siŋk
+pɛʧ
+§_Provencal_4 : Polish
+siŋk
+pɛɲʧ
+§_Provencal_5 : Middle Breton
+siŋk
+pemp
+§_Provencal_6 : Slovenian
+siŋk
+pet
+§_Provencal_7 : [Legacy] Breton St
+siŋk
+pɛmp
+§_Provencal_8 : Norwegian Riksmal
+siŋk
+fɛm
+§_Provencal_9 : Icelandic
+siŋk
+fɪm
+§_Romanian_0 : [Legacy] Albanian T
+ʧinʧ
+pɛsə
+§_Romanian_1 : Old Irish
+ʧinʧ
+kog
+§_Romanian_2 : Khotanese
+ʧinʧ
+pɐnʧɐ
+§_Romanian_3 : Bihari
+ʧinʧ
+pac
+§_Romanian_4 : Gutnish Lau
+ʧinʧ
+fɛm
+§_Romanian_5 : SerboCroatian
+ʧinʧ
+pɛt
+§_Romanian_6 : Scottish Gaelic
+ʧinʧ
+kog
+§_Romanian_7 : German
+ʧinʧ
+fɪnf
+§_Romanian_8 : Macedonian
+ʧinʧ
+pet
+§_Romanian_9 : Russian
+ʧinʧ
+pat
+§_Dutch_0 : Oriya
+vɛf
+pancɔ
+§_Dutch_1 : Marathi
+vɛf
+paʤ
+§_Dutch_2 : Armenian Eastern
+vɛf
+hiŋg
+§_Dutch_3 : Norwegian Riksmal
+vɛf
+fɛm
+§_Dutch_4 : Bihari
+vɛf
+pac
+§_Dutch_5 : Catalan
+vɛf
+siŋk
+§_Dutch_6 : Old Swedish
+vɛf
+fæm
+§_Dutch_7 : [Legacy] Albanian T
+vɛf
+pɛsə
+§_Dutch_8 : Hindi
+vɛf
+paʧ
+§_Dutch_9 : Ossetic Iron
+vɛf
+fonz
+§_armenian_0 : sindhi
+vɛʤ
+ʧə
+§_armenian_1 : westenr frisian
+vɛʤ
+sɛs
+§_armenian_2 : french
+vɛʤ
+sis
+§_armenian_3 : greek
+vɛʤ
+ɛksi
+§_armenian_4 : Cimbrian
+vɛʤ
+zɛkse
+§_armenian_5 : gilaki
+vɛʤ
+ʃiʃ
+§_armenian_6 : pashai
+vɛʤ
+ʃo
+§_armenian_7 : luxembourgish
+vɛʤ
+zɛks
+§_armenian_8 : latvian
+vɛʤ
+seʃi
+§_armenian_9 : western farsi
+vɛʤ
+ʃiʃ
+§_sinhala_0 : greek
+haə
+ɛksi
+§_sinhala_1 : latvian
+haə
+seʃi
+§_sinhala_2 : Dutch
+haə
+zɛs
+§_sinhala_3 : Cimbrian
+haə
+zɛkse
+§_sinhala_4 : norvegian
+haə
+sɛks
+§_sinhala_5 : gilaki
+haə
+ʃiʃ
+§_sinhala_6 : Kashubian
+haə
+ʃɛsʤ
+§_sinhala_7 : french
+haə
+sis
+§_sinhala_8 : Polish
+haə
+ʃeɕʧ
+§_sinhala_9 : sassarese sardinian
+haə
+sɛ
+§_pashai_0 : sinhala
+ʃo
+haə
+§_pashai_1 : latvian
+ʃo
+seʃi
+§_pashai_2 : Icelandic
+ʃo
+sɛxs
+§_pashai_3 : Dutch
+ʃo
+zɛs
+§_pashai_4 : western farsi
+ʃo
+ʃiʃ
+§_pashai_5 : greek
+ʃo
+ɛksi
+§_pashai_6 : Breton
+ʃo
+xɛx
+§_pashai_7 : latin
+ʃo
+sɛks
+§_pashai_8 : Polish
+ʃo
+ʃeɕʧ
+§_pashai_9 : Kashubian
+ʃo
+ʃɛsʤ
+§_sindhi_0 : asturian
+ʧə
+ses
+§_sindhi_1 : latvian
+ʧə
+seʃi
+§_sindhi_2 : Rumanian
+ʧə
+ʃase
+§_sindhi_3 : westenr frisian
+ʧə
+sɛs
+§_sindhi_4 : manx
+ʧə
+ʃe
+§_sindhi_5 : russian
+ʧə
+ʂɛst
+§_sindhi_6 : hindi
+ʧə
+ʧɛ
+§_sindhi_7 : latin
+ʧə
+sɛks
+§_sindhi_8 : SerboCroatian
+ʧə
+ʃest
+§_sindhi_9 : albanian
+ʧə
+ɟaʃtə
+§_hindi_0 : manx
+ʧɛ
+ʃe
+§_hindi_1 : pashto
+ʧɛ
+ʃpaʐ
+§_hindi_2 : Low Saxon
+ʧɛ
+zɛs
+§_hindi_3 : albanian
+ʧɛ
+ɟaʃtə
+§_hindi_4 : russian
+ʧɛ
+ʂɛst
+§_hindi_5 : Bulgarian
+ʧɛ
+ʃest
+§_hindi_6 : wallon
+ʧɛ
+ʃiʃ
+§_hindi_7 : Sicilian
+ʧɛ
+sɛ
+§_hindi_8 : latin
+ʧɛ
+sɛks
+§_hindi_9 : Polish
+ʧɛ
+ʃeɕʧ
+§_pashto_0 : SerboCroatian
+ʃpaʐ
+ʃest
+§_pashto_1 : russian
+ʃpaʐ
+ʂɛst
+§_pashto_2 : Cimbrian
+ʃpaʐ
+zɛkse
+§_pashto_3 : wallon
+ʃpaʐ
+ʃiʃ
+§_pashto_4 : gilaki
+ʃpaʐ
+ʃiʃ
+§_pashto_5 : Rumanian
+ʃpaʐ
+ʃase
+§_pashto_6 : hindi
+ʃpaʐ
+ʧɛ
+§_pashto_7 : norvegian
+ʃpaʐ
+sɛks
+§_pashto_8 : manx
+ʃpaʐ
+ʃe
+§_pashto_9 : Kashubian
+ʃpaʐ
+ʃɛsʤ
+§_gilaki_0 : pashto
+ʃiʃ
+ʃpaʐ
+§_gilaki_1 : german
+ʃiʃ
+zeks
+§_gilaki_2 : Irish
+ʃiʃ
+əʃe
+§_gilaki_3 : latvian
+ʃiʃ
+seʃi
+§_gilaki_4 : lithuanian
+ʃiʃ
+ʃɛʃɪ
+§_gilaki_5 : latin
+ʃiʃ
+sɛks
+§_gilaki_6 : westenr frisian
+ʃiʃ
+sɛs
+§_gilaki_7 : sassarese sardinian
+ʃiʃ
+sɛ
+§_gilaki_8 : swissgerman
+ʃiʃ
+sæχs
+§_gilaki_9 : Rumanian
+ʃiʃ
+ʃase
+§_central kurdish_0 : latvian
+ʃæʃ
+seʃi
+§_central kurdish_1 : swissgerman
+ʃæʃ
+sæχs
+§_central kurdish_2 : Bulgarian
+ʃæʃ
+ʃest
+§_central kurdish_3 : SerboCroatian
+ʃæʃ
+ʃest
+§_central kurdish_4 : sassarese sardinian
+ʃæʃ
+sɛ
+§_central kurdish_5 : Breton
+ʃæʃ
+xɛx
+§_central kurdish_6 : greek
+ʃæʃ
+ɛksi
+§_central kurdish_7 : latin
+ʃæʃ
+sɛks
+§_central kurdish_8 : Dutch
+ʃæʃ
+zɛs
+§_central kurdish_9 : Kashubian
+ʃæʃ
+ʃɛsʤ
+§_western farsi_0 : Bulgarian
+ʃiʃ
+ʃest
+§_western farsi_1 : albanian
+ʃiʃ
+ɟaʃtə
+§_western farsi_2 : latin
+ʃiʃ
+sɛks
+§_western farsi_3 : Dutch
+ʃiʃ
+zɛs
+§_western farsi_4 : Sicilian
+ʃiʃ
+sɛ
+§_western farsi_5 : pashai
+ʃiʃ
+ʃo
+§_western farsi_6 : SerboCroatian
+ʃiʃ
+ʃest
+§_western farsi_7 : Polish
+ʃiʃ
+ʃeɕʧ
+§_western farsi_8 : latvian
+ʃiʃ
+seʃi
+§_western farsi_9 : french
+ʃiʃ
+sis
+§_albanian_0 : swissgerman
+ɟaʃtə
+sæχs
+§_albanian_1 : SerboCroatian
+ɟaʃtə
+ʃest
+§_albanian_2 : italian
+ɟaʃtə
+sɛ
+§_albanian_3 : sinhala
+ɟaʃtə
+haə
+§_albanian_4 : Breton
+ɟaʃtə
+xɛx
+§_albanian_5 : german
+ɟaʃtə
+zeks
+§_albanian_6 : Irish
+ɟaʃtə
+əʃe
+§_albanian_7 : pashai
+ɟaʃtə
+ʃo
+§_albanian_8 : norvegian
+ɟaʃtə
+sɛks
+§_albanian_9 : sassarese sardinian
+ɟaʃtə
+sɛ
+§_greek_0 : lithuanian
+ɛksi
+ʃɛʃɪ
+§_greek_1 : Icelandic
+ɛksi
+sɛxs
+§_greek_2 : Kashubian
+ɛksi
+ʃɛsʤ
+§_greek_3 : Dutch
+ɛksi
+zɛs
+§_greek_4 : german
+ɛksi
+zeks
+§_greek_5 : russian
+ɛksi
+ʂɛst
+§_greek_6 : Irish
+ɛksi
+əʃe
+§_greek_7 : latvian
+ɛksi
+seʃi
+§_greek_8 : Rumanian
+ɛksi
+ʃase
+§_greek_9 : gilaki
+ɛksi
+ʃiʃ
+§_latin_0 : german
+sɛks
+zeks
+§_latin_1 : Icelandic
+sɛks
+sɛxs
+§_latin_2 : english
+sɛks
+sɪks
+§_latin_3 : manx
+sɛks
+ʃe
+§_latin_4 : Bulgarian
+sɛks
+ʃest
+§_latin_5 : Irish
+sɛks
+əʃe
+§_latin_6 : lithuanian
+sɛks
+ʃɛʃɪ
+§_latin_7 : Sicilian
+sɛks
+sɛ
+§_latin_8 : central kurdish
+sɛks
+ʃæʃ
+§_latin_9 : hindi
+sɛks
+ʧɛ
+§_Rumanian_0 : russian
+ʃase
+ʂɛst
+§_Rumanian_1 : sindhi
+ʃase
+ʧə
+§_Rumanian_2 : Bulgarian
+ʃase
+ʃest
+§_Rumanian_3 : swissgerman
+ʃase
+sæχs
+§_Rumanian_4 : latvian
+ʃase
+seʃi
+§_Rumanian_5 : western farsi
+ʃase
+ʃiʃ
+§_Rumanian_6 : sassarese sardinian
+ʃase
+sɛ
+§_Rumanian_7 : wallon
+ʃase
+ʃiʃ
+§_Rumanian_8 : manx
+ʃase
+ʃe
+§_Rumanian_9 : Irish
+ʃase
+əʃe
+§_italian_0 : sassarese sardinian
+sɛ
+sɛ
+§_italian_1 : swissgerman
+sɛ
+sæχs
+§_italian_2 : albanian
+sɛ
+ɟaʃtə
+§_italian_3 : russian
+sɛ
+ʂɛst
+§_italian_4 : wallon
+sɛ
+ʃiʃ
+§_italian_5 : SerboCroatian
+sɛ
+ʃest
+§_italian_6 : french
+sɛ
+sis
+§_italian_7 : luxembourgish
+sɛ
+zɛks
+§_italian_8 : western farsi
+sɛ
+ʃiʃ
+§_italian_9 : greek
+sɛ
+ɛksi
+§_Sicilian_0 : sinhala
+sɛ
+haə
+§_Sicilian_1 : german
+sɛ
+zeks
+§_Sicilian_2 : italian
+sɛ
+sɛ
+§_Sicilian_3 : westenr frisian
+sɛ
+sɛs
+§_Sicilian_4 : pashto
+sɛ
+ʃpaʐ
+§_Sicilian_5 : english
+sɛ
+sɪks
+§_Sicilian_6 : asturian
+sɛ
+ses
+§_Sicilian_7 : central kurdish
+sɛ
+ʃæʃ
+§_Sicilian_8 : latin
+sɛ
+sɛks
+§_Sicilian_9 : Icelandic
+sɛ
+sɛxs
+§_french_0 : german
+sis
+zeks
+§_french_1 : Sicilian
+sis
+sɛ
+§_french_2 : swissgerman
+sis
+sæχs
+§_french_3 : Icelandic
+sis
+sɛxs
+§_french_4 : central kurdish
+sis
+ʃæʃ
+§_french_5 : Dutch
+sis
+zɛs
+§_french_6 : SerboCroatian
+sis
+ʃest
+§_french_7 : pashai
+sis
+ʃo
+§_french_8 : norvegian
+sis
+sɛks
+§_french_9 : Kashubian
+sis
+ʃɛsʤ
+§_wallon_0 : westenr frisian
+ʃiʃ
+sɛs
+§_wallon_1 : french
+ʃiʃ
+sis
+§_wallon_2 : hindi
+ʃiʃ
+ʧɛ
+§_wallon_3 : asturian
+ʃiʃ
+ses
+§_wallon_4 : Irish
+ʃiʃ
+əʃe
+§_wallon_5 : SerboCroatian
+ʃiʃ
+ʃest
+§_wallon_6 : Rumanian
+ʃiʃ
+ʃase
+§_wallon_7 : italian
+ʃiʃ
+sɛ
+§_wallon_8 : gilaki
+ʃiʃ
+ʃiʃ
+§_wallon_9 : latvian
+ʃiʃ
+seʃi
+§_asturian_0 : manx
+ses
+ʃe
+§_asturian_1 : Cimbrian
+ses
+zɛkse
+§_asturian_2 : albanian
+ses
+ɟaʃtə
+§_asturian_3 : western farsi
+ses
+ʃiʃ
+§_asturian_4 : sindhi
+ses
+ʧə
+§_asturian_5 : SerboCroatian
+ses
+ʃest
+§_asturian_6 : Bulgarian
+ses
+ʃest
+§_asturian_7 : sassarese sardinian
+ses
+sɛ
+§_asturian_8 : sinhala
+ses
+haə
+§_asturian_9 : latin
+ses
+sɛks
+§_sassarese sardinian_0 : greek
+sɛ
+ɛksi
+§_sassarese sardinian_1 : lithuanian
+sɛ
+ʃɛʃɪ
+§_sassarese sardinian_2 : hindi
+sɛ
+ʧɛ
+§_sassarese sardinian_3 : english
+sɛ
+sɪks
+§_sassarese sardinian_4 : manx
+sɛ
+ʃe
+§_sassarese sardinian_5 : sindhi
+sɛ
+ʧə
+§_sassarese sardinian_6 : asturian
+sɛ
+ses
+§_sassarese sardinian_7 : sinhala
+sɛ
+haə
+§_sassarese sardinian_8 : Low Saxon
+sɛ
+zɛs
+§_sassarese sardinian_9 : Dutch
+sɛ
+zɛs
+§_Breton_0 : latvian
+xɛx
+seʃi
+§_Breton_1 : russian
+xɛx
+ʂɛst
+§_Breton_2 : SerboCroatian
+xɛx
+ʃest
+§_Breton_3 : Kashubian
+xɛx
+ʃɛsʤ
+§_Breton_4 : Polish
+xɛx
+ʃeɕʧ
+§_Breton_5 : italian
+xɛx
+sɛ
+§_Breton_6 : wallon
+xɛx
+ʃiʃ
+§_Breton_7 : Irish
+xɛx
+əʃe
+§_Breton_8 : german
+xɛx
+zeks
+§_Breton_9 : sindhi
+xɛx
+ʧə
+§_Irish_0 : sinhala
+əʃe
+haə
+§_Irish_1 : pashai
+əʃe
+ʃo
+§_Irish_2 : swissgerman
+əʃe
+sæχs
+§_Irish_3 : italian
+əʃe
+sɛ
+§_Irish_4 : Cimbrian
+əʃe
+zɛkse
+§_Irish_5 : westenr frisian
+əʃe
+sɛs
+§_Irish_6 : Low Saxon
+əʃe
+zɛs
+§_Irish_7 : latin
+əʃe
+sɛks
+§_Irish_8 : wallon
+əʃe
+ʃiʃ
+§_Irish_9 : french
+əʃe
+sis
+§_manx_0 : pashto
+ʃe
+ʃpaʐ
+§_manx_1 : pashai
+ʃe
+ʃo
+§_manx_2 : french
+ʃe
+sis
+§_manx_3 : Rumanian
+ʃe
+ʃase
+§_manx_4 : greek
+ʃe
+ɛksi
+§_manx_5 : Irish
+ʃe
+əʃe
+§_manx_6 : western farsi
+ʃe
+ʃiʃ
+§_manx_7 : hindi
+ʃe
+ʧɛ
+§_manx_8 : westenr frisian
+ʃe
+sɛs
+§_manx_9 : central kurdish
+ʃe
+ʃæʃ
+§_english_0 : gilaki
+sɪks
+ʃiʃ
+§_english_1 : Icelandic
+sɪks
+sɛxs
+§_english_2 : swissgerman
+sɪks
+sæχs
+§_english_3 : Low Saxon
+sɪks
+zɛs
+§_english_4 : german
+sɪks
+zeks
+§_english_5 : french
+sɪks
+sis
+§_english_6 : latin
+sɪks
+sɛks
+§_english_7 : wallon
+sɪks
+ʃiʃ
+§_english_8 : russian
+sɪks
+ʂɛst
+§_english_9 : luxembourgish
+sɪks
+zɛks
+§_westenr frisian_0 : Rumanian
+sɛs
+ʃase
+§_westenr frisian_1 : Polish
+sɛs
+ʃeɕʧ
+§_westenr frisian_2 : central kurdish
+sɛs
+ʃæʃ
+§_westenr frisian_3 : latin
+sɛs
+sɛks
+§_westenr frisian_4 : german
+sɛs
+zeks
+§_westenr frisian_5 : Breton
+sɛs
+xɛx
+§_westenr frisian_6 : Low Saxon
+sɛs
+zɛs
+§_westenr frisian_7 : Bulgarian
+sɛs
+ʃest
+§_westenr frisian_8 : pashto
+sɛs
+ʃpaʐ
+§_westenr frisian_9 : swissgerman
+sɛs
+sæχs
+§_german_0 : english
+zeks
+sɪks
+§_german_1 : latvian
+zeks
+seʃi
+§_german_2 : westenr frisian
+zeks
+sɛs
+§_german_3 : Cimbrian
+zeks
+zɛkse
+§_german_4 : Polish
+zeks
+ʃeɕʧ
+§_german_5 : sassarese sardinian
+zeks
+sɛ
+§_german_6 : french
+zeks
+sis
+§_german_7 : italian
+zeks
+sɛ
+§_german_8 : asturian
+zeks
+ses
+§_german_9 : lithuanian
+zeks
+ʃɛʃɪ
+§_luxembourgish_0 : sassarese sardinian
+zɛks
+sɛ
+§_luxembourgish_1 : german
+zɛks
+zeks
+§_luxembourgish_2 : english
+zɛks
+sɪks
+§_luxembourgish_3 : Bulgarian
+zɛks
+ʃest
+§_luxembourgish_4 : lithuanian
+zɛks
+ʃɛʃɪ
+§_luxembourgish_5 : pashai
+zɛks
+ʃo
+§_luxembourgish_6 : hindi
+zɛks
+ʧɛ
+§_luxembourgish_7 : norvegian
+zɛks
+sɛks
+§_luxembourgish_8 : western farsi
+zɛks
+ʃiʃ
+§_luxembourgish_9 : russian
+zɛks
+ʂɛst
+§_swissgerman_0 : pashai
+sæχs
+ʃo
+§_swissgerman_1 : westenr frisian
+sæχs
+sɛs
+§_swissgerman_2 : SerboCroatian
+sæχs
+ʃest
+§_swissgerman_3 : latin
+sæχs
+sɛks
+§_swissgerman_4 : central kurdish
+sæχs
+ʃæʃ
+§_swissgerman_5 : Sicilian
+sæχs
+sɛ
+§_swissgerman_6 : italian
+sæχs
+sɛ
+§_swissgerman_7 : Irish
+sæχs
+əʃe
+§_swissgerman_8 : Low Saxon
+sæχs
+zɛs
+§_swissgerman_9 : Dutch
+sæχs
+zɛs
+§_Cimbrian_0 : sassarese sardinian
+zɛkse
+sɛ
+§_Cimbrian_1 : sindhi
+zɛkse
+ʧə
+§_Cimbrian_2 : manx
+zɛkse
+ʃe
+§_Cimbrian_3 : latvian
+zɛkse
+seʃi
+§_Cimbrian_4 : Polish
+zɛkse
+ʃeɕʧ
+§_Cimbrian_5 : latin
+zɛkse
+sɛks
+§_Cimbrian_6 : albanian
+zɛkse
+ɟaʃtə
+§_Cimbrian_7 : pashto
+zɛkse
+ʃpaʐ
+§_Cimbrian_8 : Bulgarian
+zɛkse
+ʃest
+§_Cimbrian_9 : Sicilian
+zɛkse
+sɛ
+§_Dutch_0 : Kashubian
+zɛs
+ʃɛsʤ
+§_Dutch_1 : albanian
+zɛs
+ɟaʃtə
+§_Dutch_2 : greek
+zɛs
+ɛksi
+§_Dutch_3 : pashai
+zɛs
+ʃo
+§_Dutch_4 : Irish
+zɛs
+əʃe
+§_Dutch_5 : luxembourgish
+zɛs
+zɛks
+§_Dutch_6 : french
+zɛs
+sis
+§_Dutch_7 : Low Saxon
+zɛs
+zɛs
+§_Dutch_8 : sassarese sardinian
+zɛs
+sɛ
+§_Dutch_9 : asturian
+zɛs
+ses
+§_Low Saxon_0 : Cimbrian
+zɛs
+zɛkse
+§_Low Saxon_1 : Kashubian
+zɛs
+ʃɛsʤ
+§_Low Saxon_2 : latin
+zɛs
+sɛks
+§_Low Saxon_3 : sindhi
+zɛs
+ʧə
+§_Low Saxon_4 : greek
+zɛs
+ɛksi
+§_Low Saxon_5 : sassarese sardinian
+zɛs
+sɛ
+§_Low Saxon_6 : manx
+zɛs
+ʃe
+§_Low Saxon_7 : wallon
+zɛs
+ʃiʃ
+§_Low Saxon_8 : lithuanian
+zɛs
+ʃɛʃɪ
+§_Low Saxon_9 : swissgerman
+zɛs
+sæχs
+§_Icelandic_0 : sassarese sardinian
+sɛxs
+sɛ
+§_Icelandic_1 : Bulgarian
+sɛxs
+ʃest
+§_Icelandic_2 : central kurdish
+sɛxs
+ʃæʃ
+§_Icelandic_3 : french
+sɛxs
+sis
+§_Icelandic_4 : norvegian
+sɛxs
+sɛks
+§_Icelandic_5 : asturian
+sɛxs
+ses
+§_Icelandic_6 : SerboCroatian
+sɛxs
+ʃest
+§_Icelandic_7 : sindhi
+sɛxs
+ʧə
+§_Icelandic_8 : pashai
+sɛxs
+ʃo
+§_Icelandic_9 : english
+sɛxs
+sɪks
+§_norvegian_0 : albanian
+sɛks
+ɟaʃtə
+§_norvegian_1 : sassarese sardinian
+sɛks
+sɛ
+§_norvegian_2 : Sicilian
+sɛks
+sɛ
+§_norvegian_3 : sindhi
+sɛks
+ʧə
+§_norvegian_4 : pashai
+sɛks
+ʃo
+§_norvegian_5 : Breton
+sɛks
+xɛx
+§_norvegian_6 : manx
+sɛks
+ʃe
+§_norvegian_7 : latvian
+sɛks
+seʃi
+§_norvegian_8 : swissgerman
+sɛks
+sæχs
+§_norvegian_9 : SerboCroatian
+sɛks
+ʃest
+§_latvian_0 : wallon
+seʃi
+ʃiʃ
+§_latvian_1 : Icelandic
+seʃi
+sɛxs
+§_latvian_2 : central kurdish
+seʃi
+ʃæʃ
+§_latvian_3 : western farsi
+seʃi
+ʃiʃ
+§_latvian_4 : Polish
+seʃi
+ʃeɕʧ
+§_latvian_5 : gilaki
+seʃi
+ʃiʃ
+§_latvian_6 : Irish
+seʃi
+əʃe
+§_latvian_7 : sindhi
+seʃi
+ʧə
+§_latvian_8 : pashto
+seʃi
+ʃpaʐ
+§_latvian_9 : luxembourgish
+seʃi
+zɛks
+§_lithuanian_0 : english
+ʃɛʃɪ
+sɪks
+§_lithuanian_1 : wallon
+ʃɛʃɪ
+ʃiʃ
+§_lithuanian_2 : albanian
+ʃɛʃɪ
+ɟaʃtə
+§_lithuanian_3 : Irish
+ʃɛʃɪ
+əʃe
+§_lithuanian_4 : french
+ʃɛʃɪ
+sis
+§_lithuanian_5 : manx
+ʃɛʃɪ
+ʃe
+§_lithuanian_6 : latin
+ʃɛʃɪ
+sɛks
+§_lithuanian_7 : sindhi
+ʃɛʃɪ
+ʧə
+§_lithuanian_8 : Icelandic
+ʃɛʃɪ
+sɛxs
+§_lithuanian_9 : western farsi
+ʃɛʃɪ
+ʃiʃ
+§_russian_0 : pashai
+ʂɛst
+ʃo
+§_russian_1 : swissgerman
+ʂɛst
+sæχs
+§_russian_2 : Cimbrian
+ʂɛst
+zɛkse
+§_russian_3 : central kurdish
+ʂɛst
+ʃæʃ
+§_russian_4 : Polish
+ʂɛst
+ʃeɕʧ
+§_russian_5 : latin
+ʂɛst
+sɛks
+§_russian_6 : latvian
+ʂɛst
+seʃi
+§_russian_7 : sinhala
+ʂɛst
+haə
+§_russian_8 : norvegian
+ʂɛst
+sɛks
+§_russian_9 : westenr frisian
+ʂɛst
+sɛs
+§_Kashubian_0 : sinhala
+ʃɛsʤ
+haə
+§_Kashubian_1 : pashto
+ʃɛsʤ
+ʃpaʐ
+§_Kashubian_2 : german
+ʃɛsʤ
+zeks
+§_Kashubian_3 : Breton
+ʃɛsʤ
+xɛx
+§_Kashubian_4 : Sicilian
+ʃɛsʤ
+sɛ
+§_Kashubian_5 : central kurdish
+ʃɛsʤ
+ʃæʃ
+§_Kashubian_6 : Low Saxon
+ʃɛsʤ
+zɛs
+§_Kashubian_7 : swissgerman
+ʃɛsʤ
+sæχs
+§_Kashubian_8 : asturian
+ʃɛsʤ
+ses
+§_Kashubian_9 : westenr frisian
+ʃɛsʤ
+sɛs
+§_Polish_0 : lithuanian
+ʃeɕʧ
+ʃɛʃɪ
+§_Polish_1 : hindi
+ʃeɕʧ
+ʧɛ
+§_Polish_2 : sindhi
+ʃeɕʧ
+ʧə
+§_Polish_3 : russian
+ʃeɕʧ
+ʂɛst
+§_Polish_4 : wallon
+ʃeɕʧ
+ʃiʃ
+§_Polish_5 : german
+ʃeɕʧ
+zeks
+§_Polish_6 : Sicilian
+ʃeɕʧ
+sɛ
+§_Polish_7 : Icelandic
+ʃeɕʧ
+sɛxs
+§_Polish_8 : manx
+ʃeɕʧ
+ʃe
+§_Polish_9 : latvian
+ʃeɕʧ
+seʃi
+§_Bulgarian_0 : sinhala
+ʃest
+haə
+§_Bulgarian_1 : SerboCroatian
+ʃest
+ʃest
+§_Bulgarian_2 : pashto
+ʃest
+ʃpaʐ
+§_Bulgarian_3 : lithuanian
+ʃest
+ʃɛʃɪ
+§_Bulgarian_4 : pashai
+ʃest
+ʃo
+§_Bulgarian_5 : Low Saxon
+ʃest
+zɛs
+§_Bulgarian_6 : Cimbrian
+ʃest
+zɛkse
+§_Bulgarian_7 : latin
+ʃest
+sɛks
+§_Bulgarian_8 : Sicilian
+ʃest
+sɛ
+§_Bulgarian_9 : swissgerman
+ʃest
+sæχs
+§_SerboCroatian_0 : Breton
+ʃest
+xɛx
+§_SerboCroatian_1 : manx
+ʃest
+ʃe
+§_SerboCroatian_2 : latvian
+ʃest
+seʃi
+§_SerboCroatian_3 : wallon
+ʃest
+ʃiʃ
+§_SerboCroatian_4 : greek
+ʃest
+ɛksi
+§_SerboCroatian_5 : Polish
+ʃest
+ʃeɕʧ
+§_SerboCroatian_6 : french
+ʃest
+sis
+§_SerboCroatian_7 : russian
+ʃest
+ʂɛst
+§_SerboCroatian_8 : luxembourgish
+ʃest
+zɛks
+§_SerboCroatian_9 : Icelandic
+ʃest
+sɛxs
+§_armenian_0 : Polish
+otə
+ɕedem
+§_armenian_1 : pashai
+otə
+sat
+§_armenian_2 : Dutch
+otə
+zevə
+§_armenian_3 : hindi
+otə
+sat
+§_armenian_4 : Bulgarian
+otə
+sedem
+§_armenian_5 : italian
+otə
+sɛte
+§_armenian_6 : wallon
+otə
+sɛt
+§_armenian_7 : german
+otə
+zibn
+§_armenian_8 : russian
+otə
+sɛm
+§_armenian_9 : norvegian
+otə
+syv
+§_sinhala_0 : Low Saxon
+hatə
+zøvm
+§_sinhala_1 : norvegian
+hatə
+syv
+§_sinhala_2 : german
+hatə
+zibn
+§_sinhala_3 : Irish
+hatə
+əʃɑxt
+§_sinhala_4 : manx
+hatə
+ʃax
+§_sinhala_5 : Rumanian
+hatə
+ʃapte
+§_sinhala_6 : Cimbrian
+hatə
+zibəne
+§_sinhala_7 : albanian
+hatə
+ʃtatə
+§_sinhala_8 : russian
+hatə
+sɛm
+§_sinhala_9 : Icelandic
+hatə
+sɛ
+§_pashai_0 : Low Saxon
+sat
+zøvm
+§_pashai_1 : sindhi
+sat
+sətə
+§_pashai_2 : Bulgarian
+sat
+sedem
+§_pashai_3 : Rumanian
+sat
+ʃapte
+§_pashai_4 : french
+sat
+sɛt
+§_pashai_5 : german
+sat
+zibn
+§_pashai_6 : SerboCroatian
+sat
+sedam
+§_pashai_7 : luxembourgish
+sat
+zivən
+§_pashai_8 : lithuanian
+sat
+sɛptinɪ
+§_pashai_9 : swissgerman
+sat
+sɪbə
+§_sindhi_0 : italian
+sətə
+sɛte
+§_sindhi_1 : sassarese sardinian
+sətə
+sɛti
+§_sindhi_2 : Polish
+sətə
+ɕedem
+§_sindhi_3 : asturian
+sətə
+sete
+§_sindhi_4 : french
+sətə
+sɛt
+§_sindhi_5 : latin
+sətə
+sɛptɛ
+§_sindhi_6 : Rumanian
+sətə
+ʃapte
+§_sindhi_7 : hindi
+sətə
+sat
+§_sindhi_8 : greek
+sətə
+ɛfta
+§_sindhi_9 : manx
+sətə
+ʃax
+§_hindi_0 : asturian
+sat
+sete
+§_hindi_1 : Kashubian
+sat
+sɪtmə
+§_hindi_2 : pashai
+sat
+sat
+§_hindi_3 : central kurdish
+sat
+hæwt
+§_hindi_4 : gilaki
+sat
+haf
+§_hindi_5 : german
+sat
+zibn
+§_hindi_6 : albanian
+sat
+ʃtatə
+§_hindi_7 : sassarese sardinian
+sat
+sɛti
+§_hindi_8 : norvegian
+sat
+syv
+§_hindi_9 : lithuanian
+sat
+sɛptinɪ
+§_pashto_0 : Polish
+oə
+ɕedem
+§_pashto_1 : Rumanian
+oə
+ʃapte
+§_pashto_2 : Breton
+oə
+ses
+§_pashto_3 : Sicilian
+oə
+sɛti
+§_pashto_4 : russian
+oə
+sɛm
+§_pashto_5 : wallon
+oə
+sɛt
+§_pashto_6 : hindi
+oə
+sat
+§_pashto_7 : manx
+oə
+ʃax
+§_pashto_8 : Bulgarian
+oə
+sedem
+§_pashto_9 : Irish
+oə
+əʃɑxt
+§_gilaki_0 : central kurdish
+haf
+hæwt
+§_gilaki_1 : westenr frisian
+haf
+sɔn
+§_gilaki_2 : Kashubian
+haf
+sɪtmə
+§_gilaki_3 : manx
+haf
+ʃax
+§_gilaki_4 : Irish
+haf
+əʃɑxt
+§_gilaki_5 : hindi
+haf
+sat
+§_gilaki_6 : greek
+haf
+ɛfta
+§_gilaki_7 : Breton
+haf
+ses
+§_gilaki_8 : Rumanian
+haf
+ʃapte
+§_gilaki_9 : latvian
+haf
+sɛptiɲi
+§_central kurdish_0 : russian
+hæwt
+sɛm
+§_central kurdish_1 : sassarese sardinian
+hæwt
+sɛti
+§_central kurdish_2 : Bulgarian
+hæwt
+sedem
+§_central kurdish_3 : english
+hæwt
+sevn
+§_central kurdish_4 : Rumanian
+hæwt
+ʃapte
+§_central kurdish_5 : norvegian
+hæwt
+syv
+§_central kurdish_6 : westenr frisian
+hæwt
+sɔn
+§_central kurdish_7 : Low Saxon
+hæwt
+zøvm
+§_central kurdish_8 : western farsi
+hæwt
+hæft
+§_central kurdish_9 : sindhi
+hæwt
+sətə
+§_western farsi_0 : westenr frisian
+hæft
+sɔn
+§_western farsi_1 : english
+hæft
+sevn
+§_western farsi_2 : Irish
+hæft
+əʃɑxt
+§_western farsi_3 : latvian
+hæft
+sɛptiɲi
+§_western farsi_4 : pashai
+hæft
+sat
+§_western farsi_5 : lithuanian
+hæft
+sɛptinɪ
+§_western farsi_6 : norvegian
+hæft
+syv
+§_western farsi_7 : greek
+hæft
+ɛfta
+§_western farsi_8 : gilaki
+hæft
+haf
+§_western farsi_9 : Polish
+hæft
+ɕedem
+§_albanian_0 : german
+ʃtatə
+zibn
+§_albanian_1 : norvegian
+ʃtatə
+syv
+§_albanian_2 : Kashubian
+ʃtatə
+sɪtmə
+§_albanian_3 : french
+ʃtatə
+sɛt
+§_albanian_4 : italian
+ʃtatə
+sɛte
+§_albanian_5 : Bulgarian
+ʃtatə
+sedem
+§_albanian_6 : lithuanian
+ʃtatə
+sɛptinɪ
+§_albanian_7 : sindhi
+ʃtatə
+sətə
+§_albanian_8 : Icelandic
+ʃtatə
+sɛ
+§_albanian_9 : gilaki
+ʃtatə
+haf
+§_greek_0 : westenr frisian
+ɛfta
+sɔn
+§_greek_1 : latvian
+ɛfta
+sɛptiɲi
+§_greek_2 : lithuanian
+ɛfta
+sɛptinɪ
+§_greek_3 : Breton
+ɛfta
+ses
+§_greek_4 : sinhala
+ɛfta
+hatə
+§_greek_5 : Sicilian
+ɛfta
+sɛti
+§_greek_6 : Rumanian
+ɛfta
+ʃapte
+§_greek_7 : german
+ɛfta
+zibn
+§_greek_8 : hindi
+ɛfta
+sat
+§_greek_9 : asturian
+ɛfta
+sete
+§_latin_0 : pashai
+sɛptɛ
+sat
+§_latin_1 : gilaki
+sɛptɛ
+haf
+§_latin_2 : Cimbrian
+sɛptɛ
+zibəne
+§_latin_3 : Polish
+sɛptɛ
+ɕedem
+§_latin_4 : wallon
+sɛptɛ
+sɛt
+§_latin_5 : russian
+sɛptɛ
+sɛm
+§_latin_6 : asturian
+sɛptɛ
+sete
+§_latin_7 : Kashubian
+sɛptɛ
+sɪtmə
+§_latin_8 : westenr frisian
+sɛptɛ
+sɔn
+§_latin_9 : manx
+sɛptɛ
+ʃax
+§_Rumanian_0 : hindi
+ʃapte
+sat
+§_Rumanian_1 : lithuanian
+ʃapte
+sɛptinɪ
+§_Rumanian_2 : Cimbrian
+ʃapte
+zibəne
+§_Rumanian_3 : Low Saxon
+ʃapte
+zøvm
+§_Rumanian_4 : latin
+ʃapte
+sɛptɛ
+§_Rumanian_5 : western farsi
+ʃapte
+hæft
+§_Rumanian_6 : Irish
+ʃapte
+əʃɑxt
+§_Rumanian_7 : english
+ʃapte
+sevn
+§_Rumanian_8 : sinhala
+ʃapte
+hatə
+§_Rumanian_9 : sindhi
+ʃapte
+sətə
+§_italian_0 : sinhala
+sɛte
+hatə
+§_italian_1 : asturian
+sɛte
+sete
+§_italian_2 : wallon
+sɛte
+sɛt
+§_italian_3 : Rumanian
+sɛte
+ʃapte
+§_italian_4 : swissgerman
+sɛte
+sɪbə
+§_italian_5 : SerboCroatian
+sɛte
+sedam
+§_italian_6 : Breton
+sɛte
+ses
+§_italian_7 : Low Saxon
+sɛte
+zøvm
+§_italian_8 : Icelandic
+sɛte
+sɛ
+§_italian_9 : german
+sɛte
+zibn
+§_Sicilian_0 : albanian
+sɛti
+ʃtatə
+§_Sicilian_1 : asturian
+sɛti
+sete
+§_Sicilian_2 : Icelandic
+sɛti
+sɛ
+§_Sicilian_3 : manx
+sɛti
+ʃax
+§_Sicilian_4 : german
+sɛti
+zibn
+§_Sicilian_5 : Kashubian
+sɛti
+sɪtmə
+§_Sicilian_6 : western farsi
+sɛti
+hæft
+§_Sicilian_7 : pashai
+sɛti
+sat
+§_Sicilian_8 : wallon
+sɛti
+sɛt
+§_Sicilian_9 : gilaki
+sɛti
+haf
+§_french_0 : Dutch
+sɛt
+zevə
+§_french_1 : russian
+sɛt
+sɛm
+§_french_2 : norvegian
+sɛt
+syv
+§_french_3 : Icelandic
+sɛt
+sɛ
+§_french_4 : Bulgarian
+sɛt
+sedem
+§_french_5 : latvian
+sɛt
+sɛptiɲi
+§_french_6 : manx
+sɛt
+ʃax
+§_french_7 : asturian
+sɛt
+sete
+§_french_8 : wallon
+sɛt
+sɛt
+§_french_9 : sassarese sardinian
+sɛt
+sɛti
+§_wallon_0 : german
+sɛt
+zibn
+§_wallon_1 : westenr frisian
+sɛt
+sɔn
+§_wallon_2 : italian
+sɛt
+sɛte
+§_wallon_3 : Irish
+sɛt
+əʃɑxt
+§_wallon_4 : greek
+sɛt
+ɛfta
+§_wallon_5 : albanian
+sɛt
+ʃtatə
+§_wallon_6 : Low Saxon
+sɛt
+zøvm
+§_wallon_7 : western farsi
+sɛt
+hæft
+§_wallon_8 : Polish
+sɛt
+ɕedem
+§_wallon_9 : lithuanian
+sɛt
+sɛptinɪ
+§_asturian_0 : Bulgarian
+sete
+sedem
+§_asturian_1 : Polish
+sete
+ɕedem
+§_asturian_2 : hindi
+sete
+sat
+§_asturian_3 : Breton
+sete
+ses
+§_asturian_4 : albanian
+sete
+ʃtatə
+§_asturian_5 : Dutch
+sete
+zevə
+§_asturian_6 : Icelandic
+sete
+sɛ
+§_asturian_7 : greek
+sete
+ɛfta
+§_asturian_8 : norvegian
+sete
+syv
+§_asturian_9 : latvian
+sete
+sɛptiɲi
+§_sassarese sardinian_0 : latin
+sɛti
+sɛptɛ
+§_sassarese sardinian_1 : SerboCroatian
+sɛti
+sedam
+§_sassarese sardinian_2 : westenr frisian
+sɛti
+sɔn
+§_sassarese sardinian_3 : sindhi
+sɛti
+sətə
+§_sassarese sardinian_4 : luxembourgish
+sɛti
+zivən
+§_sassarese sardinian_5 : Dutch
+sɛti
+zevə
+§_sassarese sardinian_6 : Bulgarian
+sɛti
+sedem
+§_sassarese sardinian_7 : pashai
+sɛti
+sat
+§_sassarese sardinian_8 : pashto
+sɛti
+oə
+§_sassarese sardinian_9 : russian
+sɛti
+sɛm
+§_Breton_0 : Irish
+ses
+əʃɑxt
+§_Breton_1 : italian
+ses
+sɛte
+§_Breton_2 : lithuanian
+ses
+sɛptinɪ
+§_Breton_3 : westenr frisian
+ses
+sɔn
+§_Breton_4 : english
+ses
+sevn
+§_Breton_5 : latvian
+ses
+sɛptiɲi
+§_Breton_6 : Kashubian
+ses
+sɪtmə
+§_Breton_7 : Rumanian
+ses
+ʃapte
+§_Breton_8 : swissgerman
+ses
+sɪbə
+§_Breton_9 : pashto
+ses
+oə
+§_Irish_0 : central kurdish
+əʃɑxt
+hæwt
+§_Irish_1 : western farsi
+əʃɑxt
+hæft
+§_Irish_2 : westenr frisian
+əʃɑxt
+sɔn
+§_Irish_3 : Kashubian
+əʃɑxt
+sɪtmə
+§_Irish_4 : Dutch
+əʃɑxt
+zevə
+§_Irish_5 : Low Saxon
+əʃɑxt
+zøvm
+§_Irish_6 : luxembourgish
+əʃɑxt
+zivən
+§_Irish_7 : gilaki
+əʃɑxt
+haf
+§_Irish_8 : pashai
+əʃɑxt
+sat
+§_Irish_9 : Rumanian
+əʃɑxt
+ʃapte
+§_manx_0 : gilaki
+ʃax
+haf
+§_manx_1 : norvegian
+ʃax
+syv
+§_manx_2 : Bulgarian
+ʃax
+sedem
+§_manx_3 : Dutch
+ʃax
+zevə
+§_manx_4 : Sicilian
+ʃax
+sɛti
+§_manx_5 : sinhala
+ʃax
+hatə
+§_manx_6 : Cimbrian
+ʃax
+zibəne
+§_manx_7 : luxembourgish
+ʃax
+zivən
+§_manx_8 : westenr frisian
+ʃax
+sɔn
+§_manx_9 : latin
+ʃax
+sɛptɛ
+§_english_0 : french
+sevn
+sɛt
+§_english_1 : Cimbrian
+sevn
+zibəne
+§_english_2 : albanian
+sevn
+ʃtatə
+§_english_3 : Dutch
+sevn
+zevə
+§_english_4 : Kashubian
+sevn
+sɪtmə
+§_english_5 : sassarese sardinian
+sevn
+sɛti
+§_english_6 : central kurdish
+sevn
+hæwt
+§_english_7 : pashto
+sevn
+oə
+§_english_8 : western farsi
+sevn
+hæft
+§_english_9 : westenr frisian
+sevn
+sɔn
+§_westenr frisian_0 : english
+sɔn
+sevn
+§_westenr frisian_1 : wallon
+sɔn
+sɛt
+§_westenr frisian_2 : italian
+sɔn
+sɛte
+§_westenr frisian_3 : Dutch
+sɔn
+zevə
+§_westenr frisian_4 : Bulgarian
+sɔn
+sedem
+§_westenr frisian_5 : central kurdish
+sɔn
+hæwt
+§_westenr frisian_6 : lithuanian
+sɔn
+sɛptinɪ
+§_westenr frisian_7 : latin
+sɔn
+sɛptɛ
+§_westenr frisian_8 : Cimbrian
+sɔn
+zibəne
+§_westenr frisian_9 : sinhala
+sɔn
+hatə
+§_german_0 : Irish
+zibn
+əʃɑxt
+§_german_1 : Dutch
+zibn
+zevə
+§_german_2 : manx
+zibn
+ʃax
+§_german_3 : sindhi
+zibn
+sətə
+§_german_4 : westenr frisian
+zibn
+sɔn
+§_german_5 : Low Saxon
+zibn
+zøvm
+§_german_6 : russian
+zibn
+sɛm
+§_german_7 : wallon
+zibn
+sɛt
+§_german_8 : Kashubian
+zibn
+sɪtmə
+§_german_9 : swissgerman
+zibn
+sɪbə
+§_luxembourgish_0 : sindhi
+zivən
+sətə
+§_luxembourgish_1 : albanian
+zivən
+ʃtatə
+§_luxembourgish_2 : italian
+zivən
+sɛte
+§_luxembourgish_3 : SerboCroatian
+zivən
+sedam
+§_luxembourgish_4 : gilaki
+zivən
+haf
+§_luxembourgish_5 : Icelandic
+zivən
+sɛ
+§_luxembourgish_6 : manx
+zivən
+ʃax
+§_luxembourgish_7 : central kurdish
+zivən
+hæwt
+§_luxembourgish_8 : westenr frisian
+zivən
+sɔn
+§_luxembourgish_9 : swissgerman
+zivən
+sɪbə
+§_swissgerman_0 : asturian
+sɪbə
+sete
+§_swissgerman_1 : german
+sɪbə
+zibn
+§_swissgerman_2 : russian
+sɪbə
+sɛm
+§_swissgerman_3 : lithuanian
+sɪbə
+sɛptinɪ
+§_swissgerman_4 : sassarese sardinian
+sɪbə
+sɛti
+§_swissgerman_5 : latin
+sɪbə
+sɛptɛ
+§_swissgerman_6 : Rumanian
+sɪbə
+ʃapte
+§_swissgerman_7 : pashai
+sɪbə
+sat
+§_swissgerman_8 : norvegian
+sɪbə
+syv
+§_swissgerman_9 : Bulgarian
+sɪbə
+sedem
+§_Cimbrian_0 : Breton
+zibəne
+ses
+§_Cimbrian_1 : central kurdish
+zibəne
+hæwt
+§_Cimbrian_2 : Sicilian
+zibəne
+sɛti
+§_Cimbrian_3 : german
+zibəne
+zibn
+§_Cimbrian_4 : lithuanian
+zibəne
+sɛptinɪ
+§_Cimbrian_5 : Low Saxon
+zibəne
+zøvm
+§_Cimbrian_6 : Kashubian
+zibəne
+sɪtmə
+§_Cimbrian_7 : Icelandic
+zibəne
+sɛ
+§_Cimbrian_8 : italian
+zibəne
+sɛte
+§_Cimbrian_9 : albanian
+zibəne
+ʃtatə
+§_Dutch_0 : hindi
+zevə
+sat
+§_Dutch_1 : Rumanian
+zevə
+ʃapte
+§_Dutch_2 : Cimbrian
+zevə
+zibəne
+§_Dutch_3 : pashai
+zevə
+sat
+§_Dutch_4 : french
+zevə
+sɛt
+§_Dutch_5 : westenr frisian
+zevə
+sɔn
+§_Dutch_6 : german
+zevə
+zibn
+§_Dutch_7 : asturian
+zevə
+sete
+§_Dutch_8 : latvian
+zevə
+sɛptiɲi
+§_Dutch_9 : luxembourgish
+zevə
+zivən
+§_Low Saxon_0 : SerboCroatian
+zøvm
+sedam
+§_Low Saxon_1 : Polish
+zøvm
+ɕedem
+§_Low Saxon_2 : Kashubian
+zøvm
+sɪtmə
+§_Low Saxon_3 : albanian
+zøvm
+ʃtatə
+§_Low Saxon_4 : western farsi
+zøvm
+hæft
+§_Low Saxon_5 : asturian
+zøvm
+sete
+§_Low Saxon_6 : Sicilian
+zøvm
+sɛti
+§_Low Saxon_7 : central kurdish
+zøvm
+hæwt
+§_Low Saxon_8 : gilaki
+zøvm
+haf
+§_Low Saxon_9 : hindi
+zøvm
+sat
+§_Icelandic_0 : sinhala
+sɛ
+hatə
+§_Icelandic_1 : Breton
+sɛ
+ses
+§_Icelandic_2 : luxembourgish
+sɛ
+zivən
+§_Icelandic_3 : norvegian
+sɛ
+syv
+§_Icelandic_4 : gilaki
+sɛ
+haf
+§_Icelandic_5 : pashto
+sɛ
+oə
+§_Icelandic_6 : westenr frisian
+sɛ
+sɔn
+§_Icelandic_7 : manx
+sɛ
+ʃax
+§_Icelandic_8 : latvian
+sɛ
+sɛptiɲi
+§_Icelandic_9 : russian
+sɛ
+sɛm
+§_norvegian_0 : russian
+syv
+sɛm
+§_norvegian_1 : pashto
+syv
+oə
+§_norvegian_2 : Icelandic
+syv
+sɛ
+§_norvegian_3 : asturian
+syv
+sete
+§_norvegian_4 : manx
+syv
+ʃax
+§_norvegian_5 : Dutch
+syv
+zevə
+§_norvegian_6 : albanian
+syv
+ʃtatə
+§_norvegian_7 : latin
+syv
+sɛptɛ
+§_norvegian_8 : Bulgarian
+syv
+sedem
+§_norvegian_9 : english
+syv
+sevn
+§_latvian_0 : hindi
+sɛptiɲi
+sat
+§_latvian_1 : wallon
+sɛptiɲi
+sɛt
+§_latvian_2 : Breton
+sɛptiɲi
+ses
+§_latvian_3 : asturian
+sɛptiɲi
+sete
+§_latvian_4 : greek
+sɛptiɲi
+ɛfta
+§_latvian_5 : norvegian
+sɛptiɲi
+syv
+§_latvian_6 : russian
+sɛptiɲi
+sɛm
+§_latvian_7 : sassarese sardinian
+sɛptiɲi
+sɛti
+§_latvian_8 : western farsi
+sɛptiɲi
+hæft
+§_latvian_9 : german
+sɛptiɲi
+zibn
+§_lithuanian_0 : Cimbrian
+sɛptinɪ
+zibəne
+§_lithuanian_1 : Kashubian
+sɛptinɪ
+sɪtmə
+§_lithuanian_2 : greek
+sɛptinɪ
+ɛfta
+§_lithuanian_3 : Low Saxon
+sɛptinɪ
+zøvm
+§_lithuanian_4 : Polish
+sɛptinɪ
+ɕedem
+§_lithuanian_5 : central kurdish
+sɛptinɪ
+hæwt
+§_lithuanian_6 : english
+sɛptinɪ
+sevn
+§_lithuanian_7 : wallon
+sɛptinɪ
+sɛt
+§_lithuanian_8 : Icelandic
+sɛptinɪ
+sɛ
+§_lithuanian_9 : Bulgarian
+sɛptinɪ
+sedem
+§_russian_0 : Breton
+sɛm
+ses
+§_russian_1 : Bulgarian
+sɛm
+sedem
+§_russian_2 : sinhala
+sɛm
+hatə
+§_russian_3 : sindhi
+sɛm
+sətə
+§_russian_4 : greek
+sɛm
+ɛfta
+§_russian_5 : pashto
+sɛm
+oə
+§_russian_6 : Irish
+sɛm
+əʃɑxt
+§_russian_7 : westenr frisian
+sɛm
+sɔn
+§_russian_8 : asturian
+sɛm
+sete
+§_russian_9 : SerboCroatian
+sɛm
+sedam
+§_Kashubian_0 : Breton
+sɪtmə
+ses
+§_Kashubian_1 : albanian
+sɪtmə
+ʃtatə
+§_Kashubian_2 : gilaki
+sɪtmə
+haf
+§_Kashubian_3 : Sicilian
+sɪtmə
+sɛti
+§_Kashubian_4 : german
+sɪtmə
+zibn
+§_Kashubian_5 : russian
+sɪtmə
+sɛm
+§_Kashubian_6 : italian
+sɪtmə
+sɛte
+§_Kashubian_7 : luxembourgish
+sɪtmə
+zivən
+§_Kashubian_8 : Cimbrian
+sɪtmə
+zibəne
+§_Kashubian_9 : lithuanian
+sɪtmə
+sɛptinɪ
+§_Polish_0 : pashai
+ɕedem
+sat
+§_Polish_1 : english
+ɕedem
+sevn
+§_Polish_2 : Rumanian
+ɕedem
+ʃapte
+§_Polish_3 : SerboCroatian
+ɕedem
+sedam
+§_Polish_4 : hindi
+ɕedem
+sat
+§_Polish_5 : luxembourgish
+ɕedem
+zivən
+§_Polish_6 : russian
+ɕedem
+sɛm
+§_Polish_7 : Cimbrian
+ɕedem
+zibəne
+§_Polish_8 : Dutch
+ɕedem
+zevə
+§_Polish_9 : italian
+ɕedem
+sɛte
+§_Bulgarian_0 : french
+sedem
+sɛt
+§_Bulgarian_1 : latin
+sedem
+sɛptɛ
+§_Bulgarian_2 : sindhi
+sedem
+sətə
+§_Bulgarian_3 : english
+sedem
+sevn
+§_Bulgarian_4 : pashto
+sedem
+oə
+§_Bulgarian_5 : wallon
+sedem
+sɛt
+§_Bulgarian_6 : Kashubian
+sedem
+sɪtmə
+§_Bulgarian_7 : swissgerman
+sedem
+sɪbə
+§_Bulgarian_8 : gilaki
+sedem
+haf
+§_Bulgarian_9 : Polish
+sedem
+ɕedem
+§_SerboCroatian_0 : Rumanian
+sedam
+ʃapte
+§_SerboCroatian_1 : sinhala
+sedam
+hatə
+§_SerboCroatian_2 : albanian
+sedam
+ʃtatə
+§_SerboCroatian_3 : german
+sedam
+zibn
+§_SerboCroatian_4 : central kurdish
+sedam
+hæwt
+§_SerboCroatian_5 : westenr frisian
+sedam
+sɔn
+§_SerboCroatian_6 : hindi
+sedam
+sat
+§_SerboCroatian_7 : Breton
+sedam
+ses
+§_SerboCroatian_8 : norvegian
+sedam
+syv
+§_SerboCroatian_9 : Icelandic
+sedam
+sɛ
+§_armenian_0 : Cimbrian
+ut
+axte
+§_armenian_1 : Kashubian
+ut
+əsmə
+§_armenian_2 : westenr frisian
+ut
+ɑxt
+§_armenian_3 : Low Saxon
+ut
+ʔaχt
+§_armenian_4 : sinhala
+ut
+aʈə
+§_armenian_5 : Rumanian
+ut
+ɔpt
+§_armenian_6 : pashto
+ut
+atə
+§_armenian_7 : pashai
+ut
+aʃʈ
+§_armenian_8 : Bulgarian
+ut
+osem
+§_armenian_9 : asturian
+ut
+oʧo
+§_sinhala_0 : norvegian
+aʈə
+ɔtə
+§_sinhala_1 : pashto
+aʈə
+atə
+§_sinhala_2 : luxembourgish
+aʈə
+axt
+§_sinhala_3 : sindhi
+aʈə
+əʈə
+§_sinhala_4 : pashai
+aʈə
+aʃʈ
+§_sinhala_5 : sassarese sardinian
+aʈə
+ɔtu
+§_sinhala_6 : western farsi
+aʈə
+hæʃt
+§_sinhala_7 : westenr frisian
+aʈə
+ɑxt
+§_sinhala_8 : Rumanian
+aʈə
+ɔpt
+§_sinhala_9 : italian
+aʈə
+ɔto
+§_pashai_0 : asturian
+aʃʈ
+oʧo
+§_pashai_1 : sassarese sardinian
+aʃʈ
+ɔtu
+§_pashai_2 : latvian
+aʃʈ
+ɑstuɲi
+§_pashai_3 : Low Saxon
+aʃʈ
+ʔaχt
+§_pashai_4 : latin
+aʃʈ
+ɔkto
+§_pashai_5 : norvegian
+aʃʈ
+ɔtə
+§_pashai_6 : westenr frisian
+aʃʈ
+ɑxt
+§_pashai_7 : albanian
+aʃʈ
+tɛtə
+§_pashai_8 : Rumanian
+aʃʈ
+ɔpt
+§_pashai_9 : russian
+aʃʈ
+vɔsim
+§_sindhi_0 : latvian
+əʈə
+ɑstuɲi
+§_sindhi_1 : greek
+əʈə
+oχto
+§_sindhi_2 : latin
+əʈə
+ɔkto
+§_sindhi_3 : Dutch
+əʈə
+ɑχt
+§_sindhi_4 : sinhala
+əʈə
+aʈə
+§_sindhi_5 : Icelandic
+əʈə
+ahta
+§_sindhi_6 : Irish
+əʈə
+əhʌxt
+§_sindhi_7 : SerboCroatian
+əʈə
+osam
+§_sindhi_8 : Bulgarian
+əʈə
+osem
+§_sindhi_9 : wallon
+əʈə
+yt
+§_hindi_0 : Irish
+aʈ
+əhʌxt
+§_hindi_1 : sindhi
+aʈ
+əʈə
+§_hindi_2 : albanian
+aʈ
+tɛtə
+§_hindi_3 : luxembourgish
+aʈ
+axt
+§_hindi_4 : central kurdish
+aʈ
+hæʃt
+§_hindi_5 : Rumanian
+aʈ
+ɔpt
+§_hindi_6 : lithuanian
+aʈ
+ʌʃtunɪ
+§_hindi_7 : french
+aʈ
+it
+§_hindi_8 : pashai
+aʈ
+aʃʈ
+§_hindi_9 : Bulgarian
+aʈ
+osem
+§_pashto_0 : english
+atə
+et
+§_pashto_1 : gilaki
+atə
+haʃ
+§_pashto_2 : sassarese sardinian
+atə
+ɔtu
+§_pashto_3 : Bulgarian
+atə
+osem
+§_pashto_4 : french
+atə
+it
+§_pashto_5 : asturian
+atə
+oʧo
+§_pashto_6 : manx
+atə
+hɑx
+§_pashto_7 : wallon
+atə
+yt
+§_pashto_8 : Icelandic
+atə
+ahta
+§_pashto_9 : Dutch
+atə
+ɑχt
+§_gilaki_0 : pashto
+haʃ
+atə
+§_gilaki_1 : central kurdish
+haʃ
+hæʃt
+§_gilaki_2 : Low Saxon
+haʃ
+ʔaχt
+§_gilaki_3 : sassarese sardinian
+haʃ
+ɔtu
+§_gilaki_4 : SerboCroatian
+haʃ
+osam
+§_gilaki_5 : Dutch
+haʃ
+ɑχt
+§_gilaki_6 : hindi
+haʃ
+aʈ
+§_gilaki_7 : latin
+haʃ
+ɔkto
+§_gilaki_8 : Bulgarian
+haʃ
+osem
+§_gilaki_9 : french
+haʃ
+it
+§_central kurdish_0 : swissgerman
+hæʃt
+ɑχt
+§_central kurdish_1 : Icelandic
+hæʃt
+ahta
+§_central kurdish_2 : pashai
+hæʃt
+aʃʈ
+§_central kurdish_3 : hindi
+hæʃt
+aʈ
+§_central kurdish_4 : luxembourgish
+hæʃt
+axt
+§_central kurdish_5 : russian
+hæʃt
+vɔsim
+§_central kurdish_6 : sinhala
+hæʃt
+aʈə
+§_central kurdish_7 : Low Saxon
+hæʃt
+ʔaχt
+§_central kurdish_8 : sassarese sardinian
+hæʃt
+ɔtu
+§_central kurdish_9 : sindhi
+hæʃt
+əʈə
+§_western farsi_0 : hindi
+hæʃt
+aʈ
+§_western farsi_1 : greek
+hæʃt
+oχto
+§_western farsi_2 : Kashubian
+hæʃt
+əsmə
+§_western farsi_3 : Sicilian
+hæʃt
+ɔtu
+§_western farsi_4 : pashto
+hæʃt
+atə
+§_western farsi_5 : SerboCroatian
+hæʃt
+osam
+§_western farsi_6 : Rumanian
+hæʃt
+ɔpt
+§_western farsi_7 : lithuanian
+hæʃt
+ʌʃtunɪ
+§_western farsi_8 : Low Saxon
+hæʃt
+ʔaχt
+§_western farsi_9 : Polish
+hæʃt
+oɕem
+§_albanian_0 : english
+tɛtə
+et
+§_albanian_1 : Cimbrian
+tɛtə
+axte
+§_albanian_2 : Icelandic
+tɛtə
+ahta
+§_albanian_3 : russian
+tɛtə
+vɔsim
+§_albanian_4 : swissgerman
+tɛtə
+ɑχt
+§_albanian_5 : hindi
+tɛtə
+aʈ
+§_albanian_6 : Low Saxon
+tɛtə
+ʔaχt
+§_albanian_7 : gilaki
+tɛtə
+haʃ
+§_albanian_8 : Polish
+tɛtə
+oɕem
+§_albanian_9 : asturian
+tɛtə
+oʧo
+§_greek_0 : swissgerman
+oχto
+ɑχt
+§_greek_1 : western farsi
+oχto
+hæʃt
+§_greek_2 : german
+oχto
+ʔaχt
+§_greek_3 : Polish
+oχto
+oɕem
+§_greek_4 : Breton
+oχto
+es
+§_greek_5 : english
+oχto
+et
+§_greek_6 : manx
+oχto
+hɑx
+§_greek_7 : Rumanian
+oχto
+ɔpt
+§_greek_8 : russian
+oχto
+vɔsim
+§_greek_9 : Cimbrian
+oχto
+axte
+§_latin_0 : Sicilian
+ɔkto
+ɔtu
+§_latin_1 : italian
+ɔkto
+ɔto
+§_latin_2 : western farsi
+ɔkto
+hæʃt
+§_latin_3 : swissgerman
+ɔkto
+ɑχt
+§_latin_4 : Kashubian
+ɔkto
+əsmə
+§_latin_5 : SerboCroatian
+ɔkto
+osam
+§_latin_6 : luxembourgish
+ɔkto
+axt
+§_latin_7 : manx
+ɔkto
+hɑx
+§_latin_8 : Icelandic
+ɔkto
+ahta
+§_latin_9 : pashai
+ɔkto
+aʃʈ
+§_Rumanian_0 : sassarese sardinian
+ɔpt
+ɔtu
+§_Rumanian_1 : greek
+ɔpt
+oχto
+§_Rumanian_2 : latin
+ɔpt
+ɔkto
+§_Rumanian_3 : hindi
+ɔpt
+aʈ
+§_Rumanian_4 : Breton
+ɔpt
+es
+§_Rumanian_5 : lithuanian
+ɔpt
+ʌʃtunɪ
+§_Rumanian_6 : norvegian
+ɔpt
+ɔtə
+§_Rumanian_7 : Cimbrian
+ɔpt
+axte
+§_Rumanian_8 : german
+ɔpt
+ʔaχt
+§_Rumanian_9 : SerboCroatian
+ɔpt
+osam
+§_italian_0 : latin
+ɔto
+ɔkto
+§_italian_1 : Icelandic
+ɔto
+ahta
+§_italian_2 : greek
+ɔto
+oχto
+§_italian_3 : pashto
+ɔto
+atə
+§_italian_4 : albanian
+ɔto
+tɛtə
+§_italian_5 : latvian
+ɔto
+ɑstuɲi
+§_italian_6 : hindi
+ɔto
+aʈ
+§_italian_7 : Rumanian
+ɔto
+ɔpt
+§_italian_8 : Polish
+ɔto
+oɕem
+§_italian_9 : Dutch
+ɔto
+ɑχt
+§_Sicilian_0 : russian
+ɔtu
+vɔsim
+§_Sicilian_1 : SerboCroatian
+ɔtu
+osam
+§_Sicilian_2 : english
+ɔtu
+et
+§_Sicilian_3 : Polish
+ɔtu
+oɕem
+§_Sicilian_4 : italian
+ɔtu
+ɔto
+§_Sicilian_5 : Icelandic
+ɔtu
+ahta
+§_Sicilian_6 : german
+ɔtu
+ʔaχt
+§_Sicilian_7 : westenr frisian
+ɔtu
+ɑxt
+§_Sicilian_8 : hindi
+ɔtu
+aʈ
+§_Sicilian_9 : Breton
+ɔtu
+es
+§_french_0 : sassarese sardinian
+it
+ɔtu
+§_french_1 : Sicilian
+it
+ɔtu
+§_french_2 : latin
+it
+ɔkto
+§_french_3 : Irish
+it
+əhʌxt
+§_french_4 : asturian
+it
+oʧo
+§_french_5 : gilaki
+it
+haʃ
+§_french_6 : Cimbrian
+it
+axte
+§_french_7 : luxembourgish
+it
+axt
+§_french_8 : latvian
+it
+ɑstuɲi
+§_french_9 : russian
+it
+vɔsim
+§_wallon_0 : Rumanian
+yt
+ɔpt
+§_wallon_1 : italian
+yt
+ɔto
+§_wallon_2 : gilaki
+yt
+haʃ
+§_wallon_3 : manx
+yt
+hɑx
+§_wallon_4 : luxembourgish
+yt
+axt
+§_wallon_5 : albanian
+yt
+tɛtə
+§_wallon_6 : german
+yt
+ʔaχt
+§_wallon_7 : norvegian
+yt
+ɔtə
+§_wallon_8 : central kurdish
+yt
+hæʃt
+§_wallon_9 : french
+yt
+it
+§_asturian_0 : gilaki
+oʧo
+haʃ
+§_asturian_1 : sinhala
+oʧo
+aʈə
+§_asturian_2 : Sicilian
+oʧo
+ɔtu
+§_asturian_3 : norvegian
+oʧo
+ɔtə
+§_asturian_4 : Bulgarian
+oʧo
+osem
+§_asturian_5 : russian
+oʧo
+vɔsim
+§_asturian_6 : latvian
+oʧo
+ɑstuɲi
+§_asturian_7 : italian
+oʧo
+ɔto
+§_asturian_8 : Cimbrian
+oʧo
+axte
+§_asturian_9 : Irish
+oʧo
+əhʌxt
+§_sassarese sardinian_0 : hindi
+ɔtu
+aʈ
+§_sassarese sardinian_1 : english
+ɔtu
+et
+§_sassarese sardinian_2 : norvegian
+ɔtu
+ɔtə
+§_sassarese sardinian_3 : Icelandic
+ɔtu
+ahta
+§_sassarese sardinian_4 : italian
+ɔtu
+ɔto
+§_sassarese sardinian_5 : sindhi
+ɔtu
+əʈə
+§_sassarese sardinian_6 : swissgerman
+ɔtu
+ɑχt
+§_sassarese sardinian_7 : central kurdish
+ɔtu
+hæʃt
+§_sassarese sardinian_8 : Low Saxon
+ɔtu
+ʔaχt
+§_sassarese sardinian_9 : Rumanian
+ɔtu
+ɔpt
+§_Breton_0 : albanian
+es
+tɛtə
+§_Breton_1 : german
+es
+ʔaχt
+§_Breton_2 : sassarese sardinian
+es
+ɔtu
+§_Breton_3 : swissgerman
+es
+ɑχt
+§_Breton_4 : sindhi
+es
+əʈə
+§_Breton_5 : gilaki
+es
+haʃ
+§_Breton_6 : lithuanian
+es
+ʌʃtunɪ
+§_Breton_7 : russian
+es
+vɔsim
+§_Breton_8 : SerboCroatian
+es
+osam
+§_Breton_9 : Polish
+es
+oɕem
+§_Irish_0 : english
+əhʌxt
+et
+§_Irish_1 : swissgerman
+əhʌxt
+ɑχt
+§_Irish_2 : sassarese sardinian
+əhʌxt
+ɔtu
+§_Irish_3 : sindhi
+əhʌxt
+əʈə
+§_Irish_4 : wallon
+əhʌxt
+yt
+§_Irish_5 : Sicilian
+əhʌxt
+ɔtu
+§_Irish_6 : pashto
+əhʌxt
+atə
+§_Irish_7 : german
+əhʌxt
+ʔaχt
+§_Irish_8 : Breton
+əhʌxt
+es
+§_Irish_9 : italian
+əhʌxt
+ɔto
+§_manx_0 : latvian
+hɑx
+ɑstuɲi
+§_manx_1 : italian
+hɑx
+ɔto
+§_manx_2 : Kashubian
+hɑx
+əsmə
+§_manx_3 : sassarese sardinian
+hɑx
+ɔtu
+§_manx_4 : western farsi
+hɑx
+hæʃt
+§_manx_5 : gilaki
+hɑx
+haʃ
+§_manx_6 : Low Saxon
+hɑx
+ʔaχt
+§_manx_7 : hindi
+hɑx
+aʈ
+§_manx_8 : Bulgarian
+hɑx
+osem
+§_manx_9 : pashto
+hɑx
+atə
+§_english_0 : SerboCroatian
+et
+osam
+§_english_1 : lithuanian
+et
+ʌʃtunɪ
+§_english_2 : Icelandic
+et
+ahta
+§_english_3 : russian
+et
+vɔsim
+§_english_4 : pashto
+et
+atə
+§_english_5 : latvian
+et
+ɑstuɲi
+§_english_6 : western farsi
+et
+hæʃt
+§_english_7 : german
+et
+ʔaχt
+§_english_8 : latin
+et
+ɔkto
+§_english_9 : sinhala
+et
+aʈə
+§_westenr frisian_0 : hindi
+ɑxt
+aʈ
+§_westenr frisian_1 : greek
+ɑxt
+oχto
+§_westenr frisian_2 : gilaki
+ɑxt
+haʃ
+§_westenr frisian_3 : Dutch
+ɑxt
+ɑχt
+§_westenr frisian_4 : sindhi
+ɑxt
+əʈə
+§_westenr frisian_5 : western farsi
+ɑxt
+hæʃt
+§_westenr frisian_6 : german
+ɑxt
+ʔaχt
+§_westenr frisian_7 : italian
+ɑxt
+ɔto
+§_westenr frisian_8 : Bulgarian
+ɑxt
+osem
+§_westenr frisian_9 : asturian
+ɑxt
+oʧo
+§_german_0 : Irish
+ʔaχt
+əhʌxt
+§_german_1 : Bulgarian
+ʔaχt
+osem
+§_german_2 : latin
+ʔaχt
+ɔkto
+§_german_3 : norvegian
+ʔaχt
+ɔtə
+§_german_4 : sindhi
+ʔaχt
+əʈə
+§_german_5 : SerboCroatian
+ʔaχt
+osam
+§_german_6 : lithuanian
+ʔaχt
+ʌʃtunɪ
+§_german_7 : sinhala
+ʔaχt
+aʈə
+§_german_8 : westenr frisian
+ʔaχt
+ɑxt
+§_german_9 : Polish
+ʔaχt
+oɕem
+§_luxembourgish_0 : westenr frisian
+axt
+ɑxt
+§_luxembourgish_1 : wallon
+axt
+yt
+§_luxembourgish_2 : latvian
+axt
+ɑstuɲi
+§_luxembourgish_3 : Bulgarian
+axt
+osem
+§_luxembourgish_4 : Breton
+axt
+es
+§_luxembourgish_5 : french
+axt
+it
+§_luxembourgish_6 : sinhala
+axt
+aʈə
+§_luxembourgish_7 : russian
+axt
+vɔsim
+§_luxembourgish_8 : central kurdish
+axt
+hæʃt
+§_luxembourgish_9 : Polish
+axt
+oɕem
+§_swissgerman_0 : manx
+ɑχt
+hɑx
+§_swissgerman_1 : Dutch
+ɑχt
+ɑχt
+§_swissgerman_2 : wallon
+ɑχt
+yt
+§_swissgerman_3 : westenr frisian
+ɑχt
+ɑxt
+§_swissgerman_4 : Sicilian
+ɑχt
+ɔtu
+§_swissgerman_5 : lithuanian
+ɑχt
+ʌʃtunɪ
+§_swissgerman_6 : Kashubian
+ɑχt
+əsmə
+§_swissgerman_7 : german
+ɑχt
+ʔaχt
+§_swissgerman_8 : luxembourgish
+ɑχt
+axt
+§_swissgerman_9 : central kurdish
+ɑχt
+hæʃt
+§_Cimbrian_0 : latin
+axte
+ɔkto
+§_Cimbrian_1 : pashai
+axte
+aʃʈ
+§_Cimbrian_2 : latvian
+axte
+ɑstuɲi
+§_Cimbrian_3 : SerboCroatian
+axte
+osam
+§_Cimbrian_4 : central kurdish
+axte
+hæʃt
+§_Cimbrian_5 : russian
+axte
+vɔsim
+§_Cimbrian_6 : gilaki
+axte
+haʃ
+§_Cimbrian_7 : westenr frisian
+axte
+ɑxt
+§_Cimbrian_8 : albanian
+axte
+tɛtə
+§_Cimbrian_9 : sassarese sardinian
+axte
+ɔtu
+§_Dutch_0 : russian
+ɑχt
+vɔsim
+§_Dutch_1 : gilaki
+ɑχt
+haʃ
+§_Dutch_2 : Irish
+ɑχt
+əhʌxt
+§_Dutch_3 : Breton
+ɑχt
+es
+§_Dutch_4 : sassarese sardinian
+ɑχt
+ɔtu
+§_Dutch_5 : Low Saxon
+ɑχt
+ʔaχt
+§_Dutch_6 : Polish
+ɑχt
+oɕem
+§_Dutch_7 : latvian
+ɑχt
+ɑstuɲi
+§_Dutch_8 : central kurdish
+ɑχt
+hæʃt
+§_Dutch_9 : luxembourgish
+ɑχt
+axt
+§_Low Saxon_0 : wallon
+ʔaχt
+yt
+§_Low Saxon_1 : Irish
+ʔaχt
+əhʌxt
+§_Low Saxon_2 : asturian
+ʔaχt
+oʧo
+§_Low Saxon_3 : lithuanian
+ʔaχt
+ʌʃtunɪ
+§_Low Saxon_4 : gilaki
+ʔaχt
+haʃ
+§_Low Saxon_5 : german
+ʔaχt
+ʔaχt
+§_Low Saxon_6 : hindi
+ʔaχt
+aʈ
+§_Low Saxon_7 : greek
+ʔaχt
+oχto
+§_Low Saxon_8 : Sicilian
+ʔaχt
+ɔtu
+§_Low Saxon_9 : Icelandic
+ʔaχt
+ahta
+§_Icelandic_0 : lithuanian
+ahta
+ʌʃtunɪ
+§_Icelandic_1 : albanian
+ahta
+tɛtə
+§_Icelandic_2 : greek
+ahta
+oχto
+§_Icelandic_3 : wallon
+ahta
+yt
+§_Icelandic_4 : SerboCroatian
+ahta
+osam
+§_Icelandic_5 : luxembourgish
+ahta
+axt
+§_Icelandic_6 : Polish
+ahta
+oɕem
+§_Icelandic_7 : asturian
+ahta
+oʧo
+§_Icelandic_8 : english
+ahta
+et
+§_Icelandic_9 : russian
+ahta
+vɔsim
+§_norvegian_0 : central kurdish
+ɔtə
+hæʃt
+§_norvegian_1 : SerboCroatian
+ɔtə
+osam
+§_norvegian_2 : german
+ɔtə
+ʔaχt
+§_norvegian_3 : swissgerman
+ɔtə
+ɑχt
+§_norvegian_4 : albanian
+ɔtə
+tɛtə
+§_norvegian_5 : english
+ɔtə
+et
+§_norvegian_6 : asturian
+ɔtə
+oʧo
+§_norvegian_7 : Polish
+ɔtə
+oɕem
+§_norvegian_8 : wallon
+ɔtə
+yt
+§_norvegian_9 : sinhala
+ɔtə
+aʈə
+§_latvian_0 : luxembourgish
+ɑstuɲi
+axt
+§_latvian_1 : greek
+ɑstuɲi
+oχto
+§_latvian_2 : wallon
+ɑstuɲi
+yt
+§_latvian_3 : hindi
+ɑstuɲi
+aʈ
+§_latvian_4 : pashai
+ɑstuɲi
+aʃʈ
+§_latvian_5 : Rumanian
+ɑstuɲi
+ɔpt
+§_latvian_6 : italian
+ɑstuɲi
+ɔto
+§_latvian_7 : Bulgarian
+ɑstuɲi
+osem
+§_latvian_8 : Breton
+ɑstuɲi
+es
+§_latvian_9 : Icelandic
+ɑstuɲi
+ahta
+§_lithuanian_0 : Irish
+ʌʃtunɪ
+əhʌxt
+§_lithuanian_1 : pashto
+ʌʃtunɪ
+atə
+§_lithuanian_2 : norvegian
+ʌʃtunɪ
+ɔtə
+§_lithuanian_3 : italian
+ʌʃtunɪ
+ɔto
+§_lithuanian_4 : SerboCroatian
+ʌʃtunɪ
+osam
+§_lithuanian_5 : Dutch
+ʌʃtunɪ
+ɑχt
+§_lithuanian_6 : german
+ʌʃtunɪ
+ʔaχt
+§_lithuanian_7 : Polish
+ʌʃtunɪ
+oɕem
+§_lithuanian_8 : greek
+ʌʃtunɪ
+oχto
+§_lithuanian_9 : latin
+ʌʃtunɪ
+ɔkto
+§_russian_0 : wallon
+vɔsim
+yt
+§_russian_1 : pashai
+vɔsim
+aʃʈ
+§_russian_2 : greek
+vɔsim
+oχto
+§_russian_3 : hindi
+vɔsim
+aʈ
+§_russian_4 : Rumanian
+vɔsim
+ɔpt
+§_russian_5 : Kashubian
+vɔsim
+əsmə
+§_russian_6 : german
+vɔsim
+ʔaχt
+§_russian_7 : Irish
+vɔsim
+əhʌxt
+§_russian_8 : western farsi
+vɔsim
+hæʃt
+§_russian_9 : french
+vɔsim
+it
+§_Kashubian_0 : manx
+əsmə
+hɑx
+§_Kashubian_1 : Icelandic
+əsmə
+ahta
+§_Kashubian_2 : albanian
+əsmə
+tɛtə
+§_Kashubian_3 : central kurdish
+əsmə
+hæʃt
+§_Kashubian_4 : sassarese sardinian
+əsmə
+ɔtu
+§_Kashubian_5 : russian
+əsmə
+vɔsim
+§_Kashubian_6 : pashto
+əsmə
+atə
+§_Kashubian_7 : latin
+əsmə
+ɔkto
+§_Kashubian_8 : french
+əsmə
+it
+§_Kashubian_9 : german
+əsmə
+ʔaχt
+§_Polish_0 : sindhi
+oɕem
+əʈə
+§_Polish_1 : albanian
+oɕem
+tɛtə
+§_Polish_2 : pashai
+oɕem
+aʃʈ
+§_Polish_3 : french
+oɕem
+it
+§_Polish_4 : russian
+oɕem
+vɔsim
+§_Polish_5 : norvegian
+oɕem
+ɔtə
+§_Polish_6 : italian
+oɕem
+ɔto
+§_Polish_7 : swissgerman
+oɕem
+ɑχt
+§_Polish_8 : english
+oɕem
+et
+§_Polish_9 : westenr frisian
+oɕem
+ɑxt
+§_Bulgarian_0 : Icelandic
+osem
+ahta
+§_Bulgarian_1 : Dutch
+osem
+ɑχt
+§_Bulgarian_2 : latvian
+osem
+ɑstuɲi
+§_Bulgarian_3 : Rumanian
+osem
+ɔpt
+§_Bulgarian_4 : western farsi
+osem
+hæʃt
+§_Bulgarian_5 : pashai
+osem
+aʃʈ
+§_Bulgarian_6 : italian
+osem
+ɔto
+§_Bulgarian_7 : SerboCroatian
+osem
+osam
+§_Bulgarian_8 : westenr frisian
+osem
+ɑxt
+§_Bulgarian_9 : french
+osem
+it
+§_SerboCroatian_0 : hindi
+osam
+aʈ
+§_SerboCroatian_1 : manx
+osam
+hɑx
+§_SerboCroatian_2 : pashto
+osam
+atə
+§_SerboCroatian_3 : central kurdish
+osam
+hæʃt
+§_SerboCroatian_4 : latin
+osam
+ɔkto
+§_SerboCroatian_5 : german
+osam
+ʔaχt
+§_SerboCroatian_6 : lithuanian
+osam
+ʌʃtunɪ
+§_SerboCroatian_7 : swissgerman
+osam
+ɑχt
+§_SerboCroatian_8 : Cimbrian
+osam
+axte
+§_SerboCroatian_9 : gilaki
+osam
+haʃ
+§_armenian_0 : Icelandic
+inʊ
+niɪ
+§_armenian_1 : Low Saxon
+inʊ
+negŋ
+§_armenian_2 : albanian
+inʊ
+nəntə
+§_armenian_3 : lithuanian
+inʊ
+dɛvinɪ
+§_armenian_4 : Polish
+inʊ
+ʤeveɲʧ
+§_armenian_5 : Cimbrian
+inʊ
+nɔne
+§_armenian_6 : sassarese sardinian
+inʊ
+nɔßi
+§_armenian_7 : italian
+inʊ
+nɔve
+§_armenian_8 : Kashubian
+inʊ
+ʧɛvaʤ
+§_armenian_9 : Bulgarian
+inʊ
+devet
+§_sinhala_0 : hindi
+naməə
+nɔ
+§_sinhala_1 : Sicilian
+naməə
+nɔvi
+§_sinhala_2 : Cimbrian
+naməə
+nɔne
+§_sinhala_3 : norvegian
+naməə
+ni
+§_sinhala_4 : Bulgarian
+naməə
+devet
+§_sinhala_5 : latin
+naməə
+nɔɛ
+§_sinhala_6 : SerboCroatian
+naməə
+devet
+§_sinhala_7 : western farsi
+naməə
+noh
+§_sinhala_8 : luxembourgish
+naməə
+neŋ
+§_sinhala_9 : Icelandic
+naməə
+niɪ
+§_pashai_0 : russian
+nu
+dɛvit
+§_pashai_1 : italian
+nu
+nɔve
+§_pashai_2 : Breton
+nu
+na
+§_pashai_3 : asturian
+nu
+neße
+§_pashai_4 : lithuanian
+nu
+dɛvinɪ
+§_pashai_5 : wallon
+nu
+nuf
+§_pashai_6 : manx
+nu
+ni
+§_pashai_7 : sindhi
+nu
+nəvə
+§_pashai_8 : norvegian
+nu
+ni
+§_pashai_9 : Bulgarian
+nu
+devet
+§_sindhi_0 : norvegian
+nəvə
+ni
+§_sindhi_1 : Dutch
+nəvə
+neχə
+§_sindhi_2 : Bulgarian
+nəvə
+devet
+§_sindhi_3 : Low Saxon
+nəvə
+negŋ
+§_sindhi_4 : pashto
+nəvə
+nəh
+§_sindhi_5 : Breton
+nəvə
+na
+§_sindhi_6 : Sicilian
+nəvə
+nɔvi
+§_sindhi_7 : SerboCroatian
+nəvə
+devet
+§_sindhi_8 : luxembourgish
+nəvə
+neŋ
+§_sindhi_9 : greek
+nəvə
+ɛɲa
+§_hindi_0 : pashto
+nɔ
+nəh
+§_hindi_1 : Bulgarian
+nɔ
+devet
+§_hindi_2 : western farsi
+nɔ
+noh
+§_hindi_3 : greek
+nɔ
+ɛɲa
+§_hindi_4 : Breton
+nɔ
+na
+§_hindi_5 : Irish
+nɔ
+əni
+§_hindi_6 : Rumanian
+nɔ
+noə
+§_hindi_7 : westenr frisian
+nɔ
+noɣən
+§_hindi_8 : Polish
+nɔ
+ʤeveɲʧ
+§_hindi_9 : pashai
+nɔ
+nu
+§_pashto_0 : luxembourgish
+nəh
+neŋ
+§_pashto_1 : english
+nəh
+nan
+§_pashto_2 : Cimbrian
+nəh
+nɔne
+§_pashto_3 : latin
+nəh
+nɔɛ
+§_pashto_4 : swissgerman
+nəh
+nyn
+§_pashto_5 : sassarese sardinian
+nəh
+nɔßi
+§_pashto_6 : Icelandic
+nəh
+niɪ
+§_pashto_7 : norvegian
+nəh
+ni
+§_pashto_8 : Breton
+nəh
+na
+§_pashto_9 : french
+nəh
+nɛf
+§_gilaki_0 : luxembourgish
+no
+neŋ
+§_gilaki_1 : pashto
+no
+nəh
+§_gilaki_2 : westenr frisian
+no
+noɣən
+§_gilaki_3 : Bulgarian
+no
+devet
+§_gilaki_4 : Sicilian
+no
+nɔvi
+§_gilaki_5 : sassarese sardinian
+no
+nɔßi
+§_gilaki_6 : Low Saxon
+no
+negŋ
+§_gilaki_7 : latvian
+no
+dɛviɲi
+§_gilaki_8 : russian
+no
+dɛvit
+§_gilaki_9 : lithuanian
+no
+dɛvinɪ
+§_central kurdish_0 : luxembourgish
+no
+neŋ
+§_central kurdish_1 : Cimbrian
+no
+nɔne
+§_central kurdish_2 : pashto
+no
+nəh
+§_central kurdish_3 : gilaki
+no
+no
+§_central kurdish_4 : Irish
+no
+əni
+§_central kurdish_5 : Dutch
+no
+neχə
+§_central kurdish_6 : sassarese sardinian
+no
+nɔßi
+§_central kurdish_7 : Bulgarian
+no
+devet
+§_central kurdish_8 : manx
+no
+ni
+§_central kurdish_9 : asturian
+no
+neße
+§_western farsi_0 : norvegian
+noh
+ni
+§_western farsi_1 : Icelandic
+noh
+niɪ
+§_western farsi_2 : asturian
+noh
+neße
+§_western farsi_3 : sassarese sardinian
+noh
+nɔßi
+§_western farsi_4 : english
+noh
+nan
+§_western farsi_5 : greek
+noh
+ɛɲa
+§_western farsi_6 : french
+noh
+nɛf
+§_western farsi_7 : Rumanian
+noh
+noə
+§_western farsi_8 : luxembourgish
+noh
+neŋ
+§_western farsi_9 : latvian
+noh
+dɛviɲi
+§_albanian_0 : asturian
+nəntə
+neße
+§_albanian_1 : SerboCroatian
+nəntə
+devet
+§_albanian_2 : sinhala
+nəntə
+naməə
+§_albanian_3 : gilaki
+nəntə
+no
+§_albanian_4 : latvian
+nəntə
+dɛviɲi
+§_albanian_5 : french
+nəntə
+nɛf
+§_albanian_6 : latin
+nəntə
+nɔɛ
+§_albanian_7 : western farsi
+nəntə
+noh
+§_albanian_8 : Cimbrian
+nəntə
+nɔne
+§_albanian_9 : Kashubian
+nəntə
+ʧɛvaʤ
+§_greek_0 : SerboCroatian
+ɛɲa
+devet
+§_greek_1 : western farsi
+ɛɲa
+noh
+§_greek_2 : Cimbrian
+ɛɲa
+nɔne
+§_greek_3 : luxembourgish
+ɛɲa
+neŋ
+§_greek_4 : westenr frisian
+ɛɲa
+noɣən
+§_greek_5 : Polish
+ɛɲa
+ʤeveɲʧ
+§_greek_6 : Icelandic
+ɛɲa
+niɪ
+§_greek_7 : Sicilian
+ɛɲa
+nɔvi
+§_greek_8 : italian
+ɛɲa
+nɔve
+§_greek_9 : lithuanian
+ɛɲa
+dɛvinɪ
+§_latin_0 : norvegian
+nɔɛ
+ni
+§_latin_1 : Breton
+nɔɛ
+na
+§_latin_2 : asturian
+nɔɛ
+neße
+§_latin_3 : manx
+nɔɛ
+ni
+§_latin_4 : sassarese sardinian
+nɔɛ
+nɔßi
+§_latin_5 : italian
+nɔɛ
+nɔve
+§_latin_6 : SerboCroatian
+nɔɛ
+devet
+§_latin_7 : Polish
+nɔɛ
+ʤeveɲʧ
+§_latin_8 : pashto
+nɔɛ
+nəh
+§_latin_9 : central kurdish
+nɔɛ
+no
+§_Rumanian_0 : norvegian
+noə
+ni
+§_Rumanian_1 : Dutch
+noə
+neχə
+§_Rumanian_2 : Bulgarian
+noə
+devet
+§_Rumanian_3 : manx
+noə
+ni
+§_Rumanian_4 : SerboCroatian
+noə
+devet
+§_Rumanian_5 : sinhala
+noə
+naməə
+§_Rumanian_6 : central kurdish
+noə
+no
+§_Rumanian_7 : Irish
+noə
+əni
+§_Rumanian_8 : italian
+noə
+nɔve
+§_Rumanian_9 : english
+noə
+nan
+§_italian_0 : Breton
+nɔve
+na
+§_italian_1 : Kashubian
+nɔve
+ʧɛvaʤ
+§_italian_2 : pashto
+nɔve
+nəh
+§_italian_3 : Low Saxon
+nɔve
+negŋ
+§_italian_4 : wallon
+nɔve
+nuf
+§_italian_5 : central kurdish
+nɔve
+no
+§_italian_6 : gilaki
+nɔve
+no
+§_italian_7 : albanian
+nɔve
+nəntə
+§_italian_8 : latin
+nɔve
+nɔɛ
+§_italian_9 : swissgerman
+nɔve
+nyn
+§_Sicilian_0 : Rumanian
+nɔvi
+noə
+§_Sicilian_1 : russian
+nɔvi
+dɛvit
+§_Sicilian_2 : luxembourgish
+nɔvi
+neŋ
+§_Sicilian_3 : manx
+nɔvi
+ni
+§_Sicilian_4 : westenr frisian
+nɔvi
+noɣən
+§_Sicilian_5 : greek
+nɔvi
+ɛɲa
+§_Sicilian_6 : hindi
+nɔvi
+nɔ
+§_Sicilian_7 : Cimbrian
+nɔvi
+nɔne
+§_Sicilian_8 : Low Saxon
+nɔvi
+negŋ
+§_Sicilian_9 : pashto
+nɔvi
+nəh
+§_french_0 : sindhi
+nɛf
+nəvə
+§_french_1 : Icelandic
+nɛf
+niɪ
+§_french_2 : pashto
+nɛf
+nəh
+§_french_3 : Cimbrian
+nɛf
+nɔne
+§_french_4 : pashai
+nɛf
+nu
+§_french_5 : italian
+nɛf
+nɔve
+§_french_6 : Breton
+nɛf
+na
+§_french_7 : asturian
+nɛf
+neße
+§_french_8 : latin
+nɛf
+nɔɛ
+§_french_9 : Kashubian
+nɛf
+ʧɛvaʤ
+§_wallon_0 : Polish
+nuf
+ʤeveɲʧ
+§_wallon_1 : western farsi
+nuf
+noh
+§_wallon_2 : Irish
+nuf
+əni
+§_wallon_3 : sindhi
+nuf
+nəvə
+§_wallon_4 : gilaki
+nuf
+no
+§_wallon_5 : hindi
+nuf
+nɔ
+§_wallon_6 : SerboCroatian
+nuf
+devet
+§_wallon_7 : asturian
+nuf
+neße
+§_wallon_8 : sinhala
+nuf
+naməə
+§_wallon_9 : english
+nuf
+nan
+§_asturian_0 : pashai
+neße
+nu
+§_asturian_1 : Low Saxon
+neße
+negŋ
+§_asturian_2 : wallon
+neße
+nuf
+§_asturian_3 : latin
+neße
+nɔɛ
+§_asturian_4 : russian
+neße
+dɛvit
+§_asturian_5 : manx
+neße
+ni
+§_asturian_6 : pashto
+neße
+nəh
+§_asturian_7 : central kurdish
+neße
+no
+§_asturian_8 : Bulgarian
+neße
+devet
+§_asturian_9 : Rumanian
+neße
+noə
+§_sassarese sardinian_0 : norvegian
+nɔßi
+ni
+§_sassarese sardinian_1 : Low Saxon
+nɔßi
+negŋ
+§_sassarese sardinian_2 : hindi
+nɔßi
+nɔ
+§_sassarese sardinian_3 : Cimbrian
+nɔßi
+nɔne
+§_sassarese sardinian_4 : western farsi
+nɔßi
+noh
+§_sassarese sardinian_5 : SerboCroatian
+nɔßi
+devet
+§_sassarese sardinian_6 : Irish
+nɔßi
+əni
+§_sassarese sardinian_7 : albanian
+nɔßi
+nəntə
+§_sassarese sardinian_8 : central kurdish
+nɔßi
+no
+§_sassarese sardinian_9 : latin
+nɔßi
+nɔɛ
+§_Breton_0 : italian
+na
+nɔve
+§_Breton_1 : Icelandic
+na
+niɪ
+§_Breton_2 : german
+na
+nɔn
+§_Breton_3 : Dutch
+na
+neχə
+§_Breton_4 : latvian
+na
+dɛviɲi
+§_Breton_5 : pashto
+na
+nəh
+§_Breton_6 : pashai
+na
+nu
+§_Breton_7 : Kashubian
+na
+ʧɛvaʤ
+§_Breton_8 : SerboCroatian
+na
+devet
+§_Breton_9 : luxembourgish
+na
+neŋ
+§_Irish_0 : westenr frisian
+əni
+noɣən
+§_Irish_1 : sassarese sardinian
+əni
+nɔßi
+§_Irish_2 : gilaki
+əni
+no
+§_Irish_3 : norvegian
+əni
+ni
+§_Irish_4 : western farsi
+əni
+noh
+§_Irish_5 : Rumanian
+əni
+noə
+§_Irish_6 : Breton
+əni
+na
+§_Irish_7 : german
+əni
+nɔn
+§_Irish_8 : albanian
+əni
+nəntə
+§_Irish_9 : Low Saxon
+əni
+negŋ
+§_manx_0 : Irish
+ni
+əni
+§_manx_1 : pashai
+ni
+nu
+§_manx_2 : western farsi
+ni
+noh
+§_manx_3 : italian
+ni
+nɔve
+§_manx_4 : Dutch
+ni
+neχə
+§_manx_5 : latin
+ni
+nɔɛ
+§_manx_6 : latvian
+ni
+dɛviɲi
+§_manx_7 : swissgerman
+ni
+nyn
+§_manx_8 : Polish
+ni
+ʤeveɲʧ
+§_manx_9 : albanian
+ni
+nəntə
+§_english_0 : gilaki
+nan
+no
+§_english_1 : Rumanian
+nan
+noə
+§_english_2 : sinhala
+nan
+naməə
+§_english_3 : Low Saxon
+nan
+negŋ
+§_english_4 : sindhi
+nan
+nəvə
+§_english_5 : Cimbrian
+nan
+nɔne
+§_english_6 : Kashubian
+nan
+ʧɛvaʤ
+§_english_7 : french
+nan
+nɛf
+§_english_8 : Dutch
+nan
+neχə
+§_english_9 : sassarese sardinian
+nan
+nɔßi
+§_westenr frisian_0 : SerboCroatian
+noɣən
+devet
+§_westenr frisian_1 : wallon
+noɣən
+nuf
+§_westenr frisian_2 : Bulgarian
+noɣən
+devet
+§_westenr frisian_3 : Cimbrian
+noɣən
+nɔne
+§_westenr frisian_4 : Icelandic
+noɣən
+niɪ
+§_westenr frisian_5 : german
+noɣən
+nɔn
+§_westenr frisian_6 : lithuanian
+noɣən
+dɛvinɪ
+§_westenr frisian_7 : Dutch
+noɣən
+neχə
+§_westenr frisian_8 : Rumanian
+noɣən
+noə
+§_westenr frisian_9 : norvegian
+noɣən
+ni
+§_german_0 : french
+nɔn
+nɛf
+§_german_1 : lithuanian
+nɔn
+dɛvinɪ
+§_german_2 : sindhi
+nɔn
+nəvə
+§_german_3 : albanian
+nɔn
+nəntə
+§_german_4 : sassarese sardinian
+nɔn
+nɔßi
+§_german_5 : Breton
+nɔn
+na
+§_german_6 : greek
+nɔn
+ɛɲa
+§_german_7 : Rumanian
+nɔn
+noə
+§_german_8 : norvegian
+nɔn
+ni
+§_german_9 : latin
+nɔn
+nɔɛ
+§_luxembourgish_0 : lithuanian
+neŋ
+dɛvinɪ
+§_luxembourgish_1 : latin
+neŋ
+nɔɛ
+§_luxembourgish_2 : latvian
+neŋ
+dɛviɲi
+§_luxembourgish_3 : pashto
+neŋ
+nəh
+§_luxembourgish_4 : sinhala
+neŋ
+naməə
+§_luxembourgish_5 : western farsi
+neŋ
+noh
+§_luxembourgish_6 : Irish
+neŋ
+əni
+§_luxembourgish_7 : Polish
+neŋ
+ʤeveɲʧ
+§_luxembourgish_8 : albanian
+neŋ
+nəntə
+§_luxembourgish_9 : greek
+neŋ
+ɛɲa
+§_swissgerman_0 : sassarese sardinian
+nyn
+nɔßi
+§_swissgerman_1 : pashai
+nyn
+nu
+§_swissgerman_2 : sindhi
+nyn
+nəvə
+§_swissgerman_3 : sinhala
+nyn
+naməə
+§_swissgerman_4 : Icelandic
+nyn
+niɪ
+§_swissgerman_5 : central kurdish
+nyn
+no
+§_swissgerman_6 : western farsi
+nyn
+noh
+§_swissgerman_7 : latvian
+nyn
+dɛviɲi
+§_swissgerman_8 : gilaki
+nyn
+no
+§_swissgerman_9 : Kashubian
+nyn
+ʧɛvaʤ
+§_Cimbrian_0 : swissgerman
+nɔne
+nyn
+§_Cimbrian_1 : manx
+nɔne
+ni
+§_Cimbrian_2 : greek
+nɔne
+ɛɲa
+§_Cimbrian_3 : Polish
+nɔne
+ʤeveɲʧ
+§_Cimbrian_4 : hindi
+nɔne
+nɔ
+§_Cimbrian_5 : Bulgarian
+nɔne
+devet
+§_Cimbrian_6 : french
+nɔne
+nɛf
+§_Cimbrian_7 : western farsi
+nɔne
+noh
+§_Cimbrian_8 : Kashubian
+nɔne
+ʧɛvaʤ
+§_Cimbrian_9 : latin
+nɔne
+nɔɛ
+§_Dutch_0 : central kurdish
+neχə
+no
+§_Dutch_1 : lithuanian
+neχə
+dɛvinɪ
+§_Dutch_2 : pashai
+neχə
+nu
+§_Dutch_3 : norvegian
+neχə
+ni
+§_Dutch_4 : Low Saxon
+neχə
+negŋ
+§_Dutch_5 : Cimbrian
+neχə
+nɔne
+§_Dutch_6 : manx
+neχə
+ni
+§_Dutch_7 : luxembourgish
+neχə
+neŋ
+§_Dutch_8 : pashto
+neχə
+nəh
+§_Dutch_9 : Polish
+neχə
+ʤeveɲʧ
+§_Low Saxon_0 : french
+negŋ
+nɛf
+§_Low Saxon_1 : asturian
+negŋ
+neße
+§_Low Saxon_2 : pashai
+negŋ
+nu
+§_Low Saxon_3 : sinhala
+negŋ
+naməə
+§_Low Saxon_4 : sassarese sardinian
+negŋ
+nɔßi
+§_Low Saxon_5 : albanian
+negŋ
+nəntə
+§_Low Saxon_6 : western farsi
+negŋ
+noh
+§_Low Saxon_7 : russian
+negŋ
+dɛvit
+§_Low Saxon_8 : luxembourgish
+negŋ
+neŋ
+§_Low Saxon_9 : swissgerman
+negŋ
+nyn
+§_Icelandic_0 : Breton
+niɪ
+na
+§_Icelandic_1 : greek
+niɪ
+ɛɲa
+§_Icelandic_2 : Sicilian
+niɪ
+nɔvi
+§_Icelandic_3 : Irish
+niɪ
+əni
+§_Icelandic_4 : Rumanian
+niɪ
+noə
+§_Icelandic_5 : albanian
+niɪ
+nəntə
+§_Icelandic_6 : westenr frisian
+niɪ
+noɣən
+§_Icelandic_7 : sinhala
+niɪ
+naməə
+§_Icelandic_8 : wallon
+niɪ
+nuf
+§_Icelandic_9 : manx
+niɪ
+ni
+§_norvegian_0 : central kurdish
+ni
+no
+§_norvegian_1 : greek
+ni
+ɛɲa
+§_norvegian_2 : Bulgarian
+ni
+devet
+§_norvegian_3 : Dutch
+ni
+neχə
+§_norvegian_4 : sinhala
+ni
+naməə
+§_norvegian_5 : german
+ni
+nɔn
+§_norvegian_6 : french
+ni
+nɛf
+§_norvegian_7 : Cimbrian
+ni
+nɔne
+§_norvegian_8 : western farsi
+ni
+noh
+§_norvegian_9 : lithuanian
+ni
+dɛvinɪ
+§_latvian_0 : Cimbrian
+dɛviɲi
+nɔne
+§_latvian_1 : pashai
+dɛviɲi
+nu
+§_latvian_2 : italian
+dɛviɲi
+nɔve
+§_latvian_3 : Breton
+dɛviɲi
+na
+§_latvian_4 : Sicilian
+dɛviɲi
+nɔvi
+§_latvian_5 : russian
+dɛviɲi
+dɛvit
+§_latvian_6 : swissgerman
+dɛviɲi
+nyn
+§_latvian_7 : latin
+dɛviɲi
+nɔɛ
+§_latvian_8 : lithuanian
+dɛviɲi
+dɛvinɪ
+§_latvian_9 : SerboCroatian
+dɛviɲi
+devet
+§_lithuanian_0 : Kashubian
+dɛvinɪ
+ʧɛvaʤ
+§_lithuanian_1 : Bulgarian
+dɛvinɪ
+devet
+§_lithuanian_2 : Icelandic
+dɛvinɪ
+niɪ
+§_lithuanian_3 : swissgerman
+dɛvinɪ
+nyn
+§_lithuanian_4 : asturian
+dɛvinɪ
+neße
+§_lithuanian_5 : sinhala
+dɛvinɪ
+naməə
+§_lithuanian_6 : pashai
+dɛvinɪ
+nu
+§_lithuanian_7 : russian
+dɛvinɪ
+dɛvit
+§_lithuanian_8 : SerboCroatian
+dɛvinɪ
+devet
+§_lithuanian_9 : westenr frisian
+dɛvinɪ
+noɣən
+§_russian_0 : SerboCroatian
+dɛvit
+devet
+§_russian_1 : asturian
+dɛvit
+neße
+§_russian_2 : central kurdish
+dɛvit
+no
+§_russian_3 : lithuanian
+dɛvit
+dɛvinɪ
+§_russian_4 : Low Saxon
+dɛvit
+negŋ
+§_russian_5 : luxembourgish
+dɛvit
+neŋ
+§_russian_6 : Bulgarian
+dɛvit
+devet
+§_russian_7 : pashto
+dɛvit
+nəh
+§_russian_8 : Polish
+dɛvit
+ʤeveɲʧ
+§_russian_9 : latin
+dɛvit
+nɔɛ
+§_Kashubian_0 : swissgerman
+ʧɛvaʤ
+nyn
+§_Kashubian_1 : Dutch
+ʧɛvaʤ
+neχə
+§_Kashubian_2 : Bulgarian
+ʧɛvaʤ
+devet
+§_Kashubian_3 : wallon
+ʧɛvaʤ
+nuf
+§_Kashubian_4 : Sicilian
+ʧɛvaʤ
+nɔvi
+§_Kashubian_5 : sinhala
+ʧɛvaʤ
+naməə
+§_Kashubian_6 : lithuanian
+ʧɛvaʤ
+dɛvinɪ
+§_Kashubian_7 : russian
+ʧɛvaʤ
+dɛvit
+§_Kashubian_8 : manx
+ʧɛvaʤ
+ni
+§_Kashubian_9 : Cimbrian
+ʧɛvaʤ
+nɔne
+§_Polish_0 : latvian
+ʤeveɲʧ
+dɛviɲi
+§_Polish_1 : french
+ʤeveɲʧ
+nɛf
+§_Polish_2 : sassarese sardinian
+ʤeveɲʧ
+nɔßi
+§_Polish_3 : pashai
+ʤeveɲʧ
+nu
+§_Polish_4 : westenr frisian
+ʤeveɲʧ
+noɣən
+§_Polish_5 : sindhi
+ʤeveɲʧ
+nəvə
+§_Polish_6 : Kashubian
+ʤeveɲʧ
+ʧɛvaʤ
+§_Polish_7 : pashto
+ʤeveɲʧ
+nəh
+§_Polish_8 : Sicilian
+ʤeveɲʧ
+nɔvi
+§_Polish_9 : hindi
+ʤeveɲʧ
+nɔ
+§_Bulgarian_0 : wallon
+devet
+nuf
+§_Bulgarian_1 : hindi
+devet
+nɔ
+§_Bulgarian_2 : Low Saxon
+devet
+negŋ
+§_Bulgarian_3 : manx
+devet
+ni
+§_Bulgarian_4 : Cimbrian
+devet
+nɔne
+§_Bulgarian_5 : Sicilian
+devet
+nɔvi
+§_Bulgarian_6 : westenr frisian
+devet
+noɣən
+§_Bulgarian_7 : western farsi
+devet
+noh
+§_Bulgarian_8 : french
+devet
+nɛf
+§_Bulgarian_9 : english
+devet
+nan
+§_SerboCroatian_0 : pashto
+devet
+nəh
+§_SerboCroatian_1 : latvian
+devet
+dɛviɲi
+§_SerboCroatian_2 : manx
+devet
+ni
+§_SerboCroatian_3 : gilaki
+devet
+no
+§_SerboCroatian_4 : Dutch
+devet
+neχə
+§_SerboCroatian_5 : norvegian
+devet
+ni
+§_SerboCroatian_6 : albanian
+devet
+nəntə
+§_SerboCroatian_7 : Sicilian
+devet
+nɔvi
+§_SerboCroatian_8 : Icelandic
+devet
+niɪ
+§_SerboCroatian_9 : swissgerman
+devet
+nyn
+§_armenian_0 : greek
+tɑs
+ðɛka
+§_armenian_1 : westenr frisian
+tɑs
+ʤiən
+§_armenian_2 : german
+tɑs
+ʤen
+§_armenian_3 : Low Saxon
+tɑs
+taɪn
+§_armenian_4 : latin
+tɑs
+dɛkɛ
+§_armenian_5 : swissgerman
+tɑs
+ʤæ
+§_armenian_6 : Irish
+tɑs
+ədɛ
+§_armenian_7 : latvian
+tɑs
+dɛsmit
+§_armenian_8 : Icelandic
+tɑs
+tiɪ
+§_armenian_9 : gilaki
+tɑs
+da
+§_sinhala_0 : Bulgarian
+dahaə
+deset
+§_sinhala_1 : albanian
+dahaə
+ðɛtə
+§_sinhala_2 : latvian
+dahaə
+dɛsmit
+§_sinhala_3 : french
+dahaə
+dis
+§_sinhala_4 : gilaki
+dahaə
+da
+§_sinhala_5 : central kurdish
+dahaə
+dæ
+§_sinhala_6 : Breton
+dahaə
+dek
+§_sinhala_7 : Kashubian
+dahaə
+ʧɛsaʤ
+§_sinhala_8 : hindi
+dahaə
+dʌs
+§_sinhala_9 : greek
+dahaə
+ðɛka
+§_pashai_0 : norvegian
+daʃ
+ti
+§_pashai_1 : Icelandic
+daʃ
+tiɪ
+§_pashai_2 : gilaki
+daʃ
+da
+§_pashai_3 : Kashubian
+daʃ
+ʧɛsaʤ
+§_pashai_4 : swissgerman
+daʃ
+ʤæ
+§_pashai_5 : sassarese sardinian
+daʃ
+dɛʧi
+§_pashai_6 : sinhala
+daʃ
+dahaə
+§_pashai_7 : latvian
+daʃ
+dɛsmit
+§_pashai_8 : sindhi
+daʃ
+dəhə
+§_pashai_9 : central kurdish
+daʃ
+dæ
+§_sindhi_0 : latin
+dəhə
+dɛkɛ
+§_sindhi_1 : norvegian
+dəhə
+ti
+§_sindhi_2 : french
+dəhə
+dis
+§_sindhi_3 : westenr frisian
+dəhə
+ʤiən
+§_sindhi_4 : pashai
+dəhə
+daʃ
+§_sindhi_5 : russian
+dəhə
+dɛsit
+§_sindhi_6 : italian
+dəhə
+dɛʧi
+§_sindhi_7 : Breton
+dəhə
+dek
+§_sindhi_8 : Kashubian
+dəhə
+ʧɛsaʤ
+§_sindhi_9 : english
+dəhə
+ten
+§_hindi_0 : albanian
+dʌs
+ðɛtə
+§_hindi_1 : gilaki
+dʌs
+da
+§_hindi_2 : Sicilian
+dʌs
+rɛʃi
+§_hindi_3 : pashto
+dʌs
+las
+§_hindi_4 : greek
+dʌs
+ðɛka
+§_hindi_5 : wallon
+dʌs
+diʒ
+§_hindi_6 : SerboCroatian
+dʌs
+deset
+§_hindi_7 : norvegian
+dʌs
+ti
+§_hindi_8 : sindhi
+dʌs
+dəhə
+§_hindi_9 : Icelandic
+dʌs
+tiɪ
+§_pashto_0 : french
+las
+dis
+§_pashto_1 : greek
+las
+ðɛka
+§_pashto_2 : sindhi
+las
+dəhə
+§_pashto_3 : SerboCroatian
+las
+deset
+§_pashto_4 : wallon
+las
+diʒ
+§_pashto_5 : Rumanian
+las
+zeʧe
+§_pashto_6 : norvegian
+las
+ti
+§_pashto_7 : Dutch
+las
+tin
+§_pashto_8 : westenr frisian
+las
+ʤiən
+§_pashto_9 : Icelandic
+las
+tiɪ
+§_gilaki_0 : Cimbrian
+da
+səgəne
+§_gilaki_1 : Low Saxon
+da
+taɪn
+§_gilaki_2 : latvian
+da
+dɛsmit
+§_gilaki_3 : swissgerman
+da
+ʤæ
+§_gilaki_4 : latin
+da
+dɛkɛ
+§_gilaki_5 : sassarese sardinian
+da
+dɛʧi
+§_gilaki_6 : norvegian
+da
+ti
+§_gilaki_7 : Sicilian
+da
+rɛʃi
+§_gilaki_8 : sindhi
+da
+dəhə
+§_gilaki_9 : SerboCroatian
+da
+deset
+§_central kurdish_0 : russian
+dæ
+dɛsit
+§_central kurdish_1 : english
+dæ
+ten
+§_central kurdish_2 : luxembourgish
+dæ
+ʤeŋ
+§_central kurdish_3 : Sicilian
+dæ
+rɛʃi
+§_central kurdish_4 : Breton
+dæ
+dek
+§_central kurdish_5 : latvian
+dæ
+dɛsmit
+§_central kurdish_6 : norvegian
+dæ
+ti
+§_central kurdish_7 : gilaki
+dæ
+da
+§_central kurdish_8 : Low Saxon
+dæ
+taɪn
+§_central kurdish_9 : Polish
+dæ
+ʤeɕeɲʧ
+§_western farsi_0 : russian
+dæh
+dɛsit
+§_western farsi_1 : westenr frisian
+dæh
+ʤiən
+§_western farsi_2 : lithuanian
+dæh
+dɛʃɪmt
+§_western farsi_3 : manx
+dæh
+ʤɛ
+§_western farsi_4 : Bulgarian
+dæh
+deset
+§_western farsi_5 : Sicilian
+dæh
+rɛʃi
+§_western farsi_6 : swissgerman
+dæh
+ʤæ
+§_western farsi_7 : sassarese sardinian
+dæh
+dɛʧi
+§_western farsi_8 : sindhi
+dæh
+dəhə
+§_western farsi_9 : italian
+dæh
+dɛʧi
+§_albanian_0 : luxembourgish
+ðɛtə
+ʤeŋ
+§_albanian_1 : russian
+ðɛtə
+dɛsit
+§_albanian_2 : italian
+ðɛtə
+dɛʧi
+§_albanian_3 : latin
+ðɛtə
+dɛkɛ
+§_albanian_4 : manx
+ðɛtə
+ʤɛ
+§_albanian_5 : pashto
+ðɛtə
+las
+§_albanian_6 : Irish
+ðɛtə
+ədɛ
+§_albanian_7 : english
+ðɛtə
+ten
+§_albanian_8 : Cimbrian
+ðɛtə
+səgəne
+§_albanian_9 : sindhi
+ðɛtə
+dəhə
+§_greek_0 : italian
+ðɛka
+dɛʧi
+§_greek_1 : latvian
+ðɛka
+dɛsmit
+§_greek_2 : SerboCroatian
+ðɛka
+deset
+§_greek_3 : lithuanian
+ðɛka
+dɛʃɪmt
+§_greek_4 : english
+ðɛka
+ten
+§_greek_5 : Breton
+ðɛka
+dek
+§_greek_6 : sindhi
+ðɛka
+dəhə
+§_greek_7 : sassarese sardinian
+ðɛka
+dɛʧi
+§_greek_8 : wallon
+ðɛka
+diʒ
+§_greek_9 : Icelandic
+ðɛka
+tiɪ
+§_latin_0 : pashto
+dɛkɛ
+las
+§_latin_1 : norvegian
+dɛkɛ
+ti
+§_latin_2 : italian
+dɛkɛ
+dɛʧi
+§_latin_3 : latvian
+dɛkɛ
+dɛsmit
+§_latin_4 : french
+dɛkɛ
+dis
+§_latin_5 : pashai
+dɛkɛ
+daʃ
+§_latin_6 : sinhala
+dɛkɛ
+dahaə
+§_latin_7 : Irish
+dɛkɛ
+ədɛ
+§_latin_8 : wallon
+dɛkɛ
+diʒ
+§_latin_9 : english
+dɛkɛ
+ten
+§_Rumanian_0 : lithuanian
+zeʧe
+dɛʃɪmt
+§_Rumanian_1 : albanian
+zeʧe
+ðɛtə
+§_Rumanian_2 : french
+zeʧe
+dis
+§_Rumanian_3 : Bulgarian
+zeʧe
+deset
+§_Rumanian_4 : Low Saxon
+zeʧe
+taɪn
+§_Rumanian_5 : russian
+zeʧe
+dɛsit
+§_Rumanian_6 : Sicilian
+zeʧe
+rɛʃi
+§_Rumanian_7 : Polish
+zeʧe
+ʤeɕeɲʧ
+§_Rumanian_8 : german
+zeʧe
+ʤen
+§_Rumanian_9 : Kashubian
+zeʧe
+ʧɛsaʤ
+§_italian_0 : lithuanian
+dɛʧi
+dɛʃɪmt
+§_italian_1 : Irish
+dɛʧi
+ədɛ
+§_italian_2 : Icelandic
+dɛʧi
+tiɪ
+§_italian_3 : westenr frisian
+dɛʧi
+ʤiən
+§_italian_4 : manx
+dɛʧi
+ʤɛ
+§_italian_5 : russian
+dɛʧi
+dɛsit
+§_italian_6 : hindi
+dɛʧi
+dʌs
+§_italian_7 : Breton
+dɛʧi
+dek
+§_italian_8 : swissgerman
+dɛʧi
+ʤæ
+§_italian_9 : albanian
+dɛʧi
+ðɛtə
+§_Sicilian_0 : manx
+rɛʃi
+ʤɛ
+§_Sicilian_1 : latvian
+rɛʃi
+dɛsmit
+§_Sicilian_2 : Bulgarian
+rɛʃi
+deset
+§_Sicilian_3 : german
+rɛʃi
+ʤen
+§_Sicilian_4 : english
+rɛʃi
+ten
+§_Sicilian_5 : Icelandic
+rɛʃi
+tiɪ
+§_Sicilian_6 : Dutch
+rɛʃi
+tin
+§_Sicilian_7 : Low Saxon
+rɛʃi
+taɪn
+§_Sicilian_8 : luxembourgish
+rɛʃi
+ʤeŋ
+§_Sicilian_9 : greek
+rɛʃi
+ðɛka
+§_french_0 : swissgerman
+dis
+ʤæ
+§_french_1 : Breton
+dis
+dek
+§_french_2 : wallon
+dis
+diʒ
+§_french_3 : luxembourgish
+dis
+ʤeŋ
+§_french_4 : pashto
+dis
+las
+§_french_5 : western farsi
+dis
+dæh
+§_french_6 : greek
+dis
+ðɛka
+§_french_7 : sassarese sardinian
+dis
+dɛʧi
+§_french_8 : westenr frisian
+dis
+ʤiən
+§_french_9 : pashai
+dis
+daʃ
+§_wallon_0 : italian
+diʒ
+dɛʧi
+§_wallon_1 : latin
+diʒ
+dɛkɛ
+§_wallon_2 : Sicilian
+diʒ
+rɛʃi
+§_wallon_3 : Low Saxon
+diʒ
+taɪn
+§_wallon_4 : westenr frisian
+diʒ
+ʤiən
+§_wallon_5 : swissgerman
+diʒ
+ʤæ
+§_wallon_6 : latvian
+diʒ
+dɛsmit
+§_wallon_7 : Icelandic
+diʒ
+tiɪ
+§_wallon_8 : Dutch
+diʒ
+tin
+§_wallon_9 : asturian
+diʒ
+deθ
+§_asturian_0 : italian
+deθ
+dɛʧi
+§_asturian_1 : westenr frisian
+deθ
+ʤiən
+§_asturian_2 : hindi
+deθ
+dʌs
+§_asturian_3 : norvegian
+deθ
+ti
+§_asturian_4 : luxembourgish
+deθ
+ʤeŋ
+§_asturian_5 : Cimbrian
+deθ
+səgəne
+§_asturian_6 : Polish
+deθ
+ʤeɕeɲʧ
+§_asturian_7 : albanian
+deθ
+ðɛtə
+§_asturian_8 : lithuanian
+deθ
+dɛʃɪmt
+§_asturian_9 : sassarese sardinian
+deθ
+dɛʧi
+§_sassarese sardinian_0 : Kashubian
+dɛʧi
+ʧɛsaʤ
+§_sassarese sardinian_1 : greek
+dɛʧi
+ðɛka
+§_sassarese sardinian_2 : SerboCroatian
+dɛʧi
+deset
+§_sassarese sardinian_3 : Sicilian
+dɛʧi
+rɛʃi
+§_sassarese sardinian_4 : english
+dɛʧi
+ten
+§_sassarese sardinian_5 : sindhi
+dɛʧi
+dəhə
+§_sassarese sardinian_6 : Breton
+dɛʧi
+dek
+§_sassarese sardinian_7 : german
+dɛʧi
+ʤen
+§_sassarese sardinian_8 : russian
+dɛʧi
+dɛsit
+§_sassarese sardinian_9 : swissgerman
+dɛʧi
+ʤæ
+§_Breton_0 : german
+dek
+ʤen
+§_Breton_1 : Rumanian
+dek
+zeʧe
+§_Breton_2 : english
+dek
+ten
+§_Breton_3 : luxembourgish
+dek
+ʤeŋ
+§_Breton_4 : pashai
+dek
+daʃ
+§_Breton_5 : central kurdish
+dek
+dæ
+§_Breton_6 : SerboCroatian
+dek
+deset
+§_Breton_7 : wallon
+dek
+diʒ
+§_Breton_8 : Bulgarian
+dek
+deset
+§_Breton_9 : Sicilian
+dek
+rɛʃi
+§_Irish_0 : SerboCroatian
+ədɛ
+deset
+§_Irish_1 : asturian
+ədɛ
+deθ
+§_Irish_2 : western farsi
+ədɛ
+dæh
+§_Irish_3 : pashto
+ədɛ
+las
+§_Irish_4 : english
+ədɛ
+ten
+§_Irish_5 : swissgerman
+ədɛ
+ʤæ
+§_Irish_6 : Sicilian
+ədɛ
+rɛʃi
+§_Irish_7 : Bulgarian
+ədɛ
+deset
+§_Irish_8 : wallon
+ədɛ
+diʒ
+§_Irish_9 : latvian
+ədɛ
+dɛsmit
+§_manx_0 : greek
+ʤɛ
+ðɛka
+§_manx_1 : pashto
+ʤɛ
+las
+§_manx_2 : russian
+ʤɛ
+dɛsit
+§_manx_3 : SerboCroatian
+ʤɛ
+deset
+§_manx_4 : french
+ʤɛ
+dis
+§_manx_5 : Sicilian
+ʤɛ
+rɛʃi
+§_manx_6 : Icelandic
+ʤɛ
+tiɪ
+§_manx_7 : Cimbrian
+ʤɛ
+səgəne
+§_manx_8 : gilaki
+ʤɛ
+da
+§_manx_9 : sinhala
+ʤɛ
+dahaə
+§_english_0 : norvegian
+ten
+ti
+§_english_1 : lithuanian
+ten
+dɛʃɪmt
+§_english_2 : western farsi
+ten
+dæh
+§_english_3 : pashto
+ten
+las
+§_english_4 : SerboCroatian
+ten
+deset
+§_english_5 : Dutch
+ten
+tin
+§_english_6 : Sicilian
+ten
+rɛʃi
+§_english_7 : luxembourgish
+ten
+ʤeŋ
+§_english_8 : sinhala
+ten
+dahaə
+§_english_9 : Polish
+ten
+ʤeɕeɲʧ
+§_westenr frisian_0 : Irish
+ʤiən
+ədɛ
+§_westenr frisian_1 : central kurdish
+ʤiən
+dæ
+§_westenr frisian_2 : english
+ʤiən
+ten
+§_westenr frisian_3 : western farsi
+ʤiən
+dæh
+§_westenr frisian_4 : manx
+ʤiən
+ʤɛ
+§_westenr frisian_5 : Polish
+ʤiən
+ʤeɕeɲʧ
+§_westenr frisian_6 : swissgerman
+ʤiən
+ʤæ
+§_westenr frisian_7 : greek
+ʤiən
+ðɛka
+§_westenr frisian_8 : german
+ʤiən
+ʤen
+§_westenr frisian_9 : Bulgarian
+ʤiən
+deset
+§_german_0 : french
+ʤen
+dis
+§_german_1 : russian
+ʤen
+dɛsit
+§_german_2 : lithuanian
+ʤen
+dɛʃɪmt
+§_german_3 : manx
+ʤen
+ʤɛ
+§_german_4 : central kurdish
+ʤen
+dæ
+§_german_5 : Rumanian
+ʤen
+zeʧe
+§_german_6 : Cimbrian
+ʤen
+səgəne
+§_german_7 : Breton
+ʤen
+dek
+§_german_8 : Polish
+ʤen
+ʤeɕeɲʧ
+§_german_9 : wallon
+ʤen
+diʒ
+§_luxembourgish_0 : western farsi
+ʤeŋ
+dæh
+§_luxembourgish_1 : Breton
+ʤeŋ
+dek
+§_luxembourgish_2 : lithuanian
+ʤeŋ
+dɛʃɪmt
+§_luxembourgish_3 : asturian
+ʤeŋ
+deθ
+§_luxembourgish_4 : Low Saxon
+ʤeŋ
+taɪn
+§_luxembourgish_5 : Dutch
+ʤeŋ
+tin
+§_luxembourgish_6 : italian
+ʤeŋ
+dɛʧi
+§_luxembourgish_7 : Icelandic
+ʤeŋ
+tiɪ
+§_luxembourgish_8 : Sicilian
+ʤeŋ
+rɛʃi
+§_luxembourgish_9 : latin
+ʤeŋ
+dɛkɛ
+§_swissgerman_0 : greek
+ʤæ
+ðɛka
+§_swissgerman_1 : german
+ʤæ
+ʤen
+§_swissgerman_2 : lithuanian
+ʤæ
+dɛʃɪmt
+§_swissgerman_3 : gilaki
+ʤæ
+da
+§_swissgerman_4 : latin
+ʤæ
+dɛkɛ
+§_swissgerman_5 : asturian
+ʤæ
+deθ
+§_swissgerman_6 : Irish
+ʤæ
+ədɛ
+§_swissgerman_7 : norvegian
+ʤæ
+ti
+§_swissgerman_8 : Cimbrian
+ʤæ
+səgəne
+§_swissgerman_9 : wallon
+ʤæ
+diʒ
+§_Cimbrian_0 : sassarese sardinian
+səgəne
+dɛʧi
+§_Cimbrian_1 : asturian
+səgəne
+deθ
+§_Cimbrian_2 : sinhala
+səgəne
+dahaə
+§_Cimbrian_3 : central kurdish
+səgəne
+dæ
+§_Cimbrian_4 : Breton
+səgəne
+dek
+§_Cimbrian_5 : latin
+səgəne
+dɛkɛ
+§_Cimbrian_6 : westenr frisian
+səgəne
+ʤiən
+§_Cimbrian_7 : albanian
+səgəne
+ðɛtə
+§_Cimbrian_8 : SerboCroatian
+səgəne
+deset
+§_Cimbrian_9 : Sicilian
+səgəne
+rɛʃi
+§_Dutch_0 : russian
+tin
+dɛsit
+§_Dutch_1 : Kashubian
+tin
+ʧɛsaʤ
+§_Dutch_2 : Sicilian
+tin
+rɛʃi
+§_Dutch_3 : lithuanian
+tin
+dɛʃɪmt
+§_Dutch_4 : Cimbrian
+tin
+səgəne
+§_Dutch_5 : SerboCroatian
+tin
+deset
+§_Dutch_6 : french
+tin
+dis
+§_Dutch_7 : sindhi
+tin
+dəhə
+§_Dutch_8 : luxembourgish
+tin
+ʤeŋ
+§_Dutch_9 : albanian
+tin
+ðɛtə
+§_Low Saxon_0 : manx
+taɪn
+ʤɛ
+§_Low Saxon_1 : norvegian
+taɪn
+ti
+§_Low Saxon_2 : pashto
+taɪn
+las
+§_Low Saxon_3 : gilaki
+taɪn
+da
+§_Low Saxon_4 : italian
+taɪn
+dɛʧi
+§_Low Saxon_5 : Polish
+taɪn
+ʤeɕeɲʧ
+§_Low Saxon_6 : Bulgarian
+taɪn
+deset
+§_Low Saxon_7 : swissgerman
+taɪn
+ʤæ
+§_Low Saxon_8 : Breton
+taɪn
+dek
+§_Low Saxon_9 : Irish
+taɪn
+ədɛ
+§_Icelandic_0 : hindi
+tiɪ
+dʌs
+§_Icelandic_1 : pashai
+tiɪ
+daʃ
+§_Icelandic_2 : Rumanian
+tiɪ
+zeʧe
+§_Icelandic_3 : Low Saxon
+tiɪ
+taɪn
+§_Icelandic_4 : italian
+tiɪ
+dɛʧi
+§_Icelandic_5 : Polish
+tiɪ
+ʤeɕeɲʧ
+§_Icelandic_6 : manx
+tiɪ
+ʤɛ
+§_Icelandic_7 : Irish
+tiɪ
+ədɛ
+§_Icelandic_8 : sassarese sardinian
+tiɪ
+dɛʧi
+§_Icelandic_9 : latin
+tiɪ
+dɛkɛ
+§_norvegian_0 : Dutch
+ti
+tin
+§_norvegian_1 : italian
+ti
+dɛʧi
+§_norvegian_2 : french
+ti
+dis
+§_norvegian_3 : sindhi
+ti
+dəhə
+§_norvegian_4 : sinhala
+ti
+dahaə
+§_norvegian_5 : gilaki
+ti
+da
+§_norvegian_6 : Kashubian
+ti
+ʧɛsaʤ
+§_norvegian_7 : Irish
+ti
+ədɛ
+§_norvegian_8 : Cimbrian
+ti
+səgəne
+§_norvegian_9 : Rumanian
+ti
+zeʧe
+§_latvian_0 : sinhala
+dɛsmit
+dahaə
+§_latvian_1 : sassarese sardinian
+dɛsmit
+dɛʧi
+§_latvian_2 : Sicilian
+dɛsmit
+rɛʃi
+§_latvian_3 : russian
+dɛsmit
+dɛsit
+§_latvian_4 : french
+dɛsmit
+dis
+§_latvian_5 : Rumanian
+dɛsmit
+zeʧe
+§_latvian_6 : hindi
+dɛsmit
+dʌs
+§_latvian_7 : Kashubian
+dɛsmit
+ʧɛsaʤ
+§_latvian_8 : sindhi
+dɛsmit
+dəhə
+§_latvian_9 : Polish
+dɛsmit
+ʤeɕeɲʧ
+§_lithuanian_0 : Bulgarian
+dɛʃɪmt
+deset
+§_lithuanian_1 : english
+dɛʃɪmt
+ten
+§_lithuanian_2 : pashai
+dɛʃɪmt
+daʃ
+§_lithuanian_3 : italian
+dɛʃɪmt
+dɛʧi
+§_lithuanian_4 : Kashubian
+dɛʃɪmt
+ʧɛsaʤ
+§_lithuanian_5 : western farsi
+dɛʃɪmt
+dæh
+§_lithuanian_6 : Low Saxon
+dɛʃɪmt
+taɪn
+§_lithuanian_7 : german
+dɛʃɪmt
+ʤen
+§_lithuanian_8 : russian
+dɛʃɪmt
+dɛsit
+§_lithuanian_9 : norvegian
+dɛʃɪmt
+ti
+§_russian_0 : wallon
+dɛsit
+diʒ
+§_russian_1 : sassarese sardinian
+dɛsit
+dɛʧi
+§_russian_2 : swissgerman
+dɛsit
+ʤæ
+§_russian_3 : hindi
+dɛsit
+dʌs
+§_russian_4 : lithuanian
+dɛsit
+dɛʃɪmt
+§_russian_5 : Dutch
+dɛsit
+tin
+§_russian_6 : westenr frisian
+dɛsit
+ʤiən
+§_russian_7 : italian
+dɛsit
+dɛʧi
+§_russian_8 : gilaki
+dɛsit
+da
+§_russian_9 : Sicilian
+dɛsit
+rɛʃi
+§_Kashubian_0 : Sicilian
+ʧɛsaʤ
+rɛʃi
+§_Kashubian_1 : pashto
+ʧɛsaʤ
+las
+§_Kashubian_2 : central kurdish
+ʧɛsaʤ
+dæ
+§_Kashubian_3 : wallon
+ʧɛsaʤ
+diʒ
+§_Kashubian_4 : russian
+ʧɛsaʤ
+dɛsit
+§_Kashubian_5 : hindi
+ʧɛsaʤ
+dʌs
+§_Kashubian_6 : sindhi
+ʧɛsaʤ
+dəhə
+§_Kashubian_7 : italian
+ʧɛsaʤ
+dɛʧi
+§_Kashubian_8 : Rumanian
+ʧɛsaʤ
+zeʧe
+§_Kashubian_9 : Cimbrian
+ʧɛsaʤ
+səgəne
+§_Polish_0 : english
+ʤeɕeɲʧ
+ten
+§_Polish_1 : german
+ʤeɕeɲʧ
+ʤen
+§_Polish_2 : Rumanian
+ʤeɕeɲʧ
+zeʧe
+§_Polish_3 : Breton
+ʤeɕeɲʧ
+dek
+§_Polish_4 : russian
+ʤeɕeɲʧ
+dɛsit
+§_Polish_5 : french
+ʤeɕeɲʧ
+dis
+§_Polish_6 : sindhi
+ʤeɕeɲʧ
+dəhə
+§_Polish_7 : Icelandic
+ʤeɕeɲʧ
+tiɪ
+§_Polish_8 : latin
+ʤeɕeɲʧ
+dɛkɛ
+§_Polish_9 : latvian
+ʤeɕeɲʧ
+dɛsmit
+§_Bulgarian_0 : Dutch
+deset
+tin
+§_Bulgarian_1 : pashai
+deset
+daʃ
+§_Bulgarian_2 : norvegian
+deset
+ti
+§_Bulgarian_3 : Icelandic
+deset
+tiɪ
+§_Bulgarian_4 : english
+deset
+ten
+§_Bulgarian_5 : western farsi
+deset
+dæh
+§_Bulgarian_6 : gilaki
+deset
+da
+§_Bulgarian_7 : french
+deset
+dis
+§_Bulgarian_8 : Kashubian
+deset
+ʧɛsaʤ
+§_Bulgarian_9 : Irish
+deset
+ədɛ
+§_SerboCroatian_0 : pashai
+deset
+daʃ
+§_SerboCroatian_1 : german
+deset
+ʤen
+§_SerboCroatian_2 : Bulgarian
+deset
+deset
+§_SerboCroatian_3 : hindi
+deset
+dʌs
+§_SerboCroatian_4 : central kurdish
+deset
+dæ
+§_SerboCroatian_5 : westenr frisian
+deset
+ʤiən
+§_SerboCroatian_6 : russian
+deset
+dɛsit
+§_SerboCroatian_7 : norvegian
+deset
+ti
+§_SerboCroatian_8 : albanian
+deset
+ðɛtə
+§_SerboCroatian_9 : swissgerman
+deset
+ʤæ
