@@ -1,0 +1,14 @@
+% External Function
+% Lines starting with % are ignored.
+% The following variables can be retrieved from the matcher module and used in the scoring function:
+%
+% SumFeat = total number of features in common between the two words
+% NrFeat = number of phonetic features taken into consideration
+% Divider = length of the longest of the two words being aligned
+% LenSeq = length of the longest matching sequence, without counting initial or final unmatched pairs.
+% LenWord1 = length word 1
+% LenWord2 = length word 2
+%
+% The following example represent the Corrected Global Similarity Score function presented in the paper. Replace it with the desired costumed function.
+%
+(((SumFeat) / ( 7.71 * NrFeat)) - 1 / ( Divider + ( 1 / Divider ) ) + 1 / ( LenSeq + ( 1 / LenSeq )))
