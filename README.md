@@ -19,10 +19,10 @@ The resulting tree of your project should be:
 
 ```
 +---project folder
- 	|
-    +---src
-    |   +---your code
-    |
+	|
+	+---src
+	|	+---your code
+	|
  	+---lib
  	|	+---FAAL_2.0.0.jar
  	|
