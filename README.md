@@ -78,7 +78,7 @@ pair of point 6. here above.
 
 Here a minimal working example that prints all the alignments found by the algorithm using the default settings:
 
-```
+```java
 package examples;
 
 import java.util.List;
