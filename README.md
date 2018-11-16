@@ -41,6 +41,18 @@ The resulting tree of your project should be:
 
 FAAL can be used either as it is, using the default parameters, or by setting various options.
 
+Eight examples presenting different ways to use and customise FAAL are presented here below.
+Their topic are the following:
+
+- __Example 1__ : basic implementation with default values
+- __Example 2__ : basic default implenentation with external Corrected Global Similarity Score from file
+- __Example 3__ : basic default implenentation with external Corrected Global Similarity Score set programamtically
+- __Example 4__ : implementation with personalized settings
+- __Example 5__ : example of the use of morphemic boundary markers with the basic implementation with default values
+- __Example 6__ : example in which each of the submodules of FAAL is called indipendently
+- __Example 7__ : example showing how to modify FAAL in order to compare tones on the basis of their form - the example aligns three words in three Bai dialects
+- __Example 7__ : example showing how to modify FAAL in order to compare tones on the basis of their historical origin, and how to use the Similarity Scores to identify the best match between phonologically similar alternatives - the example aligns three similar words in Punjabi (tonal) with three words in Hindi (non-tonal) identifying the correct match for each of them.
+
 ### Example 1
 
 The first option it is the easiest, and consists in using the method FAAL.faal(String, String, Boolean).
