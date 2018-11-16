@@ -139,7 +139,7 @@ In this case, a fourth argument must be added:
 The following minimal example aligns the English word tongue /tʌŋ/ with the Latin word lingua /liŋgʷa/ the external corrected global similarity score present in the file, which is the same as the default one. The information about how to modify such functions can be found in the file external_corr_glob_sim_score_function.txt itself.
 
 
-```
+```java
 package examples;
 
 import java.util.List;
@@ -208,14 +208,15 @@ In some cases, however, it can be useful to have also an average score obtained 
 
 In this current example we will test two functions that provide such a score, one based on the Global Similarity Score, and the other based on the Corrected Global Similarity Score. They are the following:
 
-```
+```java
 "((SumFeat) / (NrFeat * 7.71)) / Divider"
 ```
 
 where "((SumFeat) / (NrFeat * 7.71))" is the default Global Similarity Score function and "Divider" is the variable storing the length of the longest word (see here above),
 
 and:
-```
+
+```java
 "(((SumFeat) / ( 7.71 * NrFeat)) - 1 / ( Divider + ( 1 / Divider ) ) + 1 / ( LenSeq + ( 1 / LenSeq ))) / Divider"
 ```
 
@@ -223,7 +224,7 @@ where "(((SumFeat) / ( 7.71 * NrFeat)) - 1 / ( Divider + ( 1 / Divider ) ) + 1 /
 
 In the following code the words θiɣatɛra and doxtəɾ are aligned first according to the default function, and then according to the two functions just described.
 
-```
+```java
 package examples;
 
 import java.util.List;
@@ -366,7 +367,7 @@ In this example, two polymorphemic words from Japanese and Korean, namely [hɐk�
 Here a minimal working example, without and with the morphemic boundary marker ￤ (U+FFE4):
 
 
-```
+```java
 package examples;
 
 import java.util.ArrayList;
@@ -581,7 +582,7 @@ Note that the final -əʊ̯ (for the use of ̯ - U+032F to transcribe diphthongs
 These two words can be compared using the basic implementation of FAAL illustrated in Example 1:
 
 
-```
+```java
 package examples;
 
 import java.util.List;
@@ -627,7 +628,7 @@ Note that the introduction of the morphemic boundary, marked with ￤, allows FA
 
 All the sub-modules of FAAL can be called independently, as shown in the following code using the words of Example 1 above:
 
-```
+```java
 package examples;
 
 import java.util.ArrayList;
@@ -1164,7 +1165,7 @@ Then, FAAL can be used with this new configuration. The algorithm needs to be us
 
 In the following example, the words Qīlǐqiáo: sɯ̄³₃￤ʦɨ̂³₁￤ʦɨ̄³₃￤ and Dàshí ʂɯ̄³₃￤tî³₁￤ , and Qīlǐqiáo: sɯ̄³₃￤ʦɨ̂³₁￤ʦɨ̄³₃￤ and Mǎzhělóng səw̯̄³₃￤ʦī⁴₄￤ are compared.
 
-```
+```java
 package examples;
 
 import java.util.ArrayList;
@@ -1415,10 +1416,10 @@ The features modified by the tones, instead, can be set to 2, instead of the def
 % 10 - Laryng. - voice
 10	2
 %
-% 11 - Laryng. - spread gl
+% 11 - Laryng. - spread glottis
 11	2
 %
-% 12 - Laryng. - constr gl
+% 12 - Laryng. - constr glottis
 12	2
 ```
 
@@ -1462,7 +1463,7 @@ The files created in this example can be found in the folder _config_punjabi_ton
 
 These new settings can be used to compare the three Punjabi and Hindi words as follow:
 
-```
+```java
 package examples;
 
 import java.util.ArrayList;
