@@ -51,7 +51,7 @@ Their topic are the following:
 - __Example 5__ : example of the use of morphemic boundary markers with the basic implementation with default values
 - __Example 6__ : example in which each of the submodules of FAAL is called indipendently
 - __Example 7__ : example showing how to modify FAAL in order to compare tones on the basis of their form - the example aligns three words in three Bai dialects
-- __Example 7__ : example showing how to modify FAAL in order to compare tones on the basis of their historical origin, and how to use the Similarity Scores to identify the best match between phonologically similar alternatives - the example aligns three similar words in Punjabi (tonal) with three words in Hindi (non-tonal) identifying the correct match for each of them.
+- __Example 8__ : example showing how to modify FAAL in order to compare tones on the basis of their historical origin, and how to use the Similarity Scores to identify the best match between phonologically similar alternatives - the example aligns three similar words in Punjabi (tonal) with three words in Hindi (non-tonal) identifying the correct match for each of them.
 
 ### Example 1
 
