@@ -56,23 +56,23 @@ Each item in the List<Alignment> corresponds to an alignment. They are organized
 items stored in the _Alignment_ class can be called as follow:
 
 
-- 0. .getWord1_WithDiacritics() - String: Returns the aligned word
+- .getWord1_WithDiacritics() - String: Returns the aligned word
 1, with diacritics.
-- 1. .getWord2_WithDiacritics() - String: Returns the aligned word
+- .getWord2_WithDiacritics() - String: Returns the aligned word
 2, with diacritics.
-2. .getWord1_WithoutDiacritics() - String: Returns the aligned
+- .getWord1_WithoutDiacritics() - String: Returns the aligned
 word 1, without diacritics.
-- 3. .getWord2_WithoutDiacritics() - String: Returns the aligned
+- .getWord2_WithoutDiacritics() - String: Returns the aligned
 word 2, without diacritics.
-- 4. .getGlobalSimilarityScore() - Double: Returns the Global
+- .getGlobalSimilarityScore() - Double: Returns the Global
 Similarity Score.
-- 5. .getCorrectedGlobalSimilarityScore() - Double: Returns the
+- .getCorrectedGlobalSimilarityScore() - Double: Returns the
 Corrected Global Similarity Score.
-- 6. .getPhoneticPairs() - List&lt;String&gt;: Returns the list of
+- .getPhoneticPairs() - List&lt;String&gt;: Returns the list of
 phonetic pairs attested within the alignment. Each item on the list
 corresponds to a phonetic pair, and it is stored as a string with the
 following syntax: "phoneme_A - phoneme_B"
-- 7. .getNrAttestationsPhoneticPairs() - List&lt;Integer&gt;: Returns
+- .getNrAttestationsPhoneticPairs() - List&lt;Integer&gt;: Returns
 the number of attestations within the alignment for each phonetic
 pair of point 6. here above.
 
