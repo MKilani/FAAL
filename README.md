@@ -580,7 +580,7 @@ The results are:
 ┊:p:e:k:ç:ʌ:ɭ:g:u┊:￤
 Global Similarity Score: 21.42857142857143
 Corrected Global Similarity Score: 20.9478021978022
-[h - p, ɐ - e, k - k, e - ʌ, k - g, ɯ - u]
+[h - p, ɐ - e, kː - k, e - j͜ʌ, kʲː - g, ɯː - u]
 [1, 1, 1, 1, 1, 1]
 
 === Japanese hɐ￤kːe￤kʲːɯː ~ Korean pek￤çj͜ʌɭ￤gu ===
@@ -592,7 +592,7 @@ Corrected Global Similarity Score: 20.9478021978022
 ┊:p:e:k:￤:ç:ʌ:ɭ:￤:g:u┊:￤
 Global Similarity Score: 19.839725773577914
 Corrected Global Similarity Score: 19.358956542808684
-[h - p, ɐ - e, k - ç, e - ʌ, k - g, ɯ - u]
+[h - p, ɐ - e, kː - ç, e - j͜ʌ, kʲː - g, ɯː - u]
 [1, 1, 1, 1, 1, 1]
 ```
 
@@ -906,6 +906,8 @@ Corrected Global Similarity Score:
 14.68880859736891
 Attested Pairs:
 [s - ʂ, ɯ - ɯ, ʦ - t, ɨ - i]
+Number of Attestations of the Attested Pairs:
+[1, 1, 1, 1]
 ----
 ========
 ┊s	ɯ	￤	ʦ	ɨ	￤	ʦ	ɨ┊	￤
@@ -918,6 +920,8 @@ Corrected Global Similarity Score:
 14.214449623009935
 Attested Pairs:
 [s - ʂ, ɯ - ɯ, ʦ - t, ɨ - i]
+Number of Attestations of the Attested Pairs:
+[1, 1, 1, 1]
 ```
 
 and:
@@ -933,7 +937,9 @@ Global Similarity Score:
 Corrected Global Similarity Score:
 14.962108578840096
 Attested Pairs:
-[s - s, ɯ - ə, ʦ - ʦ, ɨ - i]
+[s - s, ɯ - əw̯, ʦ - ʦ, ɨ - i]
+Number of Attestations of the Attested Pairs:
+[1, 1, 1, 1]
 ----
 ========
 ┊s	ɯ	￤	ʦ	ɨ	￤	ʦ	ɨ┊	￤
@@ -945,7 +951,9 @@ Global Similarity Score:
 Corrected Global Similarity Score:
 14.487749604481122
 Attested Pairs:
-[s - s, ɯ - ə, ʦ - ʦ, ɨ - i]
+[s - s, ɯ - əw̯, ʦ - ʦ, ɨ - i]
+Number of Attestations of the Attested Pairs:
+[1, 1, 1, 1]
 ```
 
 
@@ -1364,7 +1372,7 @@ The results are:
 ┊:ʂ:ɯ:￤:t:i┊:￤:0:0:0
 Global Similarity Score: 8.881863380890618
 Corrected Global Similarity Score: 8.715196714223952
-[s - ʂ, ɯ - ɯ, ʦ - t, ɨ - i]
+[s - ʂ, ɯ̄³₃ - ɯ̄³₃, ʦ - t, ɨ̂³₁ - î³₁]
 [1, 1, 1, 1]
 
 === Qīlǐqiáo: sɯ̄³₃￤ʦɨ̂³₁￤ʦɨ̄³₃￤ ~ Mǎzhělóng səw̯̄³₃￤ʦī⁴₄￤ ===
@@ -1375,7 +1383,7 @@ Corrected Global Similarity Score: 8.715196714223952
 ┊:s:ə:￤:0:0:0:ʦ:i┊:￤
 Global Similarity Score: 9.030479896238651
 Corrected Global Similarity Score: 8.38945425521301
-[s - s, ɯ - ə, ʦ - ʦ, ɨ - i]
+[s - s, ɯ̄³₃ - əw̯̄³₃, ʦ - ʦ, ɨ̄³₃ - ī⁴₄]
 [1, 1, 1, 1]
 ```
 
