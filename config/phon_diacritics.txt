@@ -14,23 +14,45 @@
 % according to the format just described, separated by a space (U+0020).
 % Columns are separated by the character "	" (horizontal tab character - U+0009).
 %
+% As a good practice, each row is preceded by a line of comment (introduced by %) describing the function of the diacritic.
 %
+% creaky voice
 ̰	0	11;- 12;+
+% breathy voice
 ̤	0	11;+ 12;-
+% voiceless
 ̥	0	10;-
-̱	0	17;- 18;+
+% palato-alveolar
+˗	0	17;- 18;+
+% dental
 ̪	0	17;+ 18;+
-˖	0	24;+ 25;-	
+% fronted velar
+˖	0	24;+ 25;-
+% backed velar
 ̱	0	24;- 25;+
+% long
 :	0	27;+
+% graphic variant of the previous one
 ː	0	27;+
+% aspirated
 ʰ	0	11;+ 12;-
+% palatalised
 ʲ	0	21;+ 22;+ 23;- 24;+ 25;-
+% labialised
 ʷ	0	13;+ 14;+
+% rounded
 ᵝ	0	13;+ 14;+
+% velarised
 ˠ	0	21;+ 22;+ 23;- 24;- 25;+
+% pharyngealised
 ˤ	0	21;+ 22;- 23;+ 24;- 25;+
+% graphic variant of the previous one
+ˁ	0	21;+ 22;- 23;+ 24;- 25;+
+% nasalised
 ~	0	9;+
+% rhotic
 ˞	0	16;+ 17;+ 18;+ 19;-
-'	0	11;- 12;+
+% ejective
+ʼ	0	11;- 12;+
+% pre-nasalised
 ⁿ	1	9;+

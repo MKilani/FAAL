@@ -1,0 +1,61 @@
+%
+% File setting the salience files to be used for all possible matches of the two phonological category features (see file phon_categories.txt).
+%
+% Each line present a possible match between the two features of the two words, for a total of 36 possible different matches.
+% In principle, a distinct set of saliences can be defined for each of these possible matches.
+%
+% In the default settings, however, only three sets of saliences are used. One of them ( salience_cat_2 ) is used
+% whenever two phonemes whose categorizing first feature is [+] or [±] are matched (namely, when two vowels, or 
+% a vowel and a semivowel are matched).
+% A second set of saliences ( salience_cat_1 ) is used whenever there is a match between two phones sharing the same
+% first feature [-] or [±] (namely, when they are consonants or semiconsonants), and have a matching second feature 
+% of any kind (namely, they share a matching "feature Manner - delayed release" ). Finally, a third set of saliences
+% ( salience_cat_3 ) is used whenever there is a match between phones whose first characterizing feature is not
+% compatible (namely, when a consonant is matched with a vowel) or when the first feature is compatible, but the
+% second feature is not (i.e. when their "feature Manner - delayed release" does not match).
+%
+%
+% Lines starting with % are ignored.
+%
+% The format of this file is:
+% 
+% Feature_A_of_word_1	Feature_A_of_word_2	:	Feature_B_of_word_1	Feature_B_of_word_2	:	location_salience_file_to_use_for_such_a_match
+%
+% Columns are separated by the character "	" (horizontal tab character - U+0009)
+%
+-	-	:	+	+	:	config/saliences/salience_cat_1.txt	% 1
+-	-	:	+	-	:	config/saliences/salience_cat_3.txt	% 3
+-	-	:	+	±	:	config/saliences/salience_cat_1.txt	% 1
+-	-	:	±	±	:	config/saliences/salience_cat_1.txt	% 1
+-	-	:	-	±	:	config/saliences/salience_cat_1.txt	% 1
+-	-	:	-	-	:	config/saliences/salience_cat_1.txt	% 1
++	-	:	+	+	:	config/saliences/salience_cat_3.txt	% 3
++	-	:	+	-	:	config/saliences/salience_cat_3.txt	% 3
++	-	:	+	±	:	config/saliences/salience_cat_3.txt	% 3
++	-	:	±	±	:	config/saliences/salience_cat_3.txt	% 3
++	-	:	-	±	:	config/saliences/salience_cat_3.txt	% 3
++	-	:	-	-	:	config/saliences/salience_cat_3.txt	% 3
+-	±	:	+	+	:	config/saliences/salience_cat_1.txt	% 1
+-	±	:	+	-	:	config/saliences/salience_cat_3.txt	% 3
+-	±	:	+	±	:	config/saliences/salience_cat_1.txt	% 1
+-	±	:	±	±	:	config/saliences/salience_cat_1.txt	% 1
+-	±	:	-	±	:	config/saliences/salience_cat_1.txt	% 1
+-	±	:	-	-	:	config/saliences/salience_cat_1.txt	% 1
+±	±	:	+	+	:	config/saliences/salience_cat_1.txt	% 1
+±	±	:	+	-	:	config/saliences/salience_cat_3.txt	% 3
+±	±	:	+	±	:	config/saliences/salience_cat_1.txt	% 1
+±	±	:	±	±	:	config/saliences/salience_cat_1.txt	% 1
+±	±	:	-	±	:	config/saliences/salience_cat_1.txt	% 1
+±	±	:	-	-	:	config/saliences/salience_cat_1.txt	% 1
++	±	:	+	+	:	config/saliences/salience_cat_1.txt	% 2
++	±	:	+	-	:	config/saliences/salience_cat_1.txt	% 2
++	±	:	+	±	:	config/saliences/salience_cat_1.txt	% 2
++	±	:	±	±	:	config/saliences/salience_cat_1.txt	% 2
++	±	:	-	±	:	config/saliences/salience_cat_1.txt	% 2
++	±	:	-	-	:	config/saliences/salience_cat_1.txt	% 2
++	+	:	+	+	:	config/saliences/salience_cat_2.txt	% 2
++	+	:	+	-	:	config/saliences/salience_cat_2.txt	% 2
++	+	:	+	±	:	config/saliences/salience_cat_2.txt	% 2
++	+	:	±	±	:	config/saliences/salience_cat_2.txt	% 2
++	+	:	-	±	:	config/saliences/salience_cat_2.txt	% 2
++	+	:	-	-	:	config/saliences/salience_cat_2.txt	% 2

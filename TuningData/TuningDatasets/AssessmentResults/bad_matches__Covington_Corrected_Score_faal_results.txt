@@ -1,0 +1,15 @@
+§_English : German : this/dieses
+ð;i;s;-;-
+d;iː;z;e;s
+===  [-;-;ð;i;s]
+===  [d;iː;z;e;s]
+§_English : Latin : full/plenus
+f;u;l;-;-;-;-
+p;-;l;eː;n;u;s
+===  [f;-;u;l;-;-]
+===  [p;l;eː;n;u;s]
+§_English : Latin : tooth/dentis
+t;u;-;θ;-;-
+d;e;n;t;i;s
+===  [-;-;-;t;u;θ]
+===  [d;e;n;t;i;s]

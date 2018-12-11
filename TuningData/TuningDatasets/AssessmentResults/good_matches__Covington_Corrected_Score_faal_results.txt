@@ -1,0 +1,395 @@
+§_Spanish : French : yo/je
+j;o
+ʒ;ə
+===  [j;o]
+===  [ʒ;ə]
+§_Spanish : French : tu/tu
+t;u
+t;y
+===  [t;u]
+===  [t;y]
+§_Spanish : French : nosotros/nous
+n;o;s;o;t;r;o;s
+n;u;-;-;-;-;-;-
+===  [n;o;s;o;t;r;o;s, n;o;s;o;t;r;o;s]
+===  [n;-;-;u;-;-;-;-, n;u;-;-;-;-;-;-]
+§_Spanish : French : quién/qui
+k;j͜e;n
+k;i;-
+===  [k;j͜e;n]
+===  [k;i;-]
+§_Spanish : French : qué/quoi
+k;e
+k;w͜a
+===  [k;e]
+===  [k;w͜a]
+§_Spanish : French : todos/tous
+t;o;d;o;s
+t;u;-;-;-
+===  [t;o;d;o;s]
+===  [t;u;-;-;-]
+§_Spanish : French : una/une
+u;n;a
+y;n;-
+===  [u;n;a]
+===  [y;n;-]
+§_Spanish : French : dos/deux
+d;o;s
+d;ø;-
+===  [d;o;s]
+===  [d;ø;-]
+§_Spanish : French : tres/troix
+t;r;e;s
+t;r;w͜a;-
+===  [t;r;e;s]
+===  [t;r;w͜a;-]
+§_Spanish : French : hombre/homme
+o;m;b;r;e
+o;m;-;-;-
+===  [o;m;b;r;e]
+===  [o;m;-;-;-]
+§_Spanish : French : árbol/arbre
+a;r;b;o;l;-
+a;r;b;-;r;ə
+===  [a;r;b;o;l;-]
+===  [a;r;b;-;r;ə]
+§_Spanish : French : plume/plume
+p;l;u;m;a
+p;l;y;m;-
+===  [p;l;u;m;a]
+===  [p;l;y;m;-]
+§_Spanish : French : cabeza/cap
+k;a;b;e;θ;a
+k;a;p;-;-;-
+===  [k;a;b;e;θ;a]
+===  [k;a;p;-;-;-]
+§_Spanish : French : boca/bouche
+b;o;k;a
+b;u;ʃ;-
+===  [b;o;k;a]
+===  [b;u;ʃ;-]
+§_Spanish : French : pie/pied
+p;j;e
+p;j;e
+===  [p;j;e]
+===  [p;j;e]
+§_Spanish : French : corazón/coeur
+k;o;r;a;θ;o;n
+k;ø;r;-;-;-;-
+===  [k;o;r;a;θ;o;n]
+===  [k;ø;r;-;-;-;-]
+§_Spanish : French : ver/voir
+b;e;r
+v;w͜a;r
+===  [b;e;r]
+===  [v;w͜a;r]
+§_Spanish : French : venir/venir
+b;e;n;i;r
+v;ə;n;i;r
+===  [b;e;n;i;r]
+===  [v;ə;n;i;r]
+§_Spanish : French : decir/dire
+d;e;θ;i;r
+d;-;-;i;r
+===  [d;e;θ;i;r]
+===  [d;-;-;i;r]
+§_Spanish : French : pobre/pauvre
+p;o;b;r;e
+p;o;v;r;ə
+===  [p;o;b;r;e]
+===  [p;o;v;r;ə]
+§_English : German : that/das
+ð;æ;t
+d;a;s
+===  [ð;æ;t]
+===  [d;a;s]
+§_English : German : what/was
+w;a;t
+v;a;s
+===  [w;a;t]
+===  [v;a;s]
+§_English : German : not/nicht
+n;a;-;t
+n;i;x;t
+===  [n;a;-;t]
+===  [n;i;x;t]
+§_English : German : long/lang
+l;o;ŋ
+l;a;ŋ
+===  [l;o;ŋ]
+===  [l;a;ŋ]
+§_English : German : man/Mann
+m;æ;n
+m;a;n
+===  [m;æ;n]
+===  [m;a;n]
+§_English : German : flesh/Fleisch
+f;l;e;ʃ
+f;l;ai̯;ʃ
+===  [f;l;e;ʃ]
+===  [f;l;ai̯;ʃ]
+§_English : German : blood/Blut
+b;l;ə;d
+b;l;uː;t
+===  [b;l;ə;d]
+===  [b;l;uː;t]
+§_English : German : feather/Feder
+f;e;ð;ə;r
+f;eː;d;ə;r
+===  [f;e;ð;ə;r]
+===  [f;eː;d;ə;r]
+§_English : German : hair/Haar
+h;æ;r
+h;aː;r
+===  [h;æ;r]
+===  [h;aː;r]
+§_English : German : ear/Ohr
+iː;r
+oː;r
+===  [iː;r]
+===  [oː;r]
+§_English : German : eye/Auge
+ai̯;-;-
+au̯;g;ə
+===  [ai̯;-;-]
+===  [au̯;g;ə]
+§_English : German : nose/Nase
+n;ou̯;z;-
+n;aː;z;ə
+===  [n;ou̯;z;-]
+===  [n;aː;z;ə]
+§_English : German : mouth/Mund
+m;au̯;-;θ
+m;u;n;t
+===  [m;au̯;-;θ]
+===  [m;u;n;t]
+§_English : German : tongue/Zunge
+t;ə;ŋ;-
+ʦ;u;ŋ;ə
+===  [t;ə;ŋ;-]
+===  [ʦ;u;ŋ;ə]
+§_English : German : foot/Fuß
+f;u;t
+f;uː;s
+===  [f;u;t]
+===  [f;uː;s]
+§_English : German : knee/Knie
+-;n;iː
+k;n;iː
+===  [-;n;iː]
+===  [k;n;iː]
+§_English : German : hand/Hand
+h;æ;n;d
+h;a;n;t
+===  [h;æ;n;d]
+===  [h;a;n;t]
+§_English : German : hart/Herz
+h;a;r;t
+h;e;r;ʦ
+===  [h;a;r;t]
+===  [h;e;r;ʦ]
+§_English : German : liver/Leber
+l;i;v;ə;r
+l;eː;b;ə;r
+===  [l;i;v;ə;r]
+===  [l;eː;b;ə;r]
+§_English : Latin : and/ante
+æ;n;d;-
+a;n;t;e
+===  [æ;n;d;-]
+===  [a;n;t;e]
+§_English : Latin : at/at
+æ;t
+a;t
+===  [æ;t]
+===  [a;t]
+§_English : Latin : blow/flare
+b;l;ou̯;-;-
+f;l;aː;r;e
+===  [b;l;ou̯;-;-]
+===  [f;l;aː;r;e]
+§_English : Latin : ear/auris
+iː;r;-;-
+aw̯;r;i;s
+===  [iː;r;-;-]
+===  [aw̯;r;i;s]
+§_English : Latin : eat/edere
+iː;t;-;-;-
+e;d;e;r;e
+===  [iː;t;-;-;-]
+===  [e;d;e;r;e]
+§_English : Latin : fish/piscis
+f;i;ʃ;-;-;-
+p;i;s;k;i;s
+===  [f;i;ʃ;-;-;-]
+===  [p;i;s;k;i;s]
+§_English : Latin : flow/flu.ere
+f;l;ou̯;-;-;-
+f;l;u;e;r;e
+===  [f;l;ou̯;-;-;-]
+===  [f;l;u;e;r;e]
+§_English : Latin : star/stella
+s;t;a;r;-
+s;t;eː;lː;a
+===  [s;t;a;r;-]
+===  [s;t;eː;lː;a]
+§_English : Latin : grass/gramen
+g;r;æ;s;-;-
+g;r;aː;m;e;n
+===  [g;r;æ;s;-;-]
+===  [g;r;aː;m;e;n]
+§_English : Latin : heart/cordis
+h;a;r;t;-;-
+k;o;r;d;i;s
+===  [h;a;r;t;-;-]
+===  [k;o;r;d;i;s]
+§_English : Latin : horn/cornu
+h;o;r;n;-
+k;o;r;n;uː
+===  [h;o;r;n;-]
+===  [k;o;r;n;uː]
+§_English : Latin : I/ego
+ai̯;-;-
+e;g;o
+===  [ai̯;-;-]
+===  [e;g;o]
+§_English : Latin : knee/genu
+-;-;n;iː
+g;e;n;uː
+===  [-;-;n;iː]
+===  [g;e;n;uː]
+§_English : Latin : mother/mater
+m;ə;ð;ə;r
+m;aː;t;e;r
+===  [m;ə;ð;ə;r]
+===  [m;aː;t;e;r]
+§_English : Latin : mountain/mons
+m;au̯;n;t;ə;n
+m;oː;n;s;-;-
+===  [m;au̯;n;t;ə;n]
+===  [m;oː;n;s;-;-]
+§_English : Latin : new/novus
+n;iu̯;-;-
+n;ow̯;u;s
+===  [n;iu̯;-;-]
+===  [n;ow̯;u;s]
+§_English : Latin : name/nomen
+n;a;m;e;-
+n;o;m;e;n
+===  [n;a;m;e;-]
+===  [n;o;m;e;n]
+§_English : Latin : one/unus
+w͜ə;n;-;-
+uː;n;u;s
+===  [w͜ə;n;-;-]
+===  [uː;n;u;s]
+§_English : Latin : round/rotundus
+r;au̯;-;-;n;d;-;-
+r;o;t;u;n;d;u;s
+===  [r;au̯;-;-;n;d;-;-]
+===  [r;o;t;u;n;d;u;s]
+§_English : Latin : sew/suere
+s;ou̯;-;-;-
+s;u;e;r;e
+===  [s;ou̯;-;-;-]
+===  [s;u;e;r;e]
+§_English : Latin : sit/sedere
+s;i;t;-;-;-
+s;eː;d;e;r;e
+===  [s;i;t;-;-;-]
+===  [s;eː;d;e;r;e]
+§_English : Latin : three/tres
+θ;r;iː;-
+t;r;eː;s
+===  [θ;r;iː;-]
+===  [t;r;eː;s]
+§_English : Latin : thin/tenuis
+θ;i;n;-;-
+t;e;n;w͜i;s
+===  [θ;i;n;-;-]
+===  [t;e;n;w͜i;s]
+§_Fox : Menomini : kiinwaawa/kenuaq
+k;iː;n;w͜aː;w;a
+k;e;n;u͜a;ʔ;-
+===  [k;iː;n;w͜aː;w;a]
+===  [k;e;n;u͜a;ʔ;-]
+§_Fox : Menomini : niina/nenah
+n;iː;n;a;-
+n;e;n;a;h
+===  [n;iː;n;a;-]
+===  [n;e;n;a;h]
+§_Fox : Menomini : naapeewa/naapeew
+n;aː;p;eː;w;a
+n;aː;p;ɛː;w;-
+===  [n;aː;p;eː;w;a]
+===  [n;aː;p;ɛː;w;-]
+§_Fox : Menomini : waapimini/waapemen
+w;aː;p;i;m;i;n;i
+w;aː;p;e;m;e;n;-
+===  [w;aː;p;i;m;i;n;i]
+===  [w;aː;p;e;m;e;n;-]
+§_Fox : Menomini : nameesa/nameeqs
+n;a;m;eː;-;s;a
+n;a;m;ɛː;ʔ;s;-
+===  [n;a;m;eː;-;s;a]
+===  [n;a;m;ɛː;ʔ;s;-]
+§_Fox : Menomini : okimaawa/okeemaaw
+o;k;i;m;aː;w;a
+o;k;eː;m;aː;w;-
+===  [o;k;i;m;aː;w;a]
+===  [o;k;eː;m;aː;w;-]
+§_Fox : Menomini : šišiipa/seeqsep
+ʃ;iː;-;ʃ;iː;p;a
+s;eː;ʔ;s;e;p;-
+===  [ʃ;iː;-;ʃ;iː;p;a]
+===  [s;eː;ʔ;s;e;p;-]
+§_Fox : Menomini : ahkohkwa/ahkeeh
+a;h;k;o;h;k;w͜a
+a;h;k;ɛː;h;-;-
+===  [a;h;k;o;h;k;w͜a]
+===  [a;h;k;ɛː;h;-;-]
+§_Fox : Menomini : pemaatesiweni/pemaateswen
+p;e;m;aː;t;e;s;i;w;e;n;i
+p;e;m;aː;t;e;s;e;w;e;n;-
+===  [p;e;m;aː;t;e;s;i;w;e;n;i]
+===  [p;e;m;aː;t;e;s;e;w;e;n;-]
+§_Fox : Menomini : asenya/aqsen
+a;-;s;e;n;j͜a
+a;ʔ;s;ɛ;n;-
+===  [a;-;s;e;n;j͜a]
+===  [a;ʔ;s;ɛ;n;-]
+§_Old_Greek : Latin : δίδωμι/do
+d;i;d;oː;m;i
+-;-;d;oː;-;-
+===  [d;i;d;oː;m;i, d;i;d;oː;m;i]
+===  [-;-;d;oː;-;-, d;-;-;oː;-;-]
+§_Old_Greek : German : θυγατηρ/Tochter
+tʰ;u;g;a;t;eː;r
+t;o;x;-;t;ə;r
+===  [tʰ;u;g;a;t;eː;r]
+===  [t;o;x;-;t;ə;r]
+§_English : Old_Greek : daughter/θυγατηρ
+d;ɔː;-;-;t;ə;r
+tʰ;u;g;a;t;eː;r
+===  [d;ɔː;-;-;t;ə;r]
+===  [tʰ;u;g;a;t;eː;r]
+§_Latin : Sanskrit : ager/ajras
+a;g;e;r;-;-
+a;ʥ;-;r;a;s
+===  [a;g;e;r;-;-]
+===  [a;ʥ;-;r;a;s]
+§_Sanskrit : Old_Greek : bharāmi/φέρθ
+bʱ;a;r;aː;m;i
+pʰ;e;r;o;-;-
+===  [bʱ;a;r;aː;m;i]
+===  [pʰ;e;r;o;-;-]
+§_Latin : Old_Greek : centum/ἕκατον
+-;-;k;e;n;t;u;m
+h;e;k;a;-;t;o;n
+===  [-;-;k;e;n;t;u;m]
+===  [h;e;k;a;-;t;o;n]
+§_Latin : Iranian : centum/satəm
+k;e;n;t;u;m
+s;a;-;t;ə;m
+===  [k;e;n;t;u;m]
+===  [s;a;-;t;ə;m]

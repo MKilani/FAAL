@@ -1,0 +1,43 @@
+% List of features of the core element of a coarticulated group 
+% modified by the secondary element of the group
+%
+% Lines starting with % are ignored.
+%
+% The features of a coarticulated groups consist of the feature of the first element of the group, 
+% combined with selected features of the second element of the group. 
+% This file list which features of the second element of the coarticulated group should be added
+% to the features of the first element, and therefore of the group as a whole.
+%
+% Each feature is listed in a different line
+%
+% By default, all features are added.
+% 
+%
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27

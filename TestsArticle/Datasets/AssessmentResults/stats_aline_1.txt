@@ -1,0 +1,4 @@
+total items: 5448
+good matches: 4850
+bad matches: 598
+good matches %: 0.8902349486049926

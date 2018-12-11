@@ -1,0 +1,1985 @@
+§_Corongo : Sucre : msa_1 6
+h;u;k
+-;3;p
+===  -;h;u;k
+===  3;p;-;-
+§_Chavín : Cuzco : msa_3 18
+k;i;m;-;a
+k;i;n;s;a
+===  k;i;-;m;a
+===  k;i;n;s;a
+§_Puno : Caraz : msa_3 19
+k;i;n;s;a
+k;i;m;-;a
+===  k;i;n;s;a
+===  k;i;-;m;a
+§_Chavín : Sucre : msa_3 23
+k;i;m;-;a
+k;i;n;s;a
+===  k;i;-;m;a
+===  k;i;n;s;a
+§_Tena : Huancayo : msa_8 64
+k;a;n;y;i;s
+7;o;n;t;i;S
+===  k;a;n;y;-;i;s
+===  7;o;n;-;t;i;S
+§_Taquile : Caraz : msa_9 73
+p;u;s;o;X
+p;u;w;o;q
+===  p;u;s;-;o;X
+===  p;u;-;w;o;q
+§_Jaqaru : Huancayo : msa_54 431
+w;o;x;3;r;a
+w;a;-;-;l;a
+===  w;o;x;3;r;a
+===  w;-;-;a;l;a
+§_Kostenec (iht) : Ustovo (sm) : msa_168 606
+o;z;e;k;o
+E;-;-;-;-
+===  o;z;e;k;o
+===  -;-;E;-;-
+§_Marchaevo (sof) : Zelenigrad (tran) : msa_168 609
+y;o;z;e;k;o
+y;o;-;-;-;-
+===  y;o;z;e;k;o
+===  y;-;-;-;-;o
+§_Chernomorec (bs) : Dolna dikanja (radom) : msa_170 626
+v;o;r;3;f
+-;o;r;e;y
+===  v;o;r;3;f;-
+===  -;o;r;e;-;y
+§_Varbovo (blgr) : Shiroki dol (sam) : msa_175 673
+p;l;o;-;C;o;m
+p;l;o;S;t;o;m
+===  p;l;o;C;-;o;m
+===  p;l;o;S;t;o;m
+§_Asparuhovo (prov) : Mugla (dev) : msa_178 687
+p;3;r;v;i;3;-
+p;o;r;v;3;-;t
+===  p;3;r;v;i;3;-
+===  p;o;r;v;-;3;t
+§_Belene (svisht) : Ognen (karn) : msa_195 842
+i;s;t;r;o;y
+i;s;t;r;o;f
+===  i;s;t;r;o;y;-
+===  i;s;t;r;o;-;f
+§_Marchaevo (sof) : Goljama zheljazna (tetev) : msa_199 872
+s;o;s
+s;-;-
+===  s;o;s
+===  -;-;s
+§_Kozichino (pom) : Divdjadovo (shum) : msa_199 876
+s;3;s
+z;-;-
+===  s;3;s
+===  -;-;z
+§_Merdanja (vtarn) : Enina (kaz) : msa_199 878
+s;3;s
+s;-;-
+===  s;3;s
+===  -;-;s
+§_Merichleri (chirp) : Varbica (presl) : msa_203 910
+t;-;v;o
+t;u;y;-
+===  t;v;o;-
+===  t;-;u;y
+§_Kalojanovo (plov) : Kramolin (sevl) : msa_203 914
+t;-;v;o
+t;u;y;-
+===  t;v;o;-
+===  t;-;u;y
+§_Vabel (nik) : Kalojanovo (plov) : msa_204 916
+t;u;T;i;v;3
+t;u;g;o;s;-
+===  t;u;T;i;v;3;-
+===  t;u;g;-;-;o;s
+§_Paskalevec (pavl) : Kalipetrovo (sil) : msa_204 917
+t;u;g;o;s;-
+t;u;T;i;v;3
+===  t;u;g;-;-;o;s
+===  t;u;T;i;v;3;-
+§_Babjak (razl) : Novo selo (trojan) : msa_204 918
+t;u;g;o;-;-
+t;u;T;i;v;3
+===  t;u;g;-;-;o
+===  t;u;T;i;v;3
+§_Dolna riksa (mont) : Gabra (elpel) : msa_204 922
+t;3;T;i;v;o
+t;o;g;o;y;-
+===  t;3;T;i;v;o;-
+===  t;o;g;-;-;o;y
+§_Drabishna (ivgr) : Brashljan (mtarn) : msa_213 998
+v;i;-;y
+v;i;e;-
+===  v;i;y;-
+===  v;i;-;e
+§_Garmen (gd) : Koprivshtica (pird) : msa_213 999
+v;e;-
+v;i;e
+===  v;-;e
+===  v;i;e
+§_Zhelen (svog) : Kravenik (sevl) : msa_213 1003
+v;i;o;-
+v;i;-;3
+===  v;i;o
+===  v;i;3
+§_Marchaevo (sof) : Levunovo (sand) : msa_213 1005
+v;i;-;e
+v;i;o;-
+===  v;i;e
+===  v;i;o
+§_Ognen (karn) : Vrachesh (botgr) : msa_215 1016
+u;b;3;-;u
+u;b;o;v;e
+===  u;b;3;u;-
+===  u;b;o;v;e
+§_Govedarci (sam) : Buchin prohod (god) : msa_217 1034
+C;e;k;o;o;-
+C;e;k;o;-;t
+===  C;e;k;o;o;-
+===  C;e;k;-;o;t
+§_Valche pole (svgr) : Lobosh (rad) : msa_217 1040
+C;o;k;3;-;t
+C;e;k;o;o;-
+===  C;o;k;3;t;-
+===  C;e;k;o;-;o
+§_Dolno levski (pan) : Beglezh (luk) : msa_223 1090
+C;o;v;e;k
+C;u;l;o;k
+===  C;-;-;o;v;e;k
+===  C;u;l;o;-;-;k
+§_Kreta (vrach) : Malomirovo (elh) : msa_223 1092
+C;3;v;e;k
+C;i;l;o;k
+===  C;3;v;-;e;k
+===  C;i;-;l;o;k
+§_Belene (svisht) : Kalipetrovo (sil) : msa_223 1093
+C;u;v;e;T
+C;i;l;o;k
+===  C;u;v;e;T;-;-
+===  C;-;-;i;l;o;k
+§_Momkovo (svgr) : Glozhene (orjah) : msa_223 1094
+C;u;l;o;k
+C;u;v;e;k
+===  C;u;l;-;o;k
+===  C;u;-;v;e;k
+§_Smochevo (dupn) : Karanovo (ajt) : msa_230 1150
+y;o;T;3
+-;i;T;o
+===  y;o;T;3
+===  i;-;T;o
+§_Dorkovo (velgr) : Golemo malovo (sliven) : msa_230 1154
+-;i;T;o
+y;o;T;o
+===  i;-;T;o
+===  y;o;T;o
+§_Huhla (ivgr) : Dobarsko (razl) : msa_230 1156
+-;i;T;o
+y;o;T;3
+===  i;-;T;o
+===  y;o;T;3
+§_Malomirovo (elh) : Dragodanovo (sliv) : msa_233 1179
+-;f;l;i;z;3;m
+u;-;l;o;z;3;m
+===  f;l;i;z;3;m
+===  u;l;o;z;3;m
+§_Saparevo (dup) : Dichin (vtarn) : msa_233 1180
+-;f;l;o;z;o;m
+u;-;l;i;z;3;m
+===  f;l;o;z;o;m
+===  u;l;i;z;3;m
+§_Pozharevo (tutr) : Vinarovo (vid) : msa_233 1181
+-;v;l;i;z;3;m
+u;-;l;o;z;o;m
+===  v;l;i;z;3;m
+===  u;l;o;z;o;m
+§_Gabra (elpel) : Pevec (targ) : msa_233 1182
+-;v;l;o;z;o;m
+u;-;l;o;z;3;m
+===  v;l;o;z;o;m
+===  u;l;o;z;3;m
+§_Garmen (gd) : Radovene (vr) : msa_233 1183
+f;l;o;-;v;3;m
+v;l;o;z;-;o;m
+===  f;l;o;v;3;m
+===  v;l;o;z;o;m
+§_Plakovo (vt) : Gega (petr) : msa_233 1184
+f;l;i;z;-;3;m
+f;l;e;-;v;o;m
+===  f;l;i;z;3;m
+===  f;l;e;v;o;m
+§_Dolna melna (tran) : Koprivshtica (pird) : msa_238 1225
+v;3;r;-;-
+v;-;r;3;x
+===  v;-;3;r
+===  v;r;3;x
+§_Babjak (razl) : Chernogorovo (paz) : msa_240 1247
+v;3;-;-;k
+v;-;l;3;k
+===  v;-;3;k
+===  v;l;3;k
+§_Velkovci (pk) : Skobelevo (sliv) : msa_246 1297
+b;e;r;o;o;t
+b;i;r;3;-;t
+===  b;e;r;o;o;t
+===  b;i;r;-;3;t
+§_Bagrenci (kjust) : Bachkovo (asgr) : msa_250 1333
+g;o;s;y;e
+g;o;s;t;e
+===  g;o;s;y;-;e
+===  g;o;s;-;t;e
+§_Bagrenci (kjust) : Kravenik (sevl) : msa_250 1337
+g;o;s;y;e
+g;o;s;t;i
+===  g;o;s;y;-;e
+===  g;o;s;-;t;i
+§_Marikostinovo (petr) : Zelenigrad (tran) : msa_250 1338
+g;o;s;t;e
+g;o;s;y;e
+===  g;o;s;t;-;e
+===  g;o;s;-;y;e
+§_Marchaevo (sof) : Devesilica (krgr) : msa_274 1546
+e;C;-;m;i;k
+i;C;i;m;e;n
+===  e;C;-;m;i;k;-
+===  i;C;i;m;e;-;n
+§_Ezerovo (parvom) : Momina banja (pl) : msa_274 1552
+i;C;u;m;e;n
+i;C;i;m;i;k
+===  i;C;u;m;e;n;-
+===  i;C;i;m;i;-;k
+§_Svirkovo (harm) : Liljache (vr) : msa_287 1664
+k;o;m;i;n
+k;o;m;i;k
+===  k;o;m;i;n;-
+===  k;o;m;i;-;k
+§_Topolchane (sliv) : Merichleri (chirp) : msa_287 1665
+k;o;m;3;k
+k;o;m;3;n
+===  k;o;m;3;k;-
+===  k;o;m;3;-;n
+§_Tihomir (krgr) : Kramolin (sevl) : msa_287 1670
+k;o;m;e;n
+k;o;m;3;k
+===  k;o;m;e;n;-
+===  k;o;m;3;-;k
+§_Stroevo (plov) : Banishte (brezn) : msa_295 1734
+l;e;S;t;3
+l;e;-;C;o
+===  l;e;S;t;3
+===  l;e;C;-;o
+§_Ljubenova mahala (nzag) : Razboishte (god) : msa_295 1737
+l;e;S;t;3
+l;e;-;C;u
+===  l;e;S;t;3
+===  l;e;C;-;u
+§_Buchin prohod (god) : Kopilovci (mont) : msa_295 1739
+l;e;S;t;o
+l;e;-;C;u
+===  l;e;S;t;o
+===  l;e;C;-;u
+§_Shipka (kaz) : Malomirovo (elh) : msa_299 1773
+b;o;-;x;m;i
+b;o;3;-;m;i
+===  b;o;x;m;i
+===  b;o;3;m;i
+§_Dolna melna (tran) : Konska (brezn) : msa_299 1778
+b;e;e;m;o
+b;e;-;m;o
+===  b;e;e;m;o
+===  b;-;e;m;o
+§_Diva slatina (mont) : Nikolovo (hask) : msa_307 1844
+n;e;-;C;e
+n;i;S;t;e
+===  n;e;C;-;e
+===  n;i;S;t;e
+§_Ivanski (shum) : Banishte (brezn) : msa_307 1848
+n;i;S;t;e
+n;e;-;C;e
+===  n;i;S;t;e
+===  n;e;C;-;e
+§_Ruzhinci (belgr) : Stakevci (blgr) : msa_307 1849
+n;e;S;t;e
+n;e;-;C;e
+===  n;e;S;t;e
+===  n;e;C;-;e
+§_Voden (elh) : Sadina (pop) : msa_318 1943
+o;n;i;-;o
+u;n;e;s;-
+===  o;n;i;o;-
+===  u;n;e;-;s
+§_Dobroselec (topgr) : Kreta (vrach) : msa_318 1945
+u;n;e;s;-
+o;n;i;-;3
+===  u;n;e;s
+===  o;n;i;3
+§_Vardun (targ) : Vaklinovo (gd) : msa_318 1946
+u;n;e;s;-
+-;n;e;-;3
+===  u;n;e;s
+===  -;n;e;3
+§_Renkum (Gl) : Waregem (BeWv) : msa_323 1993
+k;o;p;3;-
+k;u;p;-;m
+===  k;o;p;3
+===  k;u;p;m
+§_Varsseveld (Gl) : Piershil (ZH) : msa_325 2007
+s;p;3;l;-;n
+s;p;e;l;3;-
+===  s;p;3;l;n;-
+===  s;p;e;l;-;3
+§_Schinnen (Lb) : Zutendaal (BeLb) : msa_326 2013
+3;n;o;o;w;s
+3;N;o;o;n;s
+===  3;n;o;o;w;-;s
+===  3;N;o;o;-;n;s
+§_Almkerk (NB) : Koekelare (BeWv) : msa_326 2014
+3;o;a;s;-
+3;h;o;z;3
+===  3;-;o;a;s;-
+===  3;h;o;-;z;3
+§_Midsland (Fr) : Knokke (BeWv) : msa_326 2017
+-;o;o;s;-
+3;h;o;z;3
+===  o;-;o;s;-
+===  3;h;o;z;3
+§_Nieurlet (FrVl) : Callantsoog (NH) : msa_326 2018
+E;h;a;-;s
+3;o;o;n;s
+===  E;h;a;-;-;s
+===  3;-;o;o;n;s
+§_Moorslede (BeWv) : Leermens (Gn) : msa_326 2019
+3;-;-;h;o;n;z;3
+-;n;3;o;E;n;s;-
+===  -;3;h;o;-;n;z;3
+===  n;3;-;o;E;n;s;-
+§_Waregem (BeWv) : Renkum (Gl) : msa_326 2020
+3;n;h;o;n;z;3
+3;n;o;o;n;s;-
+===  3;n;h;o;-;n;z;3
+===  3;n;-;o;o;n;s;-
+§_Walshoutem (BeBr) : Bollezeele (FrVl) : msa_327 2026
+o;o;s;t
+h;o;s;t
+===  o;-;o;s;t
+===  -;h;o;s;t
+§_Callantsoog (NH) : Ulft (Gl) : msa_327 2028
+-;-;3;o;o;s;t
+3;n;-;x;o;s;t
+===  3;o;-;-;o;s;t
+===  3;-;n;x;o;s;t
+§_Buurmalsen (Gl) : Nazareth (BeOv) : msa_327 2030
+-;3;o;a;s;t
+n;3;h;o;s;t
+===  -;3;-;o;a;s;t
+===  n;3;h;o;-;s;t
+§_Bilzen (BeLb) : Waregem (BeWv) : msa_329 2044
+t;w;E;l;3;f;-
+t;w;o;l;-;v;3
+===  t;w;E;l;-;3;f
+===  t;w;o;l;v;3;-
+§_Kerkrade (Lb) : Mussel (Gn) : msa_329 2047
+T;v;E;l;3;f;-
+t;v;o;l;-;-;m
+===  T;v;E;l;3;f
+===  t;v;o;l;m;-
+§_Smilde (Dr) : Oosterend (Fr) : msa_329 2048
+t;v;a;l;-;-;m
+t;-;o;l;3;f;-
+===  t;v;a;l;m;-
+===  t;-;o;l;3;f
+§_Renkum (Gl) : Workum (Fr) : msa_330 2052
+z;e;v;3;-
+s;o;-;-;n
+===  z;e;v;3;-
+===  s;-;-;o;n
+§_Schinnen (Lb) : Kantens (Gn) : msa_330 2056
+z;e;v;3;-
+z;e;b;-;m
+===  z;e;v;3
+===  z;e;b;m
+§_Brielle (ZH) : Nijeholtpade (Fr) : msa_330 2057
+s;i;v;3;-
+s;e;b;-;m
+===  s;i;v;3
+===  s;e;b;m
+§_Nijmegen (Gl) : Wierum (Fr) : msa_331 2060
+x;l;o;s
+o;l;E;s
+===  x;-;l;o;s
+===  -;o;l;E;s
+§_Abbekerk (NH) : Wateringen (ZH) : msa_331 2066
+3;o;l;o;s
+3;x;l;o;s
+===  3;o;-;l;o;s
+===  3;-;x;l;o;s
+§_Nijeholtpade (Fr) : Zutendaal (BeLb) : msa_332 2067
+x;r;E;b;-;m;-
+o;r;o;v;3;-;r
+===  x;-;r;E;b;m;-
+===  -;o;r;o;v;3;r
+§_Scheveningen (ZH) : Humbeek (BeBr) : msa_332 2068
+x;r;e;v;3
+o;r;a;v;3
+===  x;-;r;e;v;3
+===  -;o;r;a;v;3
+§_Buurmalsen (Gl) : Bilzen (BeLb) : msa_332 2069
+x;r;o;f;-;-
+o;r;o;v;3;r
+===  x;-;r;o;f;-;-
+===  -;o;r;o;v;3;r
+§_Abbekerk (NH) : Oosterend (Fr) : msa_332 2070
+o;r;a;v;3;-
+x;r;E;v;3;n
+===  o;-;r;a;v;3;-
+===  -;x;r;E;v;3;n
+§_Piershil (ZH) : Varsseveld (Gl) : msa_332 2071
+x;r;a;v;3;n
+o;r;a;v;3;-
+===  x;-;r;a;v;3;n
+===  -;o;r;a;v;3;-
+§_Buren (Fr) : Nazareth (BeOv) : msa_332 2072
+g;r;a;v;3;n
+h;r;o;v;-;m
+===  g;r;a;v;3;n
+===  h;r;o;v;m;-
+§_Ooike (BeOv) : Buurmalsen (Gl) : msa_332 2074
+o;r;a;v;n
+x;r;o;f;-
+===  o;-;r;a;v;n
+===  -;x;r;o;f;-
+§_Nijmegen (Gl) : Smilde (Dr) : msa_332 2075
+x;r;a;v;3;-
+x;r;E;b;-;m
+===  x;r;a;v;3
+===  x;r;E;b;m
+§_Kortrijk (BeWv) : Workum (Fr) : msa_333 2076
+h;E;s
+o;E;s
+===  h;-;E;s
+===  -;o;E;s
+§_Haamstede (Ze) : Sint-Annen (Gn) : msa_333 2080
+o;-;o;s
+x;r;o;s
+===  o;-;-;o;s
+===  -;x;r;o;s
+§_Sloten (Fr) : Ameide (ZH) : msa_333 2081
+g;-;E;s
+o;X;E;s
+===  -;g;E;s
+===  o;X;E;s
+§_Abbekerk (NH) : Sint-Annen (Gn) : msa_333 2083
+o;r;o;s
+x;r;o;s
+===  o;-;r;o;s
+===  -;x;r;o;s
+§_Walshoutem (BeBr) : Brouckerque (FrVl) : msa_334 2086
+h;E;n;t;-;S;3
+-;o;n;-;3;t;3
+===  h;E;n;-;t;S;3
+===  -;o;n;3;t;-;3
+§_Poperinge (BeWv) : Varsseveld (Gl) : msa_336 2106
+3;-;k;o;w;-;f
+3;N;k;o;l;3;f
+===  3;-;k;o;w;-;-;f
+===  3;N;k;o;-;l;3;f
+§_Poperinge (BeWv) : Bilzen (BeLb) : msa_339 2132
+-;-;E;r;d;3
+d;3;i;-;t;-
+===  E;r;d;3;-;-
+===  -;-;d;3;i;t
+§_Leermens (Gn) : Haamstede (Ze) : msa_339 2136
+u;-;-;d;3
+E;r;3;d;i
+===  -;-;u;d;3
+===  E;r;3;d;i
+§_Valthermond (Dr) : Brouckerque (FrVl) : msa_343 2171
+-;o;d;3;m
+n;a;y;-;m
+===  o;d;3;-;m
+===  -;n;a;y;m
+§_Humbeek (BeBr) : Leermens (Gn) : msa_343 2172
+a;s;-;u;m
+u;-;d;3;m
+===  a;s;u;m
+===  u;d;3;m
+§_Callantsoog (NH) : Kortrijk (BeWv) : msa_343 2174
+a;-;d;3;m
+o;s;-;3;m
+===  a;d;3;m
+===  o;s;3;m
+§_Leermens (Gn) : Kantens (Gn) : msa_344 2179
+-;m;b;E;x
+o;-;b;E;x
+===  m;-;b;E;x
+===  -;o;b;E;x
+§_Callantsoog (NH) : Kortrijk (BeWv) : msa_345 2187
+r;e;o;3;n
+r;e;h;3;n
+===  r;e;o;-;3;n
+===  r;e;-;h;3;n
+§_Sloten (Fr) : Oostende (BeWv) : msa_345 2190
+r;o;-;-;n
+r;e;h;3;-
+===  r;-;-;o;n
+===  r;e;h;3;-
+§_Workum (Fr) : Walshoutem (BeBr) : msa_345 2192
+r;E;-;-;n
+r;e;o;3;-
+===  r;E;n;-;-
+===  r;e;-;o;3
+§_Den Hoorn (NH) : Lies (Fr) : msa_346 2201
+3;n;o;p;o;l
+-;-;a;p;3;l
+===  3;n;o;p;o;l
+===  a;-;-;p;3;l
+§_Haamstede (Ze) : Smilde (Dr) : msa_349 2220
+3;m;b;l;E;-;h;i
+-;-;b;l;a;t;-;i
+===  3;m;b;l;E;h;i
+===  -;-;b;l;a;t;i
+§_Piershil (ZH) : Meerbeek (BeBr) : msa_349 2221
+b;l;a;t;-;3
+b;l;o;-;k;3
+===  b;l;a;t;3
+===  b;l;o;k;3
+§_Ameide (ZH) : Kortrijk (BeWv) : msa_349 2222
+3;n;b;l;o;-;x;i
+-;-;b;l;o;t;-;3
+===  3;n;b;l;o;x;i
+===  -;-;b;l;o;t;3
+§_Piershil (ZH) : Zevenaar (Gl) : msa_349 2224
+b;l;a;t;-;3
+b;l;E;T;h;3
+===  b;l;a;-;t;3
+===  b;l;E;T;h;3
+§_Sint-Annen (Gn) : Oosterend (Fr) : msa_351 2244
+-;m;b;l;o;m
+3;n;b;l;o;m
+===  m;-;b;l;o;m
+===  3;n;b;l;o;m
+§_Schagen (NH) : Moorslede (BeWv) : msa_352 2251
+b;l;u;m;p;i;-;-
+b;l;u;m;-;-;k;3
+===  b;l;u;m;p;-;i
+===  b;l;u;m;-;k;3
+§_Almkerk (NB) : Leermens (Gn) : msa_357 2289
+3;n;3;n;E;r;3;m
+-;-;-;n;E;b;-;m
+===  3;n;3;n;E;r;3;-;m
+===  -;-;-;n;E;-;-;b;m
+§_Oosterend (Fr) : Ter Apel (Gn) : msa_357 2290
+3;n;e;r;3;m
+-;n;a;-;-;m
+===  3;n;e;r;3;m
+===  -;n;-;-;a;m
+§_Nijmegen (Gl) : Varsseveld (Gl) : msa_357 2295
+-;-;E;r;3;m
+3;n;a;r;3;m
+===  E;-;-;r;3;m
+===  3;n;a;r;3;m
+§_Oudeschoot (Fr) : Leermens (Gn) : msa_358 2305
+g;u;t
+o;a;t
+===  g;u;-;t
+===  -;o;a;t
+§_Abbekerk (NH) : Gouderak (ZH) : msa_358 2306
+o;u;t
+x;u;t
+===  o;-;u;t
+===  -;x;u;t
+§_Nieurlet (FrVl) : Zevenaar (Gl) : msa_359 2308
+h;r;i;s;t
+o;r;i;s;-
+===  h;-;r;i;s;t
+===  -;o;r;i;s;-
+§_Piershil (ZH) : Ooike (BeOv) : msa_359 2315
+x;r;E;s
+o;r;E;s
+===  x;-;r;E;s
+===  -;o;r;E;s
+§_Zevenaar (Gl) : Kerkrade (Lb) : msa_360 2317
+o;-;r;o;t
+y;3;r;u;s
+===  -;o;r;o;t
+===  y;3;r;u;s
+§_West-Terschelling (Fr) : Abbekerk (NH) : msa_360 2318
+x;r;i;t
+o;r;o;t
+===  x;-;r;i;t
+===  -;o;r;o;t
+§_Holwerd (Fr) : Ter Apel (Gn) : msa_360 2323
+o;r;3;t
+x;r;o;t
+===  o;-;r;3;t
+===  -;x;r;o;t
+§_West-Terschelling (Fr) : Humbeek (BeBr) : msa_360 2324
+x;r;i;t
+o;r;u;t
+===  x;-;r;i;t
+===  -;o;r;u;t
+§_Bollezeele (FrVl) : Piershil (ZH) : msa_364 2355
+E;b;r;u;-;-;r;3
+-;b;r;u;d;3;r;-
+===  E;b;r;u;r;3;-
+===  -;b;r;u;d;3;r
+§_Kerkrade (Lb) : Workum (Fr) : msa_368 2381
+d;3;r;d;a;x
+-;-;-;d;E;-
+===  d;3;r;d;a;x
+===  d;E;-;-;-;-
+§_German : High German (Biel) : msa_370 2398
+g;a;X;t;-;n
+g;o;r;t;3;-
+===  g;a;X;t;n;-
+===  g;o;r;t;-;3
+§_Dutch (Ostend) : High German (North Alsace) : msa_370 2399
+o;o;s;t;-
+g;o;X;t;3
+===  o;-;o;s;t;-
+===  -;g;o;X;t;3
+§_Scottish : Central German (Honigberg) : msa_370 2402
+y;o;r;d;-;-
+o;3;r;t;3;n
+===  y;o;-;r;d;-;-
+===  -;o;3;r;t;3;n
+§_Low German (Bargstedt) : Yiddish (New York) : msa_370 2403
+g;o;-;d;-;n
+g;o;r;t;i;n
+===  g;o;d;-;-;n
+===  g;o;r;t;i;n
+§_Indian English (Delhi) : Dutch (Ostend) : msa_370 2405
+y;o;-;d
+o;o;s;t
+===  y;o;-;-;d
+===  -;o;o;s;t
+§_Canadian English : Indian English (Delhi) : msa_372 2417
+h;o;N;g;-;r
+h;3;N;g;3;-
+===  h;o;N;g;r;-
+===  h;3;N;g;-;3
+§_English (Liverpool : Swedish (Skane) : msa_372 2421
+h;3;N;g;3;-
+h;i;N;g;-;X
+===  h;3;N;g;3
+===  h;i;N;g;X
+§_English : Dutch (Limburg) : msa_373 2429
+n;a;-;-;n
+n;e;o;3;-
+===  n;-;-;a;n
+===  n;e;o;3;-
+§_High German (Herrlisheim) : Swedish (Stockholm) : msa_373 2432
+n;i;-;n
+n;i;3;-
+===  n;i;n;-
+===  n;i;-;3
+§_Swedish (Stockholm) : Dutch : msa_376 2455
+f;o;-;-;r
+f;a;r;3;-
+===  f;o;r;-
+===  f;a;r;3
+§_Dutch (Limburg) : Swedish (Skane) : msa_377 2460
+-;i;h
+y;a;-
+===  i;h;-
+===  y;-;a
+§_Faroese : Indian English (Delhi) : msa_381 2499
+t;o;r;a
+t;i;-;-
+===  t;o;r;a
+===  t;-;-;i
+§_English (London : Norwegian (Stavanger) : msa_381 2502
+t;i;-;-
+t;o;X;3
+===  t;-;-;i
+===  t;o;X;3
+§_English (Singapore) : High German (Herrlisheim) : msa_384 2527
+f;a;-;-;v
+f;i;n;3;p
+===  f;-;-;a;v
+===  f;i;n;3;p
+§_English (Tyrone) : Dutch (Ostend) : msa_386 2541
+o;p;3;n
+o;p;-;m
+===  o;p;3;n
+===  o;p;m;-
+§_West Frisian (Grou) : Dutch (Limburg) : msa_386 2544
+i;p;-;m
+o;p;3;-
+===  i;p;m
+===  o;p;3
+§_Danish : Indian English (Delhi) : msa_386 2545
+7;o;b;-;m
+-;o;p;3;n
+===  7;o;b;m;-
+===  -;o;p;3;n
+§_Belgian Dutch : High German (Bodensee) : msa_386 2547
+-;o;p;-;n
+7;o;f;3;-
+===  -;o;p;n;-
+===  7;o;f;-;3
+§_Nigerian English (Igbo) : High German (Walser) : msa_387 2552
+t;E;n;-;-
+T;a;-;h;3
+===  -;-;t;E;n
+===  T;a;h;3;-
+§_Swedish (Stockholm) : English (Tyrone) : msa_387 2555
+t;i;-;3
+t;E;n;-
+===  t;i;3;-
+===  t;-;E;n
+§_Danish : Faroese : msa_388 2559
+b;i;8;3;X;o
+b;e;t;-;r;3
+===  b;i;8;-;3;X;o
+===  b;e;t;r;3;-;-
+§_High German (Biel) : Norwegian (Stavanger) : msa_388 2560
+b;E;s;3;r;-
+b;e;-;-;X;3
+===  b;E;s;3;r
+===  b;e;X;3;-
+§_Central German (Murrhardt) : Australian English (Perth) : msa_388 2561
+b;E;s;-;X
+b;E;r;3;-
+===  b;E;s;X;-
+===  b;E;-;r;3
+§_Low German (Bargstedt) : Swedish (Stockholm) : msa_388 2562
+b;i;r;a;-;-
+b;E;t;-;r;3
+===  b;i;-;r;a
+===  b;E;t;r;3
+§_Norwegian (Stavanger) : New Zealand English (Auckland) : msa_388 2564
+b;e;-;-;X;3
+b;i;r;3;-;-
+===  b;e;X;3
+===  b;i;r;3
+§_New Zealand English (Auckland) : Swedish (Stockholm) : msa_388 2567
+b;i;r;3;-;-
+b;E;t;-;r;3
+===  b;i;-;r;3
+===  b;E;t;r;3
+§_High German (Herrlisheim) : English (London : msa_389 2568
+p;e;s
+f;3;7
+===  p;e;s;-
+===  f;3;-;7
+§_Norwegian (Stavanger) : West Frisian (Grou) : msa_395 2628
+f;-;i;X;3
+f;y;a;r;-
+===  f;i;X;3;-
+===  f;-;y;a;r
+§_Norwegian (Stavanger) : Central German (Murrhardt) : msa_397 2641
+-;3;v;-;n
+7;o;f;3;-
+===  -;-;-;3;v;n
+===  7;o;f;3;-;-
+§_American English : Low German (Bargstedt) : msa_397 2642
+-;o;v;3;n
+7;o;b;-;m
+===  -;o;v;3;n
+===  7;o;b;m;-
+§_Canadian English : Low German (Bargstedt) : msa_397 2643
+-;o;v;3;n
+7;o;b;-;m
+===  -;o;v;3;n
+===  7;o;b;m;-
+§_West Frisian (Grou) : High German (Tuebingen) : msa_397 2646
+-;u;-;-;n
+7;o;f;3;-
+===  -;-;-;u;n
+===  7;o;f;3;-
+§_Low German (Achterhoek) : High German (Graubuenden) : msa_397 2647
+-;o;b;-;n
+7;o;f;3;-
+===  -;o;b;n;-
+===  7;o;f;-;3
+§_Canadian English : English : msa_407 2735
+l;i;v;-;r
+l;i;v;3;-
+===  l;i;v;r;-
+===  l;i;v;-;3
+§_American English : Danish : msa_409 2748
+8;o;n;d;3;-
+C;o;-;d;-;n
+===  8;o;-;n;d;3
+===  C;o;d;n;-;-
+§_Canadian English : English (Singapore) : msa_409 2752
+8;o;n;d;-;r
+t;o;n;d;3;-
+===  8;o;n;d;r;-
+===  t;o;n;d;-;3
+§_Dutch : English (London : msa_409 2753
+d;o;n;d;3;X
+f;a;n;d;3;-
+===  d;-;o;n;d;3;X
+===  -;f;a;n;d;3;-
+§_Swedish (Stockholm) : High German (Graubuenden) : msa_409 2754
+t;o;-;d;E;n;-
+d;o;n;-;-;-;r
+===  t;o;d;E;n;-
+===  d;o;-;-;n;r
+§_Australian English (Perth) : Icelandic : msa_409 2755
+8;a;n;d;3;-;-
+8;o;-;-;-;r;a
+===  8;a;n;d;3
+===  8;o;-;r;a
+§_Low German (Achterhoek) : Low German (Bargstedt) : msa_410 2757
+b;X;i;-;-;X
+b;X;a;r;a;-
+===  b;X;i;X;-
+===  b;X;a;r;a
+§_Central German (Cologne) : Belgian Dutch : msa_410 2759
+b;X;o;d;o;-
+b;r;u;-;-;r
+===  b;X;o;d;o
+===  b;r;u;r;-
+§_Australian English (Perth) : Swedish (Stockholm) : msa_410 2760
+b;-;r;a;8;3;-
+b;3;r;u;-;-;r
+===  b;-;r;a;8;3
+===  b;3;r;u;r;-
+§_Faroese : Yiddish (New York) : msa_410 2762
+b;r;o;w;3;r
+b;r;u;d;E;r
+===  b;r;o;w;-;3;r
+===  b;r;u;-;d;E;r
+§_Central German (Cologne) : Norwegian (Stavanger) : msa_410 2764
+b;X;o;d;o
+b;X;o;X;-
+===  b;X;o;d;o;-
+===  b;X;-;-;o;X
+§_High German (North Alsace) : English (Buckie) : msa_412 2776
+X;a;3;-
+r;e;-;n
+===  X;a;3;-
+===  r;-;e;n
+§_Norwegian (Stavanger) : Belgian Dutch : msa_412 2778
+X;E;k;i;n
+r;e;Z;-;n
+===  X;E;k;i;-;n
+===  r;e;-;-;Z;n
+§_Australian English (Perth) : Low German (Achterhoek) : msa_415 2809
+k;a;-;-;f
+k;o;l;3;p
+===  k;-;-;a;f
+===  k;o;l;3;p
+§_Swedish (Stockholm) : Dutch : msa_416 2817
+g;3;r;E;n
+X;-;X;u;n
+===  g;-;3;r;E;n
+===  X;X;u;-;-;n
+§_Belgian Dutch : Dutch : msa_417 2823
+m;i;d;-;n
+m;i;d;3;-
+===  m;i;d;n;-
+===  m;i;d;-;3
+§_English (Tyrone) : Dutch (Ostend) : msa_420 2854
+k;3;l;-
+k;u;-;t
+===  k;3;l
+===  k;u;t
+§_New Zealand English (Auckland) : High German (North Alsace) : msa_423 2882
+r;o;-;t
+X;a;X;-
+===  r;o;t
+===  X;a;X
+§_West Frisian (Grou) : English (Tyrone) : msa_425 2897
+t;i;n;3
+t;3;-;8
+===  t;i;n;3;-
+===  t;-;-;3;8
+§_High German (Graubuenden) : English (North Carolina) : msa_425 2898
+T;o;n;-
+t;3;-;8
+===  T;o;n
+===  t;3;8
+§_English (Lindisfarne) : Low German (Bargstedt) : msa_425 2900
+t;u;-;8
+t;o;n;-
+===  t;u;8
+===  t;o;n
+§_English : Dutch : msa_426 2903
+k;o;-;-;n
+k;o;X;3;-
+===  k;o;n;-;-
+===  k;o;-;X;3
+§_South African English (Johannisburg) : Dutch (Limburg) : msa_426 2906
+k;o;-;n
+k;o;X;-
+===  k;o;n;-
+===  k;o;-;X
+§_Yiddish (New York) : Low German (Achterhoek) : msa_428 2923
+m;o;n;-;d
+m;o;n;3;-
+===  m;o;n;d;-
+===  m;o;n;-;3
+§_Low German (Achterhoek) : Faroese : msa_433 2967
+m;o;d;-;X
+m;o;w;3;r
+===  m;o;-;-;d;X
+===  m;o;w;3;r;-
+§_Swedish (Skane) : Scottish : msa_433 2968
+m;e;-;-;X
+m;o;8;3;r
+===  m;e;X;-;-
+===  m;o;8;3;r
+§_Central German (Luxembourg) : Nigerian English (Igbo) : msa_436 2992
+T;v;e
+t;-;u
+===  T;v;e
+===  t;u;-
+§_Canadian English : South African English (Johannisburg) : msa_437 3008
+d;o;r;-;r
+d;o;t;E;-
+===  d;o;r;r;-
+===  d;o;-;t;E
+§_Nigerian English (Igbo) : Yiddish (New York) : msa_441 3042
+w;o;-;-;m
+v;a;r;3;m
+===  w;-;-;o;m
+===  v;a;r;3;m
+§_German : Central German (Cologne) : msa_444 3065
+m;3;n;t
+m;3;N;g
+===  m;3;n;t;-
+===  m;3;N;-;g
+§_Indian English (Delhi) : High German (Walser) : msa_444 3067
+m;o;-;8
+m;i;n;-
+===  m;o;8
+===  m;i;n
+§_High German (Ortisei) : English : msa_445 3072
+z;i;b;-;m
+s;E;v;3;n
+===  z;i;b;m;-
+===  s;E;v;3;n
+§_West Frisian (Grou) : Danish : msa_445 3073
+s;o;3;n
+s;3;-;-
+===  s;o;3;n
+===  s;-;3;-
+§_Danish : Central German (Luxembourg) : msa_445 3076
+s;3;-;-;-
+z;i;v;3;n
+===  s;-;-;3;-
+===  z;i;v;3;n
+§_Swedish (Stockholm) : English (North Carolina) : msa_445 3077
+x;3;-;-;-
+s;E;v;3;n
+===  x;-;-;3;-
+===  s;E;v;3;n
+§_English (Tyrone) : Danish : msa_445 3079
+s;E;v;3;n
+s;3;-;-;-
+===  s;E;v;3;n
+===  s;-;-;3;-
+§_Indian English (Delhi) : Dutch (Ostend) : msa_450 3121
+n;e;-;-;l
+n;a;X;3;-
+===  n;e;l;-
+===  n;a;X;3
+§_High German (Herrlisheim) : Danish : msa_451 3131
+S;-;o;X;f
+s;k;a;-;p
+===  S;o;X;-;f
+===  s;-;k;a;p
+§_High German (North Alsace) : Faroese : msa_451 3132
+S;-;o;X;f;-;-
+s;k;a;r;p;o;r
+===  S;o;X;-;-;f;-;-
+===  s;-;k;a;r;p;o;r
+§_Faroese : English (Tyrone) : msa_453 3145
+o;r;a
+i;-;-
+===  o;r;a
+===  -;-;i
+§_High German (Tuebingen) : Swedish (Stockholm) : msa_453 3148
+7;3;-;-
+-;o;r;3
+===  -;7;3
+===  o;r;3
+§_English (Lindisfarne) : Dutch (Ostend) : msa_453 3151
+i;X;-
+o;r;3
+===  -;-;i;X
+===  o;r;3;-
+§_High German (Ortisei) : West Frisian (Grou) : msa_454 3153
+h;o;n;i;-;k
+h;i;n;i;N;-
+===  h;o;n;i;k
+===  h;i;n;i;N
+§_Central German (Honigberg) : Dutch (Limburg) : msa_454 3157
+h;3;n;-;-;S
+-;e;n;i;N;-
+===  h;3;n;S;-;-
+===  -;e;n;-;i;N
+§_High German (Tuebingen) : Dutch : msa_454 3158
+h;o;n;i;-;h
+h;o;n;i;N;-
+===  h;o;n;i;h
+===  h;o;n;i;N
+§_High German (Walser) : Belgian Dutch : msa_455 3162
+n;a;k;i;k;-
+n;a;k;-;-;t
+===  n;a;k;i;k
+===  n;a;k;-;t
+§_High German (Bodensee) : South African English (Johannisburg) : msa_455 3163
+n;a;k;i;k;-
+n;e;k;3;-;d
+===  n;a;k;i;k
+===  n;e;k;3;d
+§_Nigerian English (Igbo) : High German (Walser) : msa_455 3165
+n;e;k;3;-;d
+n;a;k;i;k;-
+===  n;e;k;3;d
+===  n;a;k;i;k
+§_Faroese : Danish : msa_458 3195
+k;v;3;t;o;r
+-;v;i;l;-;-
+===  k;v;3;t;o;r
+===  -;v;i;-;-;l
+§_Swedish (Skane) : Central German (Luxembourg) : msa_459 3199
+y;3;X;-
+7;e;-;t
+===  y;3;X
+===  7;e;t
+§_High German (Walser) : English (London : msa_459 3200
+7;a;r;d;3
+-;3;-;f;-
+===  7;a;r;d;3;-
+===  -;-;-;-;3;f
+§_Norwegian (Stavanger) : Central German (Honigberg) : msa_459 3202
+y;o;X;-
+7;i;r;t
+===  y;o;X;-;-;-
+===  -;-;7;i;r;t
+§_Swedish (Stockholm) : High German (Walser) : msa_460 3214
+h;o;X;-;n
+h;o;r;3;-
+===  h;o;X;n;-
+===  h;o;-;r;3
+§_High German (Bodensee) : English (London : msa_464 3247
+7;i;s
+-;i;7
+===  -;7;i;s
+===  i;7;-;-
+§_Norwegian (Stavanger) : German : msa_466 3264
+n;o;-;-;l
+n;a;d;3;l
+===  n;-;-;o;l
+===  n;a;d;3;l
+§_High German (Bodensee) : Indian English (Delhi) : msa_468 3286
+7;o;-;s
+b;3;n;-
+===  7;-;o;s;-
+===  -;b;3;-;n
+§_Faroese : Central German (Cologne) : msa_470 3304
+-;o;-;t;a
+7;a;X;-;-
+===  o;t;-;a;-
+===  -;-;7;a;X
+§_English (North Carolina) : Central German (Honigberg) : msa_472 3322
+n;3;-
+n;o;3
+===  n;-;3
+===  n;o;3
+§_American English : Swedish (Skane) : msa_474 3334
+w;3;-;d
+-;e;X;-
+===  w;3;d
+===  -;e;X
+§_Norwegian (Stavanger) : English (North Carolina) : msa_474 3335
+-;o;X;-
+w;3;-;d
+===  -;o;X
+===  w;3;d
+§_Norwegian (Stavanger) : Danish : msa_475 3342
+-;e;3
+7;o;-
+===  e;-;3
+===  -;7;o
+§_Faroese : English (Singapore) : msa_475 3344
+E;y;a
+a;-;-
+===  E;y;a
+===  -;-;a
+§_High German (Tuebingen) : West Frisian (Grou) : msa_476 3352
+h;3;n;d;-;X;t
+h;3;n;d;3;-;t
+===  h;3;n;d;X;t
+===  h;3;n;d;3;t
+§_Low German (Achterhoek) : Scottish : msa_477 3362
+n;a;X;-
+n;o;-;t
+===  n;a;X
+===  n;o;t
+§_Norwegian (Stavanger) : Dutch (Limburg) : msa_477 3367
+n;a;-;t
+n;a;x;-
+===  n;a;t
+===  n;a;x
+§_Central German (Cologne) : Swedish (Stockholm) : msa_477 3368
+n;a;X;-
+n;a;-;t
+===  n;a;X
+===  n;a;t
+§_Sado : Kagoshima : msa_480 3387
+s;i;t;a;b;e;r;a
+s;i;t;a;-;-;-;-
+===  s;i;t;a;b;e;r;a
+===  s;i;t;-;-;-;-;a
+§_Shuri : Kyoto : msa_480 3388
+S;i;-;-;b;a
+s;i;t;a;-;-
+===  S;i;b;-;a
+===  s;i;-;t;a
+§_Shuri : Miyako : msa_480 3390
+S;i;-;-;b;a
+s;3;t;a;-;-
+===  S;i;b;-;a
+===  s;3;-;t;a
+§_Sado : Amami : msa_480 3392
+s;i;t;a;b;e;r;a
+s;3;-;-;b;a;-;-
+===  s;i;t;a;b;e;r;a
+===  s;3;-;-;b;-;-;a
+§_Oki : Kyoto : msa_480 3393
+-;-;-;-;b;e;r;o
+s;i;t;a;-;-;-;-
+===  b;-;e;r;o
+===  -;s;i;t;a
+§_Shuri : Tokyo : msa_480 3394
+S;i;-;-;b;a
+s;i;t;a;-;-
+===  S;i;b;-;a
+===  s;i;-;t;a
+§_Sado : Kōchi : msa_480 3395
+s;i;t;a;b;e;r;a
+s;i;t;a;-;-;-;-
+===  s;i;t;a;b;e;r;a
+===  s;i;t;-;-;-;-;a
+§_Shuri : Kōchi : msa_486 3439
+k;u;y;u;N;-
+k;u;t;u;k;u
+===  k;u;y;-;u;N;-
+===  k;u;-;t;u;k;u
+§_Shuri : Kōchi : msa_486 3440
+k;u;y;u;N;-
+k;u;t;u;k;u
+===  k;u;y;-;u;N;-
+===  k;u;-;t;u;k;u
+§_Kagoshima : Kyoto : msa_487 3441
+k;a;N;-;T;u;-;-
+k;a;m;i;T;u;k;u
+===  k;a;N;-;T;-;-;u
+===  k;a;m;i;T;u;k;u
+§_Oki : Sado : msa_487 3442
+k;a;m;-;-;u;-;-
+k;a;m;i;T;u;k;u
+===  k;a;m;-;-;-;-;u
+===  k;a;m;i;T;u;k;u
+§_Sado : Kagoshima : msa_487 3444
+k;a;m;i;T;u;k;u
+k;a;N;-;T;u;-;-
+===  k;a;m;i;T;u;k;u
+===  k;a;N;-;T;-;-;u
+§_Kagoshima : Sado : msa_487 3445
+k;a;N;-;T;u;-;-
+k;a;m;i;T;u;k;u
+===  k;a;N;-;T;-;-;u
+===  k;a;m;i;T;u;k;u
+§_Kagoshima : Kyoto : msa_489 3456
+s;i;C;o;-;-
+s;i;t;e;r;u
+===  s;i;C;-;-;o
+===  s;i;t;e;r;u
+§_Sado : Kōchi : msa_489 3457
+s;i;t;-;o;r;u
+s;i;t;y;u;-;-
+===  s;i;t;o;r;u
+===  s;i;t;-;y;u
+§_Miyako : Sado : msa_489 3460
+s;3;-;-;-;-
+s;i;t;o;r;u
+===  s;-;-;-;-;3
+===  s;i;t;o;r;u
+§_Kagoshima : Kyoto : msa_489 3463
+s;i;C;o;-;-
+s;i;t;e;r;u
+===  s;i;C;-;-;o
+===  s;i;t;e;r;u
+§_Sado : Miyako : msa_489 3464
+s;i;t;o;r;u
+s;3;-;-;-;-
+===  s;i;t;o;r;u
+===  s;-;-;-;-;3
+§_Amami : Tokyo : msa_490 3467
+x;u;-;-;s;u;r;i
+k;o;r;o;s;u;-;-
+===  x;-;-;u;s;u;r;i
+===  k;o;r;o;s;u;-;-
+§_Miyako : Amami : msa_490 3473
+k;u;r;u;s;3;-;-
+x;u;-;-;s;u;r;i
+===  k;u;r;u;s;3
+===  x;u;s;u;r;i
+§_Miyako : Shuri : msa_493 3496
+m;-;n;a
+-;N;n;a
+===  m;n;a
+===  N;n;a
+§_Miyako : Shuri : msa_493 3500
+m;-;n;a
+-;N;n;a
+===  m;n;a
+===  N;n;a
+§_Kagoshima : Shuri : msa_494 3505
+h;i;t;o;-;i
+-;-;t;i;S;i
+===  h;i;t;o;i
+===  t;i;S;-;i
+§_Sado : Kagoshima : msa_496 3520
+C;i;-;s;a;i
+C;i;N;k;e;-
+===  C;i;-;s;a;i
+===  C;i;N;k;-;e
+§_Kagoshima : Tokyo : msa_496 3521
+C;i;N;k;e;-
+C;i;-;C;a;i
+===  C;i;N;k;-;e
+===  C;i;-;C;a;i
+§_Tokyo : Kagoshima : msa_496 3524
+C;i;-;C;a;i
+C;i;N;k;e;-
+===  C;i;-;C;a;i
+===  C;i;N;k;-;e
+§_Oki : Shuri : msa_497 3525
+n;a;N;e;-;-;-
+n;a;g;a;s;a;N
+===  n;-;-;-;-;a;N;e
+===  n;a;g;a;s;a;N;-
+§_Hachijō : Kagoshima : msa_497 3526
+n;a;g;a;k;a
+n;a;g;e;-;-
+===  n;a;g;a;k;a
+===  n;a;g;-;-;e
+§_Hachijō : Kagoshima : msa_497 3528
+n;a;g;a;k;a
+n;a;g;e;-;-
+===  n;a;g;a;k;a
+===  n;a;g;-;-;e
+§_Shuri : Tokyo : msa_498 3534
+i;n;-;a;g;u
+o;N;n;-;-;a
+===  i;-;n;a;g;u
+===  o;N;n;a;-;-
+§_Sado : Kōchi : msa_498 3535
+o;N;n;-;-;a
+o;n;-;a;g;o
+===  o;N;n;a;-;-
+===  o;-;n;a;g;o
+§_Hachijō : Kyoto : msa_498 3536
+o;N;n;a;g;o
+o;n;-;a;N;o
+===  o;N;n;a;g;o
+===  o;-;n;a;N;o
+§_Shuri : Sado : msa_498 3537
+i;n;-;a;g;u
+o;N;n;-;-;a
+===  i;-;n;a;g;u
+===  o;N;n;a;-;-
+§_Hachijō : Amami : msa_498 3538
+o;N;n;a;g;o
+o;n;-;a;g;u
+===  o;N;n;a;g;o
+===  o;-;n;a;g;u
+§_Tokyo : Kōchi : msa_498 3539
+o;N;n;-;-;a
+o;n;-;a;g;o
+===  o;N;n;a;-;-
+===  o;-;n;a;g;o
+§_Tokyo : Amami : msa_498 3540
+o;N;n;-;-;a
+o;n;-;a;g;u
+===  o;N;n;a;-;-
+===  o;-;n;a;g;u
+§_Kagoshima : Sado : msa_498 3541
+o;n;-;a;g;o
+o;N;n;-;-;a
+===  o;-;n;a;g;o
+===  o;N;n;a;-;-
+§_Oki : Miyako : msa_502 3572
+s;i;r;a;m;e
+s;a;-;-;m;-
+===  s;i;r;a;m;e
+===  s;-;-;a;m;-
+§_Kyoto : Hachijō : msa_502 3577
+s;i;r;a;m;i
+S;a;N;-;m;e
+===  s;i;r;a;-;m;i
+===  S;-;-;a;N;m;e
+§_Miyako : Kyoto : msa_503 3579
+-;p;a
+h;-;a
+===  p;a
+===  h;a
+§_Oki : Hachijō : msa_503 3580
+-;p;a
+h;-;a
+===  p;a
+===  h;a
+§_Oki : Kōchi : msa_503 3583
+-;p;a
+h;-;a
+===  p;a
+===  h;a
+§_Shuri : Oki : msa_503 3585
+h;w;a
+-;p;a
+===  h;w;a
+===  p;-;a
+§_Miyako : Kōchi : msa_503 3586
+-;p;a
+h;-;a
+===  p;a
+===  h;a
+§_Kagoshima : Miyako : msa_504 3590
+a;b;u;r;a;m;i
+a;v;a;-;-;-;-
+===  a;b;u;r;a;m;i
+===  a;v;-;-;a;-;-
+§_Tjøtta : Gjøra : msa_511 3634
+g;o;-;-;n;E;s
+g;o;N;o;5;-;-
+===  g;o;n;E;s
+===  g;o;N;o;5
+§_Bø : Trondheim : msa_511 3635
+g;o;n;-;s
+g;o;n;3;-
+===  g;o;n;s
+===  g;o;n;3
+§_Stjørdal : Russland : msa_519 3707
+e;n;i;-
+E;n;-;3
+===  e;n;i
+===  E;n;3
+§_Eggesbøneset : Sortland : msa_523 3742
+k;u;n;d;3
+k;3;-;-;-
+===  k;u;n;d;3
+===  k;-;-;-;3
+§_Tynset sentrum : Bryne : msa_528 3788
+s;k;3;l;3
+s;k;3;-;-
+===  s;k;3;l;3
+===  s;k;-;-;3
+§_Bryne : Gjøra : msa_531 3817
+o;n;d;-;x;3
+o;n;d;3;r;-
+===  o;n;d;x;3;-
+===  o;n;d;-;3;r
+§_Gjøra : Tromsø : msa_548 3966
+S;t;E;n;-;-
+S;-;i;n;t;3
+===  S;-;-;t;E;n
+===  S;i;n;t;3;-
+§_Sandnessjøen : Sætre : msa_551 3993
+v;o;-;n;t
+v;o;r;m;t
+===  v;o;n;-;t
+===  v;o;r;m;t
+§_Sandnessjøen : Fyresdal : msa_551 3996
+v;o;-;n;t
+v;o;r;m;t
+===  v;o;n;-;t
+===  v;o;r;m;t
+§_Sætre : Naas, Eide : msa_551 3997
+v;o;r;m;t
+v;o;-;n;t
+===  v;o;r;m;t
+===  v;o;n;-;t
+§_Vakh Khanti : Sinja Khanti : msa_558 4057
+t;E;o;3;t
+t;u;-;-;t
+===  t;E;o;3;t
+===  t;-;-;u;t
+§_Vakh Khanti : Upper Demjanka Khanti : msa_558 4059
+t;E;o;3;t
+t;i;-;-;t
+===  t;E;o;3;t
+===  t;-;-;i;t
+§_Likrisovskoje Khanti : Sherkali Khanti : msa_558 4060
+t;e;o;3;t
+t;u;-;-;t
+===  t;e;o;3;t
+===  t;-;-;u;t
+§_Konda Mansi : Jugan Khanti : msa_558 4062
+t;o;-;t
+t;e;3;t
+===  t;-;o;t
+===  t;e;3;t
+§_Konda Khanti : Malyj Jugan Khanti : msa_559 4066
+X;u;t;y
+k;u;L;-
+===  X;u;t;y
+===  k;u;-;L
+§_North Mansi : Middle Lozva Mansi : msa_561 4083
+l;a;o;3;l
+l;3;-;-;l
+===  l;a;o;3;l
+===  l;-;-;3;l
+§_North Mansi : Pelimka Mansi : msa_561 4087
+l;a;o;3;l
+l;3;-;-;l
+===  l;a;o;3;l
+===  l;-;-;3;l
+§_Middle Lozva Mansi : Vakh Khanti : msa_562 4088
+t;a;l;-;-;-
+t;e;l;o;E;l
+===  t;-;-;-;a;l
+===  t;e;l;o;E;l
+§_Middle Lozva Mansi : Konda Mansi : msa_562 4092
+t;a;l;-;-;-
+t;a;-;o;3;l
+===  t;a;-;-;l
+===  t;a;o;3;l
+§_Obdorsk Khanti : Konda Mansi : msa_567 4140
+s;E;-;-;s
+s;o;n;3;s
+===  s;-;-;E;s
+===  s;o;n;3;s
+§_Upper Demjanka Khanti : Verkhne Kalimsk Khanti : msa_568 4143
+e;n;-;3
+e;-;L;3
+===  e;n;3
+===  e;L;3
+§_Upper Demjanka Khanti : Tremjugan Khanti : msa_568 4145
+e;n;-;3
+e;n;L;-
+===  e;n;3
+===  e;n;L
+§_Malyj Jugan Khanti : Konda Khanti : msa_568 4146
+e;n;L;-
+e;n;-;3
+===  e;n;L
+===  e;n;3
+§_Lower Lozva Mansi : Konda Khanti : msa_571 4169
+t;a;X;-;3;m
+t;e;w;t;3;m
+===  t;a;X;-;-;3;m
+===  t;e;-;w;t;3;m
+§_Kazim Khanti : Pelimka Mansi : msa_571 4170
+t;e;w;t;3;m
+t;a;X;-;3;m
+===  t;e;w;t;-;3;m
+===  t;a;-;-;X;3;m
+§_North Mansi : Obdorsk Khanti : msa_571 4175
+t;a;k;-;3;m
+t;e;w;t;3;m
+===  t;a;-;k;3;m
+===  t;e;w;t;3;m
+§_Tavda Mansi : Upper Demjanka Khanti : msa_571 4177
+t;E;X;-;3;m
+t;e;w;t;3;m
+===  t;E;X;-;-;3;m
+===  t;e;-;w;t;3;m
+§_Obdorsk Khanti : Tremjugan Khanti : msa_572 4178
+5;o;X;a
+5;a;o;3
+===  5;-;o;X;a
+===  5;a;o;-;3
+§_Upper Demjanka Khanti : Middle Lozva Mansi : msa_572 4179
+5;o;X;3;-
+5;o;-;-;l
+===  5;o;X;3
+===  5;o;l;-
+§_Tavda Mansi : Vasjugan Khanti : msa_572 4182
+5;3;-;-;l
+5;o;o;3;-
+===  5;-;-;3;l
+===  5;o;o;3;-
+§_Pelimka Mansi : Sinja Khanti : msa_572 4183
+5;o;-;-;L
+5;o;X;i;-
+===  5;o;L;-
+===  5;o;X;i
+§_Pelimka Mansi : Vasjugan Khanti : msa_572 4184
+5;o;-;-;L
+5;o;o;3;-
+===  5;o;L;-;-
+===  5;o;-;o;3
+§_Verkhne Kalimsk Khanti : Konda Khanti : msa_574 4198
+y;u;l
+t;u;t
+===  y;-;u;l
+===  -;t;u;t
+§_Verkhne Kalimsk Khanti : Nizjam Khanti : msa_574 4203
+y;u;l
+t;u;t
+===  y;-;u;l
+===  -;t;u;t
+§_Konda Mansi : Upper Demjanka Khanti : msa_575 4210
+s;o;p;-;l;o
+s;E;p;3;t;-
+===  s;o;p;l;o;-
+===  s;E;p;-;3;t
+§_Sherkali Khanti : Konda Mansi : msa_575 4211
+s;a;p;3;t;-
+s;o;p;-;l;o
+===  s;a;p;-;3;t
+===  s;o;p;l;o;-
+§_Sherkali Khanti : North Mansi : msa_576 4218
+a;t;3;p
+i;L;-;p
+===  a;t;3;-;p
+===  -;-;i;L;p
+§_Lower Lozva Mansi : Vasjugan Khanti : msa_576 4219
+L;E;L;-;p;3;l
+y;e;l;3;w;-;-
+===  L;E;L;p;3;l;-
+===  y;e;l;-;3;-;w
+§_Konda Mansi : Verkhne Kalimsk Khanti : msa_576 4222
+y;e;l;-;p;3;l
+y;e;l;3;w;-;-
+===  y;e;l;p;3;l;-
+===  y;e;l;-;3;-;w
+§_Sinja Khanti : Konda Khanti : msa_578 4232
+a;-;t
+e;n;-
+===  a;t
+===  e;n
+§_Kazim Khanti : Konda Mansi : msa_578 4235
+a;n;-
+o;-;t
+===  a;n
+===  o;t
+§_North Mansi : Vakh Khanti : msa_583 4276
+w;3;o;3;r;-;-
+w;e;-;-;r;t;3
+===  w;3;o;3;r;-;-
+===  w;-;-;e;r;t;3
+§_Tavda Mansi : Vartovskoje Khanti : msa_584 4285
+L;o;N;-
+L;E;-;k
+===  L;o;N
+===  L;E;k
+§_Vasjugan Khanti : Jugan Khanti : msa_586 4298
+y;E;s;N;3;l
+y;E;s;t;3;-
+===  y;E;s;N;-;3;l
+===  y;E;s;-;t;3;-
+§_Verkhne Kalimsk Khanti : Upper Demjanka Khanti : msa_586 4299
+y;E;s;N;3;l
+y;E;s;t;3;-
+===  y;E;s;N;-;3;l
+===  y;E;s;-;t;3;-
+§_Upper Demjanka Khanti : Verkhne Kalimsk Khanti : msa_586 4303
+y;E;s;t;3;-
+y;E;s;N;3;l
+===  y;E;s;t;-;3;-
+===  y;E;s;-;N;3;l
+§_Vasjugan Khanti : Obdorsk Khanti : msa_588 4314
+p;e;o;t;3
+p;u;-;t;i
+===  p;e;o;t;3
+===  p;-;u;t;i
+§_Jugan Khanti : Obdorsk Khanti : msa_588 4316
+p;e;o;t;3
+p;u;-;t;i
+===  p;e;o;t;3
+===  p;-;u;t;i
+§_Malyj Jugan Khanti : Upper Demjanka Khanti : msa_591 4337
+L;-;a;L;y
+t;y;o;t;y
+===  -;L;a;L;y
+===  t;y;o;t;y
+§_Tavda Mansi : Upper Demjanka Khanti : msa_598 4400
+m;i;5;E;n;t
+m;e;n;-;-;-
+===  m;i;5;E;n;t
+===  m;-;-;e;n;-
+§_Vartovskoje Khanti : Pelimka Mansi : msa_599 4403
+L;o;o
+l;u;-
+===  L;o;o
+===  l;-;u
+§_Tavda Mansi : Tremjugan Khanti : msa_601 4423
+m;3;-;-;l
+m;E;o;3;L
+===  m;-;-;3;l
+===  m;E;o;3;L
+§_Upper Demjanka Khanti : Vasjugan Khanti : msa_604 4448
+e;t;y;3;k
+e;t;y;3;o
+===  e;t;y;3;k;-
+===  e;t;y;3;-;o
+§_Verkhne Kalimsk Khanti : Konda Khanti : msa_604 4452
+e;t;y;3;o
+e;t;y;3;k
+===  e;t;y;3;o;-
+===  e;t;y;3;-;k
+§_Vakh Khanti : Sherkali Khanti : msa_604 4453
+e;t;y;3;o;-
+i;s;y;-;k;3
+===  e;t;y;-;3;o
+===  i;s;y;k;3;-
+§_Vakh Khanti : Sinja Khanti : msa_604 4455
+e;t;y;3;o;-
+i;s;y;-;k;i
+===  e;t;y;-;3;o
+===  i;s;y;k;i;-
+§_Occitan : Lombard (West) : msa_605 4458
+i;-;o
+e;f;-
+===  i;o;-
+===  e;-;f
+§_Occitan : Lombard (West) : msa_605 4460
+i;-;o
+e;f;-
+===  i;o;-
+===  e;-;f
+§_Occitan : Ladino : msa_606 4466
+-;-;g;r;i;m;3
+l;e;k;X;i;m;a
+===  g;r;-;-;-;i;m;3
+===  -;l;e;k;X;i;m;a
+§_Italian : French : msa_606 4471
+l;a;k;r;i;m;a
+l;a;-;X;-;m;-
+===  l;a;k;r;i;m;a
+===  l;a;X;-;-;m;-
+§_French : Lombard (East) : msa_606 4472
+l;a;-;X;-;m;-;-
+l;a;k;r;i;m;3;m
+===  l;a;X;-;-;-;-;m
+===  l;a;k;r;i;m;3;m
+§_French : Italian : msa_608 4488
+d;o;-;-;-
+d;e;n;t;e
+===  d;-;-;-;o
+===  d;e;n;t;e
+§_Lombard (West) : French : msa_611 4514
+k;x;a;p;r;a
+S;-;E;v;X;-
+===  k;x;a;p;r;a
+===  -;S;E;v;X;-
+§_French : Lombard (East) : msa_616 4556
+o;-;g;l;-
+i;n;y;-;3
+===  o;g;l;-
+===  i;n;y;3
+§_Venetian : French : msa_616 4559
+3;N;y;-;a
+o;-;g;l;-
+===  3;N;y;a
+===  o;g;l;-
+§_Ladino : Lombard (East) : msa_616 4560
+7;3;n;d;l;a
+-;i;n;y;-;3
+===  7;3;n;d;l;a
+===  -;i;n;-;y;3
+§_Ligurian : Ladino : msa_616 4562
+-;i;n;y;-;a
+7;3;n;d;l;a
+===  -;i;n;-;y;a
+===  7;3;n;d;l;a
+§_Occitan : Ligurian : msa_620 4592
+E;-;y;-
+E;C;-;3
+===  E;y;-
+===  E;C;3
+§_Venetian : Ladino : msa_620 4594
+o;C;-;o
+3;d;l;-
+===  o;C;o;-
+===  3;d;-;l
+§_French : Italian : msa_622 4614
+E;-;-
+u;n;o
+===  -;-;E
+===  u;n;o
+§_Venetian : Lombard (East) : msa_622 4618
+-;u;n;o
+y;i;-;-
+===  u;n;o
+===  -;y;i
+§_Ligurian : Occitan : msa_624 4628
+d;e;Z;e
+d;e;-;-
+===  d;e;Z;e
+===  d;-;-;e
+§_Occitan : Venetian : msa_624 4635
+d;e;-;-
+d;e;z;e
+===  d;-;-;e
+===  d;e;z;e
+§_Lombard (East) : French : msa_625 4637
+a;k;a
+o;-;-
+===  a;k;a
+===  -;-;o
+§_French : Venetian : msa_625 4645
+o;-;-
+a;k;a
+===  -;-;o
+===  a;k;a
+§_Occitan : Lombard (East) : msa_626 4646
+o;r;o;-;L
+o;r;E;C;-
+===  o;r;o;L
+===  o;r;E;C
+§_Ladino : Italian : msa_626 4647
+7;u;X;3;d;l;a
+-;o;r;E;k;y;o
+===  7;u;-;-;X;3;d;l;a
+===  -;o;r;E;k;-;-;y;o
+§_Lombard (West) : Ligurian : msa_626 4649
+u;r;E;y;a
+-;w;E;C;a
+===  u;r;E;y;a
+===  w;-;E;C;a
+§_Occitan : Italian : msa_626 4651
+o;r;o;-;L;-
+o;r;E;k;y;o
+===  o;r;-;-;-;o;L
+===  o;r;E;k;y;o;-
+§_Venetian : Ladino : msa_626 4652
+-;e;r;e;C;-;a
+7;u;X;3;d;l;a
+===  -;-;-;e;r;e;C;a
+===  7;u;X;3;d;-;l;a
+§_Occitan : Italian : msa_626 4654
+o;r;o;-;L;-
+o;r;E;k;y;o
+===  o;r;-;-;-;o;L
+===  o;r;E;k;y;o;-
+§_Venetian : Lombard (East) : msa_627 4659
+d;e;-;o
+d;i;t;-
+===  d;e;o;-
+===  d;i;-;t
+§_Ligurian : Venetian : msa_631 4691
+s;e;-
+s;i;e
+===  s;-;e
+===  s;i;e
+§_Ligurian : Venetian : msa_631 4694
+s;e;-
+s;i;e
+===  s;-;e
+===  s;i;e
+§_Italian : Venetian : msa_631 4697
+s;E;-
+s;i;e
+===  s;-;E
+===  s;i;e
+§_Ladino : Italian : msa_633 4710
+p;-;e;-;-
+p;y;e;d;e
+===  p;-;-;-;e
+===  p;y;e;d;e
+§_Italian : Occitan : msa_633 4714
+p;y;e;d;e
+p;-;e;-;-
+===  p;y;e;d;e
+===  p;-;-;-;e
+§_Serbian : Bulgarian : msa_655 4728
+p;e;p;e;o
+p;E;p;E;l
+===  p;e;p;e;o;-
+===  p;E;p;E;-;l
+§_Czech : Serbian : msa_655 4729
+p;o;p;E;l
+p;e;p;e;o
+===  p;o;p;E;l;-
+===  p;e;p;e;-;o
+§_Bulgarian : Serbian : msa_655 4731
+p;E;p;E;l
+p;e;p;e;o
+===  p;E;p;E;l;-
+===  p;e;p;e;-;o
+§_Bulgarian : Czech : msa_657 4743
+p;i;y;3
+p;i;t;-
+===  p;i;y;3;-
+===  p;i;-;-;t
+§_Russian : Czech : msa_658 4746
+a;g;o;n
+o;h;E;n
+===  a;g;o;-;-;n
+===  -;-;o;h;E;n
+§_Bulgarian : Polish : msa_667 4804
+s;l;3;n;T;E
+s;w;o;n;T;E
+===  s;l;-;3;n;T;E
+===  s;-;w;o;n;T;E
+§_Czech : Polish : msa_673 4839
+Z;-;l;3;t;i
+Z;u;w;-;t;3
+===  Z;l;3;-;t;i
+===  Z;-;u;w;t;3
+§_Court : Vaugondry : msa_676 4856
+t;-;a
+k;l;a
+===  -;t;a
+===  k;l;a
+§_L'Auberson : Champéry : msa_677 4865
+f;l;E;y;E
+8;-;a;y;e
+===  f;l;E;y;E
+===  -;8;a;y;e
+§_Savagnier : Conthey : msa_677 4870
+-;f;y;E;i
+e;8;-;e;-
+===  f;y;E;-;i
+===  -;-;e;8;e
+§_Dompierre : Château-d'Oex : msa_677 4872
+E;h;E;i
+-;8;i;-
+===  E;h;E;i
+===  -;8;-;i
+§_Cerlatez : Vernier : msa_683 4916
+s;w;a;s;y;-
+f;a;r;k;l;3
+===  s;w;a;-;s;y;-
+===  f;-;a;r;k;l;3
+§_Boudry : Côte-aux-Fées : msa_683 4917
+s;E;r;t;-;-
+s;-;E;k;l;u
+===  s;E;-;r;t;-
+===  s;E;k;l;-;u
+§_Montalchez : Lourtier : msa_683 4918
+s;E;X;k;-;o
+S;a;r;h;l;o
+===  s;E;-;X;k;o
+===  S;a;r;h;l;o
+§_Hermance : Cerneux-Péquignot : msa_683 4919
+f;a;r;k;l;-
+s;-;E;k;l;u
+===  f;a;r;k;l;-
+===  s;E;-;k;l;u
+§_Landeron : Arnex : msa_683 4921
+s;E;r;k;-
+s;-;a;h;o
+===  s;E;r;k;-
+===  s;a;-;h;o
+§_Courtedoux : Champéry : msa_683 4922
+s;w;E;h;-
+S;e;r;8;o
+===  s;w;E;h;-;-
+===  S;-;e;r;8;o
+§_Prahins : Arconciel : msa_683 4924
+s;-;E;h;l;o
+S;E;-;h;l;o
+===  s;E;h;l;o
+===  S;E;h;l;o
+§_Montalchez : Courtedoux : msa_685 4939
+t;o;d;-;X;3
+t;3;d;3;r;-
+===  t;o;d;X;3;-
+===  t;3;d;-;3;r
+§_Chevroux : Collex : msa_687 4959
+T;E;t;a
+8;o;-;-
+===  T;E;t;a
+===  -;-;8;o
+§_Sombeval : Montalchez : msa_690 4986
+p;E;v;3;r;-
+p;a;v;-;X;o
+===  p;E;v;-;3;r
+===  p;a;v;X;o;-
+§_Miège : Vullierens : msa_700 5069
+e;w;e
+e;d;3
+===  e;w;-;e
+===  e;-;d;3
+§_Prahins : Charnex : msa_700 5074
+e;d;3
+e;w;3
+===  e;d;-;3
+===  e;-;w;3
+§_Miège : Court : msa_701 5086
+k;3;l;E;r
+C;-;-;i;-
+===  k;3;l;E;r
+===  C;i;-;-;-
+§_Courtedoux : Hermance : msa_702 5094
+t;-;y;i;r;E
+k;i;l;E;r;o
+===  t;y;i;r;E;-;-
+===  k;-;i;l;E;r;o
+§_Vermes : Charnex : msa_703 5097
+m;E;i;-
+m;-;o;r
+===  m;E;i;-
+===  m;o;-;r
+§_Montbovon : Cerlatez : msa_703 5102
+m;-;-;a
+m;E;v;i
+===  m;a;-;-
+===  m;E;v;i
+§_Courtedoux : Veyrier : msa_703 5104
+m;E;v;i
+m;-;-;e
+===  m;E;v;i
+===  m;e;-;-
+§_Savagnier : Develier : msa_710 5160
+p;E;r;t;-;-
+p;e;-;d;r;3
+===  p;E;-;r;t;-
+===  p;e;d;r;-;3
+§_Vallorbe : Courtedoux : msa_710 5161
+p;E;r;t;-;a
+p;e;-;d;r;-
+===  p;E;-;r;t;a
+===  p;e;d;r;-;-
+§_Landeron : Savièse : msa_711 5171
+p;e;3
+p;o;-
+===  p;e;3
+===  p;-;o
+§_Orvin : Vullierens : msa_711 5175
+p;-;-;E;n;o
+p;o;v;o;-;-
+===  p;E;n;o
+===  p;o;v;o
+§_Collombey : Commugny : msa_712 5178
+s;w;a;r;a
+s;-;e;-;-
+===  s;w;a;r;a
+===  s;-;-;-;e
+§_Roche : Veyrier : msa_712 5179
+S;E;r;a
+S;a;-;-
+===  S;E;r;a
+===  S;-;-;a
+§_Champéry : Chaux-du-Milieu : msa_712 5182
+s;w;o;r;o
+s;-;e;-;-
+===  s;w;o;r;o
+===  s;-;-;-;e
+§_Champéry : Cerneux-Péquignot : msa_712 5183
+s;w;o;r;o
+s;-;e;-;-
+===  s;w;o;r;o
+===  s;-;-;-;e
+§_Savagnier : Chaux-du-Milieu : msa_715 5206
+p;T;E;-;-
+p;h;a;n;E
+===  p;T;-;-;E
+===  p;h;a;n;E
+§_Champéry : Charnex : msa_722 5260
+m;3;d;3;s;E
+m;o;-;-;T;o
+===  m;3;d;3;s;E
+===  m;o;T;-;-;o
+§_Savièse : Noiraigue : msa_722 5262
+m;E;d;e;s;3
+m;e;-;-;y;o
+===  m;E;d;e;s;3
+===  m;-;-;e;y;o
+§_Lamboing : Dompierre : msa_728 5313
+p;u;y;-
+p;a;T;u
+===  p;-;-;u;y
+===  p;a;T;u;-

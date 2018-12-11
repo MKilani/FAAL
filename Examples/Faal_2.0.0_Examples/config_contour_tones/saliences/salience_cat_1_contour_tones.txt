@@ -1,0 +1,135 @@
+% Saliences for the features of the consonants - Contour Tones (Example 7) - see file phon_features_contour_tones.txt for the list of features
+%
+% Lines starting with % are ignored.
+%
+% The structure of this file is the following: there are two columns,
+% and each line corresponds to a feature.
+% The first column contains the number corresponding to the feature (see file phon_features.txt ),
+% while the second column correspond to the multiplying factor of the salience to be applied to the feature.
+% As a good practice, each row is preceded by a line of comment (introduced by %) given a brief description of the feature.
+% Columns are separated by the character "	" (horizontal tab character - U+0009).
+%
+%
+% 0 - diphthong
+0	1
+%
+% 1 - syllabic
+1	450
+%
+% 2 - Manner - consonantal
+2	1
+%
+% 3 - Manner - sonorant
+3	30
+%
+% 4 - Manner - continuant
+4	170
+%
+% 5 - Manner - delayed release
+5	1
+%
+% 6 - Manner - approximant
+6	1
+%
+% 7 - Manner - tap
+7	1
+%
+% 8 - Manner - trill
+8	30
+%
+% 9 - Manner - nasal
+9	1
+%
+% 10 - Laryng. - voice
+10	1
+%
+% 11 - Laryng. - spread glottis
+11	1
+%
+% 12 - Laryng. - constr glottis
+12	1
+%
+% 13 - Place - labial
+13	35
+%
+% 14 - Place - round
+14	35
+%
+% 15 - Place - labiodental
+15	35
+%
+% 16 - Place - coronal
+16	35
+%
+% 17 - Place - anterior
+17	35
+%
+% 18 - Place - distributed
+18	35
+%
+% 19 - Place - strident
+19	65
+%
+% 20 - Place - lateral
+20	35
+%
+% 21 - Place - dorsal
+21	25
+%
+% 22 - Place - high
+22	1
+%
+% 23 - Place - low
+23	1
+%
+% 24 - Place - front
+24	1
+%
+% 25 - Place - back
+25	1
+%
+% 26 - Place - tense
+26	1
+%
+% 27 - Place - long
+27	1
+% 28 - Tone_contour - level_tone
+28	0
+% 29 - Tone_contour - falling_tone
+29	0
+% 30 - Tone_contour - rising_tone
+30	0
+% 31 - Tone_contour - dipping_tone
+31	0
+% 32 - Tone_contour - peaking_tone
+32	0
+% 33 - Tone_start - position 1
+33	0
+% 34 - Tone_mid - position 1
+34	0
+% 35 - Tone_end - position 1
+35	0
+% 36 - Tone_start - position 2
+36	0
+% 37 - Tone_mid - position 2
+37	0
+% 38 - Tone_end - position 2
+38	0
+% 39 - Tone_start - position 3
+39	0
+% 40 - Tone_mid - position 3
+40	0
+% 41 - Tone_end - position 3
+41	0
+% 42 - Tone_start - position 4
+41	0
+% 43 - Tone_mid - position 4
+43	0
+% 44 - Tone_end - position 4
+44	0
+% 45 - Tone_start - position 5
+45	0
+% 46 - Tone_mid - position 5
+46	0
+% 47 - Tone_end - position 5
+47	0

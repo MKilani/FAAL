@@ -1,0 +1,7495 @@
+§_Italian_2 : French 12
+u;n;o
+œ~;-;-
+===  u;n;o
+===  -;-;œ~
+§_Macedonian_5 : Icelandic 25
+e;d;ɛ;n
+-;-;ei̯;d͡n
+===  e;d;ɛ;n
+===  ei̯;d͡n;-;-
+§_Sorbian Lower_1 : Icelandic 41
+j͜a;d;ɛ;n
+-;-;ei̯;d͡n
+===  j͜a;d;ɛ;n
+===  ei̯;d͡n;-;-
+§_Sorbian Lower_7 : Middle Cornish 47
+j͜a;d;ɛ;n
+-;-;i;d͡n
+===  j͜a;d;ɛ;n
+===  i;d͡n;-;-
+§_Czech_6 : Icelandic 66
+j͜ɛ;d;ɛ;n
+-;-;ei̯;d͡n
+===  j͜ɛ;d;ɛ;n
+===  ei̯;d͡n;-;-
+§_Latin_2 : Icelandic 82
+uː;n;u;s
+ei̯;d͡n;-;-
+===  uː;n;u;s
+===  -;-;ei̯;d͡n
+§_Latin_4 : Serbo-Croatian 84
+-;-;uː;n;u;s
+j͜ɛ;d;a;n;-;-
+===  uː;-;-;n;u;s
+===  j͜ɛ;d;a;n;-;-
+§_Latin_6 : French 86
+uː;n;u;s
+œ~;-;-;-
+===  uː;n;u;s
+===  -;-;œ~;-
+§_Latin_9 : Macedonian 89
+-;-;uː;n;u;s
+e;d;ɛ;n;-;-
+===  uː;-;-;n;u;s
+===  e;d;ɛ;n;-;-
+§_Russian_6 : Middle Cornish 96
+a;dʲ;i;n
+-;-;i;d͡n
+===  a;dʲ;i;n
+===  i;d͡n;-;-
+§_Russian_9 : Icelandic 99
+a;dʲ;i;n
+-;-;ei̯;d͡n
+===  a;dʲ;i;n
+===  ei̯;d͡n;-;-
+§_Icelandic_0 : [Legacy] Serbian 150
+-;-;ei̯;d͡n
+j͜e;d;a;n
+===  ei̯;d͡n;-;-
+===  j͜e;d;a;n
+§_Icelandic_1 : Belarusian 151
+-;-;ei̯;d͡n
+a;ʣʲ;i;n
+===  ei̯;d͡n;-;-
+===  a;ʣʲ;i;n
+§_Icelandic_2 : Polish 152
+-;-;ei̯;d͡n
+j͜ɛ;d;ɛ;n
+===  ei̯;d͡n;-;-
+===  j͜ɛ;d;ɛ;n
+§_Icelandic_4 : Serbo-Croatian 154
+-;-;ei̯;d͡n
+j͜ɛ;d;a;n
+===  ei̯;d͡n;-;-
+===  j͜ɛ;d;a;n
+§_Icelandic_7 : Old Church Slavonic 157
+-;-;ei̯;d͡n;-
+j͜ɛ;d;i;n;ʊ
+===  ei̯;d͡n;-;-;-
+===  j͜ɛ;d;i;n;ʊ
+§_Icelandic_9 : Sorbian Upper 159
+-;-;ei̯;d͡n
+j͜ɛ;d;ɘ;n
+===  ei̯;d͡n;-;-
+===  j͜ɛ;d;ɘ;n
+§_Bulgarian_1 : Latin 231
+ɘ;d;i;n;-;-
+-;-;uː;n;u;s
+===  ɘ;d;i;n;-;-
+===  uː;-;-;n;u;s
+§_Bulgarian_5 : Middle Cornish 235
+ɘ;d;i;n
+-;-;i;d͡n
+===  ɘ;d;i;n
+===  i;d͡n;-;-
+§_Middle Cornish_0 : Russian 240
+-;-;i;d͡n
+a;dʲ;i;n
+===  i;d͡n;-;-
+===  a;dʲ;i;n
+§_Middle Cornish_4 : Belarusian 244
+-;-;i;d͡n
+a;ʣʲ;i;n
+===  i;d͡n;-;-
+===  a;ʣʲ;i;n
+§_Middle Cornish_9 : Ukrainian 249
+-;-;i;d͡n
+ɔ;d;ɪ;n
+===  i;d͡n;-;-
+===  ɔ;d;ɪ;n
+§_Serbo-Croatian_3 : Icelandic 273
+j͜ɛ;d;a;n
+-;-;ei̯;d͡n
+===  j͜ɛ;d;a;n
+===  ei̯;d͡n;-;-
+§_Serbo-Croatian_9 : Latin 279
+j͜ɛ;d;a;n;-;-
+-;-;uː;n;u;s
+===  j͜ɛ;d;a;n;-;-
+===  uː;-;-;n;u;s
+§_Sorbian Upper_0 : Greek 280
+j͜ɛ;d;ɘ;n;-;-
+-;-;e;n;a;s
+===  j͜ɛ;d;ɘ;n;-;-
+===  e;-;-;n;a;s
+§_Sorbian Upper_9 : Icelandic 289
+j͜ɛ;d;ɘ;n
+-;-;ei̯;d͡n
+===  j͜ɛ;d;ɘ;n
+===  ei̯;d͡n;-;-
+§_[Legacy] Albanian T_9 : Middle Cornish 309
+-;ɲ;ə
+i;d͡n;-
+===  ɲ;ə;-
+===  -;i;d͡n
+§_French_5 : [Legacy] Serbian 315
+-;-;œ~;-
+j͜e;d;a;n
+===  œ~;-;-;-
+===  j͜e;d;a;n
+§_Ukrainian_2 : Romanian 332
+ɔ;d;ɪ;n;-
+-;-;u;n;u
+===  ɔ;d;ɪ;n;-
+===  u;-;-;n;u
+§_Portuguese_6 : Serbo-Croatian 346
+-;-;u~;-
+j͜ɛ;d;a;n
+===  u~;-;-;-
+===  j͜ɛ;d;a;n
+§_Romanian_0 : Ukrainian 350
+-;-;u;n;u
+ɔ;d;ɪ;n;-
+===  u;-;-;n;u
+===  ɔ;d;ɪ;n;-
+§_Romanian_2 : Bulgarian 352
+-;-;u;n;u
+ɘ;d;i;n;-
+===  u;-;-;n;u
+===  ɘ;d;i;n;-
+§_Italian_0 : Punjabi 420
+d;u;e
+d;-;o
+===  d;u;e
+===  d;o;-
+§_Italian_1 : Old Swedish 421
+d;u;-;e;-
+t;-;v;eː;r
+===  d;-;u;e;-
+===  t;v;eː;-;r
+§_Italian_2 : [Legacy] Breton St 422
+d;u;e
+d;-;ɔw̯
+===  d;u;e
+===  d;ɔw̯;-
+§_Italian_8 : Oriya 428
+d;u;e
+d;-;ui̯
+===  d;u;e
+===  d;ui̯;-
+§_Greek_1 : Classical Armenian 431
+-;ð;i͜o;-;-
+e;r;-;k;ow̯
+===  -;-;ð;i͜o
+===  e;r;k;ow̯
+§_Middle Breton_2 : Spanish 442
+d;-;ou̯;-
+d;o;-;s
+===  d;ou̯;-
+===  d;o;s
+§_Middle Breton_5 : French 445
+d;-;ou̯
+d;ø;-
+===  d;ou̯
+===  d;ø
+§_Latin_0 : Gutnish Lau 450
+d;u;-;o
+t;-;v;ɑː
+===  d;-;u;o
+===  t;v;ɑː;-
+§_Latin_1 : Bihari 451
+d;u;o
+d;-;u
+===  d;u;o
+===  d;u;-
+§_Latin_3 : Oriya 453
+d;u;o
+d;-;ui̯
+===  d;u;o
+===  d;ui̯;-
+§_Latin_6 : [Legacy] Albanian T 456
+d;u;o
+d;-;y
+===  d;u;o
+===  d;y;-
+§_Latin_7 : Ukrainian 457
+d;u;-;o
+d;-;ʋ;a
+===  d;-;u;o
+===  d;ʋ;a;-
+§_Latin_8 : Catalan 458
+d;u;o;-
+d;o;-;s
+===  d;u;o;-
+===  d;-;o;s
+§_Sindhi_1 : Bulgarian 461
+b;-;ə
+d;v;a
+===  -;b;ə
+===  d;v;a
+§_Sindhi_2 : Armenian Eastern 462
+-;b;ə;-;-
+j͜ɛ;ɾ;-;k;u
+===  -;-;b;ə
+===  j͜ɛ;ɾ;k;u
+§_Sindhi_5 : Gutnish Lau 465
+b;-;ə
+t;v;ɑː
+===  -;b;ə
+===  t;v;ɑː
+§_Sindhi_6 : Portuguese 466
+b;-;ə;-
+d;oi̯;-;ʃ
+===  b;ə;-
+===  d;oi̯;ʃ
+§_Sindhi_7 : Classical Armenian 467
+-;b;ə;-;-
+e;r;-;k;ow̯
+===  -;-;b;ə
+===  e;r;k;ow̯
+§_Sinhalese_0 : Portuguese 480
+d;-;e;-;k;ə
+d;oi̯;-;ʃ;-;-
+===  d;e;k;ə
+===  d;oi̯;ʃ;-
+§_Sinhalese_3 : [Legacy] Brazilian 483
+d;-;e;-;k;ə
+d;oi̯;-;s;-;-
+===  d;e;k;ə
+===  d;oi̯;s;-
+§_Sinhalese_4 : Icelandic 484
+d;-;e;k;ə;-
+t;v;ei̯ː;-;-;r
+===  d;e;k;ə;-
+===  t;-;v;ei̯ː;r
+§_Sinhalese_5 : Macedonian 485
+d;-;e;k;ə
+d;v;a;-;-
+===  d;e;k;ə
+===  d;-;v;a
+§_Sinhalese_7 : Marathi 487
+d;e;-;k;ə
+d;o;n;-;-
+===  d;e;k;ə
+===  d;o;n;-
+§_Sinhalese_8 : Czech 488
+d;-;e;k;ə
+d;v;a;-;-
+===  d;e;k;ə
+===  d;-;v;a
+§_Middle Cornish_5 : Ossetic 495
+d;-;-;ɛʊ̯
+d;ɨ;w;w͜æ
+===  d;ɛʊ̯;-;-
+===  d;ɨ;w;w͜æ
+§_Middle Cornish_9 : Spanish 499
+d;-;ɛʊ̯;-
+d;o;-;s
+===  d;ɛʊ̯;-
+===  d;o;s
+§_Ossetic_0 : Marathi 500
+d;ɨ;w;w͜æ;-
+d;-;-;o;n
+===  d;ɨ;w;w͜æ
+===  d;o;n;-
+§_Ossetic_1 : Norwegian Riksmal 501
+d;ɨ;w;w͜æ
+t;-;-;uː
+===  d;ɨ;w;w͜æ
+===  t;uː;-;-
+§_Ossetic_3 : Middle Breton 503
+d;ɨ;w;w͜æ
+d;-;-;ou̯
+===  d;ɨ;w;w͜æ
+===  d;ou̯;-;-
+§_Punjabi_3 : Latin 513
+d;-;o
+d;u;o
+===  d;o;-
+===  d;u;o
+§_Punjabi_9 : Armenian Eastern 519
+-;d;o;-;-
+j͜ɛ;ɾ;-;k;u
+===  -;-;d;o
+===  j͜ɛ;ɾ;k;u
+§_French_1 : Sinhalese 521
+d;ø;-;-;-
+d;-;e;k;ə
+===  d;ø;-;-
+===  d;e;k;ə
+§_French_2 : Stavangersk 522
+d;ø;-
+t;-;uː
+===  d;ø
+===  t;uː
+§_French_3 : Faroese 523
+d;ø;-;-;-
+tʰ;-;v;ai̯ː;ɹ
+===  d;-;ø;-
+===  tʰ;v;ai̯ː;ɹ
+§_French_4 : Icelandic 524
+d;ø;-;-;-
+t;-;v;ei̯ː;r
+===  d;-;ø;-
+===  t;v;ei̯ː;r
+§_French_5 : Urdu 525
+d;ø;-
+d̪;-;o
+===  d;ø
+===  d̪;o
+§_French_6 : Classical Armenian 526
+-;d;ø;-;-
+e;r;-;k;ow̯
+===  -;-;d;ø
+===  e;r;k;ow̯
+§_French_7 : Marathi 527
+d;ø;-;-
+d;-;o;n
+===  d;ø;-
+===  d;o;n
+§_French_8 : Middle Breton 528
+d;ø;-
+d;-;ou̯
+===  d;ø
+===  d;ou̯
+§_French_9 : Frisian 529
+d;ø;-;-
+t;-;v;a:
+===  d;-;ø
+===  t;v;a:
+§_Urdu_5 : French 535
+d̪;-;o
+d;ø;-
+===  d̪;o
+===  d;ø
+§_Urdu_7 : Old Church Slavonic 537
+d̪;-;-;o
+d;ʊ;v;ɑ
+===  d̪;o;-;-
+===  d;ʊ;v;ɑ
+§_[Legacy] Brazilian_0 : Ancient Greek 540
+d;oi̯;-;s
+d;y;o;-
+===  d;-;oi̯;s
+===  d;y;o;-
+§_[Legacy] Brazilian_1 : Polish 541
+d;oi̯;-;-;s
+d;-;v;a;-
+===  d;oi̯;s;-
+===  d;-;v;a
+§_[Legacy] Brazilian_2 : Magahi 542
+d;oi̯;-;s
+d̪;-;u;-
+===  d;oi̯;s
+===  d̪;u;-
+§_[Legacy] Brazilian_3 : Ossetic 543
+d;oi̯;-;-;s
+d;ɨ;w;w͜æ;-
+===  d;oi̯;s;-
+===  d;ɨ;w;w͜æ
+§_[Legacy] Brazilian_4 : Sindhi 544
+d;oi̯;-;s
+b;-;ə;-
+===  d;oi̯;s
+===  b;ə;-
+§_[Legacy] Brazilian_6 : Mycenaean Greek 546
+d;oi̯;-;s
+d;-;u͜o;-
+===  d;oi̯;s
+===  d;u͜o;-
+§_[Legacy] Brazilian_7 : Slovenian 547
+d;oi̯;-;-;s
+d;-;v;aː;-
+===  d;oi̯;s;-
+===  d;-;v;aː
+§_[Legacy] Brazilian_8 : Dutch 548
+d;oi̯;-;s
+t;-;w͜e;-
+===  d;oi̯;s
+===  t;w͜e;-
+§_[Legacy] Brazilian_9 : Urdu 549
+d;oi̯;-;s
+d̪;-;o;-
+===  d;oi̯;s
+===  d̪;o;-
+§_Portuguese_0 : Ossetic 550
+d;oi̯;-;-;ʃ
+d;ɨ;w;w͜æ;-
+===  d;oi̯;ʃ;-
+===  d;ɨ;w;w͜æ
+§_Portuguese_1 : Sinhalese 551
+d;oi̯;-;ʃ;-;-
+d;-;e;-;k;ə
+===  d;oi̯;ʃ;-
+===  d;e;k;ə
+§_Portuguese_2 : Sindhi 552
+d;oi̯;-;ʃ
+b;-;ə;-
+===  d;oi̯;ʃ
+===  b;ə;-
+§_Portuguese_3 : Marathi 553
+d;oi̯;-;ʃ;-
+d;-;o;-;n
+===  d;oi̯;ʃ
+===  d;o;n
+§_Portuguese_4 : Ossetic Digor 554
+d;oi̯;-;ʃ
+d;u;w͜ɐ;-
+===  d;oi̯;ʃ;-
+===  d;u;-;w
+§_Portuguese_5 : Gutnish Lau 555
+d;oi̯;-;-;ʃ
+t;-;v;ɑː;-
+===  d;oi̯;ʃ;-
+===  t;-;v;ɑː
+§_Portuguese_7 : Armenian Eastern 557
+-;d;oi̯;ʃ;-;-
+j͜ɛ;ɾ;-;-;k;u
+===  -;d;oi̯;ʃ;-
+===  j͜ɛ;ɾ;-;k;u
+§_Portuguese_8 : Elfdalian 558
+d;oi̯;-;ʃ
+t;-;w͜ɔː;-
+===  d;oi̯;ʃ
+===  t;w͜ɔː;-
+§_Portuguese_9 : Middle Breton 559
+d;oi̯;-;ʃ
+d;-;ou̯;-
+===  d;oi̯;ʃ
+===  d;ou̯;-
+§_Romanian_0 : Old Norse 560
+d;oj̯;-;-;-
+t;-;v;ɛi̯;r
+===  d;-;oj̯;-
+===  t;v;ɛi̯;r
+§_Romanian_1 : Mycenaean Greek 561
+d;oj̯;-
+d;-;u͜o
+===  d;oj̯
+===  d;u͜o
+§_Romanian_2 : [Legacy] Serbian 562
+d;oj̯;-;-
+d;-;ʋ;a:
+===  d;-;oj̯
+===  d;ʋ;a:
+§_Romanian_3 : Czech 563
+d;oj̯;-;-
+d;-;v;a
+===  d;-;oj̯
+===  d;v;a
+§_Romanian_4 : Punjabi 564
+d;oj̯;-
+d;-;o
+===  d;oj̯
+===  d;o
+§_Romanian_5 : Sindhi 565
+d;oj̯;-
+b;-;ə
+===  d;oj̯
+===  b;ə
+§_Romanian_6 : Old Swedish 566
+d;oj̯;-;-;-
+t;-;v;eː;r
+===  d;-;oj̯;-
+===  t;v;eː;r
+§_Romanian_8 : Bulgarian 568
+d;oj̯;-;-
+d;-;v;a
+===  d;-;oj̯
+===  d;v;a
+§_Romanian_9 : Sorbian Lower 569
+d;oj̯;-
+d;-;w͜a
+===  d;oj̯
+===  d;w͜a
+§_Marathi_0 : Old Norse 570
+d;-;o;n;-
+t;v;ɛi̯;-;r
+===  d;-;o;n
+===  t;v;ɛi̯;r
+§_Marathi_2 : Ukrainian 572
+d;-;o;n
+d;ʋ;a;-
+===  d;o;n;-
+===  d;-;ʋ;a
+§_Marathi_3 : Icelandic 573
+d;-;o;n;-
+t;v;ei̯ː;-;r
+===  d;-;o;n
+===  t;v;ei̯ː;r
+§_Marathi_7 : Ossetic Digor 577
+d;-;o;n
+d;u;w͜ɐ;-
+===  d;o;n;-
+===  d;u;-;w
+§_Catalan_0 : Classical Armenian 580
+-;d;o;s;-;-
+e;r;-;-;k;ow̯
+===  -;-;d;o;s
+===  e;r;k;ow̯;-
+§_Catalan_1 : Urdu 581
+d;o;-;s
+d̪;-;o;-
+===  d;o;s
+===  d̪;o;-
+§_Catalan_2 : Russian 582
+d;o;-;-;s
+d;-;v;a;-
+===  d;o;s;-
+===  d;-;v;a
+§_Catalan_3 : Sorbian Upper 583
+d;o;-;s
+d;-;w͜aj̯;-
+===  d;o;s
+===  d;w͜aj̯;-
+§_Catalan_5 : Slovak 585
+d;o;-;-;s
+d;-;v;a;-
+===  d;o;s;-
+===  d;-;v;a
+§_Catalan_6 : Stavangersk 586
+d;o;-;s
+t;-;uː;-
+===  d;o;s
+===  t;uː;-
+§_Catalan_7 : Armenian Eastern 587
+-;d;o;s;-;-
+j͜ɛ;ɾ;-;-;k;u
+===  -;d;o;s;-
+===  j͜ɛ;ɾ;-;k;u
+§_Catalan_8 : Belarusian 588
+d;o;-;-;s
+d;-;v;a;-
+===  d;o;s;-
+===  d;-;v;a
+§_Catalan_9 : Frisian 589
+d;o;-;-;s
+t;-;v;a:;-
+===  d;o;s;-
+===  t;-;v;a:
+§_Spanish_0 : Classical Armenian 590
+-;d;o;s;-;-
+e;r;-;-;k;ow̯
+===  -;-;d;o;s
+===  e;r;k;ow̯;-
+§_Spanish_1 : Frisian 591
+d;o;-;-;s
+t;-;v;a:;-
+===  d;o;s;-
+===  t;-;v;a:
+§_Spanish_2 : Mycenaean Greek 592
+d;o;-;s
+d;-;u͜o;-
+===  d;o;s
+===  d;u͜o;-
+§_Spanish_3 : Icelandic 593
+d;o;-;-;s
+t;-;v;ei̯ː;r
+===  d;o;s;-;-
+===  t;-;v;ei̯ː;r
+§_Spanish_5 : Bihari 595
+d;o;-;s
+d;-;u;-
+===  d;o;s
+===  d;u;-
+§_Spanish_6 : Assamese 596
+d;o;-;s
+d;-;ui̯;-
+===  d;o;s
+===  d;ui̯;-
+§_Spanish_7 : Bulgarian 597
+d;o;-;-;s
+d;-;v;a;-
+===  d;o;s;-
+===  d;-;v;a
+§_Spanish_8 : Ossetic 598
+d;o;-;-;s
+d;ɨ;w;w͜æ;-
+===  d;o;s;-
+===  d;ɨ;w;w͜æ
+§_Spanish_9 : Norwegian Riksmal 599
+d;o;-;s
+t;-;uː;-
+===  d;o;s
+===  t;uː;-
+§_[Legacy] Breton St_7 : Old Church Slavonic 607
+d;-;-;ɔw̯
+d;ʊ;v;ɑ
+===  d;ɔw̯;-;-
+===  d;ʊ;v;ɑ
+§_Bihari_2 : French 612
+d;-;u
+d;ø;-
+===  d;u
+===  d;ø
+§_Magahi_1 : French 621
+d̪;-;u
+d;ø;-
+===  d̪;u
+===  d;ø
+§_Magahi_4 : Spanish 624
+d̪;-;u;-
+d;o;-;s
+===  d̪;u;-
+===  d;o;s
+§_Nepali_3 : Romanian 633
+d;-;ui̯
+d;oj̯;-
+===  d;ui̯
+===  d;oj̯
+§_Assamese_1 : [Legacy] Brazilian 641
+d;-;ui̯;-
+d;oi̯;-;s
+===  d;ui̯;-
+===  d;oi̯;s
+§_Assamese_8 : Armenian Eastern 648
+-;d;ui̯;-;-
+j͜ɛ;ɾ;-;k;u
+===  -;-;d;ui̯
+===  j͜ɛ;ɾ;k;u
+§_Oriya_1 : Ossetic Digor 651
+d;-;ui̯
+d;u;w͜ɐ
+===  d;ui̯;-
+===  d;u;w͜ɐ
+§_Oriya_4 : Old Church Slavonic 654
+d;-;-;ui̯
+d;ʊ;v;ɑ
+===  d;ui̯;-;-
+===  d;ʊ;v;ɑ
+§_Oriya_5 : Portuguese 655
+d;-;ui̯;-
+d;oi̯;-;ʃ
+===  d;ui̯;-
+===  d;oi̯;ʃ
+§_Oriya_9 : [Legacy] Brazilian 659
+d;-;ui̯;-
+d;oi̯;-;s
+===  d;ui̯;-
+===  d;oi̯;s
+§_Ossetic Digor_0 : Bulgarian 670
+d;u;-;w͜ɐ
+d;-;v;a
+===  d;-;u;w͜ɐ
+===  d;v;a;-
+§_Ossetic Digor_1 : Gutnish Lau 671
+d;u;-;w͜ɐ
+t;-;v;ɑː
+===  d;-;u;w͜ɐ
+===  t;v;ɑː;-
+§_Ossetic Digor_2 : Ukrainian 672
+d;u;-;w͜ɐ
+d;-;ʋ;a
+===  d;-;u;w͜ɐ
+===  d;ʋ;a;-
+§_Ossetic Digor_3 : Polish 673
+d;u;-;w͜ɐ
+d;-;v;a
+===  d;-;u;w͜ɐ
+===  d;v;a;-
+§_Ossetic Digor_4 : Armenian Eastern 674
+-;d;u;w͜ɐ;-;-
+j͜ɛ;ɾ;-;-;k;u
+===  -;-;d;u;w͜ɐ
+===  j͜ɛ;ɾ;k;u;-
+§_Ossetic Digor_5 : Icelandic 675
+d;u;-;w͜ɐ;-
+t;-;v;ei̯ː;r
+===  d;-;u;w;-
+===  t;v;ei̯ː;-;r
+§_Ossetic Digor_7 : Russian 677
+d;u;-;w͜ɐ
+d;-;v;a
+===  d;-;u;w͜ɐ
+===  d;v;a;-
+§_Ossetic Digor_9 : Old Swedish 679
+d;u;-;w͜ɐ;-
+t;-;v;eː;r
+===  d;-;u;w;-
+===  t;v;eː;-;r
+§_Old Church Slavonic_1 : Armenian Eastern 681
+-;d;ʊ;v;ɑ;-;-
+j͜ɛ;ɾ;-;-;-;k;u
+===  -;d;ʊ;v;ɑ
+===  j͜ɛ;ɾ;-;k;u
+§_Old Church Slavonic_3 : Catalan 683
+d;ʊ;v;ɑ;-
+d;o;-;-;s
+===  d;ʊ;v;ɑ
+===  d;o;s;-
+§_Old Church Slavonic_4 : Elfdalian 684
+d;ʊ;v;ɑ
+t;-;-;w͜ɔː
+===  d;ʊ;v;ɑ
+===  t;w͜ɔː;-;-
+§_Old Church Slavonic_6 : Sindhi 686
+d;ʊ;v;ɑ
+b;-;-;ə
+===  d;ʊ;v;ɑ
+===  -;-;b;ə
+§_Old Church Slavonic_9 : [Legacy] Brazilian 689
+d;ʊ;v;ɑ;-
+d;oi̯;-;-;s
+===  d;ʊ;v;ɑ
+===  d;oi̯;s;-
+§_Macedonian_4 : French 704
+d;-;v;a
+d;ø;-;-
+===  d;v;a
+===  d;-;ø
+§_Macedonian_7 : Classical Armenian 707
+-;d;v;a;-;-
+e;r;-;-;k;ow̯
+===  -;-;d;v;a
+===  e;r;k;-;ow̯
+§_Russian_3 : Sinhalese 713
+d;v;a;-;-
+d;-;e;k;ə
+===  d;-;v;a
+===  d;e;k;ə
+§_Russian_6 : Sindhi 716
+d;v;a
+b;-;ə
+===  d;v;a
+===  -;b;ə
+§_Polish_0 : Ossetic Iron 720
+d;-;v;a
+d;y;-;w͜ɐ
+===  d;v;a;-
+===  d;-;y;w͜ɐ
+§_Polish_1 : French 721
+d;-;v;a
+d;ø;-;-
+===  d;v;a
+===  d;-;ø
+§_Polish_6 : Armenian Eastern 726
+-;d;v;a;-;-
+j͜ɛ;ɾ;-;-;k;u
+===  -;d;v;a
+===  j͜ɛ;ɾ;k;u
+§_Polish_9 : Romanian 729
+d;-;v;a
+d;oj̯;-;-
+===  d;v;a
+===  d;-;oj̯
+§_Belarusian_2 : Classical Armenian 732
+-;d;v;a;-;-
+e;r;-;-;k;ow̯
+===  -;-;d;v;a
+===  e;r;k;-;ow̯
+§_Belarusian_7 : Sindhi 737
+d;v;a
+b;-;ə
+===  d;v;a
+===  -;b;ə
+§_Slovak_5 : Ossetic Digor 745
+d;-;v;a
+d;u;-;w͜ɐ
+===  d;v;a;-
+===  d;-;u;w͜ɐ
+§_Slovak_8 : Ancient Greek 748
+d;-;v;a
+d;y;-;o
+===  d;v;a;-
+===  d;-;y;o
+§_Czech_4 : Sinhalese 754
+d;v;a;-;-
+d;-;e;k;ə
+===  d;-;v;a
+===  d;e;k;ə
+§_Serbo-Croatian_0 : Ossetic Digor 760
+d;-;v;aː
+d;u;-;w͜ɐ
+===  d;v;aː;-
+===  d;-;u;w͜ɐ
+§_Serbo-Croatian_6 : French 766
+d;-;v;aː
+d;ø;-;-
+===  d;v;aː
+===  d;-;ø
+§_Slovenian_1 : Classical Armenian 771
+-;d;v;aː;-;-
+e;r;-;-;k;ow̯
+===  -;-;d;v;aː
+===  e;r;k;-;ow̯
+§_Slovenian_7 : Ancient Greek 777
+d;-;v;aː
+d;y;-;o
+===  d;v;aː;-
+===  d;-;y;o
+§_Slovenian_8 : French 778
+d;-;v;aː
+d;ø;-;-
+===  d;v;aː
+===  d;-;ø
+§_Ukrainian_3 : Ossetic Iron 783
+d;-;ʋ;a
+d;y;-;w͜ɐ
+===  d;ʋ;a;-
+===  d;-;y;w͜ɐ
+§_Ukrainian_4 : Latin 784
+d;-;ʋ;a
+d;u;-;o
+===  d;ʋ;a;-
+===  d;-;u;o
+§_Ukrainian_6 : French 786
+d;-;ʋ;a
+d;ø;-;-
+===  d;ʋ;a
+===  d;-;ø
+§_Ukrainian_8 : Ancient Greek 788
+d;-;ʋ;a
+d;y;-;o
+===  d;ʋ;a;-
+===  d;-;y;o
+§_Ukrainian_9 : Sinhalese 789
+d;ʋ;a;-;-
+d;-;e;k;ə
+===  d;-;ʋ;a
+===  d;e;k;ə
+§_[Legacy] Serbian_0 : Sinhalese 790
+d;ʋ;a:;-;-
+d;-;e;k;ə
+===  d;-;ʋ;a:
+===  d;e;k;ə
+§_[Legacy] Serbian_1 : Romanian 791
+d;-;ʋ;a:
+d;oj̯;-;-
+===  d;ʋ;a:
+===  d;-;oj̯
+§_[Legacy] Serbian_2 : Armenian Eastern 792
+-;d;ʋ;a:;-;-
+j͜ɛ;ɾ;-;-;k;u
+===  -;d;ʋ;a:
+===  j͜ɛ;ɾ;k;u
+§_[Legacy] Serbian_4 : Marathi 794
+d;ʋ;a:;-
+d;-;o;n
+===  d;-;ʋ;a:
+===  d;o;n;-
+§_[Legacy] Serbian_7 : Classical Armenian 797
+-;d;ʋ;a:;-;-
+e;r;-;-;k;ow̯
+===  -;-;d;ʋ;a:
+===  e;r;k;-;ow̯
+§_Sorbian Lower_1 : Ossetic 801
+d;-;-;w͜a
+d;ɨ;w;w͜æ
+===  d;w͜a;-;-
+===  d;ɨ;w;w͜æ
+§_Sorbian Upper_0 : French 810
+d;-;w͜aj̯
+d;ø;-
+===  d;w͜aj̯
+===  d;ø
+§_Sorbian Upper_5 : [Legacy] Brazilian 815
+d;-;w͜aj̯;-
+d;oi̯;-;s
+===  d;w͜aj̯;-
+===  d;oi̯;s
+§_[Legacy] Albanian T_5 : [Legacy] Brazilian 825
+d;-;y;-
+d;oi̯;-;s
+===  d;y;-
+===  d;oi̯;s
+§_[Legacy] Albanian T_9 : Romanian 829
+d;-;y
+d;oj̯;-
+===  d;y
+===  d;oj̯
+§_Ancient Greek_1 : Serbo-Croatian 831
+d;y;-;o
+d;-;v;aː
+===  d;-;y;o
+===  d;v;aː;-
+§_Ancient Greek_2 : Frisian 832
+d;y;-;o
+t;-;v;a:
+===  d;-;y;o
+===  t;v;a:;-
+§_Ancient Greek_4 : Russian 834
+d;y;-;o
+d;-;v;a
+===  d;-;y;o
+===  d;v;a;-
+§_Ancient Greek_7 : [Legacy] Albanian T 837
+d;y;o
+d;-;y
+===  d;y;o
+===  d;y;-
+§_Ancient Greek_8 : Old Swedish 838
+d;y;-;o;-
+t;-;v;eː;r
+===  d;-;y;o;-
+===  t;v;eː;-;r
+§_Ancient Greek_9 : Romanian 839
+d;y;o
+d;oj̯;-
+===  d;y;o
+===  d;-;oj̯
+§_Ossetic Iron_0 : Gutnish Lau 840
+d;y;-;w͜ɐ
+t;-;v;ɑː
+===  d;-;y;w͜ɐ
+===  t;v;ɑː;-
+§_Ossetic Iron_3 : Sorbian Upper 843
+d;y;w͜ɐ
+d;-;w͜aj̯
+===  d;y;w͜ɐ
+===  d;w͜aj̯;-
+§_Ossetic Iron_4 : Bulgarian 844
+d;y;-;w͜ɐ
+d;-;v;a
+===  d;-;y;w͜ɐ
+===  d;v;a;-
+§_Ossetic Iron_5 : Macedonian 845
+d;y;-;w͜ɐ
+d;-;v;a
+===  d;-;y;w͜ɐ
+===  d;v;a;-
+§_Ossetic Iron_7 : Middle Cornish 847
+d;y;w͜ɐ
+d;-;ɛʊ̯
+===  d;y;w͜ɐ
+===  d;ɛʊ̯;-
+§_Ossetic Iron_8 : Romanian 848
+d;y;w͜ɐ
+d;oj̯;-
+===  d;y;w͜ɐ
+===  d;-;oj̯
+§_Ossetic Iron_9 : Spanish 849
+d;y;w͜ɐ;-
+d;o;-;s
+===  d;y;w͜ɐ;-
+===  d;-;o;s
+§_Classical Armenian_0 : Icelandic 850
+e;r;-;-;k;ow̯;-
+-;t;v;ei̯ː;-;-;r
+===  -;-;e;r;k;ow̯
+===  t;v;ei̯ː;r;-;-
+§_Classical Armenian_1 : [Legacy] Serbian 851
+e;r;-;-;k;ow̯
+-;d;ʋ;a:;-;-
+===  e;r;k;-;ow̯
+===  -;-;d;ʋ;a:
+§_Classical Armenian_2 : Sindhi 852
+e;r;-;k;ow̯
+-;b;ə;-;-
+===  e;r;k;ow̯
+===  -;-;b;ə
+§_Classical Armenian_3 : Old Irish 853
+e;r;-;k;ow̯
+-;d;a:;-;-
+===  e;r;k;ow̯
+===  -;-;d;a:
+§_Classical Armenian_4 : Assamese 854
+e;r;-;k;ow̯
+-;d;ui̯;-;-
+===  e;r;k;ow̯
+===  -;-;d;ui̯
+§_Classical Armenian_5 : Macedonian 855
+e;r;-;-;k;ow̯
+-;d;v;a;-;-
+===  e;r;k;-;ow̯
+===  -;-;d;v;a
+§_Classical Armenian_6 : Catalan 856
+e;r;-;-;k;ow̯
+-;d;o;s;-;-
+===  e;r;k;ow̯;-
+===  -;-;d;o;s
+§_Classical Armenian_7 : Slovak 857
+e;r;-;-;k;ow̯
+-;d;v;a;-;-
+===  e;r;k;-;ow̯
+===  -;-;d;v;a
+§_Classical Armenian_8 : Gutnish Lau 858
+e;r;-;-;k;ow̯
+-;t;v;ɑː;-;-
+===  e;r;k;-;ow̯
+===  -;-;t;v;ɑː
+§_Classical Armenian_9 : Stavangersk 859
+e;r;-;k;ow̯
+-;t;uː;-;-
+===  e;r;k;ow̯
+===  -;-;t;uː
+§_Armenian Eastern_0 : Ossetic Digor 860
+j͜ɛ;ɾ;-;-;k;u
+-;d;u;w͜ɐ;-;-
+===  j͜ɛ;ɾ;k;u;-
+===  -;-;d;u;w͜ɐ
+§_Armenian Eastern_1 : Elfdalian 861
+j͜ɛ;ɾ;-;k;u
+-;t;w͜ɔː;-;-
+===  j͜ɛ;ɾ;k;u
+===  -;-;t;w͜ɔː
+§_Armenian Eastern_2 : Catalan 862
+j͜ɛ;ɾ;-;-;k;u
+-;d;o;s;-;-
+===  j͜ɛ;ɾ;-;k;u
+===  -;d;o;s;-
+§_Armenian Eastern_3 : Greek 863
+j͜ɛ;ɾ;-;k;u
+-;ð;i͜o;-;-
+===  j͜ɛ;ɾ;k;u
+===  -;ð;-;i͜o
+§_Armenian Eastern_4 : Middle Breton 864
+j͜ɛ;ɾ;-;k;u
+-;d;ou̯;-;-
+===  j͜ɛ;ɾ;k;u
+===  -;-;d;ou̯
+§_Armenian Eastern_5 : Nepali 865
+j͜ɛ;ɾ;-;k;u
+-;d;ui̯;-;-
+===  j͜ɛ;ɾ;k;u
+===  -;-;d;ui̯
+§_Armenian Eastern_6 : Ukrainian 866
+j͜ɛ;ɾ;-;-;k;u
+-;d;ʋ;a;-;-
+===  j͜ɛ;ɾ;k;u
+===  -;d;ʋ;a
+§_Armenian Eastern_7 : Romanian 867
+j͜ɛ;ɾ;-;k;u
+-;d;oj̯;-;-
+===  j͜ɛ;ɾ;k;u
+===  -;-;d;oj̯
+§_Armenian Eastern_8 : Macedonian 868
+j͜ɛ;ɾ;-;-;k;u
+-;d;v;a;-;-
+===  j͜ɛ;ɾ;k;u
+===  -;d;v;a
+§_Armenian Eastern_9 : Stavangersk 869
+j͜ɛ;ɾ;-;k;u
+-;t;uː;-;-
+===  j͜ɛ;ɾ;k;u
+===  -;-;t;uː
+§_Faroese_0 : Sinhalese 870
+tʰ;v;ai̯ː;-;-;ɹ
+d;-;e;k;ə;-
+===  tʰ;-;v;ai̯ː;ɹ
+===  d;e;k;ə;-
+§_Faroese_1 : Ossetic Iron 871
+tʰ;-;v;ai̯ː;ɹ
+d;y;-;w͜ɐ;-
+===  tʰ;v;ai̯ː;ɹ;-
+===  d;-;y;-;w
+§_Faroese_2 : Marathi 872
+tʰ;v;ai̯ː;-;ɹ
+d;-;o;n;-
+===  tʰ;v;ai̯ː;ɹ
+===  d;-;o;n
+§_Faroese_3 : Portuguese 873
+tʰ;-;v;ai̯ː;ɹ
+d;oi̯;-;-;ʃ
+===  tʰ;-;v;ai̯ː;ɹ
+===  d;oi̯;ʃ;-;-
+§_German_0 : Armenian Eastern 880
+-;ʦ;v;ai̯;-;-
+j͜ɛ;ɾ;-;-;k;u
+===  -;ʦ;v;ai̯
+===  j͜ɛ;ɾ;k;u
+§_German_2 : Spanish 882
+ʦ;-;v;ai̯;-
+d;o;-;-;s
+===  ʦ;-;v;ai̯
+===  d;o;s;-
+§_German_5 : Sinhalese 885
+ʦ;v;ai̯;-;-
+d;-;e;k;ə
+===  ʦ;-;v;ai̯
+===  d;e;k;ə
+§_German_7 : [Legacy] Brazilian 887
+ʦ;-;v;ai̯;-
+d;oi̯;-;-;s
+===  ʦ;-;v;ai̯
+===  d;oi̯;s;-
+§_German_8 : Ancient Greek 888
+ʦ;-;v;ai̯
+d;y;-;o
+===  ʦ;v;ai̯;-
+===  d;-;y;o
+§_English_0 : [Legacy] Brazilian 890
+t;-;u:;-
+d;oi̯;-;s
+===  t;u:;-
+===  d;oi̯;s
+§_English_2 : Spanish 892
+t;-;u:;-
+d;o;-;s
+===  t;u:;-
+===  d;o;s
+§_English_3 : Romanian 893
+t;-;u:
+d;oj̯;-
+===  t;u:
+===  d;oj̯
+§_English_9 : French 899
+t;-;u:
+d;ø;-
+===  t;u:
+===  d;ø
+§_Norwegian Riksmal_2 : Portuguese 902
+t;-;uː;-
+d;oi̯;-;ʃ
+===  t;uː;-
+===  d;oi̯;ʃ
+§_Norwegian Riksmal_5 : Old Church Slavonic 905
+t;-;-;uː
+d;ʊ;v;ɑ
+===  t;uː;-;-
+===  d;ʊ;v;ɑ
+§_Stavangersk_8 : Old Church Slavonic 918
+t;-;-;uː
+d;ʊ;v;ɑ
+===  t;uː;-;-
+===  d;ʊ;v;ɑ
+§_Frisian_0 : Romanian 920
+t;-;v;a:
+d;oj̯;-;-
+===  t;v;a:
+===  d;-;oj̯
+§_Frisian_1 : French 921
+t;-;v;a:
+d;ø;-;-
+===  t;v;a:
+===  d;-;ø
+§_Frisian_6 : Sindhi 926
+t;v;a:
+b;-;ə
+===  t;v;a:
+===  -;b;ə
+§_Frisian_7 : [Legacy] Brazilian 927
+t;-;v;a:;-
+d;oi̯;-;-;s
+===  t;-;v;a:
+===  d;oi̯;s;-
+§_Frisian_9 : Sinhalese 929
+t;v;a:;-;-
+d;-;e;k;ə
+===  t;-;v;a:
+===  d;e;k;ə
+§_Gutnish Lau_1 : Portuguese 931
+t;-;v;ɑː;-
+d;oi̯;-;-;ʃ
+===  t;-;v;ɑː
+===  d;oi̯;ʃ;-
+§_Gutnish Lau_8 : Spanish 938
+t;-;v;ɑː;-
+d;o;-;-;s
+===  t;-;v;ɑː
+===  d;o;s;-
+§_Old Swedish_5 : Classical Armenian 945
+-;t;v;eː;-;-;r
+e;r;-;-;k;ow̯;-
+===  t;v;eː;r;-;-
+===  -;-;e;r;k;ow̯
+§_Icelandic_1 : Classical Armenian 951
+-;t;v;ei̯ː;-;-;r
+e;r;-;-;k;ow̯;-
+===  t;v;ei̯ː;r;-;-
+===  -;-;e;r;k;ow̯
+§_Icelandic_5 : Ancient Greek 955
+t;-;v;ei̯ː;r
+d;y;-;o;-
+===  t;v;ei̯ː;r;-
+===  d;-;y;-;o
+§_Icelandic_8 : Armenian Eastern 958
+-;t;v;ei̯ː;-;-;r
+j͜ɛ;ɾ;-;-;k;u;-
+===  -;t;v;ei̯ː;r
+===  j͜ɛ;ɾ;k;u;-
+§_Old Norse_5 : French 965
+t;-;v;ɛi̯;r
+d;ø;-;-;-
+===  t;v;ɛi̯;r
+===  d;-;ø;-
+§_Dutch_1 : Romanian 981
+t;-;w͜e
+d;oj̯;-
+===  t;w͜e
+===  d;oj̯
+§_Dutch_9 : Portuguese 989
+t;-;w͜e;-
+d;oi̯;-;ʃ
+===  t;w͜e;-
+===  d;oi̯;ʃ
+§_Elfdalian_5 : Ossetic Digor 995
+t;-;w͜ɔː
+d;u;w͜ɐ
+===  t;w͜ɔː;-
+===  d;u;w͜ɐ
+§_Frisian_1 : Urdu 1001
+t;r;ɛi̯;ə;-
+t;-;i;-;n
+===  t;-;r;ɛi̯;ə
+===  t;i;n;-;-
+§_Frisian_2 : Ossetic 1002
+-;-;t;r;ɛi̯;ə
+æ;r;t;-;æ;-
+===  -;t;r;-;ɛi̯;ə
+===  æ;-;r;t;æ;-
+§_Frisian_3 : Hindi 1003
+t;r;ɛi̯;ə;-
+t̪;-;i;-;n
+===  t;-;r;ɛi̯;ə
+===  t̪;i;n;-;-
+§_Frisian_4 : Nepali 1004
+t;r;ɛi̯;ə;-
+t;-;i;-;n
+===  t;-;r;ɛi̯;ə
+===  t;i;n;-;-
+§_Frisian_7 : Marathi 1007
+t;r;ɛi̯;ə;-
+t;-;i:;-;n
+===  t;-;r;ɛi̯;ə
+===  t;i:;n;-;-
+§_Frisian_8 : Ossetic Iron 1008
+-;-;t;r;ɛi̯;ə
+ɐ;r;t;-;ɐ;-
+===  -;t;r;ɛi̯;-;ə
+===  ɐ;-;r;-;t;ɐ
+§_Faroese_0 : Norwegian Riksmal 1010
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+t;ɾ;eː;-;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;ɾ;-;-;eː;-
+§_Faroese_1 : Italian 1011
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+t;r;e;-;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;r;-;-;e;-
+§_Faroese_2 : Polish 1012
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+t͡ʂ;-;ɘ;-;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  -;-;-;t͡ʂ;ɘ;-
+§_Faroese_3 : Assamese 1013
+tʰ;ɹ;ʊ;-;ʤː;ɪ;ɹ
+t;-;i;n;-;i;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ;-
+===  t;-;-;-;i;n;i
+§_Faroese_4 : Old Swedish 1014
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+θ;r;iː;-;-;r
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  θ;r;-;-;iː;r
+§_Faroese_5 : Slovak 1015
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+t;r;i;-;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;r;-;-;i;-
+§_Faroese_6 : Macedonian 1016
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+t;r;i;-;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;r;-;-;i;-
+§_Faroese_7 : Urdu 1017
+tʰ;ɹ;ʊ;-;ʤː;ɪ;ɹ
+t;-;i;n;-;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  -;-;-;t;i;n
+§_Faroese_8 : Dutch 1018
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+d;r;i;-;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  d;r;-;-;i;-
+§_Faroese_9 : [Legacy] Breton St 1019
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+t;r;i:;-;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;r;-;-;i:;-
+§_Greek_3 : Nepali 1023
+t;r;i;a;-
+t;-;i;-;n
+===  t;-;r;i;a
+===  t;i;n;-;-
+§_Greek_8 : Bihari 1028
+t;r;i;a;-
+t;-;i;-;n
+===  t;-;r;i;a
+===  t;i;n;-;-
+§_Greek_9 : Ossetic 1029
+-;-;t;r;i;a
+æ;r;t;-;æ;-
+===  -;t;r;i;-;a
+===  æ;-;r;-;t;æ
+§_Middle Breton_0 : Hindi 1030
+t;r;iː;-
+t̪;-;i;n
+===  t;-;r;iː
+===  t̪;i;n;-
+§_Middle Breton_4 : Punjabi 1034
+t;r;iː;-
+t;-;ɪ;n
+===  t;-;r;iː
+===  t;ɪ;n;-
+§_Middle Breton_9 : Sinhalese 1039
+t;r;iː;-;-
+t;-;u;n;ə
+===  t;-;r;iː
+===  t;u;n;ə
+§_Old Swedish_3 : Armenian Western 1043
+-;θ;r;iː;-;r
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+===  -;θ;r;iː;r
+===  j;-;ɾ;ɛ;kʰ
+§_Old Swedish_4 : Marathi 1044
+θ;r;iː;-;r
+t;-;i:;n;-
+===  θ;r;iː;r
+===  t;-;i:;n
+§_Old Swedish_5 : Greek 1045
+θ;r;iː;-;r
+t;r;i;a;-
+===  θ;r;iː;r;-
+===  t;r;i;-;a
+§_Old Swedish_9 : Hindi 1049
+θ;r;iː;-;r
+t̪;-;i;n;-
+===  θ;r;iː;r
+===  t̪;-;i;n
+§_Ossetic_0 : Oriya 1050
+æ;r;t;æ;-;-
+-;-;t;i;n;i
+===  -;æ;r;t;æ
+===  t;i;n;-;i
+§_Ossetic_1 : Spanish 1051
+æ;r;t;-;æ;-
+-;-;t;ɾ;e;s
+===  æ;-;r;-;t;æ
+===  -;t;ɾ;e;s;-
+§_Ossetic_2 : Armenian Eastern 1052
+æ;r;t;-;æ;-
+j͜ɛ;-;-;ɾ;ɛ;kʰ
+===  æ;r;-;t;æ
+===  j͜ɛ;ɾ;ɛ;kʰ;-
+§_Ossetic_3 : English 1053
+æ;r;t;-;æ
+-;-;θ;r;i:
+===  æ;-;r;t;æ
+===  -;θ;r;-;i:
+§_Ossetic_4 : Ukrainian 1054
+æ;r;t;-;æ
+-;-;t;r;ɪ
+===  æ;-;r;t;æ
+===  -;t;r;-;ɪ
+§_Ossetic_5 : Greek 1055
+æ;r;t;-;æ;-
+-;-;t;r;i;a
+===  æ;-;r;t;-;æ
+===  -;t;r;-;i;a
+§_Ossetic_8 : Assamese 1058
+æ;r;t;æ;-;-
+-;-;t;i;n;i
+===  -;æ;r;t;æ
+===  t;i;n;-;i
+§_Ossetic Iron_1 : Old Church Slavonic 1061
+ɐ;r;t;-;ɐ;-
+-;-;t;r;ɪ;j͜ɛ
+===  ɐ;-;r;t;-;ɐ
+===  -;t;r;-;ɪ;j͜ɛ
+§_Ossetic Iron_2 : German 1062
+ɐ;r;t;-;ɐ
+-;-;d;r;ai̯
+===  ɐ;-;r;t;ɐ
+===  -;d;r;-;ai̯
+§_Ossetic Iron_3 : Greek 1063
+ɐ;r;t;-;ɐ;-
+-;-;t;r;i;a
+===  ɐ;-;r;t;-;ɐ
+===  -;t;r;-;i;a
+§_Ossetic Iron_4 : Elfdalian 1064
+ɐ;r;t;-;ɐ
+-;-;t;r;ɪː
+===  ɐ;-;r;t;ɐ
+===  -;t;r;-;ɪː
+§_Ossetic Iron_5 : Provencal 1065
+ɐ;r;t;-;ɐ;-
+-;-;t;r;e;s
+===  ɐ;-;r;-;t;ɐ
+===  -;t;r;e;s;-
+§_Ossetic Iron_6 : Portuguese 1066
+ɐ;r;t;-;ɐ;-
+-;-;t;ɾ;e;ʃ
+===  ɐ;-;r;-;t;ɐ
+===  -;t;ɾ;e;ʃ;-
+§_Ossetic Iron_8 : [Legacy] Brazilian 1068
+ɐ;r;t;-;ɐ;-
+-;-;t;ɾ;e;s
+===  ɐ;-;r;-;t;ɐ
+===  -;t;ɾ;e;s;-
+§_Ossetic Iron_9 : [Legacy] Serbian 1069
+ɐ;r;t;-;ɐ
+-;-;t;r;i:
+===  ɐ;-;r;t;ɐ
+===  -;t;r;-;i:
+§_Ossetic Digor_3 : Oriya 1073
+ɐ;r;t;ɐ;-;-
+-;-;t;i;n;i
+===  -;ɐ;r;t;ɐ
+===  t;i;n;-;i
+§_Ossetic Digor_5 : Italian 1075
+ɐ;r;t;-;ɐ
+-;-;t;r;e
+===  ɐ;-;r;t;ɐ
+===  -;t;r;-;e
+§_Ossetic Digor_7 : Latin 1077
+ɐ;r;t;-;ɐ;-
+-;-;t;r;eː;s
+===  ɐ;-;r;-;t;ɐ
+===  -;t;r;eː;s;-
+§_German_3 : Armenian Eastern 1083
+-;d;r;ai̯;-
+j͜ɛ;-;ɾ;ɛ;kʰ
+===  -;d;r;ai̯;-
+===  j;-;ɾ;ɛ;kʰ
+§_German_8 : Punjabi 1088
+d;r;ai̯;-
+t;-;ɪ;n
+===  d;-;r;ai̯
+===  t;ɪ;n;-
+§_German_9 : Ossetic Iron 1089
+-;-;d;r;ai̯
+ɐ;r;t;-;ɐ
+===  -;d;r;-;ai̯
+===  ɐ;-;r;t;ɐ
+§_Dutch_1 : Urdu 1091
+d;r;i;-
+t;-;i;n
+===  d;-;r;i
+===  t;i;n;-
+§_Dutch_5 : Oriya 1095
+d;r;i;-;-
+t;-;i;n;i
+===  d;-;r;i
+===  t;i;n;i
+§_Classical Armenian_0 : Icelandic 1100
+e;-;r;e;kʰ;-
+-;θ;r;iː;-;r
+===  e;-;r;e;kʰ
+===  -;θ;r;iː;r
+§_Classical Armenian_1 : Polish 1101
+e;-;r;e;kʰ
+-;t͡ʂ;-;ɘ;-
+===  e;r;e;kʰ
+===  -;t͡ʂ;ɘ;-
+§_Classical Armenian_4 : Ossetic 1104
+e;-;-;r;e;kʰ
+æ;r;t;-;æ;-
+===  e;r;e;kʰ;-
+===  æ;r;-;t;æ
+§_Classical Armenian_6 : Sinhalese 1106
+e;-;r;e;kʰ;-;-
+-;t;-;u;-;n;ə
+===  -;e;r;e;kʰ
+===  t;u;n;ə;-
+§_Armenian Eastern_0 : Faroese 1110
+j͜ɛ;-;ɾ;ɛ;kʰ;-;-;-
+-;tʰ;ɹ;ʊ;-;ʤː;ɪ;ɹ
+===  j;-;ɾ;ɛ;kʰ;-;-
+===  -;tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Armenian Eastern_1 : Ossetic 1111
+j͜ɛ;-;-;ɾ;ɛ;kʰ
+æ;r;t;-;æ;-
+===  j͜ɛ;ɾ;ɛ;kʰ;-
+===  æ;r;-;t;æ
+§_Armenian Eastern_2 : English 1112
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;θ;r;i:;-
+===  j;-;ɾ;ɛ;kʰ
+===  -;θ;r;i:;-
+§_Armenian Eastern_3 : Bulgarian 1113
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;t;r;i;-
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;r;i;-
+§_Armenian Eastern_4 : Russian 1114
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;t;rʲ;i;-
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;rʲ;i;-
+§_Armenian Eastern_5 : Gutnish Lau 1115
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;t;r;ɛɪ̯;-
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;r;ɛɪ̯;-
+§_Armenian Eastern_6 : Old Irish 1116
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;t;r;i:;-
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;r;i:;-
+§_Armenian Eastern_7 : Provencal 1117
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+-;t;r;e;-;s
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;r;e;s
+§_Armenian Eastern_8 : Old Norse 1118
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+-;θ;r;iː;-;r
+===  j;-;ɾ;ɛ;kʰ
+===  -;θ;r;iː;r
+§_Armenian Eastern_9 : Marathi 1119
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+-;t;-;i:;-;n
+===  -;j͜ɛ;ɾ;ɛ;kʰ
+===  t;i:;n;-;-
+§_Armenian Western_0 : Portuguese 1120
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+-;t;ɾ;e;-;ʃ
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;ɾ;e;ʃ
+§_Armenian Western_1 : Old Norse 1121
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+-;θ;r;iː;-;r
+===  j;-;ɾ;ɛ;kʰ
+===  -;θ;r;iː;r
+§_Armenian Western_2 : Spanish 1122
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+-;t;ɾ;e;-;s
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;ɾ;e;s
+§_Armenian Western_3 : Stavangersk 1123
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;t;ʁ;iː;-
+===  j͜ɛ;ɾ;ɛ;kʰ;-
+===  -;t;-;ʁ;iː
+§_Armenian Western_4 : Middle Breton 1124
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;t;r;iː;-
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;r;iː;-
+§_Armenian Western_5 : Czech 1125
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;t;r;ɪ;-
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;r;ɪ;-
+§_Armenian Western_6 : [Legacy] Serbian 1126
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;t;r;i:;-
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;r;i:;-
+§_Armenian Western_7 : Old Swedish 1127
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+-;θ;r;iː;-;r
+===  j;-;ɾ;ɛ;kʰ
+===  -;θ;r;iː;r
+§_Armenian Western_8 : [Legacy] Albanian T 1128
+j͜ɛ;-;ɾ;ɛ;kʰ
+-;t;ɾ;ɛ;-
+===  j;-;ɾ;ɛ;kʰ
+===  -;t;ɾ;ɛ;-
+§_Armenian Western_9 : Ossetic 1129
+j͜ɛ;-;-;ɾ;ɛ;kʰ
+æ;r;t;-;æ;-
+===  j͜ɛ;ɾ;ɛ;kʰ;-
+===  æ;r;-;t;æ
+§_Old Irish_0 : Punjabi 1140
+t;r;i:;-
+t;-;ɪ;n
+===  t;-;r;i:
+===  t;ɪ;n;-
+§_Old Irish_3 : Ossetic Digor 1143
+-;-;t;r;i:
+ɐ;r;t;-;ɐ
+===  -;t;r;-;i:
+===  ɐ;-;r;t;ɐ
+§_Old Irish_9 : Armenian Eastern 1149
+-;t;r;i:;-
+j͜ɛ;-;ɾ;ɛ;kʰ
+===  -;t;r;i:;-
+===  j;-;ɾ;ɛ;kʰ
+§_Marathi_0 : Armenian Eastern 1160
+-;t;-;i:;-;n
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+===  t;i:;n;-;-
+===  -;j͜ɛ;ɾ;ɛ;kʰ
+§_Marathi_1 : German 1161
+t;-;i:;n
+d;r;ai̯;-
+===  t;i:;n;-
+===  d;-;r;ai̯
+§_Marathi_3 : Belarusian 1163
+t;-;i:;n
+t;r;ɨ;-
+===  t;i:;n;-
+===  t;-;r;ɨ
+§_Marathi_5 : Greek 1165
+t;-;i:;-;n
+t;r;i;a;-
+===  t;i:;n;-;-
+===  t;-;r;i;a
+§_Marathi_6 : Armenian Western 1166
+-;t;-;i:;-;n
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+===  t;i:;n;-;-
+===  -;j͜ɛ;ɾ;ɛ;kʰ
+§_Marathi_8 : Ancient Greek 1168
+t;-;i:;n;-
+t;r;eː;-;s
+===  t;i:;n;-;-
+===  t;-;r;eː;s
+§_Marathi_9 : Dutch 1169
+t;-;i:;n
+d;r;i;-
+===  t;i:;n;-
+===  d;-;r;i
+§_Nepali_1 : Romanian 1171
+t;-;i;n
+t;r;ej̯;-
+===  t;i;n;-
+===  t;-;r;ej̯
+§_Nepali_2 : Swedish 1172
+t;-;i;n
+t;r;eː;-
+===  t;i;n;-
+===  t;-;r;eː
+§_Nepali_3 : Icelandic 1173
+t;-;i;n;-
+θ;r;iː;-;r
+===  t;-;i;n
+===  θ;r;iː;r
+§_Nepali_4 : English 1174
+t;-;i;n
+θ;r;i:;-
+===  t;i;n;-
+===  θ;-;r;i:
+§_Nepali_7 : Slovak 1177
+t;-;i;n
+t;r;i;-
+===  t;i;n;-
+===  t;-;r;i
+§_Nepali_8 : Portuguese 1178
+t;-;i;n;-
+t;ɾ;e;-;ʃ
+===  t;i;n;-;-
+===  t;-;ɾ;e;ʃ
+§_Nepali_9 : Ukrainian 1179
+t;-;i;n
+t;r;ɪ;-
+===  t;i;n;-
+===  t;-;r;ɪ
+§_Bihari_0 : Elfdalian 1180
+t;-;i;n
+t;r;ɪː;-
+===  t;i;n;-
+===  t;-;r;ɪː
+§_Bihari_1 : Belarusian 1181
+t;-;i;n
+t;r;ɨ;-
+===  t;i;n;-
+===  t;-;r;ɨ
+§_Bihari_4 : Catalan 1184
+t;-;i;n;-
+t;r;ɛ;-;s
+===  t;i;n;-;-
+===  t;-;r;ɛ;s
+§_Bihari_6 : Bulgarian 1186
+t;-;i;n
+t;r;i;-
+===  t;i;n;-
+===  t;-;r;i
+§_Bihari_7 : Swedish 1187
+t;-;i;n
+t;r;eː;-
+===  t;i;n;-
+===  t;-;r;eː
+§_Bihari_8 : [Legacy] Albanian T 1188
+t;-;i;n
+t;ɾ;ɛ;-
+===  t;i;n;-
+===  t;-;ɾ;ɛ
+§_Bihari_9 : Romanian 1189
+t;-;i;n
+t;r;ej̯;-
+===  t;i;n;-
+===  t;-;r;ej̯
+§_Magahi_0 : German 1190
+t̪;-;i;n
+d;r;ai̯;-
+===  t̪;i;n;-
+===  d;-;r;ai̯
+§_Magahi_1 : Faroese 1191
+t̪;-;i;n;-;-;-
+tʰ;ɹ;ʊ;-;ʤː;ɪ;ɹ
+===  -;-;-;t̪;i;n
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Magahi_6 : [Legacy] Breton St 1196
+t̪;-;i;n
+t;r;i:;-
+===  t̪;i;n;-
+===  t;-;r;i:
+§_Magahi_9 : Slovenian 1199
+t̪;-;i;n
+t;r;iː;-
+===  t̪;i;n;-
+===  t;-;r;iː
+§_Hindi_0 : Swedish 1200
+t̪;-;i;n
+t;r;eː;-
+===  t̪;i;n;-
+===  t;-;r;eː
+§_Hindi_1 : Middle Cornish 1201
+t̪;-;i;n
+t;r;əɪ̯;-
+===  t̪;i;n;-
+===  t;-;r;əɪ̯
+§_Hindi_2 : Classical Armenian 1202
+-;t̪;-;i;-;n
+e;-;r;e;kʰ;-
+===  t̪;i;n;-;-
+===  -;e;r;e;kʰ
+§_Hindi_3 : Bulgarian 1203
+t̪;-;i;n
+t;r;i;-
+===  t̪;i;n;-
+===  t;-;r;i
+§_Hindi_4 : Armenian Western 1204
+-;t̪;-;i;-;n
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+===  t̪;i;n;-;-
+===  -;j͜ɛ;ɾ;ɛ;kʰ
+§_Hindi_6 : Old Norse 1206
+t̪;-;i;n;-
+θ;r;iː;-;r
+===  t̪;-;i;n
+===  θ;r;iː;r
+§_Hindi_7 : Catalan 1207
+t̪;-;i;n;-
+t;r;ɛ;-;s
+===  t̪;i;n;-;-
+===  t;-;r;ɛ;s
+§_Urdu_0 : Old Norse 1210
+t;-;i;n;-
+θ;r;iː;-;r
+===  t;-;i;n
+===  θ;r;iː;r
+§_Urdu_1 : Elfdalian 1211
+t;-;i;n
+t;r;ɪː;-
+===  t;i;n;-
+===  t;-;r;ɪː
+§_Urdu_3 : Old Irish 1213
+t;-;i;n
+t;r;i:;-
+===  t;i;n;-
+===  t;-;r;i:
+§_Urdu_4 : Gutnish Lau 1214
+t;-;i;n
+t;r;ɛɪ̯;-
+===  t;i;n;-
+===  t;-;r;ɛɪ̯
+§_Urdu_5 : Portuguese 1215
+t;-;i;n;-
+t;ɾ;e;-;ʃ
+===  t;i;n;-;-
+===  t;-;ɾ;e;ʃ
+§_Urdu_6 : Ancient Greek 1216
+t;-;i;n;-
+t;r;eː;-;s
+===  t;i;n;-;-
+===  t;-;r;eː;s
+§_Urdu_7 : Old Swedish 1217
+t;-;i;n;-
+θ;r;iː;-;r
+===  t;-;i;n
+===  θ;r;iː;r
+§_Urdu_9 : English 1219
+t;-;i;n
+θ;r;i:;-
+===  t;i;n;-
+===  θ;-;r;i:
+§_Assamese_0 : Slovak 1220
+t;-;i;n;i
+t;r;i;-;-
+===  t;i;n;i
+===  t;-;r;i
+§_Assamese_2 : Faroese 1222
+t;-;i;n;-;i;-
+tʰ;ɹ;ʊ;-;ʤː;ɪ;ɹ
+===  t;i;n;-;-;i;-
+===  tʰ;-;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Assamese_3 : Spanish 1223
+t;-;i;n;i;-
+t;ɾ;e;-;-;s
+===  t;i;n;i;-
+===  t;-;ɾ;e;s
+§_Assamese_5 : Elfdalian 1225
+t;-;i;n;i
+t;r;ɪː;-;-
+===  t;i;n;i
+===  t;-;r;ɪː
+§_Assamese_6 : Ukrainian 1226
+t;-;i;n;i
+t;r;ɪ;-;-
+===  t;i;n;i
+===  t;-;r;ɪ
+§_Assamese_7 : Belarusian 1227
+t;-;i;n;i
+t;r;ɨ;-;-
+===  t;i;n;i
+===  t;-;r;ɨ
+§_Assamese_8 : Ossetic 1228
+-;-;t;i;n;i
+æ;r;t;æ;-;-
+===  t;i;n;-;i
+===  -;æ;r;t;æ
+§_Assamese_9 : Ancient Greek 1229
+t;-;i;n;i;-
+t;r;eː;-;-;s
+===  t;i;n;i;-
+===  t;-;r;eː;s
+§_Oriya_0 : Bulgarian 1230
+t;-;i;n;i
+t;r;i;-;-
+===  t;i;n;i
+===  t;-;r;i
+§_Oriya_1 : Czech 1231
+t;-;i;n;i
+t;r;ɪ;-;-
+===  t;i;n;i
+===  t;-;r;ɪ
+§_Oriya_4 : Serbo-Croatian 1234
+t;-;i;n;i
+t;r;iː;-;-
+===  t;i;n;i
+===  t;-;r;iː
+§_Oriya_5 : Macedonian 1235
+t;-;i;n;i
+t;r;i;-;-
+===  t;i;n;i
+===  t;-;r;i
+§_Oriya_6 : [Legacy] Albanian T 1236
+t;-;i;n;i
+t;ɾ;ɛ;-;-
+===  t;i;n;i
+===  t;-;ɾ;ɛ
+§_Oriya_7 : Old Irish 1237
+t;-;i;n;i
+t;r;i:;-;-
+===  t;i;n;i
+===  t;-;r;i:
+§_Oriya_9 : Gutnish Lau 1239
+t;-;i;n;i
+t;r;ɛɪ̯;-;-
+===  t;i;n;i
+===  t;-;r;ɛɪ̯
+§_Punjabi_1 : Old Church Slavonic 1241
+t;-;ɪ;-;n
+t;r;ɪ;j͜ɛ;-
+===  t;ɪ;n;-;-
+===  t;-;r;ɪ;j͜ɛ
+§_Punjabi_3 : Ukrainian 1243
+t;-;ɪ;n
+t;r;ɪ;-
+===  t;ɪ;n;-
+===  t;-;r;ɪ
+§_Punjabi_4 : Slovenian 1244
+t;-;ɪ;n
+t;r;iː;-
+===  t;ɪ;n;-
+===  t;-;r;iː
+§_Punjabi_5 : Serbo-Croatian 1245
+t;-;ɪ;n
+t;r;iː;-
+===  t;ɪ;n;-
+===  t;-;r;iː
+§_Punjabi_6 : Romanian 1246
+t;-;ɪ;n
+t;r;ej̯;-
+===  t;ɪ;n;-
+===  t;-;r;ej̯
+§_Punjabi_7 : Russian 1247
+t;-;ɪ;n
+t;rʲ;i;-
+===  t;ɪ;n;-
+===  t;-;rʲ;i
+§_Punjabi_8 : Spanish 1248
+t;-;ɪ;n;-
+t;ɾ;e;-;s
+===  t;ɪ;n;-;-
+===  t;-;ɾ;e;s
+§_Irish_5 : Assamese 1255
+tʲ;ɾʲ;iː;-;-
+t;-;i;n;i
+===  tʲ;-;ɾʲ;iː
+===  t;i;n;i
+§_Irish_8 : Punjabi 1258
+tʲ;ɾʲ;iː;-
+t;-;ɪ;n
+===  tʲ;-;ɾʲ;iː
+===  t;ɪ;n;-
+§_Italian_0 : Urdu 1260
+t;r;e;-
+t;-;i;n
+===  t;-;r;e
+===  t;i;n;-
+§_Swedish_1 : Ossetic Digor 1271
+-;-;t;r;eː
+ɐ;r;t;-;ɐ
+===  -;t;r;-;eː
+===  ɐ;-;r;t;ɐ
+§_Swedish_6 : Bihari 1276
+t;r;eː;-
+t;-;i;n
+===  t;-;r;eː
+===  t;i;n;-
+§_Swedish_9 : Faroese 1279
+t;r;eː;-;-;-
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;r;-;-;eː;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Latin_3 : Faroese 1283
+t;r;eː;-;-;s
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;r;eː;s;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Latin_5 : Nepali 1285
+t;r;eː;-;s
+t;-;i;n;-
+===  t;-;r;eː;s
+===  t;i;n;-;-
+§_Latin_6 : Urdu 1286
+t;r;eː;-;s
+t;-;i;n;-
+===  t;-;r;eː;s
+===  t;i;n;-;-
+§_Latin_8 : Armenian Western 1288
+-;t;r;eː;-;s
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+===  -;t;r;eː;s
+===  j;-;ɾ;ɛ;kʰ
+§_Ancient Greek_2 : Assamese 1292
+t;r;eː;-;-;s
+t;-;i;n;i;-
+===  t;-;r;eː;s
+===  t;i;n;i;-
+§_Ancient Greek_7 : Magahi 1297
+t;r;eː;-;s
+t̪;-;i;n;-
+===  t;-;r;eː;s
+===  t̪;i;n;-;-
+§_Romanian_1 : Faroese 1301
+t;r;ej̯;-;-;-
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;r;-;-;ej̯;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Romanian_2 : Nepali 1302
+t;r;ej̯;-
+t;-;i;n
+===  t;-;r;ej̯
+===  t;i;n;-
+§_Romanian_8 : Marathi 1308
+t;r;ej̯;-
+t;-;i:;n
+===  t;-;r;ej̯
+===  t;i:;n;-
+§_Romanian_9 : Hindi 1309
+t;r;ej̯;-
+t̪;-;i;n
+===  t;-;r;ej̯
+===  t̪;i;n;-
+§_Provencal_1 : Nepali 1311
+t;r;e;-;s
+t;-;i;n;-
+===  t;-;r;e;s
+===  t;i;n;-;-
+§_Middle Cornish_1 : Oriya 1321
+t;r;əɪ̯;-;-
+t;-;i;n;i
+===  t;-;r;əɪ̯
+===  t;i;n;i
+§_Middle Cornish_4 : Marathi 1324
+t;r;əɪ̯;-
+t;-;i:;n
+===  t;-;r;əɪ̯
+===  t;i:;n;-
+§_Gutnish Lau_3 : Hindi 1333
+t;r;ɛɪ̯;-
+t̪;-;i;n
+===  t;-;r;ɛɪ̯
+===  t̪;i;n;-
+§_Gutnish Lau_7 : Punjabi 1337
+t;r;ɛɪ̯;-
+t;-;ɪ;n
+===  t;-;r;ɛɪ̯
+===  t;ɪ;n;-
+§_Gutnish Lau_8 : Nepali 1338
+t;r;ɛɪ̯;-
+t;-;i;n
+===  t;-;r;ɛɪ̯
+===  t;i;n;-
+§_Catalan_3 : Bihari 1343
+t;r;ɛ;-;s
+t;-;i;n;-
+===  t;-;r;ɛ;s
+===  t;i;n;-;-
+§_Catalan_6 : Oriya 1346
+t;r;ɛ;-;-;s
+t;-;i;n;i;-
+===  t;-;r;ɛ;s
+===  t;i;n;i;-
+§_Bulgarian_8 : Armenian Eastern 1358
+-;t;r;i;-
+j͜ɛ;-;ɾ;ɛ;kʰ
+===  -;t;r;i;-
+===  j;-;ɾ;ɛ;kʰ
+§_Macedonian_2 : Ossetic 1362
+-;-;t;r;i
+æ;r;t;-;æ
+===  -;t;r;-;i
+===  æ;-;r;t;æ
+§_Macedonian_4 : Oriya 1364
+t;r;i;-;-
+t;-;i;n;i
+===  t;-;r;i
+===  t;i;n;i
+§_Slovak_4 : Ossetic Iron 1374
+-;-;t;r;i
+ɐ;r;t;-;ɐ
+===  -;t;r;-;i
+===  ɐ;-;r;t;ɐ
+§_Slovak_6 : Sinhalese 1376
+t;r;i;-;-
+t;-;u;n;ə
+===  t;-;r;i
+===  t;u;n;ə
+§_Slovak_7 : Nepali 1377
+t;r;i;-
+t;-;i;n
+===  t;-;r;i
+===  t;i;n;-
+§_Slovak_9 : Marathi 1379
+t;r;i;-
+t;-;i:;n
+===  t;-;r;i
+===  t;i:;n;-
+§_[Legacy] Breton St_0 : Bihari 1380
+t;r;i:;-
+t;-;i;n
+===  t;-;r;i:
+===  t;i;n;-
+§_[Legacy] Breton St_6 : Magahi 1386
+t;r;i:;-
+t̪;-;i;n
+===  t;-;r;i:
+===  t̪;i;n;-
+§_[Legacy] Breton St_7 : Oriya 1387
+t;r;i:;-;-
+t;-;i;n;i
+===  t;-;r;i:
+===  t;i;n;i
+§_[Legacy] Breton St_9 : Armenian Western 1389
+-;t;r;i:;-
+j͜ɛ;-;ɾ;ɛ;kʰ
+===  -;t;r;i:;-
+===  j;-;ɾ;ɛ;kʰ
+§_[Legacy] Serbian_0 : Ossetic Digor 1390
+-;-;t;r;i:
+ɐ;r;t;-;ɐ
+===  -;t;r;-;i:
+===  ɐ;-;r;t;ɐ
+§_[Legacy] Serbian_4 : Sinhalese 1394
+t;r;i:;-;-
+t;-;u;n;ə
+===  t;-;r;i:
+===  t;u;n;ə
+§_[Legacy] Serbian_5 : Hindi 1395
+t;r;i:;-
+t̪;-;i;n
+===  t;-;r;i:
+===  t̪;i;n;-
+§_[Legacy] Serbian_9 : Bihari 1399
+t;r;i:;-
+t;-;i;n
+===  t;-;r;i:
+===  t;i;n;-
+§_Serbo-Croatian_2 : Punjabi 1402
+t;r;iː;-
+t;-;ɪ;n
+===  t;-;r;iː
+===  t;ɪ;n;-
+§_Serbo-Croatian_4 : Hindi 1404
+t;r;iː;-
+t̪;-;i;n
+===  t;-;r;iː
+===  t̪;i;n;-
+§_Serbo-Croatian_7 : Assamese 1407
+t;r;iː;-;-
+t;-;i;n;i
+===  t;-;r;iː
+===  t;i;n;i
+§_Slovenian_1 : Bihari 1411
+t;r;iː;-
+t;-;i;n
+===  t;-;r;iː
+===  t;i;n;-
+§_Slovenian_7 : Magahi 1417
+t;r;iː;-
+t̪;-;i;n
+===  t;-;r;iː
+===  t̪;i;n;-
+§_Slovenian_9 : Armenian Western 1419
+-;t;r;iː;-
+j͜ɛ;-;ɾ;ɛ;kʰ
+===  -;t;r;iː;-
+===  j;-;ɾ;ɛ;kʰ
+§_Ukrainian_2 : Sinhalese 1422
+t;r;ɪ;-;-
+t;-;u;n;ə
+===  t;-;r;ɪ
+===  t;u;n;ə
+§_Ukrainian_3 : Marathi 1423
+t;r;ɪ;-
+t;-;i:;n
+===  t;-;r;ɪ
+===  t;i:;n;-
+§_Ukrainian_8 : Assamese 1428
+t;r;ɪ;-;-
+t;-;i;n;i
+===  t;-;r;ɪ
+===  t;i;n;i
+§_Czech_1 : Oriya 1431
+t;r;ɪ;-;-
+t;-;i;n;i
+===  t;-;r;ɪ
+===  t;i;n;i
+§_Elfdalian_1 : Nepali 1441
+t;r;ɪː;-
+t;-;i;n
+===  t;-;r;ɪː
+===  t;i;n;-
+§_Elfdalian_4 : Marathi 1444
+t;r;ɪː;-
+t;-;i:;n
+===  t;-;r;ɪː
+===  t;i:;n;-
+§_Elfdalian_7 : Faroese 1447
+t;r;ɪː;-;-;-
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;r;-;-;ɪː;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Elfdalian_8 : Ossetic 1448
+-;-;t;r;ɪː
+æ;r;t;-;æ
+===  -;t;r;-;ɪː
+===  æ;-;r;t;æ
+§_Old Church Slavonic_2 : Ossetic 1452
+-;-;t;r;ɪ;j͜ɛ
+æ;r;t;-;æ;-
+===  -;t;r;ɪ;-;j͜ɛ
+===  æ;-;r;-;t;æ
+§_Old Church Slavonic_3 : Oriya 1453
+t;r;ɪ;j͜ɛ;-;-
+t;-;i;-;n;i
+===  t;-;r;ɪ;j͜ɛ
+===  t;i;n;i;-
+§_Old Church Slavonic_6 : Icelandic 1456
+t;r;ɪ;j͜ɛ;-
+θ;r;iː;-;r
+===  t;r;ɪ;j;-
+===  θ;r;iː;-;r
+§_Old Church Slavonic_7 : Old Swedish 1457
+t;r;ɪ;j͜ɛ;-
+θ;r;iː;-;r
+===  t;r;ɪ;j;-
+===  θ;r;iː;-;r
+§_Belarusian_3 : Armenian Eastern 1463
+-;t;r;ɨ;-
+j͜ɛ;-;ɾ;ɛ;kʰ
+===  -;t;r;ɨ;-
+===  j;-;ɾ;ɛ;kʰ
+§_Belarusian_5 : Nepali 1465
+t;r;ɨ;-
+t;-;i;n
+===  t;-;r;ɨ
+===  t;i;n;-
+§_Russian_2 : Oriya 1472
+t;rʲ;i;-;-
+t;-;i;n;i
+===  t;-;rʲ;i
+===  t;i;n;i
+§_Russian_8 : Sinhalese 1478
+t;rʲ;i;-;-
+t;-;u;n;ə
+===  t;-;rʲ;i
+===  t;u;n;ə
+§_French_1 : Oriya 1481
+t;ʀ;w͜a;-;-
+t;-;i;n;i
+===  t;-;ʀ;w͜a
+===  t;i;n;i
+§_Norwegian Riksmal_6 : Oriya 1496
+t;ɾ;eː;-;-
+t;-;i;n;i
+===  t;-;ɾ;eː
+===  t;i;n;i
+§_Norwegian Riksmal_7 : Hindi 1497
+t;ɾ;eː;-
+t̪;-;i;n
+===  t;-;ɾ;eː
+===  t̪;i;n;-
+§_Spanish_2 : Punjabi 1502
+t;ɾ;e;-;s
+t;-;ɪ;n;-
+===  t;-;ɾ;e;s
+===  t;ɪ;n;-;-
+§_Spanish_4 : Faroese 1504
+t;ɾ;e;-;-;s
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;ɾ;e;s;-;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Spanish_6 : Oriya 1506
+t;ɾ;e;-;-;s
+t;-;i;n;i;-
+===  t;-;ɾ;e;s
+===  t;i;n;i;-
+§_Spanish_8 : Greek 1508
+t;ɾ;e;-;s
+t;r;i;a;-
+===  t;ɾ;e;s;-
+===  t;r;i;-;a
+§_[Legacy] Brazilian_4 : Ossetic Digor 1514
+-;-;t;ɾ;e;s
+ɐ;r;t;-;ɐ;-
+===  -;t;ɾ;e;s;-
+===  ɐ;-;r;-;t;ɐ
+§_Portuguese_0 : Punjabi 1520
+t;ɾ;e;-;ʃ
+t;-;ɪ;n;-
+===  t;-;ɾ;e;ʃ
+===  t;ɪ;n;-;-
+§_Portuguese_1 : Assamese 1521
+t;ɾ;e;-;-;ʃ
+t;-;i;n;i;-
+===  t;-;ɾ;e;ʃ
+===  t;i;n;i;-
+§_Portuguese_6 : Greek 1526
+t;ɾ;e;-;ʃ
+t;r;i;a;-
+===  t;ɾ;e;ʃ;-
+===  t;r;i;-;a
+§_Portuguese_9 : Magahi 1529
+t;ɾ;e;-;ʃ
+t̪;-;i;n;-
+===  t;-;ɾ;e;ʃ
+===  t̪;i;n;-;-
+§_[Legacy] Albanian T_3 : Urdu 1533
+t;ɾ;ɛ;-
+t;-;i;n
+===  t;-;ɾ;ɛ
+===  t;i;n;-
+§_[Legacy] Albanian T_5 : Punjabi 1535
+t;ɾ;ɛ;-
+t;-;ɪ;n
+===  t;-;ɾ;ɛ
+===  t;ɪ;n;-
+§_[Legacy] Albanian T_8 : Faroese 1538
+t;ɾ;ɛ;-;-;-
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  t;ɾ;-;-;ɛ;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Stavangersk_0 : Sinhalese 1540
+t;ʁ;iː;-;-
+t;-;u;n;ə
+===  t;-;ʁ;iː
+===  t;u;n;ə
+§_Stavangersk_2 : Oriya 1542
+t;ʁ;iː;-;-
+t;-;i;n;i
+===  t;-;ʁ;iː
+===  t;i;n;i
+§_Sorbian Upper_2 : Faroese 1552
+ʦ;-;i;-;-;-
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  -;-;-;ʦ;i;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Sinhalese_0 : Slovak 1560
+t;-;u;n;ə
+t;r;i;-;-
+===  t;u;n;ə
+===  t;-;r;i
+§_Sinhalese_2 : German 1562
+t;-;u;n;ə
+d;r;ai̯;-;-
+===  t;u;n;ə
+===  d;-;r;ai̯
+§_Sinhalese_3 : Faroese 1563
+t;-;u;n;-;ə;-
+tʰ;ɹ;ʊ;-;ʤː;ɪ;ɹ
+===  t;-;u;-;-;n;ə
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ;-
+§_Sinhalese_4 : Provencal 1564
+t;-;u;n;ə;-
+t;r;e;-;-;s
+===  t;u;n;ə;-
+===  t;-;r;e;s
+§_Sinhalese_5 : Latin 1565
+t;-;u;n;ə;-
+t;r;eː;-;-;s
+===  t;u;n;ə;-
+===  t;-;r;eː;s
+§_Sinhalese_6 : [Legacy] Serbian 1566
+t;-;u;n;ə
+t;r;i:;-;-
+===  t;u;n;ə
+===  t;-;r;i:
+§_Sinhalese_7 : Portuguese 1567
+t;-;u;n;ə;-
+t;ɾ;e;-;-;ʃ
+===  t;u;n;ə;-
+===  t;-;ɾ;e;ʃ
+§_Sinhalese_8 : Dutch 1568
+t;-;u;n;ə
+d;r;i;-;-
+===  t;u;n;ə
+===  d;-;r;i
+§_Sinhalese_9 : Icelandic 1569
+t;-;u;n;ə;-
+θ;r;iː;-;-;r
+===  t;u;n;ə;-
+===  θ;-;r;iː;r
+§_English_0 : Faroese 1570
+θ;r;i:;-;-;-
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  θ;r;-;-;i:;-
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_English_4 : Armenian Western 1574
+-;θ;r;i:;-
+j͜ɛ;-;ɾ;ɛ;kʰ
+===  -;θ;r;i:;-
+===  j;-;ɾ;ɛ;kʰ
+§_English_5 : Ossetic Digor 1575
+-;-;θ;r;i:
+ɐ;r;t;-;ɐ
+===  -;θ;r;-;i:
+===  ɐ;-;r;t;ɐ
+§_English_6 : Hindi 1576
+θ;r;i:;-
+t̪;-;i;n
+===  θ;-;r;i:
+===  t̪;i;n;-
+§_Old Norse_1 : Assamese 1581
+θ;r;iː;-;-;r
+t;-;i;n;i;-
+===  θ;r;iː;r;-
+===  t;-;i;n;i
+§_Old Norse_6 : Classical Armenian 1586
+-;θ;r;iː;-;r
+e;-;r;e;kʰ;-
+===  -;θ;r;iː;r
+===  e;-;r;e;kʰ
+§_Old Norse_7 : Marathi 1587
+θ;r;iː;-;r
+t;-;i:;n;-
+===  θ;r;iː;r
+===  t;-;i:;n
+§_Old Norse_9 : Nepali 1589
+θ;r;iː;-;r
+t;-;i;n;-
+===  θ;r;iː;r
+===  t;-;i;n
+§_Icelandic_0 : Sinhalese 1590
+θ;r;iː;-;-;r
+t;-;u;n;ə;-
+===  θ;-;r;iː;r
+===  t;u;n;ə;-
+§_Icelandic_1 : Assamese 1591
+θ;r;iː;-;-;r
+t;-;i;n;i;-
+===  θ;r;iː;r;-
+===  t;-;i;n;i
+§_Icelandic_2 : Punjabi 1592
+θ;r;iː;-;r
+t;-;ɪ;n;-
+===  θ;r;iː;r
+===  t;-;ɪ;n
+§_Icelandic_3 : Faroese 1593
+θ;r;iː;-;-;r
+tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+===  θ;r;-;-;iː;r
+===  tʰ;ɹ;ʊ;ʤː;ɪ;ɹ
+§_Icelandic_4 : Urdu 1594
+θ;r;iː;-;r
+t;-;i;n;-
+===  θ;r;iː;r
+===  t;-;i;n
+§_Icelandic_5 : Armenian Western 1595
+-;θ;r;iː;-;r
+j͜ɛ;-;ɾ;ɛ;kʰ;-
+===  -;θ;r;iː;r
+===  j;-;ɾ;ɛ;kʰ
+§_Icelandic_7 : Oriya 1597
+θ;r;iː;-;-;r
+t;-;i;n;i;-
+===  θ;r;iː;r;-
+===  t;-;i;n;i
+§_Frisian_1 : Czech 1601
+f;j͜o;-;uə̯;r;-
+ʧ;-;t;ɪ;r;ɪ
+===  -;f;j͜o;uə̯;r;-
+===  ʧ;t;-;ɪ;r;ɪ
+§_Frisian_2 : Sorbian Lower 1602
+f;j͜o;-;uə̯;r;-
+s;-;t;ɘ;rʲ;i
+===  f;-;j͜o;uə̯;r;-
+===  s;t;ɘ;-;rʲ;i
+§_Frisian_9 : Provencal 1609
+f;j͜o;-;uə̯;r;-
+k;a;t;-;r;e
+===  f;j͜o;uə̯;-;r;-
+===  k;-;a;t;r;e
+§_Romanian_5 : Classical Armenian 1645
+p;a;t;r;u;-
+cʰ;o;-;r;-;kʰ
+===  p;a;t;r;u;-
+===  cʰ;o;-;r;-;k
+§_Romanian_9 : Assamese 1649
+p;a;t;-;r;u
+s;a:;r;i;-;-
+===  p;a;t;r;u
+===  s;a:;-;r;i
+§_[Legacy] Breton St_1 : Icelandic 1651
+p;ɛ:;v;a;r;-;-
+f;j͜ou̯ː;-;-;r;ɪ;r
+===  p;ɛ:;v;a;r
+===  f;j͜ou̯ː;r;ɪ;r
+§_[Legacy] Breton St_3 : Elfdalian 1653
+p;ɛ:;v;a;r;-
+f;yː;-;-;r;ɑ
+===  p;ɛ:;v;a;r;-
+===  -;-;f;yː;r;ɑ
+§_[Legacy] Breton St_4 : Armenian Eastern 1654
+p;ɛ:;v;a;r;-
+ʧʰ;o;-;-;ɾ;s
+===  p;ɛ:;v;a;r;-
+===  ʧʰ;-;-;o;ɾ;s
+§_[Legacy] Breton St_8 : Magahi 1658
+p;ɛ:;v;a;r
+c;ɑ;-;-;r
+===  p;ɛ:;v;a;r
+===  c;-;-;ɑ;r
+§_[Legacy] Breton St_9 : Classical Armenian 1659
+p;ɛ:;v;a;r;-
+cʰ;o;-;-;r;kʰ
+===  p;ɛ:;v;a;r;-
+===  cʰ;-;-;o;r;kʰ
+§_Middle Cornish_3 : Icelandic 1663
+p;ɛ;z;w͜a;r;-;-
+f;j͜ou̯ː;-;-;r;ɪ;r
+===  p;ɛ;z;w͜a;r
+===  f;j͜ou̯ː;r;ɪ;r
+§_Middle Cornish_4 : Dutch 1664
+p;ɛ;z;w͜a;r
+v;i;-;-;r
+===  p;ɛ;z;w͜a;r
+===  -;-;v;i;r
+§_Middle Cornish_8 : Assamese 1668
+p;ɛ;z;w͜a;r
+s;a:;r;i;-
+===  p;ɛ;z;w͜a;r;-
+===  -;-;s;a:;r;i
+§_Middle Cornish_9 : Nepali 1669
+p;ɛ;z;w͜a;r
+ʧ;a;-;-;r
+===  p;ɛ;z;w͜a;r
+===  -;-;ʧ;a;r
+§_Gutnish Lau_0 : Czech 1670
+f;ɛɪ̯;-;-;r;ɛ
+ʧ;-;t;ɪ;r;ɪ
+===  -;f;ɛɪ̯;r;ɛ
+===  ʧ;t;ɪ;r;ɪ
+§_Gutnish Lau_1 : Ossetic Digor 1671
+f;ɛɪ̯;-;-;r;ɛ
+c;u;p:;a;r;-
+===  -;-;f;ɛɪ̯;r;ɛ
+===  c;u;p:;a;r;-
+§_Gutnish Lau_3 : Breton 1673
+f;ɛɪ̯;-;-;r;ɛ
+p;eː;v;a;r;-
+===  -;-;f;ɛɪ̯;r;ɛ
+===  p;eː;v;a;r;-
+§_Gutnish Lau_4 : Russian 1674
+f;ɛɪ̯;-;-;r;ɛ
+ʧ;ɛ;t;ɨ;rʲ;i
+===  -;-;f;ɛɪ̯;r;ɛ
+===  ʧ;ɛ;t;ɨ;rʲ;i
+§_Gutnish Lau_6 : Slovak 1676
+f;ɛɪ̯;-;-;r;ɛ
+ʃ;-;t;i;r;i
+===  f;-;ɛɪ̯;r;ɛ
+===  ʃ;t;i;r;i
+§_Gutnish Lau_7 : Bulgarian 1677
+f;ɛɪ̯;-;-;r;ɛ
+ʧ;ɛ;t;i;r;i
+===  -;-;f;ɛɪ̯;r;ɛ
+===  ʧ;ɛ;t;i;r;i
+§_Gutnish Lau_9 : Old Irish 1679
+f;ɛɪ̯;-;-;r;ɛ
+k;e;θ;ə;r;-
+===  -;-;f;ɛɪ̯;r;ɛ
+===  k;e;θ;ə;r;-
+§_Norwegian Riksmal_4 : [Legacy] Breton St 1684
+f;iː;-;-;ɾ;ə
+p;ɛ:;v;a;r;-
+===  f;iː;ɾ;ə;-
+===  p;ɛ:;v;a;r
+§_Norwegian Riksmal_5 : Polish 1685
+f;iː;-;-;ɾ;ə
+t͡ʂ;-;t;ɛ;r;ɘ
+===  f;-;iː;ɾ;ə
+===  t͡ʂ;t;ɛ;r;ɘ
+§_Norwegian Riksmal_7 : Assamese 1687
+f;iː;-;-;ɾ;ə
+s;a:;r;i;-;-
+===  f;iː;ɾ;ə
+===  s;a:;r;i
+§_Stavangersk_0 : Ancient Greek 1690
+f;iː;-;-;ʁ;a;-
+t;e;tː;a;r;e;s
+===  -;-;f;iː;ʁ;a;-
+===  t;e;tː;a;r;e;s
+§_Stavangersk_1 : Slovak 1691
+f;iː;-;-;ʁ;a
+ʃ;-;t;i;r;i
+===  f;-;iː;ʁ;a
+===  ʃ;t;i;r;i
+§_Stavangersk_7 : [Legacy] Serbian 1697
+f;iː;-;-;ʁ;a
+ʧ;e;t;i;r;i
+===  -;-;f;iː;ʁ;a
+===  ʧ;e;t;i;r;i
+§_Old Norse_1 : Middle Cornish 1701
+f;j͜oː;-;-;r;i;r
+p;ɛ;z;w͜a;r;-;-
+===  f;j͜oː;r;i;r
+===  p;ɛ;z;w͜a;r
+§_Old Norse_7 : Greek 1707
+f;j͜oː;-;-;r;i;r
+t;e;s;e;r;a;-
+===  -;-;f;j͜oː;r;i;r
+===  t;e;s;e;r;a;-
+§_Old Norse_9 : Classical Armenian 1709
+f;j͜oː;r;i;r;-
+cʰ;o;r;-;-;kʰ
+===  f;j͜oː;r;i;-;r
+===  cʰ;o;r;-;kʰ;-
+§_Icelandic_0 : Classical Armenian 1710
+f;j͜ou̯ː;r;ɪ;r;-
+cʰ;o;r;-;-;kʰ
+===  f;j͜ou̯ː;r;ɪ;-;r
+===  cʰ;o;r;-;kʰ;-
+§_Icelandic_1 : Middle Cornish 1711
+f;j͜ou̯ː;-;-;r;ɪ;r
+p;ɛ;z;w͜a;r;-;-
+===  f;j͜ou̯ː;r;ɪ;r
+===  p;ɛ;z;w͜a;r
+§_Icelandic_3 : Macedonian 1713
+f;j͜ou̯ː;-;-;r;ɪ;r
+ʧ;e;t;i;r;i;-
+===  f;j͜ou̯ː;r;ɪ;r;-
+===  ʧ;e;t;i;r;i
+§_Icelandic_4 : Belarusian 1714
+f;j͜ou̯ː;-;-;r;ɪ;r
+t͡ʂ;a;t;ɨ;r;ɨ;-
+===  f;j͜ou̯ː;r;ɪ;r;-
+===  t͡ʂ;a;t;ɨ;r;ɨ
+§_Icelandic_5 : Sorbian Upper 1715
+f;j͜ou̯ː;-;-;r;ɪ;r
+ʃ;-;t;ɘ;ʀ;i;-
+===  f;-;j͜ou̯ː;r;ɪ;r
+===  ʃ;t;ɘ;ʀ;i;-
+§_Icelandic_8 : Sorbian Lower 1718
+f;j͜ou̯ː;-;-;r;ɪ;r
+s;-;t;ɘ;rʲ;i;-
+===  f;-;j͜ou̯ː;r;ɪ;r
+===  s;t;ɘ;rʲ;i;-
+§_Old Swedish_0 : Sinhalese 1720
+f;j͜uː;-;-;r;i;r
+h;a;t;ə;ɾʰ;ə;-
+===  f;j͜uː;r;i;r;-
+===  h;a;t;ə;ɾʰ;ə
+§_Old Swedish_3 : Bulgarian 1723
+f;j͜uː;-;-;r;i;r
+ʧ;ɛ;t;i;r;i;-
+===  f;j͜uː;r;i;r;-
+===  ʧ;ɛ;t;i;r;i
+§_Old Swedish_4 : Sorbian Lower 1724
+f;j͜uː;-;-;r;i;r
+s;-;t;ɘ;rʲ;i;-
+===  f;-;j͜uː;r;i;r
+===  s;t;ɘ;rʲ;i;-
+§_Old Swedish_7 : Latin 1727
+f;j͜uː;-;-;r;i;r
+kʷ;a;tː;u͜o;r;-;-
+===  f;j͜uː;r;i;r
+===  kʷ;a;tː;u͜o;r
+§_Old Swedish_9 : Czech 1729
+f;j͜uː;-;-;r;i;r
+ʧ;-;t;ɪ;r;ɪ;-
+===  f;-;j͜uː;r;i;r
+===  ʧ;t;ɪ;r;ɪ;-
+§_Faroese_1 : [Legacy] Serbian 1731
+f;ʊi̯ː;-;-;ɹ;a
+ʧ;e;t;i;r;i
+===  -;-;f;ʊi̯ː;ɹ;a
+===  ʧ;e;t;i;r;i
+§_Faroese_3 : Polish 1733
+f;ʊi̯ː;-;-;ɹ;a
+t͡ʂ;-;t;ɛ;r;ɘ
+===  f;-;ʊi̯ː;ɹ;a
+===  t͡ʂ;t;ɛ;r;ɘ
+§_Faroese_6 : Russian 1736
+f;ʊi̯ː;-;-;ɹ;a
+ʧ;ɛ;t;ɨ;rʲ;i
+===  -;-;f;ʊi̯ː;ɹ;a
+===  ʧ;ɛ;t;ɨ;rʲ;i
+§_Faroese_7 : Ossetic Iron 1737
+f;ʊi̯ː;-;-;ɹ;a
+s;y;p:;a;r;-
+===  -;-;f;ʊi̯ː;ɹ;a
+===  s;y;p:;a;r;-
+§_Faroese_8 : Sinhalese 1738
+f;ʊi̯ː;-;-;ɹ;a
+h;a;t;ə;ɾʰ;ə
+===  f;-;-;ʊi̯ː;ɹ;a
+===  h;a;t;ə;ɾʰ;ə
+§_Swedish_3 : Macedonian 1743
+f;yː;-;-;r;a
+ʧ;e;t;i;r;i
+===  -;-;f;yː;r;a
+===  ʧ;e;t;i;r;i
+§_Swedish_5 : Mycenaean Greek 1745
+f;yː;-;-;r;a
+kʷ;e;t;e;r;o
+===  f;-;-;yː;r;a
+===  kʷ;e;t;e;r;o
+§_Swedish_8 : Sorbian Lower 1748
+f;yː;-;-;r;a
+s;-;t;ɘ;rʲ;i
+===  f;-;yː;r;a
+===  s;t;ɘ;rʲ;i
+§_Elfdalian_0 : Russian 1750
+f;yː;-;-;r;ɑ
+ʧ;ɛ;t;ɨ;rʲ;i
+===  -;-;f;yː;r;ɑ
+===  ʧ;ɛ;t;ɨ;rʲ;i
+§_Elfdalian_2 : Greek 1752
+f;yː;-;-;r;ɑ
+t;e;s;e;r;a
+===  -;-;f;yː;r;ɑ
+===  t;e;s;e;r;a
+§_Elfdalian_3 : Ancient Greek 1753
+f;yː;-;-;r;ɑ;-
+t;e;tː;a;r;e;s
+===  -;-;f;yː;r;ɑ;-
+===  t;e;tː;a;r;e;s
+§_Elfdalian_9 : Mycenaean Greek 1759
+f;yː;-;-;r;ɑ
+kʷ;e;t;e;r;o
+===  f;-;-;yː;r;ɑ
+===  kʷ;e;t;e;r;o
+§_[Legacy] Albanian T_0 : Punjabi 1760
+k;a;t;ə;ɹ
+ʧ;a;-;-;ɾ
+===  k;a;t;ə;ɹ
+===  -;-;ʧ;a;ɾ
+§_[Legacy] Albanian T_1 : Icelandic 1761
+k;a;t;ə;ɹ;-;-
+f;j͜ou̯ː;-;-;r;ɪ;r
+===  k;a;t;ə;ɹ
+===  f;j͜ou̯ː;r;ɪ;r
+§_[Legacy] Albanian T_2 : Classical Armenian 1762
+k;a;t;ə;ɹ;-
+cʰ;o;-;-;r;kʰ
+===  k;a;t;ə;ɹ;-
+===  -;-;cʰ;o;r;kʰ
+§_[Legacy] Albanian T_4 : Nepali 1764
+k;a;t;ə;ɹ
+ʧ;a;-;-;r
+===  k;a;t;ə;ɹ
+===  -;-;ʧ;a;r
+§_[Legacy] Albanian T_6 : Marathi 1766
+k;a;t;ə;ɹ
+ʧ;a;-;-;ɾ
+===  k;a;t;ə;ɹ
+===  -;-;ʧ;a;ɾ
+§_[Legacy] Albanian T_7 : Bihari 1767
+k;a;t;ə;ɹ
+c;əi̯;-;-;r
+===  k;a;t;ə;ɹ
+===  -;-;c;əi̯;r
+§_[Legacy] Albanian T_9 : Old Norse 1769
+k;a;t;ə;ɹ;-;-
+f;j͜oː;-;-;r;i;r
+===  k;a;t;ə;ɹ
+===  f;j͜oː;r;i;r
+§_Latin_2 : Norwegian Riksmal 1792
+kʷ;a;tː;u͜o;r;-
+f;iː;-;-;ɾ;ə
+===  kʷ;a;tː;u͜o;r
+===  f;iː;ɾ;ə;-
+§_Latin_7 : Icelandic 1797
+kʷ;a;tː;u͜o;r;-;-
+f;j͜ou̯ː;-;-;r;ɪ;r
+===  kʷ;a;tː;u͜o;r
+===  f;j͜ou̯ː;r;ɪ;r
+§_Breton_0 : Nepali 1800
+p;eː;v;a;r
+ʧ;a;-;-;r
+===  p;eː;v;a;r
+===  ʧ;-;-;a;r
+§_Breton_2 : Punjabi 1802
+p;eː;v;a;r
+ʧ;a;-;-;ɾ
+===  p;eː;v;a;r
+===  ʧ;-;-;a;ɾ
+§_Breton_4 : German 1804
+p;eː;v;a;r
+f;iɐ̯:;-;-;-
+===  p;eː;v;a;r
+===  -;-;f;iɐ̯:;-
+§_Breton_7 : Old Norse 1807
+p;eː;v;a;r;-;-
+f;j͜oː;-;-;r;i;r
+===  p;eː;v;a;r
+===  f;j͜oː;r;i;r
+§_Middle Breton_1 : Punjabi 1811
+p;ɛː;v;a;r
+ʧ;a;-;-;ɾ
+===  p;ɛː;v;a;r
+===  ʧ;-;-;a;ɾ
+§_Middle Breton_4 : Classical Armenian 1814
+p;ɛː;v;a;r;-
+cʰ;o;-;-;r;kʰ
+===  p;ɛː;v;a;r;-
+===  cʰ;-;-;o;r;kʰ
+§_Middle Breton_6 : Magahi 1816
+p;ɛː;v;a;r
+c;ɑ;-;-;r
+===  p;ɛː;v;a;r
+===  c;-;-;ɑ;r
+§_Sorbian Lower_6 : Urdu 1826
+s;-;t;ɘ;rʲ;i
+ʧ;ɑ;-;-;ɾ;-
+===  s;t;ɘ;rʲ;i
+===  -;ʧ;ɑ;ɾ;-
+§_Sorbian Lower_7 : Armenian Eastern 1827
+s;-;t;ɘ;rʲ;i;-
+ʧʰ;o;-;-;ɾ;-;s
+===  s;t;ɘ;rʲ;i;-
+===  -;ʧʰ;o;ɾ;-;s
+§_Sorbian Lower_9 : Magahi 1829
+s;-;t;ɘ;rʲ;i
+c;ɑ;-;-;r;-
+===  s;t;ɘ;rʲ;i
+===  -;c;ɑ;r;-
+§_Sorbian Upper_0 : Old Norse 1830
+ʃ;-;t;ɘ;ʀ;i;-
+f;j͜oː;-;-;r;i;r
+===  ʃ;t;ɘ;ʀ;i;-
+===  f;-;j͜oː;r;i;r
+§_Sorbian Upper_3 : Old Swedish 1833
+ʃ;-;t;ɘ;ʀ;i;-
+f;j͜uː;-;-;r;i;r
+===  ʃ;t;ɘ;ʀ;i;-
+===  f;-;j͜uː;r;i;r
+§_Sorbian Upper_5 : Urdu 1835
+ʃ;-;t;ɘ;ʀ;i
+ʧ;ɑ;-;-;ɾ;-
+===  ʃ;t;ɘ;ʀ;i
+===  -;ʧ;ɑ;ɾ;-
+§_Sorbian Upper_6 : Classical Armenian 1836
+ʃ;-;t;ɘ;ʀ;i;-
+cʰ;o;-;-;r;-;kʰ
+===  ʃ;t;ɘ;ʀ;i;-
+===  -;cʰ;o;r;-;k
+§_Slovenian_0 : Urdu 1840
+ʃ;-;t;iː;r;i
+ʧ;ɑ;-;-;ɾ;-
+===  ʃ;t;iː;r;i
+===  -;ʧ;ɑ;ɾ;-
+§_Slovenian_1 : Assamese 1841
+ʃ;-;t;iː;r;i
+s;a:;r;i;-;-
+===  ʃ;t;iː;r;i
+===  s;-;a:;r;i
+§_Slovenian_4 : Swedish 1844
+ʃ;-;t;iː;r;i
+f;yː;-;-;r;a
+===  ʃ;t;iː;r;i
+===  f;-;yː;r;a
+§_Slovenian_6 : Stavangersk 1846
+ʃ;-;t;iː;r;i
+f;iː;-;-;ʁ;a
+===  ʃ;t;iː;r;i
+===  f;-;iː;ʁ;a
+§_Slovenian_8 : Gutnish Lau 1848
+ʃ;-;t;iː;r;i
+f;ɛɪ̯;-;-;r;ɛ
+===  ʃ;t;iː;r;i
+===  f;-;ɛɪ̯;r;ɛ
+§_Slovak_6 : Old Norse 1856
+ʃ;-;t;i;r;i;-
+f;j͜oː;-;-;r;i;r
+===  ʃ;t;i;r;i;-
+===  f;-;j͜oː;r;i;r
+§_Slovak_8 : Marathi 1858
+ʃ;-;t;i;r;i
+ʧ;a;-;-;ɾ;-
+===  ʃ;t;i;r;i
+===  -;ʧ;a;ɾ;-
+§_Slovak_9 : Classical Armenian 1859
+ʃ;-;t;i;r;i;-
+cʰ;o;-;-;r;-;kʰ
+===  ʃ;t;i;r;i;-
+===  -;cʰ;o;r;-;k
+§_Greek_6 : Urdu 1866
+t;e;s;e;r;a
+ʧ;ɑ;-;-;ɾ;-
+===  t;e;s;e;r;a
+===  ʧ;ɑ;ɾ;-;-;-
+§_Greek_7 : Classical Armenian 1867
+t;e;s;e;r;a;-
+cʰ;o;-;-;r;-;kʰ
+===  t;e;s;e;r;a;-
+===  cʰ;-;-;o;r;-;k
+§_Greek_8 : Marathi 1868
+t;e;s;e;r;a
+ʧ;a;-;-;ɾ;-
+===  t;e;s;e;r;a
+===  ʧ;a;ɾ;-;-;-
+§_Polish_1 : Nepali 1871
+t͡ʂ;-;t;ɛ;r;ɘ
+ʧ;a;-;-;r;-
+===  t͡ʂ;t;ɛ;r;ɘ
+===  ʧ;-;a;r;-
+§_Polish_4 : Armenian Eastern 1874
+t͡ʂ;-;t;ɛ;r;ɘ;-
+ʧʰ;o;-;-;ɾ;-;s
+===  t͡ʂ;t;ɛ;r;ɘ;-
+===  ʧʰ;-;o;ɾ;-;s
+§_Polish_7 : Gutnish Lau 1877
+t͡ʂ;-;t;ɛ;r;ɘ
+f;ɛɪ̯;-;-;r;ɛ
+===  t͡ʂ;t;ɛ;r;ɘ
+===  f;-;ɛɪ̯;r;ɛ
+§_Macedonian_1 : Swedish 1881
+ʧ;e;t;i;r;i
+f;yː;-;-;r;a
+===  ʧ;e;t;i;r;i
+===  -;-;f;yː;r;a
+§_Macedonian_3 : German 1883
+ʧ;e;t;i;r;i
+f;iɐ̯:;-;-;-;-
+===  ʧ;e;t;i;r;i
+===  -;-;f;iɐ̯:;-;-
+§_Serbo-Croatian_0 : Norwegian Riksmal 1890
+ʧ;e;t;i;r;i
+f;iː;-;-;ɾ;ə
+===  ʧ;e;t;i;r;i
+===  -;-;f;iː;ɾ;ə
+§_Serbo-Croatian_7 : Elfdalian 1897
+ʧ;e;t;i;r;i
+f;yː;-;-;r;ɑ
+===  ʧ;e;t;i;r;i
+===  -;-;f;yː;r;ɑ
+§_Serbo-Croatian_9 : Stavangersk 1899
+ʧ;e;t;i;r;i
+f;iː;-;-;ʁ;a
+===  ʧ;e;t;i;r;i
+===  -;-;f;iː;ʁ;a
+§_Bulgarian_2 : Magahi 1902
+ʧ;ɛ;t;i;r;i
+c;ɑ;-;-;r;-
+===  ʧ;ɛ;t;i;r;i
+===  -;-;c;ɑ;r;-
+§_Bulgarian_6 : Faroese 1906
+ʧ;ɛ;t;i;r;i
+f;ʊi̯ː;-;-;ɹ;a
+===  ʧ;ɛ;t;i;r;i
+===  -;-;f;ʊi̯ː;ɹ;a
+§_Bulgarian_9 : Dutch 1909
+ʧ;ɛ;t;i;r;i
+v;i;-;-;r;-
+===  ʧ;ɛ;t;i;r;i
+===  -;-;v;i;r;-
+§_Czech_0 : Marathi 1910
+ʧ;-;t;ɪ;r;ɪ
+ʧ;a;-;-;ɾ;-
+===  ʧ;t;ɪ;r;ɪ
+===  ʧ;-;a;ɾ;-
+§_Czech_1 : Urdu 1911
+ʧ;-;t;ɪ;r;ɪ
+ʧ;ɑ;-;-;ɾ;-
+===  ʧ;t;ɪ;r;ɪ
+===  ʧ;-;ɑ;ɾ;-
+§_Czech_4 : Icelandic 1914
+ʧ;-;t;ɪ;r;ɪ;-
+f;j͜ou̯ː;-;-;r;ɪ;r
+===  ʧ;t;ɪ;r;ɪ;-
+===  f;-;j͜ou̯ː;r;ɪ;r
+§_Czech_8 : Classical Armenian 1918
+ʧ;-;t;ɪ;r;ɪ;-
+cʰ;o;-;-;r;-;kʰ
+===  ʧ;t;ɪ;r;ɪ;-
+===  -;cʰ;o;r;-;k
+§_Czech_9 : Old Swedish 1919
+ʧ;-;t;ɪ;r;ɪ;-
+f;j͜uː;-;-;r;i;r
+===  ʧ;t;ɪ;r;ɪ;-
+===  f;-;j͜uː;r;i;r
+§_Oriya_2 : Polish 1922
+c;a;-;-;r;i
+t͡ʂ;-;t;ɛ;r;ɘ
+===  c;-;a;r;i
+===  t͡ʂ;t;ɛ;r;ɘ
+§_Oriya_3 : Russian 1923
+c;a;-;-;r;i
+ʧ;ɛ;t;ɨ;rʲ;i
+===  -;-;c;a;r;i
+===  ʧ;ɛ;t;ɨ;rʲ;i
+§_Oriya_6 : Classical Armenian 1926
+c;a;r;i;-
+cʰ;o;r;-;kʰ
+===  c;a;r;i;-
+===  cʰ;o;r;-;k
+§_Magahi_2 : [Legacy] Serbian 1932
+c;ɑ;-;-;r;-
+ʧ;e;t;i;r;i
+===  -;-;c;ɑ;r;-
+===  ʧ;e;t;i;r;i
+§_Magahi_6 : Ukrainian 1936
+c;ɑ;-;-;r;-
+t͡ʂ;ɔ;t;ɪ;r;ɪ
+===  -;-;c;ɑ;r;-
+===  t͡ʂ;ɔ;t;ɪ;r;ɪ
+§_Magahi_9 : Russian 1939
+c;ɑ;-;-;r;-
+ʧ;ɛ;t;ɨ;rʲ;i
+===  -;-;c;ɑ;r;-
+===  ʧ;ɛ;t;ɨ;rʲ;i
+§_Bihari_2 : Slovenian 1942
+c;əi̯;-;-;r;-
+ʃ;-;t;iː;r;i
+===  -;c;əi̯;r;-
+===  ʃ;t;iː;r;i
+§_Bihari_4 : Russian 1944
+c;əi̯;-;-;r;-
+ʧ;ɛ;t;ɨ;rʲ;i
+===  -;-;c;əi̯;r;-
+===  ʧ;ɛ;t;ɨ;rʲ;i
+§_Bihari_5 : [Legacy] Serbian 1945
+c;əi̯;-;-;r;-
+ʧ;e;t;i;r;i
+===  -;-;c;əi̯;r;-
+===  ʧ;e;t;i;r;i
+§_Bihari_6 : [Legacy] Albanian T 1946
+c;əi̯;-;-;r
+k;a;t;ə;ɹ
+===  -;-;c;əi̯;r
+===  k;a;t;ə;ɹ
+§_Bihari_7 : Old Church Slavonic 1947
+c;əi̯;-;-;r;-
+ʧ;ɛ;t;ɯ;r;ɛ
+===  -;-;c;əi̯;r;-
+===  ʧ;ɛ;t;ɯ;r;ɛ
+§_Bihari_8 : Slovak 1948
+c;əi̯;-;-;r;-
+ʃ;-;t;i;r;i
+===  -;c;əi̯;r;-
+===  ʃ;t;i;r;i
+§_Classical Armenian_0 : Slovak 1950
+cʰ;o;-;-;r;-;kʰ
+ʃ;-;t;i;r;i;-
+===  -;cʰ;o;r;k;-
+===  ʃ;t;i;r;-;i
+§_Classical Armenian_2 : Macedonian 1952
+cʰ;o;-;-;r;-;kʰ
+ʧ;e;t;i;r;i;-
+===  -;-;cʰ;o;r;k;-
+===  ʧ;e;t;i;r;-;i
+§_Classical Armenian_3 : Sorbian Lower 1953
+cʰ;o;-;-;r;-;kʰ
+s;-;t;ɘ;rʲ;i;-
+===  -;cʰ;o;r;k;-
+===  s;t;ɘ;rʲ;-;i
+§_Classical Armenian_4 : [Legacy] Breton St 1954
+cʰ;o;-;-;r;kʰ
+p;ɛ:;v;a;r;-
+===  cʰ;-;-;o;r;kʰ
+===  p;ɛ:;v;a;r;-
+§_Classical Armenian_6 : Ossetic Iron 1956
+cʰ;o;-;-;r;kʰ
+s;y;p:;a;r;-
+===  -;-;cʰ;o;r;kʰ
+===  s;y;p:;a;r;-
+§_Classical Armenian_7 : Gutnish Lau 1957
+cʰ;o;r;-;kʰ
+f;ɛɪ̯;r;ɛ;-
+===  cʰ;o;r;k;-
+===  f;ɛɪ̯;r;-;ɛ
+§_Classical Armenian_8 : Faroese 1958
+cʰ;o;r;-;kʰ
+f;ʊi̯ː;ɹ;a;-
+===  cʰ;o;r;k;-
+===  f;ʊi̯ː;ɹ;-;a
+§_Ossetic Digor_0 : Bihari 1960
+c;u;p:;a;r
+c;əi̯;-;-;r
+===  c;u;p:;a;r
+===  c;-;-;əi̯;r
+§_Ossetic Digor_2 : Swedish 1962
+c;u;p:;a;r;-
+f;yː;-;-;r;a
+===  c;u;p:;a;r;-
+===  -;-;f;yː;r;a
+§_Ossetic Digor_5 : Punjabi 1965
+c;u;p:;a;r
+ʧ;a;-;-;ɾ
+===  c;u;p:;a;r
+===  ʧ;-;-;a;ɾ
+§_Ossetic Digor_6 : Faroese 1966
+c;u;p:;a;r;-
+f;ʊi̯ː;-;-;ɹ;a
+===  c;u;p:;a;r;-
+===  -;-;f;ʊi̯ː;ɹ;a
+§_German_2 : [Legacy] Breton St 1972
+f;iɐ̯:;-;-;-
+p;ɛ:;v;a;r
+===  -;-;f;iɐ̯:;-
+===  p;ɛ:;v;a;r
+§_German_4 : Greek 1974
+f;iɐ̯:;-;-;-;-
+t;e;s;e;r;a
+===  -;-;f;iɐ̯:;-;-
+===  t;e;s;e;r;a
+§_German_7 : Polish 1977
+f;iɐ̯:;-;-;-;-
+t͡ʂ;-;t;ɛ;r;ɘ
+===  f;-;iɐ̯:;-;-
+===  t͡ʂ;t;ɛ;r;ɘ
+§_English_7 : Slovenian 1987
+f;ɔ:;-;-;-;-
+ʃ;-;t;iː;r;i
+===  f;-;ɔ:;-;-
+===  ʃ;t;iː;r;i
+§_English_8 : Slovak 1988
+f;ɔ:;-;-;-;-
+ʃ;-;t;i;r;i
+===  f;-;ɔ:;-;-
+===  ʃ;t;i;r;i
+§_Sinhalese_3 : Urdu 1993
+h;a;t;ə;ɾʰ;ə
+ʧ;ɑ;-;-;ɾ;-
+===  h;a;t;ə;ɾʰ;ə
+===  -;-;ʧ;ɑ;ɾ;-
+§_Sinhalese_7 : Nepali 1997
+h;a;t;ə;ɾʰ;ə
+ʧ;a;-;-;r;-
+===  h;a;t;ə;ɾʰ;ə
+===  -;-;ʧ;a;r;-
+§_Sinhalese_9 : Marathi 1999
+h;a;t;ə;ɾʰ;ə
+ʧ;a;-;-;ɾ;-
+===  h;a;t;ə;ɾʰ;ə
+===  -;-;ʧ;a;ɾ;-
+§_Old Irish_1 : Bihari 2001
+k;e;θ;ə;r
+c;əi̯;-;-;r
+===  k;e;θ;ə;r
+===  -;-;c;əi̯;r
+§_Old Irish_7 : Magahi 2007
+k;e;θ;ə;r
+c;ɑ;-;-;r
+===  k;e;θ;ə;r
+===  -;-;c;ɑ;r
+§_Old Irish_8 : Urdu 2008
+k;e;θ;ə;r
+ʧ;ɑ;-;-;ɾ
+===  k;e;θ;ə;r
+===  -;-;ʧ;ɑ;ɾ
+§_Old Irish_9 : Elfdalian 2009
+k;e;θ;ə;r;-
+f;yː;-;-;r;ɑ
+===  k;e;θ;ə;r;-
+===  -;-;f;yː;r;ɑ
+§_French_1 : Assamese 2011
+k;a;t;-;ʀ
+s;a:;r;i;-
+===  k;a;t;ʀ;-
+===  s;a:;-;r;i
+§_Mycenaean Greek_0 : Gutnish Lau 2020
+kʷ;e;t;e;r;o
+f;ɛɪ̯;-;-;r;ɛ
+===  kʷ;e;t;e;r;o
+===  f;-;-;ɛɪ̯;r;ɛ
+§_Mycenaean Greek_2 : Armenian Eastern 2022
+kʷ;e;t;e;r;o;-
+ʧʰ;o;-;-;ɾ;-;s
+===  kʷ;e;t;e;r;o;-
+===  -;-;ʧʰ;o;ɾ;-;s
+§_Mycenaean Greek_5 : Assamese 2025
+kʷ;e;t;e;r;o
+s;a:;r;i;-;-
+===  kʷ;e;t;e;r;o
+===  -;-;s;a:;r;i
+§_Mycenaean Greek_6 : Bihari 2026
+kʷ;e;t;e;r;o
+c;əi̯;-;-;r;-
+===  kʷ;e;t;e;r;o
+===  -;-;c;əi̯;r;-
+§_Mycenaean Greek_7 : Icelandic 2027
+kʷ;e;t;e;r;o;-
+f;j͜ou̯ː;-;-;r;ɪ;r
+===  kʷ;e;t;e;r;o
+===  f;j͜ou̯ː;r;ɪ;r;-
+§_Assamese_0 : Ukrainian 2030
+s;a:;r;i;-;-
+t͡ʂ;ɔ;t;ɪ;r;ɪ
+===  s;-;-;a:;r;i
+===  t͡ʂ;ɔ;t;ɪ;r;ɪ
+§_Assamese_1 : Swedish 2031
+s;a:;r;i;-;-
+f;yː;-;-;r;a
+===  s;a:;r;i
+===  f;yː;r;a
+§_Assamese_3 : Old Swedish 2033
+s;a:;r;i;-;-;-
+f;j͜uː;-;-;r;i;r
+===  s;a:;r;i;-
+===  f;j͜uː;r;i;r
+§_Assamese_4 : Classical Armenian 2034
+s;a:;r;i;-;-
+cʰ;o;-;-;r;kʰ
+===  s;a:;r;i;-
+===  cʰ;o;r;-;k
+§_Assamese_5 : Portuguese 2035
+s;a:;r;i;-;-
+k;u͜a;t;-;ɾ;u
+===  s;a:;-;r;i
+===  k;u͜a;t;ɾ;u
+§_Assamese_6 : Norwegian Riksmal 2036
+s;a:;r;i;-;-
+f;iː;-;-;ɾ;ə
+===  s;a:;r;i
+===  f;iː;ɾ;ə
+§_Assamese_7 : Sorbian Upper 2037
+s;a:;r;i;-;-
+ʃ;-;t;ɘ;ʀ;i
+===  s;-;a:;r;i
+===  ʃ;t;ɘ;ʀ;i
+§_Assamese_8 : Provencal 2038
+s;a:;r;i;-;-
+k;a;t;-;r;e
+===  s;a:;-;r;i
+===  k;a;t;r;e
+§_Assamese_9 : Bihari 2039
+s;a:;r;i;-
+c;əi̯;-;-;r
+===  s;a:;r;i
+===  c;əi̯;r;-
+§_Ossetic Iron_0 : Old Norse 2040
+s;y;p:;a;r;-;-
+f;j͜oː;-;-;r;i;r
+===  s;y;p:;a;r
+===  f;j͜oː;r;i;r
+§_Ossetic Iron_1 : Old Swedish 2041
+s;y;p:;a;r;-;-
+f;j͜uː;-;-;r;i;r
+===  s;y;p:;a;r
+===  f;j͜uː;r;i;r
+§_Ossetic Iron_2 : Gutnish Lau 2042
+s;y;p:;a;r;-
+f;ɛɪ̯;-;-;r;ɛ
+===  s;y;p:;a;r;-
+===  -;-;f;ɛɪ̯;r;ɛ
+§_Ancient Greek_2 : Urdu 2052
+t;e;tː;a;r;e;s
+ʧ;ɑ;-;-;ɾ;-;-
+===  t;e;tː;a;r;e;s
+===  -;-;ʧ;ɑ;ɾ;-;-
+§_Ancient Greek_8 : Faroese 2058
+t;e;tː;a;r;e;s
+f;ʊi̯ː;-;-;ɹ;a;-
+===  t;e;tː;a;r;e;s
+===  -;-;f;ʊi̯ː;ɹ;a;-
+§_Belarusian_1 : Oriya 2061
+t͡ʂ;a;t;ɨ;r;ɨ
+c;a;-;-;r;i
+===  t͡ʂ;a;t;ɨ;r;ɨ
+===  -;-;c;a;r;i
+§_Belarusian_8 : Urdu 2068
+t͡ʂ;a;t;ɨ;r;ɨ
+ʧ;ɑ;-;-;ɾ;-
+===  t͡ʂ;a;t;ɨ;r;ɨ
+===  -;-;ʧ;ɑ;ɾ;-
+§_Ukrainian_3 : Bihari 2073
+t͡ʂ;ɔ;t;ɪ;r;ɪ
+c;əi̯;-;-;r;-
+===  t͡ʂ;ɔ;t;ɪ;r;ɪ
+===  -;-;c;əi̯;r;-
+§_Ukrainian_4 : Icelandic 2074
+t͡ʂ;ɔ;t;ɪ;r;ɪ;-
+f;j͜ou̯ː;-;-;r;ɪ;r
+===  t͡ʂ;ɔ;t;ɪ;r;ɪ
+===  f;j͜ou̯ː;r;ɪ;r;-
+§_Nepali_1 : Ossetic Iron 2081
+ʧ;a;-;-;r
+s;y;p:;a;r
+===  -;-;ʧ;a;r
+===  s;y;p:;a;r
+§_Nepali_3 : Mycenaean Greek 2083
+ʧ;a;-;-;r;-
+kʷ;e;t;e;r;o
+===  -;-;ʧ;a;r;-
+===  kʷ;e;t;e;r;o
+§_Nepali_4 : Middle Cornish 2084
+ʧ;a;-;-;r
+p;ɛ;z;w͜a;r
+===  -;-;ʧ;a;r
+===  p;ɛ;z;w͜a;r
+§_Nepali_6 : Middle Breton 2086
+ʧ;a;-;-;r
+p;ɛː;v;a;r
+===  ʧ;-;-;a;r
+===  p;ɛː;v;a;r
+§_Nepali_9 : Ancient Greek 2089
+ʧ;a;-;-;r;-;-
+t;e;tː;a;r;e;s
+===  -;-;ʧ;a;r;-;-
+===  t;e;tː;a;r;e;s
+§_Punjabi_1 : Ossetic Iron 2091
+ʧ;a;-;-;ɾ
+s;y;p:;a;r
+===  -;-;ʧ;a;ɾ
+===  s;y;p:;a;r
+§_Punjabi_4 : [Legacy] Albanian T 2094
+ʧ;a;-;-;ɾ
+k;a;t;ə;ɹ
+===  -;-;ʧ;a;ɾ
+===  k;a;t;ə;ɹ
+§_Punjabi_5 : Breton 2095
+ʧ;a;-;-;ɾ
+p;eː;v;a;r
+===  ʧ;-;-;a;ɾ
+===  p;eː;v;a;r
+§_Punjabi_7 : Middle Breton 2097
+ʧ;a;-;-;ɾ
+p;ɛː;v;a;r
+===  ʧ;-;-;a;ɾ
+===  p;ɛː;v;a;r
+§_Punjabi_8 : [Legacy] Breton St 2098
+ʧ;a;-;-;ɾ
+p;ɛ:;v;a;r
+===  ʧ;-;-;a;ɾ
+===  p;ɛ:;v;a;r
+§_Punjabi_9 : Middle Cornish 2099
+ʧ;a;-;-;ɾ
+p;ɛ;z;w͜a;r
+===  -;-;ʧ;a;ɾ
+===  p;ɛ;z;w͜a;r
+§_Marathi_6 : Middle Breton 2106
+ʧ;a;-;-;ɾ
+p;ɛː;v;a;r
+===  ʧ;-;-;a;ɾ
+===  p;ɛː;v;a;r
+§_Marathi_9 : Sinhalese 2109
+ʧ;a;-;-;ɾ;-
+h;a;t;ə;ɾʰ;ə
+===  -;-;ʧ;a;ɾ;-
+===  h;a;t;ə;ɾʰ;ə
+§_Urdu_5 : Assamese 2115
+ʧ;ɑ;-;-;ɾ
+s;a:;r;i;-
+===  ʧ;ɑ;ɾ;-
+===  s;a:;r;i
+§_Urdu_8 : Breton 2118
+ʧ;ɑ;-;-;ɾ
+p;eː;v;a;r
+===  ʧ;-;-;ɑ;ɾ
+===  p;eː;v;a;r
+§_Urdu_9 : Russian 2119
+ʧ;ɑ;-;-;ɾ;-
+ʧ;ɛ;t;ɨ;rʲ;i
+===  ʧ;-;-;ɑ;ɾ;-
+===  ʧ;ɛ;t;ɨ;rʲ;i
+§_[Legacy] Serbian_0 : Swedish 2120
+ʧ;e;t;i;r;i
+f;yː;-;-;r;a
+===  ʧ;e;t;i;r;i
+===  -;-;f;yː;r;a
+§_[Legacy] Serbian_9 : Elfdalian 2129
+ʧ;e;t;i;r;i
+f;yː;-;-;r;ɑ
+===  ʧ;e;t;i;r;i
+===  -;-;f;yː;r;ɑ
+§_Russian_4 : Faroese 2134
+ʧ;ɛ;t;ɨ;rʲ;i
+f;ʊi̯ː;-;-;ɹ;a
+===  ʧ;ɛ;t;ɨ;rʲ;i
+===  -;-;f;ʊi̯ː;ɹ;a
+§_Russian_6 : Old Norse 2136
+ʧ;ɛ;t;ɨ;rʲ;i;-
+f;j͜oː;-;-;r;i;r
+===  ʧ;ɛ;t;ɨ;rʲ;i;-
+===  -;-;f;j͜oː;r;i;r
+§_Old Church Slavonic_1 : Classical Armenian 2141
+ʧ;ɛ;t;ɯ;r;ɛ;-
+cʰ;o;-;-;r;-;kʰ
+===  ʧ;ɛ;t;ɯ;r;ɛ;-
+===  -;-;cʰ;o;r;-;k
+§_Old Church Slavonic_7 : Magahi 2147
+ʧ;ɛ;t;ɯ;r;ɛ
+c;ɑ;-;-;r;-
+===  ʧ;ɛ;t;ɯ;r;ɛ
+===  -;-;c;ɑ;r;-
+§_Armenian Eastern_0 : Middle Cornish 2150
+ʧʰ;o;-;-;ɾ;s
+p;ɛ;z;w͜a;r;-
+===  -;-;ʧʰ;o;ɾ;s
+===  p;ɛ;z;w͜a;r;-
+§_Armenian Eastern_1 : [Legacy] Albanian T 2151
+ʧʰ;o;-;-;ɾ;s
+k;a;t;ə;ɹ;-
+===  -;-;ʧʰ;o;ɾ;s
+===  k;a;t;ə;ɹ;-
+§_Armenian Eastern_3 : Latin 2153
+ʧʰ;o;-;-;ɾ;s
+kʷ;a;tː;u͜o;r;-
+===  -;-;ʧʰ;o;ɾ;s
+===  kʷ;a;tː;u͜o;r;-
+§_Armenian Eastern_4 : [Legacy] Breton St 2154
+ʧʰ;o;-;-;ɾ;s
+p;ɛ:;v;a;r;-
+===  ʧʰ;-;-;o;ɾ;s
+===  p;ɛ:;v;a;r;-
+§_Armenian Eastern_6 : Old Irish 2156
+ʧʰ;o;-;-;ɾ;s
+k;e;θ;ə;r;-
+===  ʧʰ;-;-;o;ɾ;s
+===  k;e;θ;ə;r;-
+§_Armenian Eastern_7 : Romanian 2157
+ʧʰ;o;-;ɾ;-;s
+p;a;t;r;u;-
+===  ʧʰ;o;-;ɾ;s;-
+===  p;a;t;r;-;u
+§_Armenian Eastern_8 : Portuguese 2158
+ʧʰ;o;-;ɾ;-;s
+k;u͜a;t;ɾ;u;-
+===  ʧʰ;o;ɾ;s;-
+===  k;u͜a;t;ɾ;u
+§_Armenian Eastern_9 : Slovak 2159
+ʧʰ;o;-;-;ɾ;-;s
+ʃ;-;t;i;r;i;-
+===  -;ʧʰ;o;ɾ;s;-
+===  ʃ;t;i;r;-;i
+§_Dutch_0 : Bulgarian 2160
+v;i;-;-;r;-
+ʧ;ɛ;t;i;r;i
+===  -;-;v;i;r;-
+===  ʧ;ɛ;t;i;r;i
+§_Dutch_3 : Greek 2163
+v;i;-;-;r;-
+t;e;s;e;r;a
+===  -;-;v;i;r;-
+===  t;e;s;e;r;a
+§_Dutch_5 : Ossetic Digor 2165
+v;i;-;-;r
+c;u;p:;a;r
+===  -;-;v;i;r
+===  c;u;p:;a;r
+§_Dutch_7 : Serbo-Croatian 2167
+v;i;-;-;r;-
+ʧ;e;t;i;r;i
+===  -;-;v;i;r;-
+===  ʧ;e;t;i;r;i
+§_Dutch_8 : Breton 2168
+v;i;-;-;r
+p;eː;v;a;r
+===  -;-;v;i;r
+===  p;eː;v;a;r
+§_Dutch_9 : Old Irish 2169
+v;i;-;-;r
+k;e;θ;ə;r
+===  -;-;v;i;r
+===  k;e;θ;ə;r
+§_Old Swedish_2 : Old Church Slavonic 2242
+f;æ;mː;-;-
+p;ɛ~;-;t;ɪ
+===  f;æ;mː;-
+===  p;ɛ~;t;ɪ
+§_Old Swedish_3 : Russian 2243
+f;æ;mː;-
+pʲ;a;-;tʲ
+===  f;æ;mː
+===  pʲ;a;tʲ
+§_Old Swedish_6 : Bulgarian 2246
+f;æ;mː;-
+p;ɛ;-;t
+===  f;æ;mː
+===  p;ɛ;t
+§_Old Swedish_7 : Czech 2247
+f;æ;mː;-
+p;j͜ɛ;-;t
+===  f;æ;mː
+===  p;j͜ɛ;t
+§_English_8 : Swedish 2258
+f;aɪ̯;-;v
+f;ɛ;mː;-
+===  f;aɪ̯;v
+===  f;ɛ;mː
+§_Norwegian Riksmal_0 : Portuguese 2260
+f;ɛ;mː;-;-
+s;i~;-;k;u
+===  f;ɛ;mː;-
+===  s;i~;k;u
+§_Norwegian Riksmal_1 : Slovak 2261
+f;ɛ;mː;-
+p;æ;-;c
+===  f;ɛ;mː
+===  p;æ;c
+§_Norwegian Riksmal_7 : Czech 2267
+f;ɛ;mː;-
+p;j͜ɛ;-;t
+===  f;ɛ;mː
+===  p;j͜ɛ;t
+§_Norwegian Riksmal_8 : Marathi 2268
+f;ɛ;mː;-
+p;a;-;ʦ
+===  f;ɛ;mː
+===  p;a;ʦ
+§_Stavangersk_0 : Serbo-Croatian 2270
+f;ɛ;mː;-
+p;ɛː;-;t
+===  f;ɛ;mː
+===  p;ɛː;t
+§_Stavangersk_3 : Frisian 2273
+f;ɛ;mː;-
+f;i:;-;f
+===  f;ɛ;mː
+===  f;i:;f
+§_Stavangersk_4 : Hindi 2274
+f;ɛ;mː;-
+p;a~;-;ʧ
+===  f;ɛ;mː
+===  p;a~;ʧ
+§_Stavangersk_5 : [Legacy] Serbian 2275
+f;ɛ;mː;-
+p;e:;-;t
+===  f;ɛ;mː
+===  p;e:;t
+§_Stavangersk_6 : Slovak 2276
+f;ɛ;mː;-
+p;æ;-;c
+===  f;ɛ;mː
+===  p;æ;c
+§_Stavangersk_7 : [Legacy] Albanian T 2277
+f;ɛ;mː;-;-
+p;ɛ;-;s;ə
+===  f;ɛ;mː;-
+===  p;ɛ;s;ə
+§_Stavangersk_8 : Macedonian 2278
+f;ɛ;mː;-
+p;e;-;t
+===  f;ɛ;mː
+===  p;e;t
+§_Stavangersk_9 : Old Church Slavonic 2279
+f;ɛ;mː;-;-
+p;ɛ~;-;t;ɪ
+===  f;ɛ;mː;-
+===  p;ɛ~;t;ɪ
+§_Swedish_1 : Frisian 2281
+f;ɛ;mː;-
+f;i:;-;f
+===  f;ɛ;mː
+===  f;i:;f
+§_Swedish_3 : Old Irish 2283
+f;ɛ;mː;-
+k;o:;-;g
+===  f;ɛ;mː
+===  k;o:;g
+§_Swedish_4 : Russian 2284
+f;ɛ;mː;-
+pʲ;a;-;tʲ
+===  f;ɛ;mː
+===  pʲ;a;tʲ
+§_Swedish_6 : Dutch 2286
+f;ɛ;mː;-
+v;ɛi̯;-;f
+===  f;ɛ;mː
+===  v;ɛi̯;f
+§_Swedish_8 : Old Church Slavonic 2288
+f;ɛ;mː;-;-
+p;ɛ~;-;t;ɪ
+===  f;ɛ;mː;-
+===  p;ɛ~;t;ɪ
+§_Elfdalian_3 : Slovak 2293
+f;ɛ;mː;-
+p;æ;-;c
+===  f;ɛ;mː
+===  p;æ;c
+§_Elfdalian_5 : Ukrainian 2295
+f;ɛ;mː;-
+p;j͜a;-;tʲ
+===  f;ɛ;mː
+===  p;j͜a;tʲ
+§_Elfdalian_8 : Marathi 2298
+f;ɛ;mː;-
+p;a;-;ʦ
+===  f;ɛ;mː
+===  p;a;ʦ
+§_Elfdalian_9 : [Legacy] Albanian T 2299
+f;ɛ;mː;-;-
+p;ɛ;-;s;ə
+===  f;ɛ;mː;-
+===  p;ɛ;s;ə
+§_Gutnish Lau_1 : Nepali 2301
+f;ɛ;mː;-
+p;a~;-;ʧ
+===  f;ɛ;mː
+===  p;a~;ʧ
+§_Gutnish Lau_2 : Marathi 2302
+f;ɛ;mː;-
+p;a;-;ʦ
+===  f;ɛ;mː
+===  p;a;ʦ
+§_Gutnish Lau_3 : Bulgarian 2303
+f;ɛ;mː;-
+p;ɛ;-;t
+===  f;ɛ;mː
+===  p;ɛ;t
+§_Gutnish Lau_4 : English 2304
+f;ɛ;mː;-
+f;aɪ̯;-;v
+===  f;ɛ;mː
+===  f;aɪ̯;v
+§_Gutnish Lau_6 : Portuguese 2306
+f;ɛ;mː;-;-
+s;i~;-;k;u
+===  f;ɛ;mː;-
+===  s;i~;k;u
+§_Gutnish Lau_7 : Hindi 2307
+f;ɛ;mː;-
+p;a~;-;ʧ
+===  f;ɛ;mː
+===  p;a~;ʧ
+§_Gutnish Lau_9 : [Legacy] Serbian 2309
+f;ɛ;mː;-
+p;e:;-;t
+===  f;ɛ;mː
+===  p;e:;t
+§_Frisian_7 : Norwegian Riksmal 2317
+f;i:;-;f
+f;ɛ;mː;-
+===  f;i:;f
+===  f;ɛ;mː
+§_Old Norse_2 : Frisian 2322
+f;i;mː;-
+f;i:;-;f
+===  f;i;mː
+===  f;i:;f
+§_Old Norse_7 : Slovak 2327
+f;i;mː;-
+p;æ;-;c
+===  f;i;mː
+===  p;æ;c
+§_Icelandic_3 : Hindi 2333
+f;ɪ;mː;-
+p;a~;-;ʧ
+===  f;ɪ;mː
+===  p;a~;ʧ
+§_Icelandic_4 : French 2334
+f;ɪ;mː;-
+s;ɛ~;-;k
+===  f;ɪ;mː
+===  s;ɛ~;k
+§_Icelandic_6 : Irish 2336
+f;ɪ;mː;-
+k;uː;-;ɟ
+===  f;ɪ;mː
+===  k;uː;ɟ
+§_Icelandic_9 : Old Irish 2339
+f;ɪ;mː;-
+k;o:;-;g
+===  f;ɪ;mː
+===  k;o:;g
+§_Faroese_0 : Ukrainian 2340
+f;ɪ;mː;-
+p;j͜a;-;tʲ
+===  f;ɪ;mː
+===  p;j͜a;tʲ
+§_Faroese_1 : Dutch 2341
+f;ɪ;mː;-
+v;ɛi̯;-;f
+===  f;ɪ;mː
+===  v;ɛi̯;f
+§_Faroese_2 : Macedonian 2342
+f;ɪ;mː;-
+p;e;-;t
+===  f;ɪ;mː
+===  p;e;t
+§_Faroese_3 : [Legacy] Albanian T 2343
+f;ɪ;mː;-;-
+p;ɛ;-;s;ə
+===  f;ɪ;mː;-
+===  p;ɛ;s;ə
+§_Faroese_5 : Hindi 2345
+f;ɪ;mː;-
+p;a~;-;ʧ
+===  f;ɪ;mː
+===  p;a~;ʧ
+§_Old Irish_1 : Norwegian Riksmal 2421
+k;o:;-;g
+f;ɛ;mː;-
+===  k;o:;g
+===  f;ɛ;mː
+§_Old Irish_4 : Elfdalian 2424
+k;o:;-;g
+f;ɛ;mː;-
+===  k;o:;g
+===  f;ɛ;mː
+§_Old Irish_6 : Old Swedish 2426
+k;o:;-;g
+f;æ;mː;-
+===  k;o:;g
+===  f;æ;mː
+§_Scottish Gaelic_1 : Elfdalian 2431
+k;oː;-;gʲ
+f;ɛ;mː;-
+===  k;oː;gʲ
+===  f;ɛ;mː
+§_Irish_6 : Faroese 2446
+k;uː;-;ɟ
+f;ɪ;mː;-
+===  k;uː;ɟ
+===  f;ɪ;mː
+§_Bihari_1 : Old Swedish 2451
+p;a~;-;c
+f;æ;mː;-
+===  p;a~;c
+===  f;æ;mː
+§_Bihari_5 : Stavangersk 2455
+p;a~;-;c
+f;ɛ;mː;-
+===  p;a~;c
+===  f;ɛ;mː
+§_Slovak_2 : Stavangersk 2462
+p;æ;-;c
+f;ɛ;mː;-
+===  p;æ;c
+===  f;ɛ;mː
+§_Slovak_4 : Norwegian Riksmal 2464
+p;æ;-;c
+f;ɛ;mː;-
+===  p;æ;c
+===  f;ɛ;mː
+§_Sinhalese_8 : Stavangersk 2478
+p;a;-;h;a
+f;ɛ;mː;-;-
+===  p;a;h;a;-
+===  -;-;f;ɛ;mː
+§_Assamese_5 : Faroese 2495
+p;a;-;s
+f;ɪ;mː;-
+===  p;a;s
+===  f;ɪ;mː
+§_Assamese_8 : Old Norse 2498
+p;a;-;s
+f;i;mː;-
+===  p;a;s
+===  f;i;mː
+§_Nepali_6 : Old Norse 2516
+p;a~;-;ʧ
+f;i;mː;-
+===  p;a~;ʧ
+===  f;i;mː
+§_Nepali_7 : Swedish 2517
+p;a~;-;ʧ
+f;ɛ;mː;-
+===  p;a~;ʧ
+===  f;ɛ;mː
+§_Hindi_5 : Old Swedish 2525
+p;a~;-;ʧ
+f;æ;mː;-
+===  p;a~;ʧ
+===  f;æ;mː
+§_Magahi_5 : Swedish 2545
+p;ɑ~;-;c
+f;ɛ;mː;-
+===  p;ɑ~;c
+===  f;ɛ;mː
+§_[Legacy] Serbian_4 : Old Norse 2564
+p;e:;-;t
+f;i;mː;-
+===  p;e:;t
+===  f;i;mː
+§_[Legacy] Serbian_6 : Norwegian Riksmal 2566
+p;e:;-;t
+f;ɛ;mː;-
+===  p;e:;t
+===  f;ɛ;mː
+§_Slovenian_0 : Gutnish Lau 2570
+p;eː;-;t
+f;ɛ;mː;-
+===  p;eː;t
+===  f;ɛ;mː
+§_Slovenian_2 : Swedish 2572
+p;eː;-;t
+f;ɛ;mː;-
+===  p;eː;t
+===  f;ɛ;mː
+§_Slovenian_4 : Old Swedish 2574
+p;eː;-;t
+f;æ;mː;-
+===  p;eː;t
+===  f;æ;mː
+§_Macedonian_9 : Swedish 2609
+p;e;-;t
+f;ɛ;mː;-
+===  p;e;t
+===  f;ɛ;mː
+§_[Legacy] Albanian T_9 : Faroese 2649
+p;ɛ;-;s;ə
+f;ɪ;mː;-;-
+===  p;ɛ;s;ə
+===  f;ɪ;mː;-
+§_Bulgarian_7 : Old Swedish 2657
+p;ɛ;-;t
+f;æ;mː;-
+===  p;ɛ;t
+===  f;æ;mː
+§_Old Church Slavonic_1 : Icelandic 2661
+p;ɛ~;-;t;ɪ
+f;ɪ;mː;-;-
+===  p;ɛ~;t;ɪ
+===  f;ɪ;mː;-
+§_Sorbian Lower_0 : Swedish 2670
+p;ɪ;-;ɕ
+f;ɛ;mː;-
+===  p;ɪ;ɕ
+===  f;ɛ;mː
+§_Sorbian Lower_7 : Gutnish Lau 2677
+p;ɪ;-;ɕ
+f;ɛ;mː;-
+===  p;ɪ;ɕ
+===  f;ɛ;mː
+§_Russian_0 : Gutnish Lau 2710
+pʲ;a;-;tʲ
+f;ɛ;mː;-
+===  pʲ;a;tʲ
+===  f;ɛ;mː
+§_Russian_2 : Old Swedish 2712
+pʲ;a;-;tʲ
+f;æ;mː;-
+===  pʲ;a;tʲ
+===  f;æ;mː
+§_Russian_5 : Swedish 2715
+pʲ;a;-;tʲ
+f;ɛ;mː;-
+===  pʲ;a;tʲ
+===  f;ɛ;mː
+§_Belarusian_3 : Swedish 2723
+pʲ;a;-;ʦʲ
+f;ɛ;mː;-
+===  pʲ;a;ʦʲ
+===  f;ɛ;mː
+§_Belarusian_4 : Elfdalian 2724
+pʲ;a;-;ʦʲ
+f;ɛ;mː;-
+===  pʲ;a;ʦʲ
+===  f;ɛ;mː
+§_Belarusian_5 : Norwegian Riksmal 2725
+pʲ;a;-;ʦʲ
+f;ɛ;mː;-
+===  pʲ;a;ʦʲ
+===  f;ɛ;mː
+§_Czech_8 : Elfdalian 2748
+p;j͜ɛ;-;t
+f;ɛ;mː;-
+===  p;j͜ɛ;t
+===  f;ɛ;mː
+§_Czech_9 : Swedish 2749
+p;j͜ɛ;-;t
+f;ɛ;mː;-
+===  p;j͜ɛ;t
+===  f;ɛ;mː
+§_French_0 : Old Swedish 2750
+s;ɛ~;-;k
+f;æ;mː;-
+===  s;ɛ~;k
+===  f;æ;mː
+§_Dutch_3 : Norwegian Riksmal 2793
+v;ɛi̯;-;f
+f;ɛ;mː;-
+===  v;ɛi̯;f
+===  f;ɛ;mː
+§_Dutch_6 : Old Swedish 2796
+v;ɛi̯;-;f
+f;æ;mː;-
+===  v;ɛi̯;f
+===  f;æ;mː
+§_armenian_0 : sindhi 2800
+-;v;ɛ;ʦʰ
+ʧʰ;-;ə;-
+===  v;ɛ;ʦʰ
+===  ʧʰ;ə;-
+§_armenian_1 : westenr frisian 2801
+-;v;ɛ;ʦʰ
+s;-;ɛj̯;s
+===  v;ɛ;ʦʰ
+===  s;ɛj̯;s
+§_armenian_2 : french 2802
+-;v;ɛ;ʦʰ
+s;-;i;s
+===  v;ɛ;ʦʰ
+===  s;i;s
+§_armenian_3 : greek 2803
+v;ɛ;-;ʦʰ;-
+-;ɛ;k;s;i
+===  -;v;ɛ;ʦʰ;-
+===  ɛ;k;-;s;i
+§_armenian_4 : Cimbrian 2804
+-;v;ɛ;-;ʦʰ;-
+z;-;ɛ;k;s;e
+===  v;ɛ;ʦʰ;-;-
+===  z;ɛ;k;s;e
+§_armenian_5 : gilaki 2805
+-;v;ɛ;ʦʰ
+ʃ;-;i;ʃ
+===  v;ɛ;ʦʰ
+===  ʃ;i;ʃ
+§_armenian_6 : pashai 2806
+-;v;ɛ;ʦʰ
+ʃ;-;o;-
+===  v;ɛ;ʦʰ
+===  ʃ;o;-
+§_armenian_7 : luxembourgish 2807
+-;v;ɛ;-;ʦʰ
+z;-;ɛ;k;s
+===  v;ɛ;ʦʰ;-
+===  z;ɛ;k;s
+§_armenian_8 : latvian 2808
+-;v;ɛ;ʦʰ;-
+s;-;e;ʃː;i
+===  v;ɛ;ʦʰ;-
+===  s;e;ʃː;i
+§_armenian_9 : western farsi 2809
+-;v;ɛ;ʦʰ
+ʃ;-;i;ʃ
+===  v;ɛ;ʦʰ
+===  ʃ;i;ʃ
+§_sinhala_0 : greek 2810
+h;a;-;-;j͜ə
+-;ɛ;k;s;i
+===  -;-;h;a;j͜ə
+===  ɛ;k;s;i;-
+§_sinhala_2 : Dutch 2812
+h;a;-;j͜ə
+z;ɛ;s;-
+===  h;a;j;-
+===  z;ɛ;-;s
+§_sinhala_4 : norvegian 2814
+h;a;-;-;j͜ə
+s;ɛ;k;s;-
+===  h;a;-;j;-
+===  s;ɛ;k;-;s
+§_sinhala_5 : gilaki 2815
+h;a;-;j͜ə
+ʃ;i;ʃ;-
+===  h;a;j;-
+===  ʃ;i;-;ʃ
+§_sinhala_6 : Kashubian 2816
+h;a;-;j͜ə;-
+ʃ;ɛ;s;-;ʦ
+===  h;a;-;j;-
+===  ʃ;ɛ;s;-;ʦ
+§_sinhala_7 : french 2817
+h;a;-;j͜ə
+s;i;s;-
+===  h;a;j;-
+===  s;i;-;s
+§_sinhala_8 : Polish 2818
+h;a;-;j͜ə;-
+ʃ;e;ɕ;-;ʨ
+===  h;a;-;j;-
+===  ʃ;e;ɕ;-;ʨ
+§_pashai_0 : sinhala 2820
+ʃ;o;-
+h;a;j͜ə
+===  ʃ;-;o
+===  h;a;j͜ə
+§_pashai_1 : latvian 2821
+ʃ;o;-;-
+s;e;ʃː;i
+===  -;-;ʃ;o
+===  s;e;ʃː;i
+§_pashai_5 : greek 2825
+ʃ;o;-;-;-
+-;ɛ;k;s;i
+===  -;-;ʃ;o
+===  ɛ;k;s;i
+§_sindhi_1 : latvian 2831
+ʧʰ;ə;-;-
+s;e;ʃː;i
+===  -;-;ʧʰ;ə
+===  s;e;ʃː;i
+§_sindhi_9 : albanian 2839
+ʧʰ;ə;-;-;-
+ɟ;a;ʃ;t;ə
+===  -;-;-;ʧʰ;ə
+===  ɟ;a;ʃ;t;ə
+§_pashto_2 : Cimbrian 2852
+ʃ;p;a;-;ʐ;-
+z;-;ɛ;k;s;e
+===  ʃ;-;p;a;ʐ;-
+===  z;ɛ;k;-;s;e
+§_pashto_7 : norvegian 2857
+ʃ;p;a;-;ʐ
+s;-;ɛ;k;s
+===  ʃ;-;p;a;ʐ
+===  s;ɛ;k;-;s
+§_central kurdish_6 : greek 2876
+ʃ;æ;-;ʃ;-
+-;ɛ;k;s;i
+===  -;ʃ;æ;ʃ;-
+===  ɛ;k;-;s;i
+§_albanian_0 : swiss-german 2890
+ɟ;a;-;ʃ;t;ə
+s;æ;χ;s;-;-
+===  ɟ;a;ʃ;t;ə
+===  s;æ;χ;s;-
+§_albanian_2 : italian 2892
+ɟ;a;ʃ;t;ə
+s;ɛi̯;-;-;-
+===  ɟ;a;ʃ;t;ə
+===  -;-;s;-;ɛi̯
+§_albanian_3 : sinhala 2893
+ɟ;a;ʃ;-;t;ə
+h;a;-;j͜ə;-;-
+===  ɟ;a;ʃ;t;ə
+===  h;a;-;-;j͜ə
+§_albanian_6 : Irish 2896
+-;ɟ;a;ʃ;t;ə
+ə;ʃ;e;-;-;-
+===  ɟ;a;ʃ;t;ə
+===  -;ə;ʃ;-;e
+§_albanian_7 : pashai 2897
+ɟ;a;ʃ;t;ə
+ʃ;o;-;-;-
+===  ɟ;a;ʃ;t;ə
+===  -;-;ʃ;-;o
+§_albanian_8 : norvegian 2898
+ɟ;a;-;ʃ;t;ə
+s;ɛ;k;s;-;-
+===  ɟ;a;ʃ;t;ə
+===  s;ɛ;k;s;-
+§_albanian_9 : sassarese sardinian 2899
+ɟ;a;ʃ;t;ə
+s;ɛi̯;-;-;-
+===  ɟ;a;ʃ;t;ə
+===  -;-;s;-;ɛi̯
+§_greek_0 : lithuanian 2900
+-;ɛ;k;s;i
+ʃʲ;ɛ;-;ʃʲ;ɪ
+===  ɛ;k;-;s;i
+===  -;ʃʲ;ɛ;ʃʲ;ɪ
+§_greek_2 : Kashubian 2902
+-;ɛ;k;s;i;-
+ʃ;ɛ;-;s;-;ʦ
+===  -;ɛ;k;s;i
+===  ʃ;ɛ;s;ʦ;-
+§_greek_3 : Dutch 2903
+-;ɛ;k;s;i
+z;ɛ;-;s;-
+===  ɛ;k;-;s;i
+===  -;z;ɛ;s;-
+§_greek_5 : russian 2905
+-;ɛ;k;s;i;-
+ʂ;ɛ;-;sʲ;-;tʲ
+===  -;ɛ;k;s;i
+===  ʂ;ɛ;sʲ;tʲ;-
+§_greek_6 : Irish 2906
+-;-;ɛ;k;s;i
+ə;ʃ;e;-;-;-
+===  ɛ;k;s;i
+===  ə;-;ʃ;e
+§_greek_7 : latvian 2907
+-;ɛ;k;s;i
+s;e;-;ʃː;i
+===  ɛ;k;-;s;i
+===  -;s;e;ʃː;i
+§_greek_8 : Rumanian 2908
+-;ɛ;k;s;i
+ʃ;a;-;s;e
+===  ɛ;k;-;s;i
+===  -;ʃ;a;s;e
+§_greek_9 : gilaki 2909
+-;ɛ;k;s;i
+ʃ;i;-;ʃ;-
+===  ɛ;k;-;s;i
+===  -;ʃ;i;ʃ;-
+§_latin_4 : Bulgarian 2914
+s;ɛ;k;s;-
+ʃ;e;-;s;t
+===  s;ɛ;k;s
+===  ʃ;e;s;t
+§_Rumanian_0 : russian 2920
+ʃ;a;s;e;-
+ʂ;ɛ;sʲ;-;tʲ
+===  ʃ;a;s;e;-
+===  ʂ;ɛ;sʲ;-;t
+§_Rumanian_6 : sassarese sardinian 2926
+ʃ;a;s;e
+s;ɛi̯;-;-
+===  ʃ;a;s;e
+===  -;-;s;ɛi̯
+§_Rumanian_9 : Irish 2929
+-;ʃ;a;s;e
+ə;ʃ;e;-;-
+===  ʃ;a;s;e
+===  -;ə;ʃ;e
+§_italian_2 : albanian 2932
+s;ɛi̯;-;-;-
+ɟ;a;ʃ;t;ə
+===  -;-;s;-;ɛi̯
+===  ɟ;a;ʃ;t;ə
+§_italian_9 : greek 2939
+s;ɛi̯;-;-;-
+-;ɛ;k;s;i
+===  -;-;s;ɛi̯
+===  ɛ;k;s;i
+§_asturian_8 : sinhala 2978
+s;ei̯;s;-
+h;a;-;j͜ə
+===  s;ei̯;s;-
+===  h;a;-;j
+§_sassarese sardinian_0 : greek 2980
+s;ɛi̯;-;-;-
+-;ɛ;k;s;i
+===  -;-;s;ɛi̯
+===  ɛ;k;s;i
+§_Breton_8 : german 2998
+x;w͜ɛː;-;x
+z;e;k;s
+===  x;w͜ɛː;x;-
+===  z;e;k;s
+§_Irish_4 : Cimbrian 3004
+ə;ʃ;e;-;-;-
+-;z;ɛ;k;s;e
+===  -;ə;-;ʃ;e
+===  z;ɛ;k;s;e
+§_manx_4 : greek 3014
+ʃ;eː;-;-;-
+-;ɛ;k;s;i
+===  -;-;ʃ;eː
+===  ɛ;k;s;i
+§_english_8 : russian 3028
+s;ɪ;k;s;-
+ʂ;ɛ;-;sʲ;tʲ
+===  s;ɪ;k;s
+===  ʂ;ɛ;sʲ;tʲ
+§_german_4 : Polish 3044
+z;e;k;s;-
+ʃ;e;-;ɕ;ʨ
+===  z;e;k;s
+===  ʃ;e;ɕ;ʨ
+§_luxembourgish_3 : Bulgarian 3053
+z;ɛ;k;s;-
+ʃ;e;-;s;t
+===  z;ɛ;k;s
+===  ʃ;e;s;t
+§_luxembourgish_9 : russian 3059
+z;ɛ;k;s;-
+ʂ;ɛ;-;sʲ;tʲ
+===  z;ɛ;k;s
+===  ʂ;ɛ;sʲ;tʲ
+§_swiss-german_2 : Serbo-Croatian 3062
+s;æ;χ;s;-
+ʃ;eː;-;s;t
+===  s;æ;χ;s
+===  ʃ;eː;s;t
+§_Cimbrian_1 : sindhi 3071
+z;ɛ;k;s;e
+ʧʰ;ə;-;-;-
+===  z;ɛ;k;s;e
+===  -;-;ʧʰ;-;ə
+§_Cimbrian_2 : manx 3072
+z;ɛ;k;s;e
+ʃ;eː;-;-;-
+===  z;ɛ;k;s;e
+===  -;-;-;ʃ;eː
+§_Cimbrian_4 : Polish 3074
+z;ɛ;k;s;e;-
+ʃ;e;-;ɕ;-;ʨ
+===  z;ɛ;k;s;e
+===  ʃ;e;ɕ;ʨ;-
+§_Cimbrian_6 : albanian 3076
+z;ɛ;k;s;e;-;-
+ɟ;a;-;ʃ;-;t;ə
+===  z;ɛ;k;s;-;e
+===  ɟ;a;-;ʃ;t;ə
+§_Cimbrian_7 : pashto 3077
+z;-;ɛ;k;s;e
+ʃ;p;a;-;ʐ;-
+===  z;ɛ;k;-;s;e
+===  ʃ;-;p;a;ʐ;-
+§_Cimbrian_8 : Bulgarian 3078
+z;ɛ;k;s;e;-
+ʃ;e;-;s;-;t
+===  z;ɛ;k;s;e
+===  ʃ;e;s;t;-
+§_Dutch_2 : greek 3082
+z;ɛ;-;s;-
+-;ɛ;k;s;i
+===  -;z;ɛ;s;-
+===  ɛ;k;-;s;i
+§_Low Saxon_4 : greek 3094
+z;œ;-;s;-
+-;ɛ;k;s;i
+===  -;z;œ;s;-
+===  ɛ;k;-;s;i
+§_Icelandic_1 : Bulgarian 3101
+s;ɛ;x;s;-
+ʃ;e;-;s;t
+===  s;ɛ;x;s
+===  ʃ;e;s;t
+§_Icelandic_6 : Serbo-Croatian 3106
+s;ɛ;x;s;-
+ʃ;eː;-;s;t
+===  s;ɛ;x;s
+===  ʃ;eː;s;t
+§_norvegian_0 : albanian 3110
+s;ɛ;k;s;-;-
+ɟ;a;-;ʃ;t;ə
+===  s;ɛ;k;s;-
+===  ɟ;a;ʃ;t;ə
+§_norvegian_5 : Breton 3115
+s;ɛ;k;s
+x;w͜ɛː;-;x
+===  s;ɛ;k;s
+===  x;w͜ɛː;x;-
+§_norvegian_9 : Serbo-Croatian 3119
+s;ɛ;k;s;-
+ʃ;eː;-;s;t
+===  s;ɛ;k;s
+===  ʃ;eː;s;t
+§_latvian_6 : Irish 3126
+-;s;e;ʃː;i
+ə;ʃ;e;-;-
+===  s;e;ʃː;i
+===  -;ə;ʃ;e
+§_latvian_7 : sindhi 3127
+s;e;ʃː;i
+ʧʰ;ə;-;-
+===  s;e;ʃː;i
+===  -;-;ʧʰ;ə
+§_lithuanian_2 : albanian 3132
+ʃʲ;ɛ;ʃʲ;ɪ;-;-
+ɟ;a;ʃ;-;t;ə
+===  ʃʲ;ɛ;ʃʲ;-;ɪ
+===  ɟ;a;ʃ;t;ə
+§_lithuanian_3 : Irish 3133
+-;ʃʲ;ɛ;ʃʲ;ɪ
+ə;ʃ;e;-;-
+===  ʃʲ;ɛ;ʃʲ;ɪ
+===  -;ə;ʃ;e
+§_russian_1 : swiss-german 3141
+ʂ;ɛ;-;sʲ;tʲ
+s;æ;χ;s;-
+===  ʂ;ɛ;sʲ;tʲ
+===  s;æ;χ;s
+§_russian_2 : Cimbrian 3142
+ʂ;ɛ;-;sʲ;-;tʲ
+z;ɛ;k;s;e;-
+===  ʂ;ɛ;sʲ;tʲ;-
+===  z;ɛ;k;s;e
+§_russian_5 : latin 3145
+ʂ;ɛ;-;sʲ;tʲ
+s;ɛ;k;s;-
+===  ʂ;ɛ;sʲ;tʲ
+===  s;ɛ;k;s
+§_russian_6 : latvian 3146
+ʂ;ɛ;sʲ;-;tʲ
+s;e;ʃː;i;-
+===  ʂ;ɛ;sʲ;t;-
+===  s;e;ʃː;-;i
+§_russian_7 : sinhala 3147
+ʂ;ɛ;sʲ;-;tʲ
+h;a;-;j͜ə;-
+===  ʂ;ɛ;sʲ;t;-
+===  h;a;-;-;j
+§_russian_8 : norvegian 3148
+ʂ;ɛ;-;sʲ;tʲ
+s;ɛ;k;s;-
+===  ʂ;ɛ;sʲ;tʲ
+===  s;ɛ;k;s
+§_Kashubian_0 : sinhala 3150
+ʃ;ɛ;s;-;ʦ
+h;a;-;j͜ə;-
+===  ʃ;ɛ;s;ʦ;-
+===  h;a;-;-;j
+§_Kashubian_2 : german 3152
+ʃ;ɛ;-;s;ʦ
+z;e;k;s;-
+===  ʃ;ɛ;s;ʦ
+===  z;e;k;s
+§_Kashubian_7 : swiss-german 3157
+ʃ;ɛ;-;s;ʦ
+s;æ;χ;s;-
+===  ʃ;ɛ;s;ʦ
+===  s;æ;χ;s
+§_Polish_0 : lithuanian 3160
+ʃ;e;ɕ;-;ʨ
+ʃʲ;ɛ;ʃʲ;ɪ;-
+===  ʃ;e;ɕ;ʨ;-
+===  ʃʲ;ɛ;ʃʲ;-;ɪ
+§_Polish_5 : german 3165
+ʃ;e;-;ɕ;ʨ
+z;e;k;s;-
+===  ʃ;e;ɕ;ʨ
+===  z;e;k;s
+§_Polish_7 : Icelandic 3167
+ʃ;e;-;ɕ;ʨ
+s;ɛ;x;s;-
+===  ʃ;e;ɕ;ʨ
+===  s;ɛ;x;s
+§_Polish_9 : latvian 3169
+ʃ;e;ɕ;-;ʨ
+s;e;ʃː;i;-
+===  ʃ;e;ɕ;ʨ;-
+===  s;e;ʃː;-;i
+§_Bulgarian_0 : sinhala 3170
+ʃ;e;s;-;t
+h;a;-;j͜ə;-
+===  ʃ;e;s;t;-
+===  h;a;-;-;j
+§_Bulgarian_3 : lithuanian 3173
+ʃ;e;s;-;t
+ʃʲ;ɛ;ʃʲ;ɪ;-
+===  ʃ;e;s;t;-
+===  ʃʲ;ɛ;ʃʲ;-;ɪ
+§_Bulgarian_6 : Cimbrian 3176
+ʃ;e;-;s;-;t
+z;ɛ;k;s;e;-
+===  ʃ;e;s;t;-
+===  z;ɛ;k;s;e
+§_Bulgarian_7 : latin 3177
+ʃ;e;-;s;t
+s;ɛ;k;s;-
+===  ʃ;e;s;t
+===  s;ɛ;k;s
+§_Bulgarian_9 : swiss-german 3179
+ʃ;e;-;s;t
+s;æ;χ;s;-
+===  ʃ;e;s;t
+===  s;æ;χ;s
+§_Serbo-Croatian_2 : latvian 3182
+ʃ;eː;s;-;t
+s;e;ʃː;i;-
+===  ʃ;eː;s;t;-
+===  s;e;ʃː;-;i
+§_Serbo-Croatian_4 : greek 3184
+ʃ;eː;-;s;-;t
+-;ɛ;k;s;i;-
+===  ʃ;eː;s;t;-
+===  -;ɛ;k;s;i
+§_Serbo-Croatian_8 : luxembourgish 3188
+ʃ;eː;-;s;t
+z;ɛ;k;s;-
+===  ʃ;eː;s;t
+===  z;ɛ;k;s
+§_Serbo-Croatian_9 : Icelandic 3189
+ʃ;eː;-;s;t
+s;ɛ;x;s;-
+===  ʃ;eː;s;t
+===  s;ɛ;x;s
+§_armenian_2 : Dutch 3192
+-;j͜o;-;tʰ;ə
+z;e;v;-;ə
+===  -;j͜o;tʰ;ə
+===  z;e;v;ə
+§_armenian_7 : german 3197
+-;j͜o;-;tʰ;ə;-
+z;iː;b;-;-;n
+===  -;j͜o;tʰ;ə;-
+===  z;iː;b;-;n
+§_armenian_8 : russian 3198
+-;j͜o;tʰ;ə;-
+sʲ;ɛ;-;-;mʲ
+===  j͜o;tʰ;ə;-
+===  -;sʲ;ɛ;mʲ
+§_armenian_9 : norvegian 3199
+-;j͜o;-;tʰ;ə
+s;yː;v;-;-
+===  j͜o;tʰ;ə;-
+===  -;s;yː;v
+§_sinhala_0 : Low Saxon 3200
+h;a;-;t;ə;-
+z;øː;v;-;-;m
+===  h;a;t;ə;-
+===  z;øː;v;-;m
+§_sinhala_1 : norvegian 3201
+h;a;-;t;ə
+s;yː;v;-;-
+===  h;a;t;ə
+===  s;yː;v;-
+§_sinhala_2 : german 3202
+h;a;-;t;ə;-
+z;iː;b;-;-;n
+===  h;a;t;ə;-
+===  z;iː;b;-;n
+§_sinhala_4 : manx 3204
+h;a;-;t;ə
+ʃ;aː;x;-;-
+===  h;a;t;ə
+===  ʃ;aː;x;-
+§_sinhala_6 : Cimbrian 3206
+h;a;-;t;ə;-;-
+z;i;b;-;ɘ;n;e
+===  h;a;t;ə;-;-
+===  z;i;b;ɘ;n;e
+§_sinhala_7 : albanian 3207
+h;a;t;ə;-;-
+ʃ;-;t;a;t;ə
+===  h;-;a;t;ə
+===  ʃ;t;a;t;ə
+§_sinhala_8 : russian 3208
+h;a;t;ə;-
+sʲ;ɛ;-;-;mʲ
+===  h;a;t;ə;-
+===  sʲ;ɛ;-;-;m
+§_pashai_0 : Low Saxon 3210
+s;a;-;t;-
+z;øː;v;-;m
+===  s;a;t;-
+===  z;øː;v;m
+§_pashai_5 : german 3215
+s;a;-;t;-
+z;iː;b;-;n
+===  s;a;t;-
+===  z;iː;b;n
+§_pashai_7 : luxembourgish 3217
+s;a;-;t;-;-
+z;iː;v;-;ə;n
+===  s;a;t;-;-
+===  z;iː;v;ə;n
+§_pashai_9 : swiss-german 3219
+s;a;-;t;-
+s;ɪ;b;-;ə
+===  s;a;t;-
+===  s;ɪ;b;ə
+§_sindhi_8 : greek 3228
+s;ə;-;t;ə
+-;ɛ;f;t;a
+===  -;s;ə;t;ə
+===  ɛ;f;-;t;a
+§_sindhi_9 : manx 3229
+s;ə;-;t;ə
+ʃ;aː;x;-;-
+===  s;ə;t;ə
+===  ʃ;aː;x;-
+§_hindi_4 : gilaki 3234
+s;a;-;t̪
+h;a;f;-
+===  s;a;t̪
+===  h;a;f
+§_hindi_5 : german 3235
+s;a;-;t̪;-
+z;iː;b;-;n
+===  s;a;t̪;-
+===  z;iː;b;n
+§_hindi_6 : albanian 3236
+s;a;t̪;-;-;-
+ʃ;-;t;a;t;ə
+===  s;-;a;t̪;-
+===  ʃ;t;a;t;ə
+§_hindi_8 : norvegian 3238
+s;a;-;t̪
+s;yː;v;-
+===  s;a;t̪
+===  s;yː;v
+§_pashto_2 : Breton 3242
+-;o;-;w͜ə
+s;ei̯;s;-
+===  o;-;w͜ə;-
+===  -;s;ei̯;s
+§_pashto_4 : russian 3244
+-;o;w͜ə;-
+sʲ;ɛ;-;mʲ
+===  o;-;w͜ə;-
+===  -;sʲ;ɛ;mʲ
+§_pashto_5 : wallon 3245
+-;o;-;w͜ə
+s;ɛ;t;-
+===  o;-;w͜ə;-
+===  -;s;ɛ;t
+§_pashto_6 : hindi 3246
+-;o;-;w͜ə
+s;a;t̪;-
+===  o;-;w͜ə;-
+===  -;s;a;t̪
+§_pashto_7 : manx 3247
+-;o;-;w͜ə
+ʃ;aː;x;-
+===  o;-;w͜ə;-
+===  -;ʃ;aː;x
+§_pashto_9 : Irish 3249
+-;-;o;-;-;w͜ə
+ə;ʃ;ɑ;x;t̪;-
+===  o;-;w͜ə;-;-
+===  ə;ʃ;ɑ;x;t̪
+§_gilaki_1 : westenr frisian 3251
+h;a;f;-
+s;ɔː;-;n
+===  h;a;f
+===  s;ɔː;n
+§_gilaki_2 : Kashubian 3252
+h;a;f;-;-;-
+s;ɪ;-;t;m;ə
+===  h;a;f;-;-
+===  s;ɪ;t;m;ə
+§_gilaki_5 : hindi 3255
+h;a;f;-
+s;a;-;t̪
+===  h;a;f
+===  s;a;t̪
+§_gilaki_7 : Breton 3257
+h;a;f;-
+s;ei̯;-;s
+===  h;a;f
+===  s;ei̯;s
+§_central kurdish_0 : russian 3260
+h;æ;w;t;-
+sʲ;ɛ;-;-;mʲ
+===  h;æ;w;t
+===  sʲ;ɛ;mʲ;-
+§_central kurdish_3 : english 3263
+h;æ;w;t;-
+s;e;v;-;n
+===  h;æ;w;t
+===  s;e;v;n
+§_central kurdish_6 : westenr frisian 3266
+h;æ;w;t;-
+s;ɔː;-;-;n
+===  h;æ;w;t
+===  s;ɔː;n;-
+§_central kurdish_7 : Low Saxon 3267
+h;æ;w;t;-
+z;øː;v;-;m
+===  h;æ;w;t
+===  z;øː;v;m
+§_western farsi_0 : westenr frisian 3270
+h;æ;f;t;-
+s;ɔː;-;-;n
+===  h;æ;f;t
+===  s;ɔː;n;-
+§_western farsi_1 : english 3271
+h;æ;f;t;-
+s;e;v;-;n
+===  h;æ;f;t
+===  s;e;v;n
+§_albanian_0 : german 3280
+ʃ;-;-;t;a;-;t;ə
+z;iː;b;-;-;n;-;-
+===  ʃ;t;a;t;ə;-
+===  z;-;iː;b;-;n
+§_albanian_1 : norvegian 3281
+ʃ;-;-;t;a;t;ə
+s;yː;v;-;-;-;-
+===  ʃ;t;a;t;ə
+===  s;-;yː;v;-
+§_albanian_2 : Kashubian 3282
+ʃ;-;t;a;-;t;ə
+s;ɪ;t;-;m;-;ə
+===  ʃ;t;a;t;-;ə
+===  s;-;ɪ;t;m;ə
+§_albanian_3 : french 3283
+ʃ;-;t;a;t;ə
+s;ɛ;t;-;-;-
+===  ʃ;t;a;t;ə
+===  s;-;ɛ;t;-
+§_albanian_4 : italian 3284
+ʃ;-;t;a;t;ə
+s;ɛ;tː;e;-;-
+===  ʃ;t;a;t;ə
+===  s;-;ɛ;tː;e
+§_albanian_5 : Bulgarian 3285
+ʃ;-;t;a;-;t;ə
+s;e;d;e;m;-;-
+===  ʃ;t;a;t;ə;-
+===  s;-;e;d;e;m
+§_albanian_6 : lithuanian 3286
+ʃ;-;-;t;a;-;t;ə
+sʲ;ɛ;p;tʲ;iː;nʲ;-;ɪ
+===  ʃ;-;t;a;t;ə;-;-
+===  sʲ;ɛ;p;-;tʲ;iː;nʲ;ɪ
+§_albanian_7 : sindhi 3287
+ʃ;-;t;a;t;ə
+s;ə;t;ə;-;-
+===  ʃ;t;a;t;ə
+===  s;-;ə;t;ə
+§_albanian_8 : Icelandic 3288
+ʃ;-;t;a;t;ə
+s;j͜œː;-;-;-;-
+===  ʃ;t;a;t;ə
+===  s;-;j͜œː;-;-
+§_albanian_9 : gilaki 3289
+ʃ;-;-;t;a;t;ə
+h;a;f;-;-;-;-
+===  ʃ;t;a;t;ə
+===  h;-;a;f;-
+§_greek_0 : westenr frisian 3290
+-;ɛ;f;t;a;-
+s;ɔː;-;-;-;n
+===  ɛ;f;t;a;-
+===  -;-;s;ɔː;n
+§_greek_3 : Breton 3293
+-;ɛ;f;t;a
+s;ei̯;-;s;-
+===  ɛ;f;-;t;a
+===  -;s;ei̯;s;-
+§_greek_4 : sinhala 3294
+-;ɛ;f;t;a
+h;a;-;t;ə
+===  ɛ;f;-;t;a
+===  -;h;a;t;ə
+§_greek_5 : Sicilian 3295
+-;ɛ;f;t;a
+s;ɛ;-;tː;i
+===  ɛ;f;-;t;a
+===  -;s;ɛ;tː;i
+§_greek_7 : german 3297
+-;ɛ;f;t;a;-
+z;iː;b;-;-;n
+===  ɛ;f;-;t;a;-
+===  -;z;iː;b;-;n
+§_greek_8 : hindi 3298
+-;ɛ;f;t;a
+s;a;-;t̪;-
+===  ɛ;f;-;t;a
+===  -;s;a;t̪;-
+§_greek_9 : asturian 3299
+-;ɛ;f;t;a
+s;j͜e;-;t;e
+===  ɛ;f;-;t;a
+===  -;s;j͜e;t;e
+§_latin_2 : Cimbrian 3302
+s;ɛ;p;t̪;ɛ~ː;-;-
+z;i;b;-;ɘ;n;e
+===  s;ɛ;p;-;t̪;ɛ~ː
+===  z;i;b;ɘ;n;e
+§_latin_5 : russian 3305
+s;ɛ;p;t̪;ɛ~ː;-
+sʲ;ɛ;-;-;-;mʲ
+===  s;ɛ;p;t̪;ɛ~ː
+===  sʲ;ɛ;mʲ;-;-
+§_latin_7 : Kashubian 3307
+s;ɛ;p;t̪;ɛ~ː;-;-
+s;ɪ;-;t;-;m;ə
+===  s;ɛ;p;t̪;-;ɛ~ː
+===  s;ɪ;-;t;m;ə
+§_latin_8 : westenr frisian 3308
+s;ɛ;p;t̪;ɛ~ː;-
+s;ɔː;-;-;-;n
+===  s;ɛ;p;t̪;ɛ~ː
+===  s;ɔː;n;-;-
+§_Rumanian_2 : Cimbrian 3312
+ʃ;a;p;t;e;-;-
+z;i;b;-;ɘ;n;e
+===  ʃ;a;p;-;t;e
+===  z;i;b;ɘ;n;e
+§_Rumanian_7 : english 3317
+ʃ;a;p;t;e;-
+s;e;v;-;-;n
+===  ʃ;a;p;t;e
+===  s;e;v;n;-
+§_italian_4 : swiss-german 3324
+s;ɛ;-;tː;e
+s;ɪ;b;-;ə
+===  s;ɛ;tː;e
+===  s;ɪ;b;ə
+§_italian_7 : Low Saxon 3327
+s;ɛ;-;tː;e;-
+z;øː;v;-;-;m
+===  s;ɛ;tː;e;-
+===  z;øː;v;-;m
+§_italian_9 : german 3329
+s;ɛ;-;tː;e;-
+z;iː;b;-;-;n
+===  s;ɛ;tː;e;-
+===  z;iː;b;-;n
+§_Sicilian_0 : albanian 3330
+s;ɛ;tː;i;-;-
+ʃ;-;t;a;t;ə
+===  s;-;ɛ;tː;i
+===  ʃ;t;a;t;ə
+§_Sicilian_3 : manx 3333
+s;ɛ;-;tː;i
+ʃ;aː;x;-;-
+===  s;ɛ;tː;i
+===  ʃ;aː;x;-
+§_Sicilian_4 : german 3334
+s;ɛ;-;tː;i;-
+z;iː;b;-;-;n
+===  s;ɛ;tː;i;-
+===  z;iː;b;-;n
+§_Sicilian_5 : Kashubian 3335
+s;ɛ;tː;i;-;-
+s;ɪ;t;-;m;ə
+===  s;ɛ;tː;-;i
+===  s;ɪ;t;m;ə
+§_Sicilian_9 : gilaki 3339
+s;ɛ;-;tː;i
+h;a;f;-;-
+===  s;ɛ;tː;i
+===  h;a;f;-
+§_french_0 : Dutch 3340
+s;ɛ;-;t;-
+z;e;v;-;ə
+===  s;ɛ;t;-
+===  z;e;v;ə
+§_french_1 : russian 3341
+s;ɛ;t;-
+sʲ;ɛ;-;mʲ
+===  s;ɛ;t
+===  sʲ;ɛ;mʲ
+§_french_2 : norvegian 3342
+s;ɛ;-;t
+s;yː;v;-
+===  s;ɛ;t
+===  s;yː;v
+§_french_3 : Icelandic 3343
+s;ɛ;t;-
+s;j͜œː;-;-
+===  s;ɛ;t
+===  s;j͜œː;-
+§_french_6 : manx 3346
+s;ɛ;-;t
+ʃ;aː;x;-
+===  s;ɛ;t
+===  ʃ;aː;x
+§_wallon_0 : german 3350
+s;ɛ;-;t;-
+z;iː;b;-;n
+===  s;ɛ;t;-
+===  z;iː;b;n
+§_wallon_1 : westenr frisian 3351
+s;ɛ;t;-
+s;ɔː;-;n
+===  s;ɛ;t
+===  s;ɔː;n
+§_wallon_4 : greek 3354
+s;ɛ;-;t;-
+-;ɛ;f;t;a
+===  -;s;ɛ;t;-
+===  ɛ;f;-;t;a
+§_wallon_5 : albanian 3355
+s;ɛ;t;-;-;-
+ʃ;-;t;a;t;ə
+===  s;-;ɛ;t;-
+===  ʃ;t;a;t;ə
+§_wallon_6 : Low Saxon 3356
+s;ɛ;-;t;-
+z;øː;v;-;m
+===  s;ɛ;t;-
+===  z;øː;v;m
+§_asturian_4 : albanian 3364
+s;j͜e;t;e;-;-
+ʃ;-;t;a;t;ə
+===  s;-;j͜e;t;e
+===  ʃ;t;a;t;ə
+§_asturian_5 : Dutch 3365
+s;j͜e;-;t;e
+z;e;v;-;ə
+===  s;j͜e;t;e
+===  z;e;v;ə
+§_asturian_7 : greek 3367
+s;j͜e;-;t;e
+-;ɛ;f;t;a
+===  -;s;j͜e;t;e
+===  ɛ;f;-;t;a
+§_asturian_8 : norvegian 3368
+s;j͜e;-;t;e
+s;yː;v;-;-
+===  s;j͜e;t;e
+===  s;yː;v;-
+§_sassarese sardinian_2 : westenr frisian 3372
+s;ɛ;tː;i;-
+s;ɔː;-;-;n
+===  s;ɛ;tː;i
+===  s;ɔː;n;-
+§_sassarese sardinian_4 : luxembourgish 3374
+s;ɛ;-;tː;i;-
+z;iː;v;-;ə;n
+===  s;ɛ;tː;i;-
+===  z;iː;v;ə;n
+§_sassarese sardinian_5 : Dutch 3375
+s;ɛ;-;tː;i
+z;e;v;-;ə
+===  s;ɛ;tː;i
+===  z;e;v;ə
+§_sassarese sardinian_9 : russian 3379
+s;ɛ;tː;i;-
+sʲ;ɛ;-;-;mʲ
+===  s;ɛ;tː;i;-
+===  sʲ;ɛ;-;-;m
+§_Breton_0 : Irish 3380
+-;s;ei̯;-;s
+ə;ʃ;ɑ;x;t̪
+===  -;s;ei̯;s;-
+===  ə;ʃ;ɑ;x;t̪
+§_Breton_3 : westenr frisian 3383
+s;ei̯;s;-
+s;ɔː;-;n
+===  s;ei̯;s
+===  s;ɔː;n
+§_Breton_4 : english 3384
+s;ei̯;-;s;-
+s;e;v;-;n
+===  s;ei̯;s;-
+===  s;e;v;n
+§_Breton_8 : swiss-german 3388
+s;ei̯;-;s;-
+s;ɪ;b;-;ə
+===  s;ei̯;s;-
+===  s;ɪ;b;ə
+§_Breton_9 : pashto 3389
+s;ei̯;s;-
+-;o;-;w͜ə
+===  -;s;ei̯;s
+===  o;-;w͜ə;-
+§_Irish_2 : westenr frisian 3392
+ə;ʃ;ɑ;x;t̪;-
+-;s;ɔː;-;-;n
+===  ə;ʃ;ɑ;x;t̪
+===  -;s;ɔː;n;-
+§_Irish_4 : Dutch 3394
+ə;ʃ;ɑ;x;t̪;-
+-;z;e;v;-;ə
+===  ə;ʃ;ɑ;x;t;-
+===  -;z;e;v;-;ə
+§_Irish_5 : Low Saxon 3395
+ə;ʃ;ɑ;x;t̪;-
+-;z;øː;v;-;m
+===  ə;ʃ;ɑ;x;t̪
+===  -;z;øː;v;m
+§_Irish_6 : luxembourgish 3396
+ə;ʃ;ɑ;x;t̪;-;-
+-;z;iː;v;-;ə;n
+===  ə;ʃ;ɑ;x;-;t̪
+===  -;z;iː;v;ə;n
+§_manx_2 : Bulgarian 3402
+ʃ;aː;x;-;-;-
+s;e;-;d;e;m
+===  ʃ;aː;x;-;-
+===  s;e;d;e;m
+§_manx_4 : Sicilian 3404
+ʃ;aː;x;-;-
+s;ɛ;-;tː;i
+===  ʃ;aː;x;-
+===  s;ɛ;tː;i
+§_manx_5 : sinhala 3405
+ʃ;aː;x;-;-
+h;a;-;t;ə
+===  ʃ;aː;x;-
+===  h;a;t;ə
+§_manx_8 : westenr frisian 3408
+ʃ;aː;x;-
+s;ɔː;-;n
+===  ʃ;aː;x
+===  s;ɔː;n
+§_english_0 : french 3410
+s;e;v;-;n
+s;ɛ;-;t;-
+===  s;e;v;n
+===  s;ɛ;t;-
+§_english_2 : albanian 3412
+s;e;v;-;-;n;-;-
+ʃ;-;-;t;a;-;t;ə
+===  s;-;e;v;n;-
+===  ʃ;t;a;t;-;ə
+§_english_3 : Dutch 3413
+s;e;v;-;n
+z;e;v;ə;-
+===  s;e;v;n;-
+===  z;e;v;-;ə
+§_english_4 : Kashubian 3414
+s;e;v;-;n;-
+s;ɪ;-;t;m;ə
+===  s;e;v;n;-
+===  s;ɪ;t;m;ə
+§_english_5 : sassarese sardinian 3415
+s;e;v;-;-;n
+s;ɛ;-;tː;i;-
+===  s;e;v;n;-
+===  s;ɛ;tː;-;i
+§_english_6 : central kurdish 3416
+s;e;v;-;n
+h;æ;w;t;-
+===  s;e;v;n
+===  h;æ;w;t
+§_english_7 : pashto 3417
+s;e;v;-;n
+-;o;-;w͜ə;-
+===  -;s;e;v;n
+===  o;-;w͜ə;-;-
+§_english_8 : western farsi 3418
+s;e;v;-;n
+h;æ;f;t;-
+===  s;e;v;n
+===  h;æ;f;t
+§_westenr frisian_1 : wallon 3421
+s;ɔː;-;n
+s;ɛ;t;-
+===  s;ɔː;n
+===  s;ɛ;t
+§_westenr frisian_2 : italian 3422
+s;ɔː;-;-;n
+s;ɛ;tː;e;-
+===  s;ɔː;n;-
+===  s;ɛ;tː;e
+§_westenr frisian_3 : Dutch 3423
+s;ɔː;-;-;n
+z;e;v;ə;-
+===  s;ɔː;n;-
+===  z;e;v;ə
+§_westenr frisian_4 : Bulgarian 3424
+s;ɔː;-;-;n
+s;e;d;e;m
+===  s;-;-;ɔː;n
+===  s;e;d;e;m
+§_westenr frisian_5 : central kurdish 3425
+s;ɔː;-;-;n
+h;æ;w;t;-
+===  s;ɔː;n;-
+===  h;æ;w;t
+§_westenr frisian_7 : latin 3427
+s;ɔː;-;-;-;n
+s;ɛ;p;t̪;ɛ~ː;-
+===  s;ɔː;n;-;-
+===  s;ɛ;p;t̪;ɛ~ː
+§_westenr frisian_8 : Cimbrian 3428
+s;ɔː;-;-;n;-
+z;i;b;ɘ;n;e
+===  s;-;-;ɔː;n;-
+===  z;i;b;ɘ;n;e
+§_westenr frisian_9 : sinhala 3429
+s;ɔː;-;-;n
+h;a;t;ə;-
+===  s;ɔː;n;-
+===  h;a;t;ə
+§_german_0 : Irish 3430
+-;z;iː;b;-;n
+ə;ʃ;ɑ;x;t̪;-
+===  -;z;iː;b;n
+===  ə;ʃ;ɑ;x;t̪
+§_german_1 : Dutch 3431
+z;iː;b;-;n
+z;e;v;ə;-
+===  z;iː;b;n;-
+===  z;e;v;-;ə
+§_german_3 : sindhi 3433
+z;iː;b;-;-;n
+s;ə;-;t;ə;-
+===  z;iː;b;n;-
+===  s;ə;t;-;ə
+§_german_7 : wallon 3437
+z;iː;b;-;n
+s;ɛ;-;t;-
+===  z;iː;b;n
+===  s;ɛ;t;-
+§_german_8 : Kashubian 3438
+z;iː;b;-;n;-
+s;ɪ;-;t;m;ə
+===  z;iː;b;n;-
+===  s;ɪ;t;m;ə
+§_german_9 : swiss-german 3439
+z;iː;b;-;n
+s;ɪ;b;ə;-
+===  z;iː;b;n;-
+===  s;ɪ;b;-;ə
+§_luxembourgish_0 : sindhi 3440
+z;iː;v;-;ə;n
+s;ə;-;t;ə;-
+===  z;iː;v;ə;n
+===  s;ə;t;ə;-
+§_luxembourgish_1 : albanian 3441
+z;iː;v;-;ə;n;-;-
+ʃ;-;-;t;a;-;t;ə
+===  z;-;iː;v;ə;n
+===  ʃ;t;a;t;ə;-
+§_luxembourgish_2 : italian 3442
+z;iː;v;-;ə;n
+s;ɛ;-;tː;e;-
+===  z;iː;v;ə;n
+===  s;ɛ;tː;e;-
+§_luxembourgish_3 : Serbo-Croatian 3443
+z;iː;v;-;ə;n
+s;e;-;d;a;m
+===  z;iː;v;ə;n
+===  s;e;d;a;m
+§_luxembourgish_7 : central kurdish 3447
+z;iː;v;-;ə;n
+h;æ;w;t;-;-
+===  z;iː;v;ə;n
+===  h;æ;w;-;t
+§_luxembourgish_8 : westenr frisian 3448
+z;iː;v;ə;n
+s;ɔː;-;-;n
+===  z;iː;v;ə;n
+===  s;-;-;ɔː;n
+§_swiss-german_0 : asturian 3450
+s;ɪ;b;-;ə
+s;j͜e;-;t;e
+===  s;ɪ;b;ə
+===  s;j͜e;t;e
+§_swiss-german_2 : russian 3452
+s;ɪ;b;ə;-
+sʲ;ɛ;-;-;mʲ
+===  s;ɪ;b;ə
+===  sʲ;ɛ;mʲ;-
+§_swiss-german_4 : sassarese sardinian 3454
+s;ɪ;b;-;ə
+s;ɛ;-;tː;i
+===  s;ɪ;b;ə
+===  s;ɛ;tː;i
+§_swiss-german_7 : pashai 3457
+s;ɪ;b;-;ə
+s;a;-;t;-
+===  s;ɪ;b;ə
+===  s;a;t;-
+§_swiss-german_9 : Bulgarian 3459
+s;ɪ;b;-;ə;-
+s;e;-;d;e;m
+===  s;ɪ;b;ə;-
+===  s;e;d;e;m
+§_Cimbrian_0 : Breton 3460
+z;i;b;-;ɘ;n;e
+s;ei̯;-;s;-;-;-
+===  z;i;b;ɘ;n;e
+===  s;ei̯;s;-;-;-
+§_Cimbrian_1 : central kurdish 3461
+z;i;b;-;ɘ;n;e
+h;æ;w;t;-;-;-
+===  z;i;-;b;ɘ;n;e
+===  h;æ;w;t;-;-;-
+§_Cimbrian_2 : Sicilian 3462
+z;i;b;-;ɘ;n;e
+s;ɛ;-;tː;i;-;-
+===  z;i;b;ɘ;n;e
+===  s;ɛ;tː;i;-;-
+§_Cimbrian_6 : Kashubian 3466
+z;i;b;-;ɘ;n;e
+s;ɪ;-;t;-;m;ə
+===  z;i;b;ɘ;n;e
+===  s;ɪ;t;-;m;ə
+§_Cimbrian_8 : italian 3468
+z;i;b;-;ɘ;n;e
+s;ɛ;-;tː;e;-;-
+===  z;i;b;ɘ;n;e
+===  s;ɛ;tː;e;-;-
+§_Cimbrian_9 : albanian 3469
+z;i;b;-;ɘ;n;-;e
+ʃ;-;-;t;a;-;t;ə
+===  z;-;i;b;ɘ;n;e
+===  ʃ;t;a;t;ə;-;-
+§_Dutch_0 : hindi 3470
+z;e;v;-;ə
+s;a;-;t̪;-
+===  z;e;v;ə
+===  s;a;t̪;-
+§_Dutch_3 : pashai 3473
+z;e;v;-;ə
+s;a;-;t;-
+===  z;e;v;ə
+===  s;a;t;-
+§_Dutch_4 : french 3474
+z;e;v;-;ə
+s;ɛ;-;t;-
+===  z;e;v;ə
+===  s;ɛ;t;-
+§_Dutch_5 : westenr frisian 3475
+z;e;v;ə;-
+s;ɔː;-;-;n
+===  z;e;v;ə
+===  s;ɔː;n;-
+§_Dutch_7 : asturian 3477
+z;e;v;-;ə
+s;j͜e;-;t;e
+===  z;e;v;ə
+===  s;j͜e;t;e
+§_Low Saxon_0 : Serbo-Croatian 3480
+z;øː;v;-;-;m
+s;e;-;d;a;m
+===  z;øː;v;-;m
+===  s;e;d;a;m
+§_Low Saxon_1 : Polish 3481
+z;øː;v;-;-;m
+ɕ;e;-;d;e;m
+===  z;øː;v;-;m
+===  ɕ;e;d;e;m
+§_Low Saxon_2 : Kashubian 3482
+z;øː;v;-;m;-
+s;ɪ;-;t;m;ə
+===  z;øː;v;m;-
+===  s;ɪ;t;m;ə
+§_Low Saxon_3 : albanian 3483
+z;øː;v;-;-;m;-;-
+ʃ;-;-;t;a;-;t;ə
+===  z;-;øː;v;m;-
+===  ʃ;t;a;t;-;ə
+§_Low Saxon_4 : western farsi 3484
+z;øː;v;-;m
+h;æ;f;t;-
+===  z;øː;v;m
+===  h;æ;f;t
+§_Low Saxon_5 : asturian 3485
+z;øː;v;-;-;m
+s;j͜e;-;t;e;-
+===  z;øː;v;m;-
+===  s;j͜e;t;-;e
+§_Low Saxon_6 : Sicilian 3486
+z;øː;v;-;-;m
+s;ɛ;-;tː;i;-
+===  z;øː;v;m;-
+===  s;ɛ;tː;-;i
+§_Low Saxon_7 : central kurdish 3487
+z;øː;v;-;m
+h;æ;w;t;-
+===  z;øː;v;m
+===  h;æ;w;t
+§_Low Saxon_9 : hindi 3489
+z;øː;v;-;m
+s;a;-;t̪;-
+===  z;øː;v;m
+===  s;a;t̪;-
+§_Icelandic_1 : Breton 3491
+s;j͜œː;-;-
+s;ei̯;s;-
+===  s;j͜œː;-
+===  s;ei̯;s
+§_Icelandic_3 : norvegian 3493
+s;j͜œː;-;-
+s;yː;v;-
+===  s;j͜œː;-
+===  s;yː;v
+§_Icelandic_4 : gilaki 3494
+s;j͜œː;-;-
+h;a;f;-
+===  s;j͜œː;-
+===  h;a;f
+§_Icelandic_5 : pashto 3495
+s;j͜œː;-
+-;o;w͜ə
+===  -;s;j͜œː
+===  o;-;w͜ə
+§_Icelandic_9 : russian 3499
+s;j͜œː;-;-
+sʲ;ɛ;-;mʲ
+===  s;j͜œː;-
+===  sʲ;ɛ;mʲ
+§_norvegian_0 : russian 3500
+s;yː;v;-
+sʲ;ɛ;-;mʲ
+===  s;yː;v
+===  sʲ;ɛ;mʲ
+§_norvegian_1 : pashto 3501
+s;yː;v;-
+-;o;-;w͜ə
+===  -;s;yː;v
+===  o;-;w͜ə;-
+§_norvegian_3 : asturian 3503
+s;yː;v;-;-
+s;j͜e;-;t;e
+===  s;yː;v;-
+===  s;j͜e;t;e
+§_norvegian_6 : albanian 3506
+s;yː;v;-;-;-;-
+ʃ;-;-;t;a;t;ə
+===  s;-;yː;v;-
+===  ʃ;t;a;t;ə
+§_norvegian_8 : Bulgarian 3508
+s;yː;v;-;-;-
+s;e;-;d;e;m
+===  s;yː;v;-;-
+===  s;e;d;e;m
+§_russian_0 : Breton 3530
+sʲ;ɛ;-;mʲ
+s;ei̯;s;-
+===  sʲ;ɛ;mʲ
+===  s;ei̯;s
+§_russian_1 : Bulgarian 3531
+sʲ;ɛ;-;-;mʲ
+s;e;d;e;m
+===  sʲ;-;-;ɛ;mʲ
+===  s;e;d;e;m
+§_russian_2 : sinhala 3532
+sʲ;ɛ;-;-;mʲ
+h;a;t;ə;-
+===  sʲ;ɛ;-;m;-
+===  h;a;t;-;ə
+§_russian_3 : sindhi 3533
+sʲ;ɛ;-;-;mʲ
+s;ə;t;ə;-
+===  sʲ;ɛ;-;m;-
+===  s;ə;t;-;ə
+§_russian_4 : greek 3534
+sʲ;ɛ;-;-;-;mʲ
+-;ɛ;f;t;a;-
+===  -;-;sʲ;ɛ;mʲ
+===  ɛ;f;t;a;-
+§_russian_5 : pashto 3535
+sʲ;ɛ;-;mʲ
+-;o;w͜ə;-
+===  -;sʲ;ɛ;mʲ
+===  o;-;w͜ə;-
+§_russian_6 : Irish 3536
+-;sʲ;ɛ;-;-;mʲ
+ə;ʃ;ɑ;x;t̪;-
+===  -;sʲ;ɛ;mʲ;-
+===  ə;ʃ;ɑ;x;t̪
+§_russian_8 : asturian 3538
+sʲ;ɛ;-;-;mʲ
+s;j͜e;t;e;-
+===  sʲ;ɛ;-;m;-
+===  s;j͜e;t;-;e
+§_Kashubian_1 : albanian 3541
+s;ɪ;t;-;m;-;ə
+ʃ;-;t;a;-;t;ə
+===  s;-;ɪ;t;m;ə
+===  ʃ;t;a;t;-;ə
+§_Kashubian_2 : gilaki 3542
+s;ɪ;-;t;m;ə
+h;a;f;-;-;-
+===  s;ɪ;t;m;ə
+===  h;a;f;-;-
+§_Kashubian_3 : Sicilian 3543
+s;ɪ;t;-;m;ə
+s;ɛ;tː;i;-;-
+===  s;ɪ;t;m;ə
+===  s;ɛ;tː;-;i
+§_Kashubian_4 : german 3544
+s;ɪ;-;t;m;ə
+z;iː;b;-;n;-
+===  s;ɪ;t;m;ə
+===  z;iː;b;n;-
+§_Kashubian_6 : italian 3546
+s;ɪ;t;-;m;ə
+s;ɛ;tː;e;-;-
+===  s;ɪ;t;m;ə
+===  s;ɛ;tː;-;e
+§_Kashubian_7 : luxembourgish 3547
+s;ɪ;-;t;-;m;ə
+z;iː;v;-;ə;n;-
+===  s;ɪ;t;-;m;ə
+===  z;iː;v;ə;n;-
+§_Kashubian_8 : Cimbrian 3548
+s;ɪ;-;t;-;m;ə
+z;i;b;-;ɘ;n;e
+===  s;ɪ;t;-;m;ə
+===  z;i;b;ɘ;n;e
+§_Polish_1 : english 3551
+ɕ;e;-;d;e;m
+s;e;v;-;-;n
+===  ɕ;e;d;e;m
+===  s;e;v;-;n
+§_Polish_5 : luxembourgish 3555
+ɕ;e;-;d;e;m
+z;iː;v;-;ə;n
+===  ɕ;e;d;e;m
+===  z;iː;v;ə;n
+§_Polish_6 : russian 3556
+ɕ;e;d;e;m
+sʲ;ɛ;-;-;mʲ
+===  ɕ;e;d;e;m
+===  sʲ;-;-;ɛ;mʲ
+§_Polish_7 : Cimbrian 3557
+ɕ;e;-;d;e;m;-
+z;i;b;-;ɘ;n;e
+===  ɕ;e;d;e;m;-
+===  z;i;b;ɘ;n;e
+§_Polish_8 : Dutch 3558
+ɕ;e;-;d;e;m
+z;e;v;-;ə;-
+===  ɕ;e;d;e;m
+===  z;e;v;ə;-
+§_Bulgarian_3 : english 3563
+s;e;-;d;e;m
+s;e;v;-;-;n
+===  s;e;d;e;m
+===  s;e;v;-;n
+§_Bulgarian_7 : swiss-german 3567
+s;e;-;d;e;m
+s;ɪ;b;-;ə;-
+===  s;e;d;e;m
+===  s;ɪ;b;ə;-
+§_Bulgarian_8 : gilaki 3568
+s;e;-;d;e;m
+h;a;f;-;-;-
+===  s;e;d;e;m
+===  h;a;f;-;-
+§_Serbo-Croatian_2 : albanian 3572
+s;e;d;a;m;-;-
+ʃ;-;t;a;-;t;ə
+===  s;-;e;d;a;m
+===  ʃ;t;a;t;ə;-
+§_Serbo-Croatian_3 : german 3573
+s;e;-;d;a;m
+z;iː;b;-;-;n
+===  s;e;d;a;m
+===  z;iː;b;-;n
+§_Serbo-Croatian_8 : norvegian 3578
+s;e;-;d;a;m
+s;yː;v;-;-;-
+===  s;e;d;a;m
+===  s;yː;v;-;-
+§_armenian_1 : Kashubian 3581
+u;-;tʰ;-;-
+w͜ə;s;-;m;ə
+===  u;tʰ;-;-
+===  w͜ə;s;m;ə
+§_armenian_8 : Bulgarian 3588
+u;-;tʰ;-;-
+o;s;-;e;m
+===  u;tʰ;-;-
+===  o;s;e;m
+§_pashai_7 : albanian 3607
+a;ʃ;ʈ;-;-;-
+-;-;t;ɛ;t;ə
+===  a;ʃ;-;ʈ;-
+===  -;t;ɛ;t;ə
+§_pashai_9 : russian 3609
+-;a;ʃ;ʈ;-;-
+v;ɔ;sʲ;-;i;mʲ
+===  a;ʃ;-;ʈ;-;-
+===  -;v;ɔ;sʲ;i;mʲ
+§_sindhi_6 : Irish 3616
+-;-;ə;-;ʈʰ;ə
+ə;h;ʌ;x;t̪;-
+===  ə;ʈʰ;ə;-;-
+===  ə;h;ʌ;x;t̪
+§_sindhi_7 : Serbo-Croatian 3617
+ə;-;ʈʰ;ə;-
+o;s;-;a;m
+===  ə;ʈʰ;ə;-
+===  o;s;a;m
+§_sindhi_8 : Bulgarian 3618
+ə;-;ʈʰ;ə;-
+o;s;-;e;m
+===  ə;ʈʰ;ə;-
+===  o;s;e;m
+§_hindi_2 : albanian 3622
+a;ʈʰ;-;-;-
+-;t;ɛ;t;ə
+===  -;a;ʈʰ;-
+===  t;ɛ;t;ə
+§_hindi_9 : Bulgarian 3629
+a;-;ʈʰ;-;-
+o;s;-;e;m
+===  a;ʈʰ;-;-
+===  o;s;e;m
+§_pashto_1 : gilaki 3631
+-;a;-;t;ə
+h;a;ʃ;-;-
+===  -;a;t;ə
+===  h;a;ʃ;-
+§_pashto_3 : Bulgarian 3633
+a;-;t;ə;-
+o;s;-;e;m
+===  a;t;ə;-
+===  o;s;e;m
+§_pashto_6 : manx 3636
+-;a;-;t;ə
+h;ɑː;x;-;-
+===  a;t;ə;-
+===  -;h;ɑː;x
+§_gilaki_0 : pashto 3640
+h;a;ʃ;-;-
+-;a;-;t;ə
+===  h;a;ʃ;-
+===  -;a;t;ə
+§_gilaki_3 : sassarese sardinian 3643
+h;a;ʃ;-;-
+-;ɔ;-;tː;u
+===  h;a;ʃ;-
+===  -;ɔ;tː;u
+§_gilaki_4 : Serbo-Croatian 3644
+h;a;ʃ;-;-
+-;o;s;a;m
+===  -;h;a;ʃ
+===  o;s;a;m
+§_gilaki_5 : Dutch 3645
+h;a;ʃ;-
+-;ɑ;χ;t
+===  -;h;a;ʃ
+===  ɑ;χ;-;t
+§_gilaki_6 : hindi 3646
+h;a;ʃ;-
+-;a;-;ʈʰ
+===  h;a;ʃ
+===  -;a;ʈʰ
+§_gilaki_7 : latin 3647
+h;a;ʃ;-;-
+-;ɔ;k;t̪;oː
+===  -;h;a;ʃ;-
+===  ɔ;k;-;t̪;oː
+§_gilaki_8 : Bulgarian 3648
+h;a;ʃ;-;-
+-;o;s;e;m
+===  -;h;a;ʃ
+===  o;s;e;m
+§_gilaki_9 : french 3649
+h;a;ʃ;-
+-;ɥ͜i;-;t
+===  h;a;ʃ
+===  -;ɥ͜i;t
+§_central kurdish_5 : russian 3655
+-;h;æ;ʃ;t;-;-
+v;-;ɔ;sʲ;-;i;mʲ
+===  h;æ;ʃ;-;t
+===  v;ɔ;sʲ;i;mʲ
+§_western farsi_2 : Kashubian 3662
+h;æ;ʃ;t;-;-
+-;w͜ə;s;-;m;ə
+===  h;æ;ʃ;t;-
+===  -;w͜ə;s;m;ə
+§_western farsi_5 : Serbo-Croatian 3665
+h;æ;ʃ;t;-;-
+-;o;s;-;a;m
+===  -;h;æ;ʃ;t
+===  o;s;a;-;m
+§_western farsi_9 : Polish 3669
+h;æ;ʃ;t;-;-
+-;o;ɕ;-;e;m
+===  -;h;æ;ʃ;t
+===  o;ɕ;e;-;m
+§_albanian_0 : english 3670
+-;t;ɛ;t;ə
+eɪ̯;tʰ;-;-;-
+===  t;ɛ;t;ə
+===  -;eɪ̯;tʰ;-
+§_albanian_1 : Cimbrian 3671
+-;-;t;ɛ;t;ə
+a;x;t;e;-;-
+===  -;t;ɛ;t;ə
+===  a;x;-;t;e
+§_albanian_2 : Icelandic 3672
+-;-;t;ɛ;t;ə
+au̯;h;t;a;-;-
+===  -;t;ɛ;t;ə
+===  au̯;h;-;t;a
+§_albanian_3 : russian 3673
+-;-;-;t;ɛ;-;t;ə
+v;ɔ;sʲ;-;i;mʲ;-;-
+===  t;ɛ;t;ə;-
+===  v;ɔ;sʲ;i;mʲ
+§_albanian_4 : swiss-german 3674
+-;-;t;ɛ;t;ə
+ɑ;χ;t;-;-;-
+===  -;t;ɛ;t;ə
+===  ɑ;χ;-;t;-
+§_albanian_5 : hindi 3675
+-;t;ɛ;t;ə
+a;ʈʰ;-;-;-
+===  t;ɛ;t;ə
+===  -;a;ʈʰ;-
+§_albanian_6 : Low Saxon 3676
+-;-;-;t;ɛ;t;ə
+ʔ;a;χ;t;-;-;-
+===  t;ɛ;-;t;ə
+===  ʔ;a;χ;t;-
+§_albanian_7 : gilaki 3677
+-;-;-;t;ɛ;t;ə
+h;a;ʃ;-;-;-;-
+===  t;ɛ;t;ə
+===  h;a;ʃ;-
+§_albanian_8 : Polish 3678
+-;-;t;ɛ;-;t;ə
+o;ɕ;-;e;m;-;-
+===  t;ɛ;t;ə;-
+===  -;o;ɕ;e;m
+§_albanian_9 : asturian 3679
+-;t;ɛ;t;ə
+o;ʧ;o;-;-
+===  t;ɛ;t;ə
+===  -;o;ʧ;o
+§_greek_6 : manx 3686
+-;o;χ;t;o
+h;ɑː;x;-;-
+===  o;χ;-;t;o
+===  -;h;ɑː;x;-
+§_greek_8 : russian 3688
+-;o;χ;t;o;-
+v;ɔ;sʲ;-;i;mʲ
+===  o;χ;-;t;o;-
+===  -;v;ɔ;sʲ;i;mʲ
+§_latin_4 : Kashubian 3694
+ɔ;k;t̪;oː;-;-
+w͜ə;s;-;-;m;ə
+===  ɔ;k;t̪;-;oː
+===  w͜ə;-;s;m;ə
+§_latin_5 : Serbo-Croatian 3695
+ɔ;k;t̪;oː;-
+o;s;-;a;m
+===  ɔ;k;t̪;oː;-
+===  o;-;s;a;m
+§_latin_7 : manx 3697
+-;ɔ;k;t̪;oː
+h;ɑː;x;-;-
+===  ɔ;k;-;t̪;oː
+===  -;h;ɑː;x;-
+§_Rumanian_4 : Breton 3704
+ɔ;p;t
+ei̯;s;-
+===  ɔ;p;t
+===  ei̯;-;s
+§_Rumanian_9 : Serbo-Croatian 3709
+ɔ;p;t;-;-
+o;s;-;a;m
+===  ɔ;p;t;-;-
+===  o;-;s;a;m
+§_italian_4 : albanian 3714
+ɔ;tː;o;-;-
+-;t;ɛ;t;ə
+===  -;ɔ;tː;o
+===  t;ɛ;t;ə
+§_italian_8 : Polish 3718
+ɔ;-;tː;o;-
+o;ɕ;-;e;m
+===  ɔ;tː;o;-
+===  o;ɕ;e;m
+§_Sicilian_0 : russian 3720
+-;ɔ;-;tː;u;-
+v;ɔ;sʲ;-;i;mʲ
+===  -;ɔ;tː;u;-
+===  v;ɔ;sʲ;i;mʲ
+§_Sicilian_1 : Serbo-Croatian 3721
+ɔ;-;tː;u;-
+o;s;-;a;m
+===  ɔ;tː;u;-
+===  o;s;a;m
+§_Sicilian_3 : Polish 3723
+ɔ;-;tː;u;-
+o;ɕ;-;e;m
+===  ɔ;tː;u;-
+===  o;ɕ;e;m
+§_Sicilian_9 : Breton 3729
+ɔ;-;tː;u
+ei̯;s;-;-
+===  ɔ;tː;u
+===  ei̯;s;-
+§_french_5 : gilaki 3735
+-;ɥ͜i;-;t
+h;a;ʃ;-
+===  -;ɥ͜i;t
+===  h;a;ʃ
+§_french_9 : russian 3739
+-;ɥ͜i;-;t;-;-
+v;ɔ;sʲ;-;i;mʲ
+===  -;ɥ͜i;t;-;-
+===  v;ɔ;sʲ;i;mʲ
+§_wallon_2 : gilaki 3742
+-;yː;-;t
+h;a;ʃ;-
+===  -;yː;t
+===  h;a;ʃ
+§_wallon_3 : manx 3743
+-;yː;-;t
+h;ɑː;x;-
+===  -;yː;t
+===  h;ɑː;x
+§_wallon_5 : albanian 3745
+yː;t;-;-;-
+-;t;ɛ;t;ə
+===  -;yː;t;-
+===  t;ɛ;t;ə
+§_asturian_0 : gilaki 3750
+-;o;-;ʧ;o
+h;a;ʃ;-;-
+===  -;o;ʧ;o
+===  h;a;ʃ;-
+§_asturian_4 : Bulgarian 3754
+o;-;ʧ;o;-
+o;s;-;e;m
+===  o;ʧ;o;-
+===  o;s;e;m
+§_asturian_5 : russian 3755
+-;o;-;ʧ;o;-
+v;ɔ;sʲ;-;i;mʲ
+===  -;o;ʧ;o;-
+===  v;ɔ;sʲ;i;mʲ
+§_asturian_9 : Irish 3759
+-;-;o;-;ʧ;o
+ə;h;ʌ;x;t̪;-
+===  o;ʧ;o;-;-
+===  ə;h;ʌ;x;t̪
+§_Breton_0 : albanian 3770
+ei̯;s;-;-;-;-
+-;-;t;ɛ;t;ə
+===  -;ei̯;s;-
+===  t;ɛ;t;ə
+§_Breton_2 : sassarese sardinian 3772
+ei̯;s;-;-
+ɔ;-;tː;u
+===  ei̯;s;-
+===  ɔ;tː;u
+§_Breton_4 : sindhi 3774
+ei̯;s;-;-
+ə;-;ʈʰ;ə
+===  ei̯;s;-
+===  ə;ʈʰ;ə
+§_Irish_2 : sassarese sardinian 3782
+ə;h;ʌ;x;t̪;-
+-;-;ɔ;-;tː;u
+===  ə;h;ʌ;x;t̪
+===  ɔ;tː;u;-;-
+§_Irish_3 : sindhi 3783
+ə;h;ʌ;x;t̪;-
+-;-;ə;-;ʈʰ;ə
+===  ə;h;ʌ;x;t̪
+===  ə;ʈʰ;ə;-;-
+§_Irish_5 : Sicilian 3785
+ə;h;ʌ;x;t̪;-
+-;-;ɔ;-;tː;u
+===  ə;h;ʌ;x;t̪
+===  ɔ;tː;u;-;-
+§_Irish_6 : pashto 3786
+ə;h;ʌ;x;t̪;-
+-;-;a;-;t;ə
+===  ə;h;ʌ;x;t̪
+===  a;t;ə;-;-
+§_Irish_8 : Breton 3788
+ə;h;ʌ;x;t̪
+-;-;ei̯;s;-
+===  ə;h;ʌ;x;t̪
+===  ei̯;s;-;-;-
+§_Irish_9 : italian 3789
+ə;h;ʌ;x;t̪;-
+-;-;ɔ;-;tː;o
+===  ə;h;ʌ;x;t̪
+===  ɔ;tː;o;-;-
+§_manx_0 : latvian 3790
+h;ɑː;x;-;-;-;-
+-;ɑ;s;t;uɔ̯;ɲ;i
+===  -;h;ɑː;x;-;-;-
+===  ɑ;s;-;t;uɔ̯;ɲ;i
+§_manx_1 : italian 3791
+h;ɑː;x;-;-
+-;ɔ;-;tː;o
+===  -;h;ɑː;x
+===  ɔ;tː;o;-
+§_manx_2 : Kashubian 3792
+h;ɑː;x;-;-
+-;w͜ə;s;m;ə
+===  -;h;-;ɑː;x
+===  w͜ə;s;m;ə;-
+§_manx_3 : sassarese sardinian 3793
+h;ɑː;x;-;-
+-;ɔ;-;tː;u
+===  -;h;ɑː;x
+===  ɔ;tː;u;-
+§_manx_7 : hindi 3797
+h;ɑː;x;-
+-;a;-;ʈʰ
+===  h;ɑː;x
+===  -;a;ʈʰ
+§_manx_8 : Bulgarian 3798
+h;ɑː;x;-;-
+-;o;s;e;m
+===  -;h;ɑː;x
+===  o;s;e;m
+§_manx_9 : pashto 3799
+h;ɑː;x;-;-
+-;a;-;t;ə
+===  -;h;ɑː;x
+===  a;t;ə;-
+§_english_0 : Serbo-Croatian 3800
+eɪ̯;-;tʰ;-;-
+o;s;-;a;m
+===  eɪ̯;tʰ;-;-
+===  o;s;a;m
+§_english_3 : russian 3803
+-;eɪ̯;-;tʰ;-;-
+v;ɔ;sʲ;-;i;mʲ
+===  -;eɪ̯;tʰ;-;-
+===  v;ɔ;sʲ;i;mʲ
+§_westenr frisian_2 : gilaki 3812
+-;ɑ;x;t
+h;a;ʃ;-
+===  ɑ;x;-;t
+===  -;h;a;ʃ
+§_westenr frisian_8 : Bulgarian 3818
+ɑ;x;t;-;-
+o;s;-;e;m
+===  ɑ;x;-;t
+===  o;s;e;m
+§_german_1 : Bulgarian 3821
+ʔ;a;χ;t;-;-
+-;o;s;-;e;m
+===  ʔ;a;χ;-;t
+===  -;o;s;e;m
+§_german_5 : Serbo-Croatian 3825
+ʔ;a;χ;t;-;-
+-;o;s;-;a;m
+===  ʔ;a;χ;-;t
+===  -;o;s;a;m
+§_german_9 : Polish 3829
+ʔ;a;χ;t;-;-
+-;o;ɕ;-;e;m
+===  ʔ;a;χ;-;t
+===  -;o;ɕ;e;m
+§_luxembourgish_3 : Bulgarian 3833
+aː;x;t;-;-
+o;s;-;e;m
+===  aː;x;-;t
+===  o;s;e;m
+§_luxembourgish_7 : russian 3837
+-;aː;x;t;-;-
+v;ɔ;sʲ;-;i;mʲ
+===  aː;x;-;t;-;-
+===  -;v;ɔ;sʲ;i;mʲ
+§_luxembourgish_9 : Polish 3839
+aː;x;t;-;-
+o;ɕ;-;e;m
+===  aː;x;-;t
+===  o;ɕ;e;m
+§_swiss-german_6 : Kashubian 3846
+ɑ;χ;t;-;-
+w͜ə;s;-;m;ə
+===  ɑ;χ;t;-
+===  w͜ə;s;m;ə
+§_Cimbrian_2 : latvian 3852
+a;x;t;e;-;-
+ɑ;s;t;uɔ̯;ɲ;i
+===  a;x;t;-;-;e
+===  ɑ;s;t;uɔ̯;ɲ;i
+§_Cimbrian_5 : russian 3855
+-;a;x;t;e;-
+v;ɔ;sʲ;-;i;mʲ
+===  a;x;-;t;e;-
+===  -;v;ɔ;sʲ;i;mʲ
+§_Cimbrian_6 : gilaki 3856
+-;a;x;t;e
+h;a;ʃ;-;-
+===  a;x;-;t;e
+===  -;h;a;ʃ;-
+§_Cimbrian_8 : albanian 3858
+a;x;t;e;-;-
+-;-;t;ɛ;t;ə
+===  a;x;-;t;e
+===  -;t;ɛ;t;ə
+§_Dutch_0 : russian 3860
+-;ɑ;χ;t;-;-
+v;ɔ;sʲ;-;i;mʲ
+===  ɑ;χ;-;t;-;-
+===  -;v;ɔ;sʲ;i;mʲ
+§_Dutch_1 : gilaki 3861
+-;ɑ;χ;t
+h;a;ʃ;-
+===  ɑ;χ;-;t
+===  -;h;a;ʃ
+§_Dutch_6 : Polish 3866
+ɑ;χ;t;-;-
+o;ɕ;-;e;m
+===  ɑ;χ;-;t
+===  o;ɕ;e;m
+§_Icelandic_0 : lithuanian 3880
+au̯;h;t;a;-;-
+ʌ;ʃ;t;uɔ̯;nʲ;ɪ
+===  au̯;h;t;-;-;a
+===  ʌ;ʃ;t;uɔ̯;nʲ;ɪ
+§_Icelandic_1 : albanian 3881
+au̯;h;t;a;-;-
+-;-;t;ɛ;t;ə
+===  au̯;h;-;t;a
+===  -;t;ɛ;t;ə
+§_Icelandic_9 : russian 3889
+-;au̯;h;t;a;-
+v;ɔ;sʲ;-;i;mʲ
+===  au̯;h;-;t;a;-
+===  -;v;ɔ;sʲ;i;mʲ
+§_norvegian_1 : Serbo-Croatian 3891
+ɔ;-;tː;ə;-
+o;s;-;a;m
+===  ɔ;tː;ə;-
+===  o;s;a;m
+§_norvegian_4 : albanian 3894
+ɔ;tː;ə;-;-
+-;t;ɛ;t;ə
+===  -;ɔ;tː;ə
+===  t;ɛ;t;ə
+§_norvegian_7 : Polish 3897
+ɔ;-;tː;ə;-
+o;ɕ;-;e;m
+===  ɔ;tː;ə;-
+===  o;ɕ;e;m
+§_latvian_9 : Icelandic 3909
+ɑ;s;t;uɔ̯;ɲ;i
+au̯;h;t;a;-;-
+===  ɑ;s;t;uɔ̯;ɲ;i
+===  au̯;h;t;-;-;a
+§_russian_0 : wallon 3920
+v;ɔ;sʲ;-;i;mʲ
+-;yː;-;t;-;-
+===  v;ɔ;sʲ;i;mʲ
+===  -;yː;t;-;-
+§_russian_1 : pashai 3921
+v;ɔ;sʲ;-;i;mʲ
+-;a;ʃ;ʈ;-;-
+===  -;v;ɔ;sʲ;i;mʲ
+===  a;ʃ;-;ʈ;-;-
+§_russian_2 : greek 3922
+v;ɔ;sʲ;-;i;mʲ
+-;o;χ;t;o;-
+===  -;v;ɔ;sʲ;i;mʲ
+===  o;χ;-;t;o;-
+§_russian_3 : hindi 3923
+v;ɔ;sʲ;-;i;mʲ
+-;a;-;ʈʰ;-;-
+===  v;ɔ;sʲ;i;mʲ
+===  -;a;ʈʰ;-;-
+§_russian_4 : Rumanian 3924
+v;ɔ;sʲ;-;i;mʲ
+-;ɔ;p;t;-;-
+===  -;v;ɔ;sʲ;i;mʲ
+===  ɔ;p;-;t;-;-
+§_russian_6 : german 3926
+v;-;ɔ;sʲ;-;i;mʲ
+-;ʔ;a;χ;t;-;-
+===  v;ɔ;sʲ;i;mʲ
+===  ʔ;a;χ;-;t
+§_russian_7 : Irish 3927
+-;v;-;ɔ;sʲ;-;i;mʲ
+ə;-;h;ʌ;x;t̪;-;-
+===  -;v;ɔ;sʲ;i;mʲ
+===  ə;h;ʌ;x;-;t̪
+§_russian_8 : western farsi 3928
+v;-;ɔ;sʲ;-;i;mʲ
+-;h;æ;ʃ;t;-;-
+===  v;ɔ;sʲ;i;mʲ
+===  h;æ;ʃ;-;t
+§_russian_9 : french 3929
+v;ɔ;sʲ;-;i;mʲ
+-;ɥ͜i;-;t;-;-
+===  v;ɔ;sʲ;i;mʲ
+===  -;ɥ͜i;t;-;-
+§_Kashubian_0 : manx 3930
+-;w͜ə;s;m;ə
+h;ɑː;x;-;-
+===  w͜ə;s;m;ə;-
+===  -;h;-;ɑː;x
+§_Kashubian_1 : Icelandic 3931
+w͜ə;s;-;-;m;ə
+au̯;h;t;a;-;-
+===  w͜ə;s;m;ə
+===  au̯;h;t;a
+§_Kashubian_2 : albanian 3932
+w͜ə;s;-;-;m;ə;-;-
+-;-;t;ɛ;-;-;t;ə
+===  -;w͜ə;s;m;ə
+===  t;ɛ;t;-;ə
+§_Kashubian_3 : central kurdish 3933
+-;w͜ə;s;-;m;ə
+h;æ;ʃ;t;-;-
+===  -;w͜ə;s;m;ə
+===  h;æ;ʃ;t;-
+§_Kashubian_4 : sassarese sardinian 3934
+w͜ə;s;-;m;ə
+ɔ;-;tː;-;u
+===  w͜ə;s;m;ə
+===  ɔ;tː;-;u
+§_Kashubian_6 : pashto 3936
+w͜ə;s;-;-;m;ə
+a;-;t;ə;-;-
+===  w͜ə;s;m;ə
+===  a;t;-;ə
+§_Kashubian_7 : latin 3937
+w͜ə;s;-;-;m;ə
+ɔ;k;t̪;oː;-;-
+===  w͜ə;-;s;m;ə
+===  ɔ;k;t̪;-;oː
+§_Kashubian_8 : french 3938
+w͜ə;s;-;m;ə
+ɥ͜i;-;t;-;-
+===  w͜ə;s;m;ə
+===  ɥ͜i;t;-;-
+§_Kashubian_9 : german 3939
+-;w͜ə;s;-;m;ə
+ʔ;a;χ;t;-;-
+===  -;w͜ə;s;m;ə
+===  ʔ;a;χ;t;-
+§_Polish_0 : sindhi 3940
+o;ɕ;-;e;m
+ə;-;ʈʰ;ə;-
+===  o;ɕ;e;m
+===  ə;ʈʰ;ə;-
+§_Polish_1 : albanian 3941
+o;ɕ;-;e;m;-;-
+-;-;t;ɛ;-;t;ə
+===  -;o;ɕ;e;m
+===  t;ɛ;t;ə;-
+§_Polish_2 : pashai 3942
+o;ɕ;-;e;m
+a;ʃ;ʈ;-;-
+===  o;ɕ;e;m
+===  a;ʃ;-;ʈ
+§_Polish_3 : french 3943
+o;ɕ;-;e;m
+ɥ͜i;-;t;-;-
+===  o;ɕ;e;m
+===  ɥ͜i;t;-;-
+§_Polish_5 : norvegian 3945
+o;ɕ;-;e;m
+ɔ;-;tː;ə;-
+===  o;ɕ;e;m
+===  ɔ;tː;ə;-
+§_Polish_6 : italian 3946
+o;ɕ;-;e;m
+ɔ;-;tː;o;-
+===  o;ɕ;e;m
+===  ɔ;tː;o;-
+§_Polish_7 : swiss-german 3947
+o;ɕ;-;e;m
+ɑ;χ;t;-;-
+===  o;ɕ;e;m
+===  ɑ;χ;-;t
+§_Polish_8 : english 3948
+o;ɕ;-;e;m
+eɪ̯;-;tʰ;-;-
+===  o;ɕ;e;m
+===  eɪ̯;tʰ;-;-
+§_Polish_9 : westenr frisian 3949
+o;ɕ;-;e;m
+ɑ;x;t;-;-
+===  o;ɕ;e;m
+===  ɑ;x;-;t
+§_Bulgarian_1 : Dutch 3951
+o;s;-;e;m
+ɑ;χ;t;-;-
+===  o;s;e;m
+===  ɑ;χ;-;t
+§_Bulgarian_3 : Rumanian 3953
+o;s;-;e;m
+ɔ;p;t;-;-
+===  o;-;s;e;m
+===  ɔ;p;t;-;-
+§_Bulgarian_4 : western farsi 3954
+-;o;s;-;e;m
+h;æ;ʃ;t;-;-
+===  o;s;e;-;m
+===  -;h;æ;ʃ;t
+§_Bulgarian_5 : pashai 3955
+o;s;-;e;m
+a;ʃ;ʈ;-;-
+===  o;s;e;m
+===  a;ʃ;-;ʈ
+§_Bulgarian_6 : italian 3956
+o;s;-;e;m
+ɔ;-;tː;o;-
+===  o;s;e;m
+===  ɔ;tː;o;-
+§_Bulgarian_8 : westenr frisian 3958
+o;s;-;e;m
+ɑ;x;t;-;-
+===  o;s;e;m
+===  ɑ;x;-;t
+§_Bulgarian_9 : french 3959
+o;s;-;e;m
+ɥ͜i;-;t;-;-
+===  o;s;e;m
+===  ɥ͜i;t;-;-
+§_Serbo-Croatian_0 : hindi 3960
+o;s;-;a;m
+a;-;ʈʰ;-;-
+===  o;s;a;m
+===  a;ʈʰ;-;-
+§_Serbo-Croatian_1 : manx 3961
+-;o;s;a;m
+h;ɑː;x;-;-
+===  o;s;a;m
+===  -;h;ɑː;x
+§_Serbo-Croatian_2 : pashto 3962
+o;s;-;a;m
+a;-;t;ə;-
+===  o;s;a;m
+===  a;t;ə;-
+§_Serbo-Croatian_3 : central kurdish 3963
+-;o;s;-;a;m
+h;æ;ʃ;t;-;-
+===  o;s;a;-;m
+===  -;h;æ;ʃ;t
+§_Serbo-Croatian_4 : latin 3964
+o;s;-;a;m
+ɔ;k;t̪;oː;-
+===  o;-;s;a;m
+===  ɔ;k;t̪;oː;-
+§_Serbo-Croatian_5 : german 3965
+-;o;s;-;a;m
+ʔ;a;χ;t;-;-
+===  -;o;s;a;m
+===  ʔ;a;χ;-;t
+§_Serbo-Croatian_7 : swiss-german 3967
+o;s;-;a;m
+ɑ;χ;t;-;-
+===  o;s;a;m
+===  ɑ;χ;-;t
+§_Serbo-Croatian_9 : gilaki 3969
+-;o;s;a;m
+h;a;ʃ;-;-
+===  o;s;a;m
+===  -;h;a;ʃ
+§_armenian_0 : Icelandic 3970
+i;n;ʊ;-
+-;n;iː;ʏ
+===  i;n;-;ʊ
+===  -;n;iː;ʏ
+§_armenian_2 : albanian 3972
+i;n;ʊ;-;-;-
+-;n;ə;n;t;ə
+===  -;i;n;-;ʊ
+===  n;ə;n;t;ə
+§_armenian_3 : lithuanian 3973
+i;n;ʊ;-;-;-;-
+-;dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  -;-;-;i;n;ʊ
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+§_armenian_4 : Polish 3974
+i;n;ʊ;-;-;-;-
+-;ʥ;e;v;j͜e;ɲ;ʨ
+===  -;-;-;i;n;ʊ;-
+===  ʥ;e;v;j͜e;ɲ;-;ʨ
+§_armenian_5 : Cimbrian 3975
+i;n;ʊ;-;-
+-;n;ɔi̯;n;e
+===  -;i;n;ʊ
+===  n;ɔi̯;n;e
+§_armenian_8 : Kashubian 3978
+i;n;ʊ;-;-;-
+-;ʣ;ɛ;v;j͜a~;ʦ
+===  -;i;n;ʊ;-
+===  ʣ;ɛ;v;j͜a~;ʦ
+§_armenian_9 : Bulgarian 3979
+i;n;ʊ;-;-;-
+-;d;e;v;e;t
+===  -;i;n;ʊ;-
+===  d;e;v;e;t
+§_sinhala_1 : Sicilian 3981
+n;a;-;-;m;ə;j͜ə
+n;ɔː;v;i;-;-;-
+===  n;a;m;ə;j͜ə
+===  n;ɔː;v;i;-
+§_sinhala_4 : Bulgarian 3984
+n;a;-;-;m;ə;j͜ə;-
+d;e;v;e;-;-;-;t
+===  n;a;m;ə;j͜ə;-
+===  d;e;v;e;-;t
+§_sinhala_5 : latin 3985
+n;a;-;m;ə;j͜ə
+n;ɔ;w͜ɛ~ː;-;-;-
+===  n;a;m;ə;j͜ə
+===  n;ɔ;-;w͜ɛ~ː;-
+§_sinhala_6 : Serbo-Croatian 3986
+n;a;-;-;m;ə;j͜ə;-
+d;e;v;e;-;-;-;t
+===  n;a;m;ə;j͜ə;-
+===  d;e;v;e;-;t
+§_sinhala_7 : western farsi 3987
+n;a;m;ə;j͜ə;-
+n;o;-;-;-;h
+===  n;a;m;ə;j͜ə
+===  n;o;h;-;-
+§_sinhala_9 : Icelandic 3989
+n;a;-;m;ə;j͜ə
+n;iː;ʏ;-;-;-
+===  n;a;m;ə;j͜ə
+===  n;iː;-;ʏ;-
+§_pashai_4 : lithuanian 3994
+n;u;-;-;-;-
+dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  -;-;-;-;n;u
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+§_sindhi_3 : Low Saxon 4003
+n;ə;v;ə~;-
+n;eː;g;-;ŋ
+===  n;ə;v;ə;-
+===  n;eː;g;-;ŋ
+§_sindhi_4 : pashto 4004
+n;ə;v;ə~;-
+n;ə;-;-;h
+===  n;ə;v;ə~
+===  n;ə;h;-
+§_sindhi_8 : luxembourgish 4008
+n;ə;v;ə~;-
+n;e;-;-;ŋ
+===  n;ə;v;ə~
+===  n;e;ŋ;-
+§_hindi_5 : Irish 4015
+-;n;ɔ;-
+ə;n̪ˠ;-;i
+===  -;n;ɔ
+===  ə;n̪ˠ;i
+§_hindi_8 : Polish 4018
+n;ɔ;-;-;-;-
+ʥ;e;v;j͜e;ɲ;ʨ
+===  -;-;-;-;n;ɔ;-
+===  ʥ;e;v;j͜e;ɲ;-;ʨ
+§_pashto_0 : luxembourgish 4020
+n;ə;-;h
+n;e;ŋ;-
+===  n;ə;h
+===  n;e;ŋ
+§_pashto_1 : english 4021
+n;ə;-;h
+n;aɪ̯;n;-
+===  n;ə;h
+===  n;aɪ̯;n
+§_pashto_2 : Cimbrian 4022
+n;ə;-;-;h
+n;ɔi̯;n;e;-
+===  n;ə;h;-
+===  n;ɔi̯;n;e
+§_pashto_3 : latin 4023
+n;ə;-;h
+n;ɔ;w͜ɛ~ː;-
+===  n;-;ə;h
+===  n;ɔ;w͜ɛ~ː;-
+§_pashto_4 : swiss-german 4024
+n;ə;-;h
+n;yː;n;-
+===  n;ə;h
+===  n;yː;n
+§_pashto_5 : sassarese sardinian 4025
+n;ə;-;-;h
+n;ɔ;β;i;-
+===  n;ə;h;-
+===  n;ɔ;β;i
+§_pashto_6 : Icelandic 4026
+n;ə;-;h
+n;iː;ʏ;-
+===  n;ə;h;-
+===  n;iː;-;ʏ
+§_pashto_9 : french 4029
+n;ə;-;h
+n;œ;f;-
+===  n;ə;h
+===  n;œ;f
+§_gilaki_7 : latvian 4037
+n;o;-;-;-;-
+d;ɛ;v;i;ɲ;i
+===  -;-;-;-;n;o
+===  d;ɛ;v;i;ɲ;i
+§_gilaki_9 : lithuanian 4039
+n;o;-;-;-;-
+dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  -;-;-;-;n;o
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+§_central kurdish_4 : Irish 4044
+-;n;o;-
+ə;n̪ˠ;-;i
+===  -;n;o
+===  ə;n̪ˠ;i
+§_western farsi_1 : Icelandic 4051
+n;o;-;h
+n;iː;ʏ;-
+===  n;-;o;h
+===  n;iː;ʏ;-
+§_western farsi_2 : asturian 4052
+n;o;-;-;h
+n;w͜e;β;e;-
+===  n;o;h;-
+===  n;w͜e;β;e
+§_western farsi_3 : sassarese sardinian 4053
+n;o;-;-;h
+n;ɔ;β;i;-
+===  n;o;h;-
+===  n;ɔ;β;i
+§_western farsi_4 : english 4054
+n;o;-;h
+n;aɪ̯;n;-
+===  n;o;h
+===  n;aɪ̯;n
+§_western farsi_6 : french 4056
+n;o;-;h
+n;œ;f;-
+===  n;o;h
+===  n;œ;f
+§_western farsi_7 : Rumanian 4057
+n;o;-;h
+n;o;w͜ə;-
+===  n;o;h;-
+===  n;o;-;w
+§_western farsi_8 : luxembourgish 4058
+n;o;-;h
+n;e;ŋ;-
+===  n;o;h
+===  n;e;ŋ
+§_western farsi_9 : latvian 4059
+n;o;-;-;-;-;h
+d;ɛ;v;i;ɲ;i;-
+===  n;o;h;-;-;-
+===  d;ɛ;v;i;ɲ;i
+§_albanian_0 : asturian 4060
+n;ə;-;-;n;t;ə
+n;w͜e;β;e;-;-;-
+===  n;ə;n;t;ə
+===  n;w͜e;-;β;e
+§_albanian_1 : Serbo-Croatian 4061
+n;ə;-;-;n;t;ə
+d;e;v;e;-;t;-
+===  n;ə;n;t;ə;-
+===  d;e;-;v;e;t
+§_albanian_2 : sinhala 4062
+n;ə;n;-;-;t;ə
+n;a;m;ə;j͜ə;-;-
+===  n;ə;n;t;-;ə
+===  n;a;m;-;ə;j͜ə
+§_albanian_4 : latvian 4064
+n;ə;-;-;n;-;t;ə
+d;ɛ;v;i;ɲ;i;-;-
+===  -;-;n;ə;n;t;ə
+===  d;ɛ;v;i;ɲ;-;i
+§_albanian_5 : french 4065
+n;ə;-;n;t;ə
+n;œ;f;-;-;-
+===  n;ə;n;t;ə
+===  n;œ;-;f;-
+§_albanian_6 : latin 4066
+n;ə;-;n;t;ə
+n;ɔ;w͜ɛ~ː;-;-;-
+===  n;ə;n;t;ə
+===  n;ɔ;-;-;w͜ɛ~ː
+§_albanian_7 : western farsi 4067
+n;ə;n;-;t;ə
+n;o;-;h;-;-
+===  n;ə;n;t;ə
+===  n;o;-;h;-
+§_albanian_8 : Cimbrian 4068
+n;ə;n;-;t;ə
+n;ɔi̯;n;e;-;-
+===  n;ə;n;t;ə
+===  n;ɔi̯;n;-;e
+§_albanian_9 : Kashubian 4069
+n;ə;-;-;n;t;ə
+ʣ;ɛ;v;j͜a~;-;ʦ;-
+===  n;ə;n;t;ə;-
+===  ʣ;ɛ;-;v;j͜a~;ʦ
+§_greek_0 : Serbo-Croatian 4070
+ɛ;ɲ;a;-;-;-
+-;d;e;v;e;t
+===  -;ɛ;ɲ;a;-
+===  d;e;v;e;t
+§_greek_2 : Cimbrian 4072
+ɛ;ɲ;a;-;-
+-;n;ɔi̯;n;e
+===  -;ɛ;ɲ;a
+===  n;ɔi̯;n;e
+§_greek_4 : westenr frisian 4074
+ɛ;ɲ;a;-;-;-
+-;n;j͜o;ɣ;ə;n
+===  -;-;-;ɛ;ɲ;a
+===  n;j͜o;ɣ;ə;n;-
+§_greek_5 : Polish 4075
+ɛ;ɲ;a;-;-;-;-
+-;ʥ;e;v;j͜e;ɲ;ʨ
+===  -;-;-;ɛ;ɲ;a;-
+===  ʥ;e;v;j͜e;ɲ;-;ʨ
+§_greek_7 : Sicilian 4077
+ɛ;ɲ;a;-;-
+-;n;ɔː;v;i
+===  ɛ;ɲ;-;-;a
+===  -;n;ɔː;v;i
+§_greek_8 : italian 4078
+ɛ;ɲ;a;-;-
+-;n;ɔ;v;e
+===  ɛ;ɲ;-;-;a
+===  -;n;ɔ;v;e
+§_greek_9 : lithuanian 4079
+ɛ;ɲ;a;-;-;-;-
+-;dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  -;-;-;ɛ;ɲ;a
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+§_latin_0 : norvegian 4080
+n;ɔ;w͜ɛ~ː
+n;iː;-
+===  n;ɔ;w͜ɛ~ː
+===  n;-;iː
+§_latin_1 : Breton 4081
+n;ɔ;w͜ɛ~ː
+n;ao̯;-
+===  n;ɔ;w͜ɛ~ː
+===  n;-;ao̯
+§_latin_3 : manx 4083
+n;ɔ;w͜ɛ~ː
+n;iː;-
+===  n;ɔ;w͜ɛ~ː
+===  n;-;iː
+§_latin_8 : pashto 4088
+n;ɔ;w͜ɛ~ː;-
+n;ə;-;h
+===  n;ɔ;w͜ɛ~ː;-
+===  n;-;ə;h
+§_Rumanian_0 : norvegian 4090
+n;o;w͜ə
+n;iː;-
+===  n;o;w͜ə
+===  n;-;iː
+§_Rumanian_3 : manx 4093
+n;o;w͜ə
+n;iː;-
+===  n;o;w͜ə
+===  n;-;iː
+§_Rumanian_5 : sinhala 4095
+n;o;w͜ə;-;-;-
+n;a;-;m;ə;j͜ə
+===  n;o;-;w͜ə;-
+===  n;a;m;ə;j͜ə
+§_Rumanian_9 : english 4099
+n;o;w͜ə;-
+n;aɪ̯;-;n
+===  n;o;w͜ə;-
+===  n;-;aɪ̯;n
+§_italian_2 : pashto 4102
+n;ɔ;v;e;-
+n;ə;-;-;h
+===  n;ɔ;v;e
+===  n;ə;h;-
+§_italian_7 : albanian 4107
+n;ɔ;v;e;-;-;-
+n;ə;-;-;n;t;ə
+===  n;ɔ;-;v;e
+===  n;ə;n;t;ə
+§_italian_9 : swiss-german 4109
+n;ɔ;v;e;-
+n;yː;-;-;n
+===  n;ɔ;v;e
+===  n;yː;n;-
+§_Sicilian_2 : luxembourgish 4112
+n;ɔː;v;i;-
+n;e;-;-;ŋ
+===  n;ɔː;v;i;-
+===  n;-;-;e;ŋ
+§_Sicilian_3 : manx 4113
+n;ɔː;v;i
+n;iː;-;-
+===  n;ɔː;v;i
+===  n;-;-;iː
+§_Sicilian_5 : greek 4115
+-;n;ɔː;v;i
+ɛ;ɲ;a;-;-
+===  -;n;ɔː;v;i
+===  ɛ;ɲ;-;-;a
+§_Sicilian_7 : Cimbrian 4117
+n;ɔː;v;i;-;-
+n;ɔi̯;-;-;n;e
+===  n;ɔː;v;i
+===  n;ɔi̯;n;e
+§_Sicilian_9 : pashto 4119
+n;ɔː;v;i;-
+n;ə;-;-;h
+===  n;ɔː;v;i
+===  n;ə;h;-
+§_french_1 : Icelandic 4121
+n;œ;f;-
+n;iː;-;ʏ
+===  n;-;œ;f
+===  n;iː;ʏ;-
+§_french_2 : pashto 4122
+n;œ;f;-
+n;ə;-;h
+===  n;œ;f
+===  n;ə;h
+§_french_3 : Cimbrian 4123
+n;œ;f;-;-
+n;ɔi̯;-;n;e
+===  n;œ;f;-
+===  n;ɔi̯;n;e
+§_french_8 : latin 4128
+n;œ;f;-
+n;ɔ;-;w͜ɛ~ː
+===  n;-;œ;f
+===  n;ɔ;w͜ɛ~ː;-
+§_wallon_1 : western farsi 4131
+n;uː;f;-
+n;o;-;h
+===  n;uː;f
+===  n;o;h
+§_wallon_2 : Irish 4132
+-;n;uː;f;-
+ə;n̪ˠ;-;-;i
+===  -;n;uː;f
+===  ə;n̪ˠ;i;-
+§_wallon_8 : sinhala 4138
+n;uː;f;-;-;-
+n;a;-;m;ə;j͜ə
+===  n;uː;f;-;-
+===  n;a;m;ə;j͜ə
+§_wallon_9 : english 4139
+n;uː;f;-
+n;aɪ̯;-;n
+===  n;uː;f
+===  n;aɪ̯;n
+§_asturian_6 : pashto 4146
+n;w͜e;β;e;-
+n;ə;-;-;h
+===  n;w͜e;β;e
+===  n;ə;h;-
+§_sassarese sardinian_0 : norvegian 4150
+n;ɔ;β;i
+n;iː;-;-
+===  n;ɔ;β;i
+===  n;-;-;iː
+§_sassarese sardinian_3 : Cimbrian 4153
+n;ɔ;β;i;-;-
+n;ɔi̯;-;-;n;e
+===  n;ɔ;β;i
+===  n;ɔi̯;n;e
+§_sassarese sardinian_4 : western farsi 4154
+n;ɔ;β;i;-
+n;o;-;-;h
+===  n;ɔ;β;i
+===  n;o;h;-
+§_sassarese sardinian_7 : albanian 4157
+n;ɔ;β;i;-;-;-
+n;ə;-;-;n;t;ə
+===  n;ɔ;-;β;i
+===  n;ə;n;t;ə
+§_Breton_4 : latvian 4164
+n;ao̯;-;-;-;-
+d;ɛ;v;i;ɲ;i
+===  -;-;-;-;n;ao̯
+===  d;ɛ;v;i;ɲ;i
+§_Irish_0 : westenr frisian 4170
+ə;n̪ˠ;-;-;i;-
+-;n;j͜o;ɣ;ə;n
+===  -;-;-;ə;n̪ˠ;i
+===  n;j͜o;ɣ;ə;n;-
+§_Irish_2 : gilaki 4172
+ə;n̪ˠ;-;i
+-;n;o;-
+===  ə;n̪ˠ;i
+===  -;n;o
+§_Irish_3 : norvegian 4173
+ə;n̪ˠ;-;i
+-;n;iː;-
+===  ə;n̪ˠ;i
+===  -;n;iː
+§_Irish_4 : western farsi 4174
+ə;n̪ˠ;-;i;-
+-;n;o;-;h
+===  ə;n̪ˠ;i;-
+===  -;n;o;h
+§_Irish_6 : Breton 4176
+ə;n̪ˠ;-;i
+-;n;ao̯;-
+===  ə;n̪ˠ;i
+===  -;n;ao̯
+§_Irish_7 : german 4177
+ə;n̪ˠ;-;i;-
+-;n;ɔɪ̯;-;n
+===  -;ə;n̪ˠ;i
+===  n;ɔɪ̯;n;-
+§_Irish_8 : albanian 4178
+ə;n̪ˠ;-;i;-;-;-
+-;n;ə;-;n;t;ə
+===  -;ə;n̪ˠ;-;i
+===  n;ə;n;t;ə
+§_Irish_9 : Low Saxon 4179
+ə;n̪ˠ;-;-;i;-
+-;n;eː;g;-;ŋ
+===  ə;n̪ˠ;i;-;-
+===  -;n;eː;g;ŋ
+§_manx_0 : Irish 4180
+-;n;iː;-
+ə;n̪ˠ;-;i
+===  -;n;iː
+===  ə;n̪ˠ;i
+§_manx_3 : italian 4183
+n;iː;-;-
+n;ɔ;v;e
+===  n;-;-;iː
+===  n;ɔ;v;e
+§_manx_5 : latin 4185
+n;iː;-
+n;ɔ;w͜ɛ~ː
+===  n;-;iː
+===  n;ɔ;w͜ɛ~ː
+§_manx_6 : latvian 4186
+n;iː;-;-;-;-
+d;ɛ;v;i;ɲ;i
+===  -;-;-;-;n;iː
+===  d;ɛ;v;i;ɲ;i
+§_manx_8 : Polish 4188
+n;iː;-;-;-;-
+ʥ;e;v;j͜e;ɲ;ʨ
+===  -;-;n;iː;-;-
+===  ʥ;e;v;j͜e;ɲ;ʨ
+§_english_1 : Rumanian 4191
+n;aɪ̯;-;n
+n;o;w͜ə;-
+===  n;-;aɪ̯;n
+===  n;o;w͜ə;-
+§_english_4 : sindhi 4194
+n;aɪ̯;-;-;n
+n;ə;v;ə~;-
+===  n;aɪ̯;n;-
+===  n;ə;v;ə~
+§_english_6 : Kashubian 4196
+n;aɪ̯;-;-;n;-
+ʣ;ɛ;v;j͜a~;-;ʦ
+===  -;-;n;aɪ̯;n
+===  ʣ;ɛ;v;j͜a~;ʦ
+§_english_7 : french 4197
+n;aɪ̯;-;n
+n;œ;f;-
+===  n;aɪ̯;n
+===  n;œ;f
+§_english_8 : Dutch 4198
+n;aɪ̯;-;-;n
+n;e;χ;ə;-
+===  n;aɪ̯;-;n;-
+===  n;e;χ;-;ə
+§_english_9 : sassarese sardinian 4199
+n;aɪ̯;-;-;n
+n;ɔ;β;i;-
+===  n;-;-;aɪ̯;n
+===  n;ɔ;β;i;-
+§_westenr frisian_0 : Serbo-Croatian 4200
+n;j͜o;ɣ;ə;n;-
+d;e;v;e;-;t
+===  n;j͜o;ɣ;ə;n
+===  d;e;v;e;t
+§_westenr frisian_2 : Bulgarian 4202
+n;j͜o;ɣ;ə;n;-
+d;e;v;e;-;t
+===  n;j͜o;ɣ;ə;n
+===  d;e;v;e;t
+§_german_0 : french 4210
+n;ɔɪ̯;-;n
+n;œ;f;-
+===  n;ɔɪ̯;n
+===  n;œ;f
+§_german_1 : lithuanian 4211
+n;ɔɪ̯;-;-;n;-
+dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  -;-;n;ɔɪ̯;n;-
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+§_german_2 : sindhi 4212
+n;ɔɪ̯;-;-;n
+n;ə;v;ə~;-
+===  n;ɔɪ̯;n;-
+===  n;ə;v;ə~
+§_german_4 : sassarese sardinian 4214
+n;ɔɪ̯;-;-;n
+n;ɔ;β;i;-
+===  n;ɔɪ̯;n;-
+===  n;ɔ;β;i
+§_german_6 : greek 4216
+-;n;ɔɪ̯;n
+ɛ;ɲ;a;-
+===  n;ɔɪ̯;n;-
+===  -;ɛ;ɲ;a
+§_german_7 : Rumanian 4217
+n;ɔɪ̯;-;n
+n;o;w͜ə;-
+===  n;ɔɪ̯;n;-
+===  n;o;-;w
+§_german_9 : latin 4219
+n;ɔɪ̯;-;n
+n;ɔ;w͜ɛ~ː;-
+===  n;ɔɪ̯;n;-
+===  n;ɔ;-;w
+§_luxembourgish_0 : lithuanian 4220
+n;e;-;-;ŋ;-
+dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  -;-;-;-;n;e;ŋ
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ;-
+§_luxembourgish_1 : latin 4221
+n;e;-;ŋ
+n;ɔ;w͜ɛ~ː;-
+===  n;-;e;ŋ
+===  n;ɔ;w͜ɛ~ː;-
+§_luxembourgish_2 : latvian 4222
+n;e;-;-;ŋ;-
+d;ɛ;v;i;ɲ;i
+===  -;-;n;e;ŋ;-
+===  d;ɛ;v;i;ɲ;i
+§_luxembourgish_3 : pashto 4223
+n;e;ŋ;-
+n;ə;-;h
+===  n;e;ŋ
+===  n;ə;h
+§_luxembourgish_5 : western farsi 4225
+n;e;ŋ;-
+n;o;-;h
+===  n;e;ŋ
+===  n;o;h
+§_luxembourgish_6 : Irish 4226
+-;n;e;-;ŋ
+ə;n̪ˠ;-;i;-
+===  -;n;e;ŋ
+===  ə;n̪ˠ;i;-
+§_luxembourgish_7 : Polish 4227
+n;e;-;-;ŋ;-
+ʥ;e;v;j͜e;ɲ;ʨ
+===  -;-;n;e;ŋ;-
+===  ʥ;e;v;j͜e;ɲ;ʨ
+§_swiss-german_0 : sassarese sardinian 4230
+n;yː;-;-;n
+n;ɔ;β;i;-
+===  n;yː;n;-
+===  n;ɔ;β;i
+§_swiss-german_2 : sindhi 4232
+n;yː;-;-;n
+n;ə;v;ə~;-
+===  n;yː;n;-
+===  n;ə;v;ə~
+§_swiss-german_4 : Icelandic 4234
+n;yː;-;n
+n;iː;ʏ;-
+===  n;-;yː;n
+===  n;iː;ʏ;-
+§_swiss-german_6 : western farsi 4236
+n;yː;n;-
+n;o;-;h
+===  n;yː;n
+===  n;o;h
+§_swiss-german_7 : latvian 4237
+n;yː;-;-;n;-
+d;ɛ;v;i;ɲ;i
+===  -;-;n;yː;n;-
+===  d;ɛ;v;i;ɲ;i
+§_swiss-german_9 : Kashubian 4239
+n;yː;-;-;n;-
+ʣ;ɛ;v;j͜a~;-;ʦ
+===  n;yː;n;-;-
+===  ʣ;ɛ;v;j͜a~;ʦ
+§_Cimbrian_1 : manx 4241
+n;ɔi̯;n;e
+n;iː;-;-
+===  n;ɔi̯;n;e
+===  -;-;n;iː
+§_Cimbrian_2 : greek 4242
+-;n;ɔi̯;n;e
+ɛ;ɲ;a;-;-
+===  n;ɔi̯;n;e
+===  -;ɛ;ɲ;a
+§_Cimbrian_3 : Polish 4243
+n;ɔi̯;-;-;n;e;-
+ʥ;e;v;j͜e;ɲ;-;ʨ
+===  -;-;n;ɔi̯;n;e;-
+===  ʥ;e;v;j͜e;ɲ;-;ʨ
+§_Cimbrian_5 : Bulgarian 4245
+n;ɔi̯;-;-;n;e;-
+d;e;v;e;-;-;t
+===  n;ɔi̯;n;e;-
+===  d;e;v;e;t
+§_Cimbrian_6 : french 4246
+n;ɔi̯;-;n;e
+n;œ;f;-;-
+===  n;ɔi̯;n;e
+===  n;œ;f;-
+§_Cimbrian_7 : western farsi 4247
+n;ɔi̯;n;e;-
+n;o;-;-;h
+===  n;ɔi̯;n;e
+===  n;o;h;-
+§_Cimbrian_8 : Kashubian 4248
+n;ɔi̯;-;-;n;e;-
+ʣ;ɛ;v;j͜a~;-;-;ʦ
+===  n;ɔi̯;n;e;-
+===  ʣ;ɛ;v;j͜a~;ʦ
+§_Cimbrian_9 : latin 4249
+n;ɔi̯;-;n;e
+n;ɔ;w͜ɛ~ː;-;-
+===  n;ɔi̯;n;e
+===  n;ɔ;-;w͜ɛ~ː
+§_Dutch_5 : Cimbrian 4255
+n;e;χ;ə;-;-
+n;ɔi̯;-;-;n;e
+===  n;e;χ;ə
+===  n;ɔi̯;n;e
+§_Dutch_7 : luxembourgish 4257
+n;e;χ;ə;-
+n;e;-;-;ŋ
+===  n;e;χ;ə
+===  n;e;ŋ;-
+§_Dutch_8 : pashto 4258
+n;e;χ;ə;-
+n;ə;-;-;h
+===  n;e;χ;ə
+===  n;ə;h;-
+§_Low Saxon_1 : asturian 4261
+n;eː;g;-;ŋ
+n;w͜e;β;e;-
+===  n;eː;g;ŋ;-
+===  n;w͜e;β;-;e
+§_Low Saxon_4 : sassarese sardinian 4264
+n;eː;g;-;ŋ
+n;ɔ;β;i;-
+===  n;eː;g;ŋ;-
+===  n;ɔ;β;-;i
+§_Low Saxon_5 : albanian 4265
+n;eː;g;ŋ;-;-
+n;ə;-;n;t;ə
+===  n;eː;-;g;ŋ;-
+===  n;ə;n;t;-;ə
+§_Low Saxon_6 : western farsi 4266
+n;eː;g;ŋ;-
+n;o;-;-;h
+===  n;eː;g;ŋ
+===  n;o;h;-
+§_Low Saxon_7 : russian 4267
+n;eː;g;-;ŋ;-
+dʲ;ɛ;vʲ;i;-;tʲ
+===  -;-;n;eː;g;ŋ
+===  dʲ;ɛ;vʲ;i;tʲ;-
+§_Icelandic_3 : Irish 4273
+-;n;iː;ʏ
+ə;n̪ˠ;-;i
+===  -;n;iː;ʏ
+===  ə;n̪ˠ;i;-
+§_Icelandic_5 : albanian 4275
+n;iː;ʏ;-;-;-
+n;ə;-;n;t;ə
+===  n;iː;-;-;ʏ
+===  n;ə;n;t;ə
+§_Icelandic_7 : sinhala 4277
+n;iː;ʏ;-;-;-
+n;a;-;m;ə;j͜ə
+===  n;iː;-;ʏ;-
+===  n;a;m;ə;j͜ə
+§_Icelandic_8 : wallon 4278
+n;iː;-;ʏ
+n;uː;f;-
+===  n;iː;ʏ;-
+===  n;-;uː;f
+§_norvegian_7 : Cimbrian 4287
+n;iː;-;-
+n;ɔi̯;n;e
+===  -;-;n;iː
+===  n;ɔi̯;n;e
+§_norvegian_9 : lithuanian 4289
+n;iː;-;-;-;-
+dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  -;-;-;-;n;iː
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+§_latvian_0 : Cimbrian 4290
+d;ɛ;v;i;ɲ;i
+n;ɔi̯;-;-;n;e
+===  d;ɛ;v;i;ɲ;i
+===  -;-;n;ɔi̯;n;e
+§_latvian_1 : pashai 4291
+d;ɛ;v;i;ɲ;i
+n;u;-;-;-;-
+===  d;ɛ;v;i;ɲ;i
+===  -;-;-;-;n;u
+§_latvian_3 : Breton 4293
+d;ɛ;v;i;ɲ;i
+n;ao̯;-;-;-;-
+===  d;ɛ;v;i;ɲ;i
+===  -;-;-;-;n;ao̯
+§_latvian_5 : russian 4295
+d;ɛ;v;i;ɲ;i;-
+dʲ;ɛ;vʲ;i;-;-;tʲ
+===  d;ɛ;v;i;ɲ;i;-
+===  dʲ;ɛ;vʲ;i;-;-;t
+§_latvian_6 : swiss-german 4296
+d;ɛ;v;i;ɲ;i
+n;yː;-;-;n;-
+===  d;ɛ;v;i;ɲ;i
+===  -;-;n;yː;n;-
+§_latvian_7 : latin 4297
+d;ɛ;v;i;ɲ;i
+n;ɔ;-;w͜ɛ~ː;-;-
+===  d;ɛ;v;i;ɲ;-;i
+===  -;-;-;-;n;ɔ;w͜ɛ~ː
+§_lithuanian_2 : Icelandic 4302
+dʲ;ɛ;vʲ;iː;nʲ;ɪ
+n;iː;-;ʏ;-;-
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ;-
+===  -;-;-;-;n;iː;ʏ
+§_lithuanian_3 : swiss-german 4303
+dʲ;ɛ;vʲ;iː;nʲ;ɪ
+n;yː;-;-;n;-
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  -;-;n;yː;n;-
+§_lithuanian_5 : sinhala 4305
+dʲ;ɛ;vʲ;iː;nʲ;ɪ;-
+n;a;-;-;m;ə;j͜ə
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ;-
+===  -;-;n;a;m;ə;j͜ə
+§_lithuanian_6 : pashai 4306
+dʲ;ɛ;vʲ;iː;nʲ;ɪ
+n;u;-;-;-;-
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  -;-;-;-;n;u
+§_lithuanian_7 : russian 4307
+dʲ;ɛ;vʲ;iː;nʲ;ɪ;-
+dʲ;ɛ;vʲ;i;-;-;tʲ
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+===  dʲ;ɛ;vʲ;i;tʲ;-
+§_russian_3 : lithuanian 4313
+dʲ;ɛ;vʲ;i;-;-;tʲ
+dʲ;ɛ;vʲ;iː;nʲ;ɪ;-
+===  dʲ;ɛ;vʲ;i;tʲ;-
+===  dʲ;ɛ;vʲ;iː;nʲ;ɪ
+§_russian_4 : Low Saxon 4314
+dʲ;ɛ;vʲ;i;-;tʲ
+n;eː;g;-;ŋ;-
+===  dʲ;ɛ;vʲ;i;tʲ;-
+===  -;-;n;eː;g;ŋ
+§_russian_5 : luxembourgish 4315
+dʲ;ɛ;vʲ;i;-;tʲ
+n;e;-;-;ŋ;-
+===  dʲ;ɛ;vʲ;i;tʲ
+===  n;e;ŋ;-;-
+§_russian_7 : pashto 4317
+dʲ;ɛ;vʲ;i;-;tʲ
+n;ə;-;-;h;-
+===  dʲ;ɛ;vʲ;i;tʲ
+===  n;ə;h;-;-
+§_Kashubian_0 : swiss-german 4320
+ʣ;ɛ;v;j͜a~;-;ʦ
+n;yː;-;-;n;-
+===  ʣ;ɛ;v;j͜a~;ʦ
+===  n;yː;n;-;-
+§_Kashubian_5 : sinhala 4325
+ʣ;ɛ;v;j͜a~;-;-;-;ʦ
+n;a;-;-;m;ə;j͜ə;-
+===  ʣ;ɛ;v;j͜a~;ʦ;-
+===  n;a;m;ə;-;j͜ə
+§_Kashubian_6 : lithuanian 4326
+ʣ;ɛ;v;j͜a~;-;-;ʦ
+dʲ;ɛ;vʲ;iː;nʲ;ɪ;-
+===  ʣ;ɛ;v;j͜a~;-;ʦ;-
+===  dʲ;ɛ;vʲ;iː;nʲ;-;ɪ
+§_Kashubian_9 : Cimbrian 4329
+ʣ;ɛ;v;j͜a~;-;-;ʦ
+n;ɔi̯;-;-;n;e;-
+===  ʣ;ɛ;v;j͜a~;ʦ
+===  n;ɔi̯;n;e;-
+§_Polish_0 : latvian 4330
+ʥ;e;v;j͜e;ɲ;-;ʨ
+d;ɛ;v;i;ɲ;i;-
+===  ʥ;e;v;j͜e;ɲ;ʨ;-
+===  d;ɛ;v;i;ɲ;-;i
+§_Polish_3 : pashai 4333
+ʥ;e;v;j͜e;ɲ;ʨ
+n;u;-;-;-;-
+===  ʥ;e;v;j͜e;ɲ;ʨ;-
+===  -;-;-;-;n;-;u
+§_Polish_7 : pashto 4337
+ʥ;e;v;j͜e;ɲ;-;ʨ
+n;ə;-;-;-;h;-
+===  ʥ;e;v;j͜e;ɲ;ʨ
+===  n;ə;h;-;-;-
+§_Polish_9 : hindi 4339
+ʥ;e;v;j͜e;ɲ;ʨ
+n;ɔ;-;-;-;-
+===  ʥ;e;v;j͜e;ɲ;ʨ;-
+===  -;-;-;-;n;-;ɔ
+§_Bulgarian_2 : Low Saxon 4342
+d;e;v;e;-;t
+n;eː;g;-;ŋ;-
+===  d;e;v;e;t;-
+===  -;-;n;eː;g;ŋ
+§_Bulgarian_4 : Cimbrian 4344
+d;e;v;e;-;-;t
+n;ɔi̯;-;-;n;e;-
+===  d;e;v;e;t
+===  n;ɔi̯;n;e;-
+§_Bulgarian_6 : westenr frisian 4346
+d;e;v;e;-;t
+n;j͜o;ɣ;ə;n;-
+===  d;e;v;e;t
+===  n;j͜o;ɣ;ə;n
+§_Bulgarian_7 : western farsi 4347
+d;e;v;e;-;t
+n;o;-;-;h;-
+===  d;e;v;e;t
+===  n;o;h;-;-
+§_Bulgarian_9 : english 4349
+d;e;v;e;-;t
+n;aɪ̯;-;-;n;-
+===  d;e;v;e;t
+===  n;aɪ̯;n;-;-
+§_Serbo-Croatian_0 : pashto 4350
+d;e;v;e;-;t
+n;ə;-;-;h;-
+===  d;e;v;e;t
+===  n;ə;h;-;-
+§_Serbo-Croatian_1 : latvian 4351
+d;e;v;e;-;-;t
+d;ɛ;v;i;ɲ;i;-
+===  d;e;v;e;-;t;-
+===  d;ɛ;v;i;ɲ;-;i
+§_Serbo-Croatian_6 : albanian 4356
+d;e;v;e;-;t;-
+n;ə;-;-;n;t;ə
+===  d;e;-;v;e;t
+===  n;ə;n;t;ə;-
+§_Serbo-Croatian_9 : swiss-german 4359
+d;e;v;e;-;t
+n;yː;-;-;n;-
+===  d;e;v;e;t
+===  n;yː;n;-;-
+§_armenian_1 : westenr frisian 4361
+t;ɑ;s;-;-
+ʦ;i;-;ə;n
+===  t;-;ɑ;s
+===  ʦ;i;ə;n
+§_armenian_2 : german 4362
+t;ɑ;s;-
+ʦ;eː;-;n
+===  t;ɑ;s
+===  ʦ;eː;n
+§_armenian_3 : Low Saxon 4363
+t;ɑ;s;-;-
+tʰ;a;-;ɪ;n
+===  t;ɑ;-;s
+===  tʰ;a;ɪ;n
+§_sinhala_0 : Bulgarian 4370
+d;a;h;a;j͜ə;-
+d;e;s;e;-;t
+===  d;a;h;a;j;-
+===  d;e;s;e;-;t
+§_sinhala_1 : albanian 4371
+d;a;h;a;j͜ə;-;-
+ð;j͜ɛ;-;-;-;t;ə
+===  d;a;h;a;j͜ə
+===  ð;j͜ɛ;t;-;ə
+§_sinhala_2 : latvian 4372
+d;a;h;a;-;j͜ə;-
+d;ɛ;s;-;m;i;t
+===  d;a;h;-;a;j;-
+===  d;ɛ;s;m;i;-;t
+§_sinhala_7 : Kashubian 4377
+d;a;h;a;j͜ə;-
+ʣ;ɛ;s;a~;-;ʦ
+===  d;a;h;a;j;-
+===  ʣ;ɛ;s;a~;-;ʦ
+§_sindhi_9 : english 4399
+d;ə;h;ə;-
+tʰ;e;-;-;n
+===  d;ə;h;ə
+===  tʰ;e;n;-
+§_hindi_0 : albanian 4400
+d̪;ʌ;s;-;-
+ð;j͜ɛ;-;t;ə
+===  d̪;ʌ;s;-
+===  ð;j͜ɛ;t;ə
+§_pashto_6 : norvegian 4416
+l;a;s
+t;iː;-
+===  l;a;s;-
+===  -;-;t;iː
+§_pashto_7 : Dutch 4417
+l;a;s;-
+t;i;-;n
+===  -;-;l;a;s
+===  t;i;n;-;-
+§_pashto_8 : westenr frisian 4418
+l;a;s;-;-
+ʦ;i;-;ə;n
+===  l;a;s;-;-;-
+===  -;-;ʦ;i;ə;n
+§_pashto_9 : Icelandic 4419
+l;a;s;-
+tʰ;iː;-;ʏ
+===  l;a;s;-;-
+===  -;-;tʰ;iː;ʏ
+§_gilaki_0 : Cimbrian 4420
+d;a;-;-;-;-
+s;ɘ;g;ɘ;n;e
+===  -;-;d;a;-;-
+===  s;ɘ;g;ɘ;n;e
+§_gilaki_7 : Sicilian 4427
+d;a;-;-
+r;ɛː;ʃ;i
+===  -;-;d;a
+===  r;ɛː;ʃ;i
+§_central kurdish_3 : Sicilian 4433
+d;æ;-;-
+r;ɛː;ʃ;i
+===  -;-;d;æ
+===  r;ɛː;ʃ;i
+§_western farsi_1 : westenr frisian 4441
+d;æ;h;-;-
+ʦ;i;-;ə;n
+===  d;æ;-;h
+===  ʦ;i;ə;n
+§_albanian_0 : luxembourgish 4450
+ð;j͜ɛ;-;t;ə
+ʦ;e;ŋ;-;-
+===  ð;j͜ɛ;t;ə;-
+===  -;-;ʦ;e;ŋ
+§_albanian_1 : russian 4451
+ð;j͜ɛ;-;-;t;ə
+dʲ;ɛ;sʲ;i;tʲ;-
+===  ð;j͜ɛ;t;ə;-
+===  dʲ;ɛ;sʲ;i;tʲ
+§_albanian_2 : italian 4452
+ð;j͜ɛ;-;-;t;ə
+dʲ;ɛ;ʧ;i;-;-
+===  ð;j͜ɛ;t;ə
+===  dʲ;ɛ;ʧ;i
+§_albanian_3 : latin 4453
+ð;j͜ɛ;-;-;t;ə
+d̪;ɛ;k;ɛ~ː;-;-
+===  ð;j͜ɛ;t;ə
+===  d̪;ɛ;k;ɛ~ː
+§_albanian_4 : manx 4454
+ð;j͜ɛ;t;ə
+ʤ;ɛi̯;-;-
+===  ð;j͜ɛ;t;ə
+===  -;-;ʤ;ɛi̯
+§_albanian_5 : pashto 4455
+ð;j͜ɛ;-;t;ə
+l;a;s;-;-
+===  ð;j͜ɛ;t;ə
+===  l;a;s;-
+§_albanian_6 : Irish 4456
+-;ð;j͜ɛ;t;ə
+ə;dʲ;ɛ;-;-
+===  ð;j͜ɛ;t;ə
+===  -;ə;dʲ;ɛ
+§_albanian_7 : english 4457
+ð;j͜ɛ;-;t;ə
+tʰ;e;n;-;-
+===  ð;j͜ɛ;t;ə;-
+===  -;-;tʰ;e;n
+§_albanian_8 : Cimbrian 4458
+ð;j͜ɛ;-;-;-;-;t;ə
+s;ɘ;g;ɘ;n;e;-;-
+===  ð;j͜ɛ;t;ə;-;-
+===  s;ɘ;g;ɘ;n;e
+§_albanian_9 : sindhi 4459
+ð;j͜ɛ;-;-;t;ə
+d;ə;h;ə;-;-
+===  ð;j͜ɛ;t;ə
+===  d;ə;h;ə
+§_greek_1 : latvian 4461
+ð;ɛ;k;a;-;-;-
+d;ɛ;s;-;m;i;t
+===  ð;ɛ;k;-;a;-
+===  d;ɛ;s;m;i;t
+§_greek_4 : english 4464
+ð;ɛ;k;a;-
+tʰ;e;-;-;n
+===  ð;ɛ;k;a
+===  tʰ;e;n;-
+§_latin_3 : latvian 4473
+d̪;ɛ;k;ɛ~ː;-;-;-
+d;ɛ;s;-;m;i;t
+===  d̪;ɛ;k;-;ɛ~ː;-
+===  d;ɛ;s;m;i;t
+§_latin_7 : Irish 4477
+-;d̪;ɛ;k;ɛ~ː
+ə;dʲ;ɛ;-;-
+===  d̪;ɛ;k;ɛ~ː
+===  -;ə;dʲ;ɛ
+§_latin_9 : english 4479
+d̪;ɛ;k;ɛ~ː;-
+tʰ;e;-;-;n
+===  d̪;ɛ;k;ɛ~ː
+===  tʰ;e;n;-
+§_Rumanian_1 : albanian 4481
+z;e;ʧ;e;-;-
+ð;j͜ɛ;-;-;t;ə
+===  z;e;ʧ;e
+===  ð;j͜ɛ;t;ə
+§_Rumanian_8 : german 4488
+z;e;ʧ;e;-
+ʦ;eː;-;-;n
+===  z;e;ʧ;e;-
+===  -;-;ʦ;eː;n
+§_italian_1 : Irish 4491
+-;dʲ;ɛ;ʧ;i
+ə;dʲ;ɛ;-;-
+===  dʲ;ɛ;ʧ;i
+===  -;ə;dʲ;ɛ
+§_italian_4 : manx 4494
+dʲ;ɛ;ʧ;i
+ʤ;ɛi̯;-;-
+===  dʲ;ɛ;ʧ;i
+===  -;-;ʤ;ɛi̯
+§_italian_8 : swiss-german 4498
+dʲ;ɛ;ʧ;i
+ʦ;æː;-;-
+===  dʲ;ɛ;ʧ;i
+===  -;-;ʦ;æː
+§_italian_9 : albanian 4499
+dʲ;ɛ;ʧ;i;-;-
+ð;j͜ɛ;-;-;t;ə
+===  dʲ;ɛ;ʧ;i
+===  ð;j͜ɛ;t;ə
+§_Sicilian_0 : manx 4500
+r;ɛː;ʃ;i
+ʤ;ɛi̯;-;-
+===  r;ɛː;ʃ;i
+===  -;-;ʤ;ɛi̯
+§_Sicilian_1 : latvian 4501
+r;ɛː;ʃ;i;-;-;-
+d;ɛ;s;-;m;i;t
+===  r;ɛː;ʃ;-;i;-
+===  d;ɛ;s;m;i;t
+§_Sicilian_3 : german 4503
+r;ɛː;ʃ;i;-
+ʦ;eː;-;-;n
+===  r;ɛː;ʃ;i;-
+===  -;-;ʦ;eː;n
+§_Sicilian_4 : english 4504
+r;ɛː;ʃ;i;-
+tʰ;e;-;-;n
+===  r;ɛː;ʃ;i;-
+===  -;-;tʰ;e;n
+§_Sicilian_5 : Icelandic 4505
+r;ɛː;ʃ;i
+tʰ;iː;-;ʏ
+===  r;ɛː;ʃ;i;-
+===  -;-;tʰ;iː;ʏ
+§_Sicilian_6 : Dutch 4506
+r;ɛː;ʃ;i;-
+t;i;-;-;n
+===  r;ɛː;ʃ;i;-
+===  -;-;t;i;n
+§_Sicilian_7 : Low Saxon 4507
+r;ɛː;ʃ;i;-
+tʰ;a;-;ɪ;n
+===  r;ɛː;ʃ;-;i;-
+===  -;-;tʰ;a;ɪ;n
+§_Sicilian_8 : luxembourgish 4508
+r;ɛː;ʃ;i;-
+ʦ;e;-;-;ŋ
+===  r;ɛː;ʃ;i;-
+===  -;-;ʦ;e;ŋ
+§_french_3 : luxembourgish 4513
+d;i;s;-
+ʦ;e;-;ŋ
+===  d;i;s
+===  ʦ;e;ŋ
+§_french_8 : westenr frisian 4518
+d;i;s;-;-
+ʦ;i;-;ə;n
+===  d;i;-;s
+===  ʦ;i;ə;n
+§_wallon_3 : Low Saxon 4523
+d;iː;ʒ;-;-
+tʰ;a;-;ɪ;n
+===  d;-;iː;ʒ
+===  tʰ;a;ɪ;n
+§_wallon_4 : westenr frisian 4524
+d;iː;ʒ;-;-
+ʦ;i;-;ə;n
+===  d;iː;-;ʒ
+===  ʦ;i;ə;n
+§_wallon_8 : Dutch 4528
+d;iː;ʒ;-
+t;i;-;n
+===  d;iː;ʒ
+===  t;i;n
+§_asturian_1 : westenr frisian 4531
+d;j͜e;θ;-;-
+ʦ;i;-;ə;n
+===  d;j͜e;-;θ
+===  ʦ;i;ə;n
+§_asturian_4 : luxembourgish 4534
+d;j͜e;θ;-
+ʦ;e;-;ŋ
+===  d;j͜e;θ
+===  ʦ;e;ŋ
+§_asturian_7 : albanian 4537
+d;j͜e;θ;-;-
+ð;j͜ɛ;-;t;ə
+===  d;j͜e;θ;-
+===  ð;j͜ɛ;t;ə
+§_sassarese sardinian_4 : english 4544
+d;ɛ;ʧ;i;-
+tʰ;e;-;-;n
+===  d;ɛ;ʧ;i
+===  tʰ;e;n;-
+§_sassarese sardinian_7 : german 4547
+d;ɛ;ʧ;i;-
+ʦ;eː;-;-;n
+===  d;ɛ;ʧ;i
+===  ʦ;eː;n;-
+§_Breton_0 : german 4550
+d;e;k;-
+ʦ;eː;-;n
+===  d;e;k
+===  ʦ;eː;n
+§_Breton_2 : english 4552
+d;e;k;-
+tʰ;e;-;n
+===  d;e;k
+===  tʰ;e;n
+§_Breton_3 : luxembourgish 4553
+d;e;k;-
+ʦ;e;-;ŋ
+===  d;e;k
+===  ʦ;e;ŋ
+§_Breton_6 : Serbo-Croatian 4556
+d;e;k;-;-
+d;e;s;e;t
+===  d;-;-;e;k
+===  d;e;s;e;t
+§_Breton_8 : Bulgarian 4558
+d;e;k;-;-
+d;e;s;e;t
+===  d;-;-;e;k
+===  d;e;s;e;t
+§_Breton_9 : Sicilian 4559
+d;e;k;-
+r;ɛː;ʃ;i
+===  -;-;d;e;k
+===  r;ɛː;ʃ;i;-
+§_Irish_0 : Serbo-Croatian 4560
+ə;dʲ;ɛ;-;-;-
+-;d;e;s;e;t
+===  -;ə;dʲ;ɛ;-
+===  d;e;s;e;t
+§_Irish_3 : pashto 4563
+ə;dʲ;ɛ;-
+-;l;a;s
+===  -;ə;dʲ;ɛ
+===  l;a;s;-
+§_Irish_6 : Sicilian 4566
+ə;dʲ;ɛ;-;-
+-;r;ɛː;ʃ;i
+===  -;ə;dʲ;ɛ
+===  r;ɛː;ʃ;i
+§_Irish_7 : Bulgarian 4567
+ə;dʲ;ɛ;-;-;-
+-;d;e;s;e;t
+===  -;ə;dʲ;ɛ;-
+===  d;e;s;e;t
+§_Irish_9 : latvian 4569
+ə;dʲ;ɛ;-;-;-;-
+-;d;ɛ;s;m;i;t
+===  -;ə;dʲ;-;ɛ;-
+===  d;ɛ;s;m;i;t
+§_manx_0 : greek 4570
+ʤ;ɛi̯;-;-
+ð;ɛ;k;a
+===  -;-;ʤ;ɛi̯
+===  ð;ɛ;k;a
+§_manx_1 : pashto 4571
+ʤ;ɛi̯;-
+l;a;s
+===  -;-;ʤ;ɛi̯
+===  l;a;s;-
+§_manx_5 : Sicilian 4575
+ʤ;ɛi̯;-;-
+r;ɛː;ʃ;i
+===  -;-;ʤ;ɛi̯
+===  r;ɛː;ʃ;i
+§_manx_7 : Cimbrian 4577
+ʤ;ɛi̯;-;-;-;-
+s;ɘ;g;ɘ;n;e
+===  -;-;ʤ;ɛi̯;-;-
+===  s;ɘ;g;ɘ;n;e
+§_english_2 : western farsi 4582
+tʰ;e;-;n
+d;æ;h;-
+===  tʰ;e;n
+===  d;æ;h
+§_english_3 : pashto 4583
+tʰ;e;-;n
+l;a;s;-
+===  tʰ;e;n;-;-
+===  -;-;l;a;s
+§_english_4 : Serbo-Croatian 4584
+tʰ;e;-;-;n;-
+d;e;s;e;-;t
+===  tʰ;e;n;-;-
+===  d;e;s;e;t
+§_english_6 : Sicilian 4586
+tʰ;e;-;-;n
+r;ɛː;ʃ;i;-
+===  -;-;tʰ;e;n
+===  r;ɛː;ʃ;i;-
+§_english_8 : sinhala 4588
+tʰ;e;-;-;n;-
+d;a;h;a;-;j͜ə
+===  tʰ;e;n;-;-
+===  d;a;h;a;j͜ə
+§_english_9 : Polish 4589
+tʰ;e;-;-;n;-
+ʥ;e;ɕ;e;ɲ;ʨ
+===  tʰ;-;-;e;n;-
+===  ʥ;e;ɕ;e;ɲ;ʨ
+§_westenr frisian_3 : western farsi 4593
+ʦ;i;-;ə;n
+d;æ;h;-;-
+===  ʦ;i;ə;n
+===  d;æ;-;h
+§_westenr frisian_9 : Bulgarian 4599
+ʦ;i;-;ə;n;-
+d;e;s;e;-;t
+===  ʦ;i;-;ə;n
+===  d;e;s;e;t
+§_german_0 : french 4600
+ʦ;eː;-;n
+d;i;s;-
+===  ʦ;eː;n
+===  d;i;s
+§_german_1 : russian 4601
+ʦ;eː;-;-;n;-
+dʲ;ɛ;sʲ;i;-;tʲ
+===  ʦ;eː;n;-;-
+===  dʲ;ɛ;sʲ;i;tʲ
+§_german_5 : Rumanian 4605
+ʦ;eː;-;-;n
+z;e;ʧ;e;-
+===  -;-;ʦ;eː;n
+===  z;e;ʧ;e;-
+§_german_6 : Cimbrian 4606
+ʦ;eː;-;-;n;-
+s;ɘ;g;ɘ;n;e
+===  -;-;ʦ;eː;n;-
+===  s;ɘ;g;ɘ;n;e
+§_german_7 : Breton 4607
+ʦ;eː;-;n
+d;e;k;-
+===  ʦ;eː;n
+===  d;e;k
+§_german_8 : Polish 4608
+ʦ;eː;-;-;n;-
+ʥ;e;ɕ;e;ɲ;ʨ
+===  ʦ;-;-;eː;n;-
+===  ʥ;e;ɕ;e;ɲ;ʨ
+§_german_9 : wallon 4609
+ʦ;eː;-;n
+d;iː;ʒ;-
+===  ʦ;eː;n
+===  d;iː;ʒ
+§_luxembourgish_0 : western farsi 4610
+ʦ;e;-;ŋ
+d;æ;h;-
+===  ʦ;e;ŋ
+===  d;æ;h
+§_luxembourgish_1 : Breton 4611
+ʦ;e;-;ŋ
+d;e;k;-
+===  ʦ;e;ŋ
+===  d;e;k
+§_luxembourgish_3 : asturian 4613
+ʦ;e;-;ŋ
+d;j͜e;θ;-
+===  ʦ;e;ŋ
+===  d;j͜e;θ
+§_luxembourgish_4 : Low Saxon 4614
+ʦ;e;-;ŋ
+tʰ;a;ɪ;n
+===  ʦ;-;e;ŋ
+===  tʰ;a;ɪ;n
+§_luxembourgish_6 : italian 4616
+ʦ;e;-;-;ŋ
+dʲ;ɛ;ʧ;i;-
+===  ʦ;e;ŋ;-
+===  dʲ;ɛ;ʧ;i
+§_luxembourgish_7 : Icelandic 4617
+ʦ;e;-;ŋ
+tʰ;iː;ʏ;-
+===  ʦ;e;ŋ;-
+===  tʰ;iː;-;ʏ
+§_luxembourgish_8 : Sicilian 4618
+ʦ;e;-;-;ŋ
+r;ɛː;ʃ;i;-
+===  -;-;ʦ;e;ŋ
+===  r;ɛː;ʃ;i;-
+§_luxembourgish_9 : latin 4619
+ʦ;e;-;-;ŋ
+d̪;ɛ;k;ɛ~ː;-
+===  ʦ;e;ŋ;-
+===  d̪;ɛ;k;ɛ~ː
+§_swiss-german_0 : greek 4620
+ʦ;æː;-;-
+ð;ɛ;k;a
+===  -;-;ʦ;æː
+===  ð;ɛ;k;a
+§_Cimbrian_3 : central kurdish 4633
+s;ɘ;g;ɘ;n;e
+d;æ;-;-;-;-
+===  s;ɘ;g;ɘ;n;e
+===  -;-;d;æ;-;-
+§_Cimbrian_7 : albanian 4637
+s;ɘ;g;ɘ;n;e;-;-
+ð;j͜ɛ;-;-;-;-;t;ə
+===  s;ɘ;g;ɘ;n;e
+===  ð;j͜ɛ;t;ə;-;-
+§_Cimbrian_8 : Serbo-Croatian 4638
+s;ɘ;g;ɘ;n;e;-
+d;e;s;e;-;-;t
+===  s;ɘ;g;ɘ;n;e
+===  d;e;s;e;t;-
+§_Dutch_0 : russian 4640
+t;i;-;-;n;-
+dʲ;ɛ;sʲ;i;-;tʲ
+===  t;i;n;-;-
+===  dʲ;ɛ;sʲ;i;tʲ
+§_Dutch_1 : Kashubian 4641
+t;i;-;-;n;-
+ʣ;ɛ;s;a~;-;ʦ
+===  t;i;n;-;-
+===  ʣ;ɛ;s;a~;ʦ
+§_Dutch_2 : Sicilian 4642
+t;i;-;-;n
+r;ɛː;ʃ;i;-
+===  -;-;t;i;n
+===  r;ɛː;ʃ;i;-
+§_Dutch_3 : lithuanian 4643
+t;i;-;-;n;-
+dʲ;ɛ;ʃʲ;ɪ;m;t
+===  t;-;-;i;n;-
+===  dʲ;ɛ;ʃʲ;ɪ;m;t
+§_Dutch_4 : Cimbrian 4644
+t;i;-;-;n;-
+s;ɘ;g;ɘ;n;e
+===  -;-;t;i;n;-
+===  s;ɘ;g;ɘ;n;e
+§_Dutch_5 : Serbo-Croatian 4645
+t;i;-;-;n;-
+d;e;s;e;-;t
+===  t;i;n;-;-
+===  d;e;s;e;t
+§_Dutch_6 : french 4646
+t;i;-;n
+d;i;s;-
+===  t;i;n
+===  d;i;s
+§_Dutch_7 : sindhi 4647
+t;i;-;-;n
+d;ə;h;ə;-
+===  t;i;n;-
+===  d;ə;h;ə
+§_Dutch_9 : albanian 4649
+t;i;n;-;-
+ð;j͜ɛ;-;t;ə
+===  -;-;t;i;n
+===  ð;j͜ɛ;t;ə;-
+§_Low Saxon_2 : pashto 4652
+tʰ;a;-;ɪ;n
+l;a;s;-;-
+===  tʰ;a;ɪ;n;-;-
+===  -;-;-;l;a;s
+§_Low Saxon_6 : Bulgarian 4656
+tʰ;a;-;ɪ;n;-
+d;e;s;e;-;t
+===  tʰ;a;-;ɪ;n
+===  d;e;s;e;t
+§_Low Saxon_8 : Breton 4658
+tʰ;a;-;ɪ;n
+d;e;k;-;-
+===  tʰ;a;ɪ;n
+===  d;-;e;k
+§_Icelandic_0 : hindi 4660
+tʰ;iː;-;ʏ
+d̪;ʌ;s;-
+===  tʰ;iː;ʏ;-
+===  d̪;ʌ;-;s
+§_Icelandic_1 : pashai 4661
+tʰ;iː;-;ʏ
+d;a;ʃ;-
+===  tʰ;iː;ʏ;-
+===  d;a;-;ʃ
+§_norvegian_8 : Cimbrian 4678
+t;iː;-;-;-;-
+s;ɘ;g;ɘ;n;e
+===  -;-;t;iː;-;-
+===  s;ɘ;g;ɘ;n;e
+§_norvegian_9 : Rumanian 4679
+t;iː;-;-
+z;e;ʧ;e
+===  -;-;t;iː
+===  z;e;ʧ;e
+§_latvian_0 : sinhala 4680
+d;ɛ;s;-;m;i;t
+d;a;h;a;-;j͜ə;-
+===  d;ɛ;s;m;i;t;-
+===  d;a;h;-;a;-;j
+§_latvian_1 : sassarese sardinian 4681
+d;ɛ;s;-;m;i;t
+d;ɛ;ʧ;i;-;-;-
+===  d;ɛ;s;m;i;t
+===  d;ɛ;ʧ;-;i;-
+§_latvian_2 : Sicilian 4682
+d;ɛ;s;-;m;i;t
+r;ɛː;ʃ;i;-;-;-
+===  d;ɛ;s;m;i;t
+===  r;ɛː;ʃ;-;i;-
+§_latvian_3 : russian 4683
+d;ɛ;s;-;m;i;t
+dʲ;ɛ;sʲ;i;-;-;tʲ
+===  d;ɛ;s;m;i;t
+===  dʲ;ɛ;sʲ;-;i;tʲ
+§_latvian_5 : Rumanian 4685
+d;ɛ;s;-;m;i;t
+z;e;ʧ;e;-;-;-
+===  d;ɛ;s;m;i;t
+===  z;e;ʧ;-;e;-
+§_latvian_7 : Kashubian 4687
+d;ɛ;s;-;m;i;t
+ʣ;ɛ;s;a~;-;-;ʦ
+===  d;ɛ;s;m;i;t
+===  ʣ;ɛ;s;-;a~;ʦ
+§_latvian_8 : sindhi 4688
+d;ɛ;s;-;m;i;t
+d;ə;h;ə;-;-;-
+===  d;ɛ;s;m;i;t
+===  d;ə;h;-;ə;-
+§_russian_5 : Dutch 4705
+dʲ;ɛ;sʲ;i;-;tʲ
+t;i;-;-;n;-
+===  dʲ;ɛ;sʲ;i;tʲ
+===  t;i;n;-;-
+§_russian_6 : westenr frisian 4706
+dʲ;ɛ;sʲ;i;-;tʲ
+ʦ;i;-;ə;n;-
+===  dʲ;ɛ;sʲ;i;tʲ
+===  ʦ;i;-;ə;n
+§_Kashubian_9 : Cimbrian 4719
+ʣ;ɛ;s;a~;-;-;ʦ
+s;ɘ;g;ɘ;n;e;-
+===  ʣ;ɛ;s;a~;-;ʦ;-
+===  s;ɘ;g;ɘ;n;-;e
+§_Polish_0 : english 4720
+ʥ;e;ɕ;e;ɲ;ʨ
+tʰ;e;-;-;n;-
+===  ʥ;e;ɕ;e;ɲ;ʨ
+===  tʰ;-;-;e;n;-
+§_Polish_1 : german 4721
+ʥ;e;ɕ;e;ɲ;ʨ
+ʦ;eː;-;-;n;-
+===  ʥ;e;ɕ;e;ɲ;ʨ
+===  ʦ;-;-;eː;n;-
+§_Bulgarian_0 : Dutch 4730
+d;e;s;e;-;t
+t;i;-;-;n;-
+===  d;e;s;e;t
+===  t;i;n;-;-
+§_Bulgarian_4 : english 4734
+d;e;s;e;-;t
+tʰ;e;-;-;n;-
+===  d;e;s;e;t
+===  tʰ;e;n;-;-
+§_Bulgarian_9 : Irish 4739
+-;d;e;s;e;t
+ə;dʲ;ɛ;-;-;-
+===  d;e;s;e;t
+===  -;ə;dʲ;ɛ;-
+§_Serbo-Croatian_1 : german 4741
+d;e;s;e;-;t
+ʦ;eː;-;-;n;-
+===  d;e;s;e;t
+===  ʦ;eː;n;-;-
+§_Serbo-Croatian_5 : westenr frisian 4745
+d;e;s;e;-;t
+ʦ;i;-;ə;n;-
+===  d;e;s;e;t
+===  ʦ;i;-;ə;n
+§_Serbo-Croatian_8 : albanian 4748
+d;e;s;e;t;-
+ð;j͜ɛ;-;-;t;ə
+===  d;e;s;e;t
+===  ð;j͜ɛ;t;ə;-

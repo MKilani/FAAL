@@ -1,0 +1,17 @@
+% List of features of the core vowel of a diphthong
+% modified by the secondary element of the diphthong
+%
+% Lines starting with % are ignored.
+%
+% The features of a diphthong consist of the feature of the core vowel of the diphthong, 
+% combined with selected features of the secondary element of the diphthong. 
+% This file list which features of the secondary element of the diphthong group should be added
+% to the features of the core vowel, and therefore of the diphthong as a whole.
+%
+% Each feature is listed in a different line
+%
+% By default, only the features 13 (Place - labial) and 14 (Place - round) are modified.
+% 
+%
+13
+14

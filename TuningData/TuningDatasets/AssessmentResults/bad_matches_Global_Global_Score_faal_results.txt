@@ -1,0 +1,3715 @@
+§_Gōngxìng : Dàshí : "cold",(phonalign_103.msa/Bai)
+g;a;￤;-;-
+k;ɯ;￤;k;a
+===  [-;-;-;g;a]
+===  [k;ɯ;￤;k;a]
+§_Tuōluò : Ēnqī : "to cut up",(phonalign_108.msa/Bai)
+ʦʰ;-;o;ŋ
+ʨʰ;ɥ;ɛ;-
+===  [ʦʰ;o;ŋ;-]
+===  [ʨʰ;-;ɥ;ɛ]
+§_Xiángyún : Tuōluò : "daughter",(phonalign_109.msa/Bai)
+n;ɛ;-
+-;j͜ɤ;ŋ
+===  [-;n;ɛ]
+===  [j͜ɤ;ŋ;-]
+§_Luòběnzhuō : Tuōluò : "daughter",(phonalign_109.msa/Bai)
+ɲ;ʊ~;-
+-;j͜ɤ;ŋ
+===  [-;ɲ;ʊ~]
+===  [j͜ɤ;ŋ;-]
+§_Dàshí : Gōngxìng : "day",(phonalign_110.msa/Bai)
+-;j͜e;n
+ɲ;i;-
+===  [j͜e;n;-]
+===  [-;ɲ;i]
+§_Dàshí : Xiángyún : "day",(phonalign_110.msa/Bai)
+-;j͜e;n
+n;i;-
+===  [j͜e;n;-]
+===  [-;n;i]
+§_Dàshí : Ěryuán : "day",(phonalign_110.msa/Bai)
+-;j͜e;n
+ɲ;i;-
+===  [j͜e;n;-]
+===  [-;ɲ;i]
+§_Dàshí : Jīnmǎn : "day",(phonalign_110.msa/Bai)
+-;j͜e;n
+ɲ;i;-
+===  [j͜e;n;-]
+===  [-;ɲ;i]
+§_Luòběnzhuō : Dàshí : "day",(phonalign_110.msa/Bai)
+ɲ;i;-
+-;j͜e;n
+===  [-;ɲ;i]
+===  [j͜e;n;-]
+§_Xiángyún : Luòběnzhuō : "bamboo",(phonalign_115.msa/Bai)
+ʦ;ɛ;￤;-;-
+ʨ;o;￤;ɖ;ɯ
+===  [-;-;-;ʦ;ɛ]
+===  [ʨ;o;￤;ɖ;ɯ]
+§_Luòběnzhuō : Yúnlóng : "bamboo",(phonalign_115.msa/Bai)
+ʨ;o;￤;ɖ;ɯ
+ʦ;ɤ;￤;-;-
+===  [ʨ;o;￤;ɖ;ɯ]
+===  [-;-;-;ʦ;ɤ]
+§_Ěryuán : Lánpíng : "bamboo",(phonalign_115.msa/Bai)
+t͡ʂ;ɤ;￤;-;-
+ʦ;w͜a;￤;ʦ;ɯ
+===  [-;-;-;t͡ʂ;ɤ]
+===  [ʦ;w͜a;￤;ʦ;ɯ]
+§_Xiángyún : Luòběnzhuō : "earring",(phonalign_119.msa/Bai)
+j;ɔ;￤;p;i;￤;k;ow̯;￤;l;ow̯
+ʔ;e~;￤;-;-;-;q;ɔ;￤;-;-
+===  [j;ɔ;￤;p;i;￤;k;ow̯;￤;l;ow̯]
+===  [-;-;-;ʔ;e~;￤;q;ɔ;￤;-;-]
+§_Xiángyún : Gōngxìng : "earth",(phonalign_120.msa/Bai)
+j;i;￤;p;ɛ
+ʥ;i;￤;-;-
+===  [j;i;￤;p;ɛ]
+===  [-;-;-;ʥ;i]
+§_Xiángyún : Égà : "earth",(phonalign_120.msa/Bai)
+j;i;￤;p;ɛ
+ʨ;i;￤;-;-
+===  [j;i;￤;p;ɛ]
+===  [-;-;-;ʨ;i]
+§_Yúnlóng : Tuōluò : "earthworm, worm",(phonalign_121.msa/Bai)
+ʨ;i;￤;k;ɛ;￤;ʨ;w͜a
+-;-;-;-;-;-;ʐ;ɤ
+===  [ʨ;i;￤;k;ɛ;￤;ʨ;w͜a]
+===  [ʐ;ɤ;￤;-;-;-;-;-]
+§_Jīnmǎn : Tuōluò : "eye",(phonalign_126.msa/Bai)
+m;i;-
+-;w͜e;n
+===  [-;m;i]
+===  [w͜e;n;-]
+§_Luòběnzhuō : Gōngxìng : "eye",(phonalign_126.msa/Bai)
+m;i;-
+-;w͜e;n
+===  [-;m;i]
+===  [w͜e;n;-]
+§_Gōngxìng : Jīnmǎn : "eye",(phonalign_126.msa/Bai)
+-;w͜e;n
+m;i;-
+===  [w͜e;n;-]
+===  [-;m;i]
+§_Gōngxìng : Ěryuán : "to fall down, to drop",(phonalign_127.msa/Bai)
+ʨ;ɛ;￤;-;-
+t;o;￤;p;a
+===  [-;-;-;ʨ;ɛ]
+===  [t;o;￤;p;a]
+§_Gōngxìng : Lánpíng : "finger",(phonalign_129.msa/Bai)
+ʂ;i;￤;-;-;-;t͡ʂ;i
+s;ɯ;￤;t;i;￤;t;j͜ɯ
+===  [ʂ;i;￤;t͡ʂ;i;￤;-;-]
+===  [s;ɯ;￤;t;i;￤;t;j͜ɯ]
+§_Dàshí : Jīnmǎn : "finger",(phonalign_129.msa/Bai)
+ʂ;ɯ;￤;t;i;￤;-;-
+ɕ;i;￤;-;-;-;t͡ʂ;ə˞
+===  [ʂ;ɯ;￤;t;i]
+===  [ɕ;i;￤;t͡ʂ;ə˞]
+§_Mǎzhělóng : Ēnqī : "fingernail",(phonalign_130.msa/Bai)
+s;əɯ̯;￤;-;-;-;k;ə˞
+-;-;-;t;j͜ɯ;￤;q;a
+===  [s;əɯ̯;￤;k;ə˞]
+===  [t;j͜ɯ;￤;q;a]
+§_Mǎzhělóng : Gōngxìng : "fingernail",(phonalign_130.msa/Bai)
+s;əɯ̯;￤;-;-;-;k;ə˞
+-;-;-;t͡ʂ;i;￤;q;a
+===  [s;əɯ̯;￤;k;ə˞]
+===  [t͡ʂ;i;￤;q;a]
+§_Qīlǐqiáo : Mǎzhělóng : "fish",(phonalign_133.msa/Bai)
+ŋ;ɤ;-
+-;o;ŋ
+===  [-;ŋ;ɤ]
+===  [o;ŋ;-]
+§_Yúnlóng : Mǎzhělóng : "fish",(phonalign_133.msa/Bai)
+ŋ;ɯ;-
+-;o;ŋ
+===  [-;ŋ;ɯ]
+===  [o;ŋ;-]
+§_Jīnmǎn : Mǎzhělóng : "frog",(phonalign_140.msa/Bai)
+-;-;-;o~;￤;-;-;-;-;-
+l;ɤ;￤;ɛ;￤;m;ə˞;￤;ʦ;i
+===  [-;o~;￤;-;-;-;-;-;-;-]
+===  [l;ɤ;￤;ɛ;￤;m;ə˞;￤;ʦ;i]
+§_Qīlǐqiáo : Luòběnzhuō : "frog",(phonalign_140.msa/Bai)
+-;-;-;o;￤;m;ɛ
+a;￤;ʔ;o~;￤;-;-
+===  [o;￤;m;ɛ]
+===  [a;￤;ʔ;o~]
+§_Qīlǐqiáo : Luòběnzhuō : "to grind",(phonalign_148.msa/Bai)
+-;w͜e;￤;-;-
+m;i;￤;p;e~
+===  [-;-;-;-;w͜e]
+===  [m;i;￤;p;e~]
+§_Jiànchuàn : Luòběnzhuō : "to grind",(phonalign_148.msa/Bai)
+-;w͜e~;￤;-;-
+m;i;￤;p;e~
+===  [-;-;-;-;w͜e~]
+===  [m;i;￤;p;e~]
+§_Luòběnzhuō : Gōngxìng : "interest",(phonalign_166.msa/Bai)
+b;o;￤;p;ɯ
+-;-;-;b;u
+===  [b;o;￤;p;ɯ]
+===  [b;u;￤;-;-]
+§_Égà : Luòběnzhuō : "interest",(phonalign_166.msa/Bai)
+-;-;-;pʰ;u
+b;o;￤;p;ɯ
+===  [pʰ;u;￤;-;-]
+===  [b;o;￤;p;ɯ]
+§_Ustovo (sm) : Galata (tetev) : Bulgarian аз ("I"),(phonalign_168.msa/Bulgarian)
+j͜ɛ;-;-
+ɑ;z;e
+===  [-;-;j͜ɛ]
+===  [ɑ;z;e]
+§_Vladinja (lov) : Devesilica (krgr) : Bulgarian аз ("I"),(phonalign_168.msa/Bulgarian)
+ɑ;z;i
+ɛ;-;-
+===  [ɑ;z;i]
+===  [-;-;ɛ]
+§_Rabisha (belgr) : Merichleri (chirp) : Bulgarian вежда ("eyebrow"),(phonalign_169.msa/Bulgarian)
+v;e;ʤ;-;ɑ
+vʲ;ɑ;ʒ;d;ə
+===  [v;e;-;ʤ;ɑ]
+===  [vʲ;ɑ;ʒ;d;ə]
+§_Kopilovci (mont) : Trancovica (nik) : Bulgarian вежда ("eyebrow"),(phonalign_169.msa/Bulgarian)
+v;e;ʤ;-;ɑ
+vʲ;ɑ;ʒ;d;ɤ
+===  [v;e;-;ʤ;ɑ]
+===  [vʲ;ɑ;ʒ;d;ɤ]
+§_Konska (brezn) : Beglezh (luk) : Bulgarian вежда ("eyebrow"),(phonalign_169.msa/Bulgarian)
+v;e;ʤ;-;ɑ
+vʲ;ɑ;ʒ;d;ɤ
+===  [v;e;-;ʤ;ɑ]
+===  [vʲ;ɑ;ʒ;d;ɤ]
+§_Solishta (dev) : Razboishte (god) : Bulgarian вежда ("eyebrow"),(phonalign_169.msa/Bulgarian)
+v;ɛ;ɕ;k;ə
+v;e;ʤ;-;u
+===  [v;ɛ;ɕ;k;ə]
+===  [v;e;-;ʤ;u]
+§_Zelenigrad (tran) : Buchin prohod (god) : Bulgarian плащам ("pay" — 1st singular),(phonalign_175.msa/Bulgarian)
+p;-;l;ɑ;-;ʧ;ue̯;m
+p;ɑ;l;-;ʃ;t;ɑ;m
+===  [p;-;l;ɑ;ʧ;-;ue̯;m]
+===  [p;ɑ;l;-;ʃ;t;ɑ;m]
+§_Buchin prohod (god) : Banishte (brezn) : Bulgarian плащам ("pay" — 1st singular),(phonalign_175.msa/Bulgarian)
+p;ɑ;l;-;ʃ;t;ɑ;m
+p;-;l;ɑ;-;ʧ;ue̯;m
+===  [p;ɑ;l;-;ʃ;t;ɑ;m]
+===  [p;-;l;ɑ;ʧ;-;ue̯;m]
+§_Dolni bogrov (sof) : Konska (brezn) : Bulgarian първият ("first" — he),(phonalign_178.msa/Bulgarian)
+p;r;ɤ;v;i;o;-
+p;r;-;v;j;ɤ;t
+===  [p;r;ɤ;v;-;i;o;-]
+===  [p;r;-;v;j;ɤ;-;t]
+§_Dolni bogrov (sof) : Stoilovo (mt) : Bulgarian първият ("first" — he),(phonalign_178.msa/Bulgarian)
+p;-;r;ɤ;v;i;o;-
+p;ɤ;r;-;v;-;j͜e;t
+===  [p;-;r;ɤ;v;i;o;-]
+===  [p;ɤ;r;-;v;j͜e;-;t]
+§_Vardun (targ) : Dolna melna (tran) : Bulgarian първият ("first" — he),(phonalign_178.msa/Bulgarian)
+p;ɤ;r;vʲ;-;u;-;f
+p;-;r;v;n;ij̯;ɤ;t
+===  [p;ɤ;r;vʲ;-;-;u;f]
+===  [p;-;r;v;n;ij̯;ɤ;t]
+§_Zelenigrad (tran) : Ognen (karn) : Bulgarian първият ("first" — he),(phonalign_178.msa/Bulgarian)
+p;r;-;v;n;ij̯;ɤ;t
+p;r;ə;vʲ;-;u;-;f
+===  [p;r;-;v;n;ij̯;ɤ;t]
+===  [p;r;ə;vʲ;-;-;u;f]
+§_Aldomirovci (slivnica) : Petarnica (plev) : Bulgarian сега ("now"),(phonalign_186.msa/Bulgarian)
+s;-;ɑ;-;-;-
+s;i;i;n;k;ə
+===  [s;-;-;-;-;ɑ]
+===  [s;i;i;n;k;ə]
+§_Glozhene (orjah) : Topolchane (sliv) : Bulgarian сега ("now"),(phonalign_186.msa/Bulgarian)
+s;e;ɟ;i
+sʲ;-;-;ɑ
+===  [s;e;ɟ;i]
+===  [sʲ;ɑ;-;-]
+§_Aldomirovci (slivnica) : Liljache (vr) : Bulgarian сега ("now"),(phonalign_186.msa/Bulgarian)
+s;-;-;ɑ
+s;e;ɟ;i
+===  [s;ɑ;-;-]
+===  [s;e;ɟ;i]
+§_Voden (elh) : Enina (kaz) : Bulgarian средата ("the middle"),(phonalign_192.msa/Bulgarian)
+s;t;r;ɛː;-;-;t;ɑ
+s;-;rʲ;ə;d;ɤ;t;ə
+===  [s;t;r;ɛː;t;ɑ;-;-]
+===  [s;-;rʲ;ə;d;ɤ;t;ə]
+§_Voden (elh) : Bachkovo (asgr) : Bulgarian средата ("the middle"),(phonalign_192.msa/Bulgarian)
+s;t;r;ɛː;-;-;t;ɑ
+s;-;rʲ;ə;d;ɑ;t;ə
+===  [s;t;r;ɛː;t;ɑ;-;-]
+===  [s;-;rʲ;ə;d;ɑ;t;ə]
+§_Voden (elh) : Kalojanovo (plov) : Bulgarian средата ("the middle"),(phonalign_192.msa/Bulgarian)
+s;t;r;ɛː;-;-;t;ɑ
+s;-;rʲ;ɤ;d;ɤ;t;ɤ
+===  [s;-;-;t;r;ɛː;t;ɑ]
+===  [s;rʲ;ɤ;d;-;ɤ;t;ɤ]
+§_Voden (elh) : Sekirovo (plov) : Bulgarian средата ("the middle"),(phonalign_192.msa/Bulgarian)
+s;t;r;ɛː;-;-;t;ɑ
+s;-;rʲ;ɤ;d;ɤ;t;ə
+===  [s;t;r;ɛː;t;ɑ;-;-]
+===  [s;-;rʲ;ɤ;d;ɤ;t;ə]
+§_Voden (elh) : Shtipsko (prov) : Bulgarian средата ("the middle"),(phonalign_192.msa/Bulgarian)
+s;t;r;ɛː;-;-;t;ɑ
+s;-;rʲ;ə;d;a;t;ə
+===  [s;-;-;t;r;ɛː;t;ɑ]
+===  [s;rʲ;ə;d;-;a;t;ə]
+§_Asparuhovo (lom) : Korten (nzag) : Bulgarian със ("with"),(phonalign_199.msa/Bulgarian)
+z;-;-
+s;ɤ;z
+===  [-;-;z]
+===  [s;ɤ;z]
+§_Lobosh (rad) : Garmen (gd) : Bulgarian със ("with"),(phonalign_199.msa/Bulgarian)
+s;o;-
+-;ə;s
+===  [-;s;o]
+===  [ə;s;-]
+§_Radovene (vr) : Zanozhene (berk) : Bulgarian със ("with"),(phonalign_199.msa/Bulgarian)
+z;-;-
+s;ɑ;z
+===  [-;-;z]
+===  [s;ɑ;z]
+§_Radovene (vr) : Belica (razl) : Bulgarian със ("with"),(phonalign_199.msa/Bulgarian)
+s;ɑ;z
+z;-;-
+===  [s;ɑ;z]
+===  [-;-;z]
+§_Opan (stzag) : Dolna srudena (bel) : Bulgarian със ("with"),(phonalign_199.msa/Bulgarian)
+z;-;-
+s;ə;z
+===  [-;-;z]
+===  [s;ə;z]
+§_Straldzha (jamb) : Trastenik (plev) : Bulgarian тогава ("then"),(phonalign_204.msa/Bulgarian)
+t;u;ɡ;ɑ;s;-
+t;ɑ;ɟ;i;-;ɑ
+===  [t;u;ɡ;-;ɑ;s]
+===  [t;ɑ;ɟ;i;ɑ;-]
+§_Noevci (brezn) : Tihomir (krgr) : Bulgarian хубав ("pretty" — masc),(phonalign_214.msa/Bulgarian)
+u;b;ɑ;v
+-;-;o;f
+===  [u;b;ɑ;v]
+===  [o;-;-;f]
+§_Skobelevo (sliv) : Tihomir (krgr) : Bulgarian хубав ("pretty" — masc),(phonalign_214.msa/Bulgarian)
+u;b;ə;ʋ
+-;-;o;f
+===  [u;b;ə;ʋ]
+===  [o;-;-;f]
+§_Kozichino (pom) : Tihomir (krgr) : Bulgarian хубав ("pretty" — masc),(phonalign_214.msa/Bulgarian)
+h;u;b;ə;h
+-;-;-;o;f
+===  [h;u;b;ə;h]
+===  [-;o;-;-;f]
+§_Trancovica (nik) : Tihomir (krgr) : Bulgarian хубав ("pretty" — masc),(phonalign_214.msa/Bulgarian)
+u;b;ɤ;ʋ
+-;-;o;f
+===  [u;b;ɤ;ʋ]
+===  [o;-;-;f]
+§_Golica (varn) : Devesilica (krgr) : Bulgarian хубаво ("pretty" — neut;good-neut),(phonalign_215.msa/Bulgarian)
+h;u;b;ə;-;u
+-;-;ʋ;o;v;ʊ
+===  [h;u;b;ə;u]
+===  [ʋ;o;v;-;ʊ]
+§_Tihomir (krgr) : Brashljan (mtarn) : Bulgarian хубаво ("pretty" — neut;good-neut),(phonalign_215.msa/Bulgarian)
+-;-;-;o;v;ʊ
+h;u;b;ə;-;u
+===  [-;o;v;-;ʊ]
+===  [h;u;b;ə;u]
+§_Merichleri (chirp) : Devesilica (krgr) : Bulgarian хубаво ("pretty" — neut;good-neut),(phonalign_215.msa/Bulgarian)
+u;b;ə;-;u
+-;ʋ;o;v;ʊ
+===  [-;u;b;ə;u]
+===  [ʋ;o;v;-;ʊ]
+§_Tihomir (krgr) : Gorna rosica (sevl) : Bulgarian хубаво ("pretty" — neut;good-neut),(phonalign_215.msa/Bulgarian)
+-;-;o;v;ʊ
+u;b;ə;-;u
+===  [o;v;-;ʊ]
+===  [u;b;ə;u]
+§_Voden (elh) : Enina (kaz) : Bulgarian хубаво ("pretty" — neut;good-neut),(phonalign_215.msa/Bulgarian)
+u;b;ɑ;v;u
+u;b;u;-;-
+===  [u;b;ɑ;v;u]
+===  [u;b;-;-;u]
+§_Tihomir (krgr) : Garvan (sil) : Bulgarian хубаво ("pretty" — neut;good-neut),(phonalign_215.msa/Bulgarian)
+-;-;-;o;v;ʊ
+h;u;b;ə;ʋ;u
+===  [-;o;-;-;v;ʊ]
+===  [h;u;b;ə;ʋ;u]
+§_Stoilovo (mt) : Devesilica (krgr) : Bulgarian хубаво ("pretty" — neut;good-neut),(phonalign_215.msa/Bulgarian)
+x;u;b;ə;-;u
+-;-;ʋ;o;v;ʊ
+===  [x;u;b;ə;u]
+===  [ʋ;o;v;-;ʊ]
+§_Ljubenova mahala (nzag) : Devesilica (krgr) : Bulgarian хубаво ("pretty" — neut;good-neut),(phonalign_215.msa/Bulgarian)
+h;u;b;u;-;u
+-;-;ʋ;o;v;ʊ
+===  [h;u;b;u;u, h;u;b;u;u]
+===  [ʋ;o;v;ʊ;-, ʋ;o;v;-;ʊ]
+§_Tihomir (krgr) : Smochevo (dupn) : Bulgarian хубаво ("pretty" — neut;good-neut),(phonalign_215.msa/Bulgarian)
+-;-;o;v;ʊ
+u;b;ʊ;-;u
+===  [o;v;ʊ;-]
+===  [u;b;ʊ;u]
+§_Stambolovo (hask) : Brashljan (mtarn) : Bulgarian човек ("person"),(phonalign_223.msa/Bulgarian)
+ʨ;-;vʲ;ɑ;k
+ʧ;u;lʲ;ɛ;c
+===  [ʨ;vʲ;ɑ;-;-;k]
+===  [ʧ;-;u;lʲ;ɛ;c]
+§_Shiroka laka (dev) : Bagrenci (kjust) : Bulgarian ям ("eat" — 1st singular),(phonalign_232.msa/Bulgarian)
+ɛ;-;-;m
+j͜ɑ;d;ɑ;-
+===  [ɛ;m;-]
+===  [j͜ɑ;d;ɑ]
+§_Dorkovo (velgr) : Pelatikovo (kjust) : Bulgarian ям ("eat" — 1st singular),(phonalign_232.msa/Bulgarian)
+e;-;-;m
+j͜ɑ;d;ɑ;-
+===  [e;m;-]
+===  [j͜ɑ;d;ɑ]
+§_Senokos (blgr) : Mugla (dev) : Bulgarian ям ("eat" — 1st singular),(phonalign_232.msa/Bulgarian)
+j;ɑ;d;e;m
+j;ɛ;-;-;m
+===  [j;ɑ;d;e;m]
+===  [j;-;-;ɛ;m]
+§_Garvan (sil) : Zheglica (vid) : Bulgarian ям ("eat" — 1st singular),(phonalign_232.msa/Bulgarian)
+l;ɑ;-;-;m
+-;e;d;e;m
+===  [-;l;ɑ;m]
+===  [e;d;e;m]
+§_Razboishte (god) : Shiroka laka (dev) : Bulgarian ям ("eat" — 1st singular),(phonalign_232.msa/Bulgarian)
+j͜ɑ;d;e;m
+ɛ;-;-;m
+===  [j͜ɑ;d;e;m]
+===  [-;-;ɛ;m]
+§_Ezerovo (parvom) : Omarchevo (nzag) : Bulgarian влизам ("enter" — 1st singular),(phonalign_233.msa/Bulgarian)
+-;f;lʲ;ɑ;-;v;ɤ;m
+u;-;l;i;z;-;ə;m
+===  [-;f;lʲ;ɑ;v;ɤ;m]
+===  [u;-;l;i;z;ə;m]
+§_Shiroka laka (dev) : Vinarovo (vid) : Bulgarian влизам ("enter" — 1st singular),(phonalign_233.msa/Bulgarian)
+-;f;l;ɛ;-;v;ə;m
+u;-;l;ɑ;z;-;ɑ;m
+===  [-;f;l;ɛ;v;ə;m]
+===  [u;-;l;ɑ;z;ɑ;m]
+§_Gega (petr) : Divdjadovo (shum) : Bulgarian влизам ("enter" — 1st singular),(phonalign_233.msa/Bulgarian)
+-;f;l;e;-;v;ɑ;m
+u;-;l;i;z;-;ə;m
+===  [-;f;l;e;v;ɑ;m]
+===  [u;-;l;i;z;ə;m]
+§_Pevec (targ) : Gega (petr) : Bulgarian влизам ("enter" — 1st singular),(phonalign_233.msa/Bulgarian)
+u;-;l;ɑ;zʲ;-;ə;m
+-;f;l;e;-;v;ɑ;m
+===  [u;-;l;ɑ;zʲ;ə;m]
+===  [-;f;l;e;v;ɑ;m]
+§_Sestrino (petr) : Dragoevo (presl) : Bulgarian влизам ("enter" — 1st singular),(phonalign_233.msa/Bulgarian)
+-;f;lʲ;ɑ;-;v;ɑ;m
+u;-;l;i;z;-;ə;m
+===  [-;f;lʲ;ɑ;v;ɑ;m]
+===  [u;-;l;i;z;ə;m]
+§_Voden (elh) : Bogdanov dol (pern) : Bulgarian влизам ("enter" — 1st singular),(phonalign_233.msa/Bulgarian)
+-;f;l;e;ɡ;v;ɑ;m
+u;-;l;ɑ;z;-;i;m
+===  [-;f;l;e;ɡ;v;ɑ;m]
+===  [u;-;l;ɑ;-;z;i;m]
+§_Dragodanovo (sliv) : Javorovo (asgr) : Bulgarian влизам ("enter" — 1st singular),(phonalign_233.msa/Bulgarian)
+u;-;l;ɑ;zʲ;-;ə;m
+-;f;l;ɛ;-;v;ɑ;m
+===  [u;-;l;ɑ;zʲ;ə;m]
+===  [-;f;l;ɛ;v;ɑ;m]
+§_Vaklinovo (gd) : Dichin (vtarn) : Bulgarian връх ("peak"),(phonalign_238.msa/Bulgarian)
+v;ɤ;r;-;-
+u;-;r;ɤ;x
+===  [v;ɤ;r;-;-]
+===  [-;u;r;ɤ;x]
+§_Glozhene (orjah) : Vabel (nik) : Bulgarian връх ("peak"),(phonalign_238.msa/Bulgarian)
+v;r;-;x
+u;r;ɤ;-
+===  [-;v;r;x;-]
+===  [u;-;r;-;ɤ]
+§_Diva slatina (mont) : Dichin (vtarn) : Bulgarian връх ("peak"),(phonalign_238.msa/Bulgarian)
+v;r;-;-
+u;r;ɤ;x
+===  [-;v;r;-;-]
+===  [u;-;r;ɤ;x]
+§_Goljamo shivachevo (sliv) : Smolsko (pird) : Bulgarian връх ("peak"),(phonalign_238.msa/Bulgarian)
+u;r;ɤ;ʋ
+v;r;-;x
+===  [u;-;r;ɤ;ʋ]
+===  [-;v;r;-;x]
+§_Banishte (brezn) : Goljamo shivachevo (sliv) : Bulgarian връщам ("give back" — 1st singular),(phonalign_239.msa/Bulgarian)
+v;r;ɑ;-;ʧ;ɑ;m
+u;r;ɤ;ʃ;t;ə;m
+===  [-;v;r;ɑ;-;ʧ;ɑ;m]
+===  [u;-;r;ɤ;ʃ;t;ə;m]
+§_Banishte (brezn) : Smochevo (dupn) : Bulgarian връщам ("give back" — 1st singular),(phonalign_239.msa/Bulgarian)
+v;r;ɑ;-;ʧ;ɑ;m
+v;r;-;ʃ;t;ə;m
+===  [v;r;ɑ;ʧ;-;ɑ;m]
+===  [v;r;-;ʃ;t;ə;m]
+§_Belene (svisht) : Zelenigrad (tran) : Bulgarian връщам ("give back" — 1st singular),(phonalign_239.msa/Bulgarian)
+u;r;ɑ;ʃ;t;ə;m
+v;r;ɤ;-;ʧ;ɑ;m
+===  [u;-;r;ɑ;ʃ;t;ə;m]
+===  [-;v;r;ɤ;-;ʧ;ɑ;m]
+§_Dragojchinci (kjust) : Belene (svisht) : Bulgarian връщам ("give back" — 1st singular),(phonalign_239.msa/Bulgarian)
+v;r;-;-;ʧ;ɑ;m
+u;r;ɑ;ʃ;t;ə;m
+===  [-;v;r;-;-;ʧ;ɑ;m]
+===  [u;-;r;ɑ;ʃ;t;ə;m]
+§_Devesilica (krgr) : Goljamo shivachevo (sliv) : Bulgarian връщам ("give back" — 1st singular),(phonalign_239.msa/Bulgarian)
+v;r;ɑ;ɕ;t;ʊ;-
+u;r;ɤ;ʃ;t;ə;m
+===  [-;v;r;ɑ;ɕ;t;ʊ;-]
+===  [u;-;r;ɤ;ʃ;t;ə;m]
+§_Koprivshtica (pird) : Trastenik (plev) : Bulgarian вълк ("wolf"),(phonalign_240.msa/Bulgarian)
+v;-;l;ɤ;k
+v;ɤ;ɰ;-;k
+===  [v;l;ɤ;-;k]
+===  [v;-;ɤ;ɰ;k]
+§_Trastenik (plev) : Goljama zheljazna (tetev) : Bulgarian вълк ("wolf"),(phonalign_240.msa/Bulgarian)
+v;ɤ;ɰ;-;k
+v;-;l;a;k
+===  [v;-;ɤ;ɰ;k]
+===  [v;l;a;-;k]
+§_Trastenik (plev) : Liljache (vr) : Bulgarian вълна ("wool"),(phonalign_241.msa/Bulgarian)
+v;ɤ;ɰ;-;n;ɤ
+v;-;l;ɤ;n;ɑ
+===  [v;-;ɤ;ɰ;n;ɤ]
+===  [v;l;ɤ;-;n;ɑ]
+§_Trastenik (plev) : Kreta (vrach) : Bulgarian вълна ("wool"),(phonalign_241.msa/Bulgarian)
+v;ɤ;ɰ;-;n;ɤ
+v;-;l;ɤ;n;ə
+===  [v;-;ɤ;ɰ;n;ɤ]
+===  [v;l;ɤ;-;n;ə]
+§_Varbovo (blgr) : Svirkovo (harm) : Bulgarian вътре ("inside"),(phonalign_243.msa/Bulgarian)
+u;n;u;t;r;ɑ
+f;nʲ;e;t;rʲ;ɪ
+===  [u;-;n;u;t;r;ɑ]
+===  [-;f;nʲ;e;t;rʲ;ɪ]
+§_Zdravkovec (gabr) : Rani lug (tryn) : Bulgarian вътре ("inside"),(phonalign_243.msa/Bulgarian)
+v;-;ɤ;t;rʲ;ɤ
+u;n;e;t;r;e
+===  [v;ɤ;-;-;t;rʲ;ɤ]
+===  [-;u;n;e;t;r;e]
+§_Banishte (brezn) : Karaisen (pavl) : Bulgarian вътре ("inside"),(phonalign_243.msa/Bulgarian)
+u;n;u;t;r;e
+v;-;ɤ;t;rʲ;ə
+===  [u;n;u;t;r;e]
+===  [-;v;ɤ;t;rʲ;ə]
+§_Diva slatina (mont) : Merichleri (chirp) : Bulgarian вътре ("inside"),(phonalign_243.msa/Bulgarian)
+u;n;u;t;r;ɑ
+f;n;ɤ;t;rʲ;ə
+===  [u;-;n;u;t;r;ɑ]
+===  [-;f;n;ɤ;t;rʲ;ə]
+§_Dobroslavci (sof) : Asparuhovo (prov) : Bulgarian вътре ("inside"),(phonalign_243.msa/Bulgarian)
+u;n;e;t;r;e
+ʋ;-;ɤ;t;rʲ;ə
+===  [u;n;e;t;r;e]
+===  [-;ʋ;ɤ;t;rʲ;ə]
+§_Bachkovo (asgr) : Razboishte (god) : Bulgarian вътре ("inside"),(phonalign_243.msa/Bulgarian)
+v;-;ɑ;t;rʲ;ə
+u;n;e;t;r;e
+===  [v;ɑ;-;-;t;rʲ;ə]
+===  [-;u;n;e;t;r;e]
+§_Noevci (brezn) : Svetlina (topgr) : Bulgarian вътре ("inside"),(phonalign_243.msa/Bulgarian)
+u;n;e;t;r;e
+f;-;ɤ;t;rʲ;ə
+===  [-;u;n;e;t;r;e]
+===  [f;ɤ;-;-;t;rʲ;ə]
+§_Babjak (razl) : Stambolovo (hask) : Bulgarian беше ("was" — 3rd person),(phonalign_257.msa/Bulgarian)
+b;ɛ;ʃ;e
+bʲ;e;-;-
+===  [b;ɛ;ʃ;e]
+===  [bʲ;-;-;e]
+§_Dobrotino (gd) : Asparuhovo (lom) : Bulgarian беше ("was" — 3rd person),(phonalign_257.msa/Bulgarian)
+bʲ;ɑ;ʃ;e
+b;e;-;-
+===  [bʲ;ɑ;ʃ;e]
+===  [b;-;-;e]
+§_Zabardo (asgr) : Huhla (ivgr) : Bulgarian беше ("was" — 3rd person),(phonalign_257.msa/Bulgarian)
+b;e;-;-
+bʲ;ɛ;ɕ;e
+===  [b;-;-;e]
+===  [bʲ;ɛ;ɕ;e]
+§_Caparevo (sand) : Voden (elh) : Bulgarian дълбок ("deep"),(phonalign_267.msa/Bulgarian)
+d;-;-;ɑ;b;o;k
+d;ɤ;l;-;b;u;k
+===  [d;ɑ;-;b;o;k]
+===  [d;ɤ;l;b;u;k]
+§_Dobarsko (razl) : Voden (elh) : Bulgarian дълбок ("deep"),(phonalign_267.msa/Bulgarian)
+d;-;-;i;b;o;k
+d;ɤ;l;-;b;u;k
+===  [d;i;-;b;o;k]
+===  [d;ɤ;l;b;u;k]
+§_Voden (elh) : Sushica (blgr) : Bulgarian дълбок ("deep"),(phonalign_267.msa/Bulgarian)
+d;ɤ;l;-;b;u;k
+d;-;-;e;b;o;k
+===  [d;ɤ;l;b;u;k]
+===  [d;e;-;b;o;k]
+§_Petarnica (plev) : Voden (elh) : Bulgarian дълбок ("deep"),(phonalign_267.msa/Bulgarian)
+d;-;-;ɤː;b;o;k
+d;ɤ;l;-;b;u;k
+===  [d;ɤː;-;b;o;k]
+===  [d;ɤ;l;b;u;k]
+§_Senokos (blgr) : Voden (elh) : Bulgarian дълбок ("deep"),(phonalign_267.msa/Bulgarian)
+d;-;-;ɤ;b;o;k
+d;ɤ;l;-;b;u;k
+===  [d;ɤ;-;b;o;k]
+===  [d;ɤ;l;b;u;k]
+§_Trastenik (plev) : Devesilica (krgr) : Bulgarian дълбок ("deep"),(phonalign_267.msa/Bulgarian)
+d;ɤ;ɰ;-;b;o;k
+ɡ;-;l;i;b;o;k
+===  [d;-;ɤ;ɰ;b;o;k]
+===  [ɡ;l;i;-;b;o;k]
+§_Trastenik (plev) : Noevci (brezn) : Bulgarian дълбок ("deep"),(phonalign_267.msa/Bulgarian)
+d;ɤ;ɰ;-;b;o;k
+ɡ;-;l;ɤ;b;o;k
+===  [d;-;ɤ;ɰ;b;o;k]
+===  [ɡ;l;ɤ;-;b;o;k]
+§_Borisovo (elh) : Zanozhene (berk) : Bulgarian дърво ("tree"),(phonalign_270.msa/Bulgarian)
+d;r;ɤ;-;o
+d;r;-;v;o
+===  [d;r;-;ɤ;o]
+===  [d;r;v;o;-]
+§_Elov dol (pk) : Caparevo (sand) : Bulgarian един ("one" — masc),(phonalign_271.msa/Bulgarian)
+j͜e;d;ɤ;n
+-;-;e;n
+===  [j͜e;d;ɤ;n]
+===  [e;-;-;n]
+§_Caparevo (sand) : Balgari (carev) : Bulgarian един ("one" — masc),(phonalign_271.msa/Bulgarian)
+-;-;e;n
+j͜e;d;i;n
+===  [e;-;-;n]
+===  [j͜e;d;i;n]
+§_Merichleri (chirp) : Caparevo (sand) : Bulgarian един ("one" — masc),(phonalign_271.msa/Bulgarian)
+j͜e;dʲ;i;n
+-;-;e;n
+===  [j͜e;dʲ;i;n]
+===  [e;-;-;n]
+§_Stroevo (plov) : Caparevo (sand) : Bulgarian един ("one" — masc),(phonalign_271.msa/Bulgarian)
+e;d;i;n
+-;-;e;n
+===  [e;d;i;n]
+===  [e;-;-;n]
+§_Vojnjagovo (karl) : Trastenik (plev) : Bulgarian жълт ("yellow"),(phonalign_279.msa/Bulgarian)
+ʒ;-;l;ɤ;t
+ʒ;ɤ;ɰ;-;t
+===  [ʒ;l;ɤ;-;t]
+===  [ʒ;-;ɤ;ɰ;t]
+§_Sekirovo (plov) : Konska (brezn) : Bulgarian земя ("earth"),(phonalign_283.msa/Bulgarian)
+zʲ;ɤ;mʲ;-;ɤ
+z;e;v;nʲ;u
+===  [zʲ;ɤ;-;mʲ;ɤ]
+===  [z;e;v;nʲ;u]
+§_Bachkovo (asgr) : Karaisen (pavl) : Bulgarian кое ("which" — neut),(phonalign_290.msa/Bulgarian)
+k;-;v;e
+k;u;-;e
+===  [k;v;e;-]
+===  [k;-;u;e]
+§_Opan (stzag) : Suhindol (vtarn) : Bulgarian кое ("which" — neut),(phonalign_290.msa/Bulgarian)
+k;-;vʲ;e
+k;u;-;e
+===  [k;vʲ;e;-]
+===  [k;-;u;e]
+§_Svetlina (topgr) : Senokos (blgr) : Bulgarian кое ("which" — neut),(phonalign_290.msa/Bulgarian)
+k;-;vʲ;e
+k;o;-;e
+===  [k;vʲ;e;-]
+===  [k;-;o;e]
+§_Enina (kaz) : Nova nadezhda (hs) : Bulgarian кое ("which" — neut),(phonalign_290.msa/Bulgarian)
+k;u;-;e
+k;-;vʲ;ɑ
+===  [k;-;u;e]
+===  [k;vʲ;ɑ;-]
+§_Bachkovo (asgr) : Dorkovo (velgr) : Bulgarian кое ("which" — neut),(phonalign_290.msa/Bulgarian)
+k;-;v;e
+k;ʊ;-;e
+===  [k;v;e;-]
+===  [k;-;ʊ;e]
+§_Golema rakovica (elpel) : Ezerovo (parvom) : Bulgarian кое ("which" — neut),(phonalign_290.msa/Bulgarian)
+k;o;-;e
+kʲ;-;v;e
+===  [k;-;o;e]
+===  [kʲ;v;e;-]
+§_Valche pole (svgr) : Buchin prohod (god) : Bulgarian кое ("which" — neut),(phonalign_290.msa/Bulgarian)
+k;-;v;e
+k;o;-;e
+===  [k;v;e;-]
+===  [k;-;o;e]
+§_Senokos (blgr) : Omarchevo (nzag) : Bulgarian къде ("where"),(phonalign_293.msa/Bulgarian)
+k;ɑː;-;-
+k;ə;dʲ;ɑ
+===  [k;-;-;ɑː]
+===  [k;ə;dʲ;ɑ]
+§_Petarnica (plev) : Bistrica (blgr) : Bulgarian много ("much;many"),(phonalign_301.msa/Bulgarian)
+m;-;oː;ɡ;ʊ
+-;n;o;ɡ;u
+===  [m;oː;ɡ;ʊ]
+===  [n;o;ɡ;u]
+§_Levunovo (sand) : Petarnica (plev) : Bulgarian много ("much;many"),(phonalign_301.msa/Bulgarian)
+-;n;o;ɡ;o
+m;-;oː;ɡ;ʊ
+===  [n;o;ɡ;o]
+===  [m;oː;ɡ;ʊ]
+§_Petarnica (plev) : Bansko (razl) : Bulgarian много ("much;many"),(phonalign_301.msa/Bulgarian)
+m;-;oː;ɡ;ʊ
+f;n;o;ɡ;u
+===  [-;m;oː;ɡ;ʊ]
+===  [f;n;o;ɡ;u]
+§_Momchilovci (smol) : Smochevo (dupn) : Bulgarian много ("much;many"),(phonalign_301.msa/Bulgarian)
+m;l;o;ɡ;ʊ
+-;n;o;ɡ;u
+===  [m;l;o;ɡ;ʊ]
+===  [n;-;o;ɡ;u]
+§_Sestrino (petr) : Ljubenova mahala (nzag) : Bulgarian много ("much;many"),(phonalign_301.msa/Bulgarian)
+-;n;o;ɡ;o
+m;l;o;ɡ;u
+===  [n;-;o;ɡ;o]
+===  [m;l;o;ɡ;u]
+§_Zelenigrad (tran) : Dolna dikanja (radom) : Bulgarian много ("much;many"),(phonalign_301.msa/Bulgarian)
+m;l;o;ɡ;o
+-;n;o;ɡ;u
+===  [m;l;o;ɡ;o]
+===  [n;-;o;ɡ;u]
+§_Svetlina (topgr) : Momchilovci (smol) : Bulgarian мъже ("men"),(phonalign_304.msa/Bulgarian)
+m;ɤ;ʒ;i;-
+m;ə;ʑ;-;e
+===  [m;ɤ;ʒ;i]
+===  [m;ə;ʑ;e]
+§_Omarchevo (nzag) : Shtipsko (prov) : Bulgarian мъже ("men"),(phonalign_304.msa/Bulgarian)
+m;ɤ;ʒ;-;e
+m;a;ʒ;i;-
+===  [m;ɤ;ʒ;e]
+===  [m;a;ʒ;i]
+§_Ivanski (shum) : Dolni bogrov (sof) : Bulgarian мъже ("men"),(phonalign_304.msa/Bulgarian)
+m;ɤ;ʒ;i;-
+m;ɑ;ʒ;-;e
+===  [m;ɤ;ʒ;i]
+===  [m;ɑ;ʒ;e]
+§_Ivanski (shum) : Bov (svog) : Bulgarian мъже ("men"),(phonalign_304.msa/Bulgarian)
+m;ɤ;ʒ;i;-
+m;ɑ;ʒ;-;j͜e
+===  [m;ɤ;ʒ;i]
+===  [m;ɑ;ʒ;j͜e]
+§_Golica (varn) : Shiroka laka (dev) : Bulgarian мъже ("men"),(phonalign_304.msa/Bulgarian)
+m;a;ʒ;i;-
+m;ə;ʑ;-;e
+===  [m;a;ʒ;i]
+===  [m;ə;ʑ;e]
+§_Varbovo (blgr) : Dermanci (luk) : Bulgarian нея ("her"),(phonalign_309.msa/Bulgarian)
+nʲ;-;u
+n;ej̯;-
+===  [nʲ;u]
+===  [n;ej̯]
+§_Tihomirovo (stzag) : Voden (elh) : Bulgarian няма ("there is no, will not"),(phonalign_312.msa/Bulgarian)
+nʲ;ɑ;-;ə
+n;e;m;-
+===  [nʲ;ɑ;ə;-]
+===  [n;-;e;m]
+§_Shiroki dol (sam) : Svirkovo (harm) : Bulgarian онези ("those"),(phonalign_318.msa/Bulgarian)
+o;n;ij̯;ɑ
+-;nʲ;ɑː;-
+===  [o;n;ij̯;ɑ]
+===  [-;nʲ;-;ɑː]
+§_Sloten (Fr) : Kerkrade (Lb) : Dutch *'n dochter*,(phonalign_322.msa/Dutch)
+ə;-;d;ɒ;x;t;-;r
+ɛ;ŋ;d;ɔə̯;-;t;ə;x
+===  [ə;-;d;ɒ;x;-;t;r]
+===  [ɛ;ŋ;d;ɔə̯;t;ə;x;-]
+§_Wierum (Fr) : Mussel (Gn) : Dutch *kopen*,(phonalign_323.msa/Dutch)
+kʰ;ɪː;p;j͜ə;-
+k;ou̯;-;-;m
+===  [kʰ;ɪː;p;j͜ə;-]
+===  [k;-;-;ou̯;m]
+§_Buren (Fr) : Kortrijk (BeWv) : Dutch *'n baard*,(phonalign_324.msa/Dutch)
+-;-;-;-;b;ɪə̯;-;d
+n;ə;m;￤;b;ɔː;r;-
+===  [-;-;-;-;b;ɪə̯;d]
+===  [n;ə;m;￤;b;ɔː;r]
+§_Kantens (Gn) : Wierum (Fr) : Dutch *twaalf*,(phonalign_329.msa/Dutch)
+t;ʋ;ɒ͜ə;-;f;-
+tʰ;-;o;l;v;ə
+===  [t;-;ʋ;ɒ͜ə;f;-]
+===  [tʰ;o;l;-;v;ə]
+§_West-Terschelling (Fr) : Meerbeek (BeBr) : Dutch *zeven*,(phonalign_330.msa/Dutch)
+s;ɒː;-;-;n
+z;ɛː;v;ə;-
+===  [s;-;-;ɒː;n]
+===  [z;ɛː;v;ə;-]
+§_Workum (Fr) : Buurmalsen (Gl) : Dutch *zeven*,(phonalign_330.msa/Dutch)
+s;ɒː;-;-;n
+z;ø;v;ə;-
+===  [s;ɒː;n;-]
+===  [z;ø;v;ə]
+§_Walshoutem (BeBr) : Workum (Fr) : Dutch *zeven*,(phonalign_330.msa/Dutch)
+z;eːi̯;v;ə;-
+s;ɒː;-;-;n
+===  [z;eːi̯;v;ə;-]
+===  [s;-;-;ɒː;n]
+§_Sloten (Fr) : Nijeholtpade (Fr) : Dutch *graven*,(phonalign_332.msa/Dutch)
+g;ɾ;ɛ;ʋ;ɵ;-
+x;r;ɛː;b;-;m
+===  [g;ɾ;ɛ;-;ʋ;ɵ]
+===  [x;r;ɛː;b;m;-]
+§_Haamstede (Ze) : Mussel (Gn) : Dutch *handje*,(phonalign_334.msa/Dutch)
+-;ɑ;n;t;j;ɪ
+h;ɑː;c;-;ç;ə
+===  [-;ɑ;n;t;j;ɪ]
+===  [h;ɑː;-;c;ç;ə]
+§_Haamstede (Ze) : Kerkrade (Lb) : Dutch *handje*,(phonalign_334.msa/Dutch)
+-;ɑ;n;t;j;ɪ
+h;ɛ;ŋ;-;k;ə
+===  [-;ɑ;n;t;j;ɪ]
+===  [h;ɛ;ŋ;k;-;ə]
+§_Nijeholtpade (Fr) : Brouckerque (FrVl) : Dutch *handje*,(phonalign_334.msa/Dutch)
+h;a;n;t;-;-;i;n
+-;ɑ;n;-;ə;t;ə;-
+===  [h;a;n;-;t;i;n]
+===  [-;ɑ;n;ə;t;ə;-]
+§_Renkum (Gl) : Bilzen (BeLb) : Dutch *aarde*,(phonalign_339.msa/Dutch)
+-;-;-;a;ɾ;d;ə
+d;ə;￤;j͜iə̯;-;t;-
+===  [a;ɾ;d;ə;￤;-;-]
+===  [-;-;d;ə;￤;j͜iə̯;t]
+§_Mouscron (Be) : Bilzen (BeLb) : Dutch *aarde*,(phonalign_339.msa/Dutch)
+-;-;-;ɛə̯;ʀ;d;ə
+d;ə;￤;j͜iə̯;-;t;-
+===  [ɛə̯;ʀ;d;ə;￤;-;-]
+===  [-;-;d;ə;￤;j͜iə̯;t]
+§_Meerbeek (BeBr) : Workum (Fr) : Dutch *aarde*,(phonalign_339.msa/Dutch)
+d;￤;ɛː;r;-;-
+-;-;iə̯;-;d;ə
+===  [-;d;-;￤;ɛː;r]
+===  [iə̯;d;ə;￤;-;-]
+§_Sint-Annen (Gn) : Meerbeek (BeBr) : Dutch *aarde*,(phonalign_339.msa/Dutch)
+-;-;o˞;-;d;ə
+d;￤;ɛː;r;-;-
+===  [o˞;d;ə;￤;-;-]
+===  [-;d;-;￤;ɛː;r]
+§_Zuydcoote (FrVl) : Ulft (Gl) : Dutch *adem*,(phonalign_343.msa/Dutch)
+ɔə̯;s;-;-;m
+aː;-;d;ə;m
+===  [ɔə̯;s;-;m]
+===  [aː;d;ə;m]
+§_Nijmegen (Gl) : Koekelare (BeWv) : Dutch *adem*,(phonalign_343.msa/Dutch)
+ɒ;-;d;ə;m
+ɔːə̯;s;-;-;m
+===  [ɒ;d;ə;m]
+===  [ɔːə̯;s;-;m]
+§_Koekelare (BeWv) : Ter Apel (Gn) : Dutch *adem*,(phonalign_343.msa/Dutch)
+ɔːə̯;s;-;-;m
+aː;-;d;ə;m
+===  [ɔːə̯;s;-;m]
+===  [aː;d;ə;m]
+§_Sloten (Fr) : Koekelare (BeWv) : Dutch *adem*,(phonalign_343.msa/Dutch)
+ɑː;-;d;ə;m
+ɔːə̯;s;-;-;m
+===  [ɑː;d;ə;m]
+===  [ɔːə̯;s;-;m]
+§_Midsland (Fr) : Koekelare (BeWv) : Dutch *adem*,(phonalign_343.msa/Dutch)
+aɪ̯;-;d;ə;m
+ɔːə̯;s;-;-;m
+===  [aɪ̯;d;ə;m]
+===  [ɔːə̯;s;-;m]
+§_Koekelare (BeWv) : Mussel (Gn) : Dutch *adem*,(phonalign_343.msa/Dutch)
+ɔːə̯;s;-;-;m
+ɔː;-;d;ə;m
+===  [ɔːə̯;s;-;m]
+===  [ɔː;d;ə;m]
+§_Brouckerque (FrVl) : Koekelare (BeWv) : Dutch *adem*,(phonalign_343.msa/Dutch)
+n;￤;a;-;j;m
+-;-;ɔːə̯;s;-;m
+===  [n;￤;a;j;m]
+===  [-;-;ɔːə̯;s;m]
+§_Zutendaal (BeLb) : Koekelare (BeWv) : Dutch *adem*,(phonalign_343.msa/Dutch)
+oː;-;j͜ə;m
+ɔːə̯;s;-;m
+===  [oː;j͜ə;-;m]
+===  [-;ɔːə̯;s;m]
+§_Piershil (ZH) : Koekelare (BeWv) : Dutch *adem*,(phonalign_343.msa/Dutch)
+aːə̯;-;d;ə;m
+ɔːə̯;s;-;-;m
+===  [aːə̯;d;ə;m]
+===  [ɔːə̯;s;-;m]
+§_Ter Apel (Gn) : Nazareth (BeOv) : Dutch *'n berg*,(phonalign_344.msa/Dutch)
+-;-;-;-;b;aː;ɣ;ə;-
+n;ə;m;￤;b;eə̯;r;-;x
+===  [-;-;-;-;b;aː;-;ɣ;ə]
+===  [n;ə;m;￤;b;eə̯;r;x;-]
+§_Ter Apel (Gn) : Meerbeek (BeBr) : Dutch *'n berg*,(phonalign_344.msa/Dutch)
+-;-;-;-;b;aː;ɣ;ə;-
+n;ə;m;￤;b;æ;r;e;x
+===  [-;-;-;-;b;aː;-;-;ɣ;ə]
+===  [n;ə;m;￤;b;æ;r;e;x;-]
+§_Ter Apel (Gn) : Kortrijk (BeWv) : Dutch *'n berg*,(phonalign_344.msa/Dutch)
+-;-;-;-;b;aː;ɣ;ə;-
+n;ə;m;￤;b;æ;r;-;xˁ
+===  [-;-;-;-;b;aː;-;ɣ;ə]
+===  [n;ə;m;￤;b;æ;r;xˁ;-]
+§_Ter Apel (Gn) : Mouscron (Be) : Dutch *'n berg*,(phonalign_344.msa/Dutch)
+-;-;-;-;b;aː;ɣ;ə;-
+n;ə;m;￤;b;æ;ʀ;-;xˁ
+===  [-;-;-;-;b;aː;-;ɣ;ə]
+===  [n;ə;m;￤;b;æ;ʀ;xˁ;-]
+§_Ooike (BeOv) : Den Hoorn (NH) : Dutch *blaadje*,(phonalign_349.msa/Dutch)
+-;-;-;b;l;oːə̯;r;k;ə
+ə;m;￤;bˁ;lˤ;a;t;ɕ;ɪ
+===  [-;-;-;b;l;oːə̯;r;k;-;ə]
+===  [ə;m;￤;bˁ;lˤ;a;-;t;ɕ;ɪ]
+§_Den Hoorn (NH) : Nazareth (BeOv) : Dutch *blaadje*,(phonalign_349.msa/Dutch)
+ə;m;￤;bˁ;lˤ;a;t;ɕ;ɪ
+-;-;-;b;l;oə̯;r;k;ə
+===  [ə;m;￤;bˁ;lˤ;a;-;t;ɕ;ɪ]
+===  [-;-;-;b;l;oə̯;r;k;-;ə]
+§_Den Hoorn (NH) : Humbeek (BeBr) : Dutch *blaadje*,(phonalign_349.msa/Dutch)
+ə;m;￤;bˁ;lˤ;a;t;ɕ;ɪ
+-;-;-;b;l;ɔː;r;k;ə
+===  [ə;m;￤;bˁ;lˤ;a;-;t;ɕ;ɪ]
+===  [-;-;-;b;l;ɔː;r;k;-;ə]
+§_Meerbeek (BeBr) : Den Hoorn (NH) : Dutch *blaadje*,(phonalign_349.msa/Dutch)
+-;-;-;b;l;ɔi̯;-;k;ə
+ə;m;￤;bˁ;lˤ;a;t;ɕ;ɪ
+===  [-;-;-;b;l;ɔi̯;k;-;ə]
+===  [ə;m;￤;bˁ;lˤ;a;t;ɕ;ɪ]
+§_Sint-Annen (Gn) : Kerkrade (Lb) : Dutch *'n stapel*,(phonalign_350.msa/Dutch)
+-;-;-;n;￤;s;t;oː;p;-;l
+ɛ;n;ə;-;￤;ʃ;t;aː;b;ə;l
+===  [-;n;-;￤;s;t;oː;p;-;l]
+===  [ɛ;n;ə;￤;ʃ;t;aː;b;ə;l]
+§_Kerkrade (Lb) : Mussel (Gn) : Dutch *'n stapel*,(phonalign_350.msa/Dutch)
+ɛ;n;ə;-;￤;ʃ;t;aː;b;ə;l
+-;-;-;n;￤;s;t;ɔː;p;-;l
+===  [ɛ;n;ə;￤;ʃ;t;aː;b;ə;l]
+===  [-;n;-;￤;s;t;ɔː;p;-;l]
+§_Kerkrade (Lb) : Koedijk (NH) : Dutch *'n stapel*,(phonalign_350.msa/Dutch)
+ɛ;n;ə;-;￤;ʃ;t;aː;b;ə;l
+-;-;-;n;￤;s;t;a;p;ɔ;lˤ
+===  [ɛ;n;ə;￤;ʃ;t;aː;b;ə;l]
+===  [-;n;-;￤;s;t;a;p;ɔ;lˤ]
+§_Kerkrade (Lb) : Aduard (Gn) : Dutch *'n stapel*,(phonalign_350.msa/Dutch)
+ɛ;n;ə;-;￤;ʃ;t;aː;b;ə;l
+-;-;-;n;￤;s;t;ɔː;p;-;lˤ
+===  [ɛ;n;ə;￤;ʃ;t;aː;b;ə;l]
+===  [-;n;-;￤;s;t;ɔː;p;-;lˤ]
+§_Kerkrade (Lb) : Leermens (Gn) : Dutch *'n stapel*,(phonalign_350.msa/Dutch)
+ɛ;n;ə;￤;ʃ;t;aː;b;ə;l
+-;-;-;-;s;t;ɔːɔ̯;p;ə;lˤ
+===  [ɛ;n;ə;￤;ʃ;t;aː;b;ə;l]
+===  [-;-;-;-;s;tɔː;ɔ̯;p;ə;lˤ]
+§_Mussel (Gn) : Sloten (Fr) : Dutch *bloempje*,(phonalign_352.msa/Dutch)
+-;-;-;b;l;ɑu̯;-;p;i;-;-
+ə;m;￤;b;lˤ;ɔ;m;-;-;k;ə
+===  [-;-;-;b;l;ɑu̯;-;p;i]
+===  [ə;m;￤;b;lˤ;ɔ;m;k;ə]
+§_Brouwershaven (Ze) : Mussel (Gn) : Dutch *bloempje*,(phonalign_352.msa/Dutch)
+b;lˤ;ɔ;m;-;ə;ç;ə
+b;l;ɑu̯;-;p;i;-;-
+===  [b;lˤ;ɔ;m;ə;ç;ə]
+===  [b;l;ɑu̯;-;-;p;i]
+§_Gouderak (ZH) : Mussel (Gn) : Dutch *bloempje*,(phonalign_352.msa/Dutch)
+b;lˤ;ɔ;m;-;ə;x;i
+b;l;ɑu̯;-;p;i;-;-
+===  [b;lˤ;ɔ;m;ə;x;i]
+===  [b;l;ɑu̯;-;-;p;i]
+§_Varsseveld (Gl) : Mussel (Gn) : Dutch *bloempje*,(phonalign_352.msa/Dutch)
+ə;m;￤;b;l;y;m;-;-;k;ə;n
+-;-;-;b;l;ɑu̯;-;p;i;-;-;-
+===  [ə;m;￤;b;l;y;m;k;ə;n]
+===  [-;-;-;b;l;ɑu̯;-;p;i;-]
+§_Nijeholtpade (Fr) : Sloten (Fr) : Dutch *bloempje*,(phonalign_352.msa/Dutch)
+-;-;-;b;l;u;m;p;i;-;-;n
+ə;m;￤;b;lˤ;ɔ;m;-;-;k;ə;-
+===  [-;-;-;b;l;u;m;p;i;n]
+===  [ə;m;￤;b;lˤ;ɔ;m;k;ə;-]
+§_Varsseveld (Gl) : Abbekerk (NH) : Dutch *bloempje*,(phonalign_352.msa/Dutch)
+ə;m;￤;b;l;y;m;-;-;k;ə;n
+-;-;-;b;lˤ;u;m;p;i;-;-;-
+===  [ə;m;￤;b;l;y;m;k;ə;n]
+===  [-;-;-;b;lˤ;u;m;p;i;-]
+§_Den Hoorn (NH) : Silvolde (Gl) : Dutch *bloempje*,(phonalign_352.msa/Dutch)
+ə;m;￤;b;lˤ;ɔ;m;p;-;i;-
+-;-;-;b;l;y;m;-;k;ə;n
+===  [ə;m;￤;b;lˤ;ɔ;m;p;i;-]
+===  [-;-;-;b;l;y;m;k;ə;n]
+§_Schagen (NH) : Sloten (Fr) : Dutch *bloempje*,(phonalign_352.msa/Dutch)
+-;-;-;b;l;u;m;p;i;-;-
+ə;m;￤;b;lˤ;ɔ;m;-;-;k;ə
+===  [-;-;-;b;l;u;m;p;i]
+===  [ə;m;￤;b;lˤ;ɔ;m;k;ə]
+§_Abbekerk (NH) : Kerkrade (Lb) : Dutch *bloempje*,(phonalign_352.msa/Dutch)
+-;-;b;lˤ;u;m;p;i;-;-;-
+ə;￤;b;l;œ;m;-;-;ʃ;ə;n
+===  [-;-;b;lˤ;u;m;p;i;-]
+===  [ə;￤;b;l;œ;m;ʃ;ə;n]
+§_Smilde (Dr) : Mouscron (Be) : Dutch *vader*,(phonalign_354.msa/Dutch)
+f;æː;-;-;-
+v;ɔə̯;d;ə;ʀ
+===  [f;-;-;æː;-]
+===  [v;ɔə̯;d;ə;ʀ]
+§_Waregem (BeWv) : Smilde (Dr) : Dutch *vader*,(phonalign_354.msa/Dutch)
+v;ɔ;d;ə;r;ə
+f;æː;-;-;-;-
+===  [v;ɔ;d;ə;r;ə, v;ɔ;d;ə;r;ə]
+===  [f;-;-;æː;-;-, f;-;-;-;-;æː]
+§_Brouwershaven (Ze) : Smilde (Dr) : Dutch *vader*,(phonalign_354.msa/Dutch)
+v;ɑː;d;ə;r
+f;æː;-;-;-
+===  [v;ɑː;d;ə;r]
+===  [f;-;-;æː;-]
+§_Zuydcoote (FrVl) : Smilde (Dr) : Dutch *vader*,(phonalign_354.msa/Dutch)
+v;ɔ;d;ə;r
+f;æː;-;-;-
+===  [v;ɔ;d;ə;r]
+===  [f;-;-;æː;-]
+§_Kerkrade (Lb) : Smilde (Dr) : Dutch *vader*,(phonalign_354.msa/Dutch)
+v;ɑ;d;ə;x
+f;æː;-;-;-
+===  [v;ɑ;d;ə;x]
+===  [f;-;-;æː;-]
+§_Mussel (Gn) : Lies (Fr) : Dutch *zand*,(phonalign_356.msa/Dutch)
+z;ɑː;-;t
+s;ɔː;n;-
+===  [z;ɑː;t]
+===  [s;ɔː;n]
+§_Piershil (ZH) : Mussel (Gn) : Dutch *lang*,(phonalign_363.msa/Dutch)
+lˤ;a;ŋ;-
+l;ɑː;-;k
+===  [lˤ;a;ŋ]
+===  [l;ɑː;k]
+§_Wateringen (ZH) : Mussel (Gn) : Dutch *lang*,(phonalign_363.msa/Dutch)
+lˤ;ɑ;ŋ;-
+l;ɑː;-;k
+===  [lˤ;ɑ;ŋ]
+===  [l;ɑː;k]
+§_Gouderak (ZH) : Mussel (Gn) : Dutch *lang*,(phonalign_363.msa/Dutch)
+lˤ;æ;ŋ;-
+l;ɑː;-;k
+===  [lˤ;æ;ŋ]
+===  [l;ɑː;k]
+§_Moorslede (BeWv) : Mussel (Gn) : Dutch *lang*,(phonalign_363.msa/Dutch)
+l;ɑ;ŋ;ə;-
+l;ɑː;-;-;k
+===  [l;ɑ;ŋ;ə]
+===  [l;ɑː;k;-]
+§_Nijeholtpade (Fr) : Mussel (Gn) : Dutch *lang*,(phonalign_363.msa/Dutch)
+l;a;ŋ;ə;-
+l;ɑː;-;-;k
+===  [l;a;ŋ;ə;-]
+===  [l;-;-;ɑː;k]
+§_Piershil (ZH) : Kerkrade (Lb) : Dutch *'n broer*,(phonalign_364.msa/Dutch)
+-;-;-;-;b;r;u;d;ə;r
+ɛ;n;ə;￤;b;ʁ;o;-;-;x
+===  [-;-;-;-;b;r;u;d;ə;r]
+===  [ɛ;n;ə;￤;b;ʁ;o;x;-;-]
+§_Ingen (Gl) : Piershil (ZH) : Dutch *'n broer*,(phonalign_364.msa/Dutch)
+ə;m;￤;b;ʀ;yə̯;-;-;ʁ
+-;-;-;b;r;u;d;ə;r
+===  [ə;m;￤;b;ʀ;-;-;yə̯;ʁ]
+===  [-;-;-;b;r;u;d;ə;r]
+§_Sint-Annen (Gn) : Gouderak (ZH) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ɵ˞;ɣ;-;-;-;m;ei̯;s;t;ə˞;-
+b;ʌ;r;ə;x;ə;m;eːi̯;s;-;ə;r
+===  [b;-;-;ɵ˞;ɣ;-;m;ei̯;s;t;ə˞;-]
+===  [b;ʌ;r;ə;x;ə;m;eːi̯;s;-;ə;r]
+§_Den Hoorn (NH) : Sint-Annen (Gn) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ɵ;r;ə;x;ə;m;e;s;t;ə;r
+b;ɵ˞;ɣ;-;-;-;m;ei̯;s;t;ə˞;-
+===  [b;ɵ;r;ə;x;ə;m;e;s;t;ə;r]
+===  [b;ɵ˞;-;-;ɣ;-;m;ei̯;s;t;ə˞;-]
+§_Zevenaar (Gl) : Sint-Annen (Gn) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ɵ;r;ə;ɣ;ə;m;ɛi̯;s;t;ə;r
+b;ɵ˞;ɣ;-;-;-;m;ei̯;s;t;ə˞;-
+===  [b;ɵ;r;ə;ɣ;ə;m;ɛi̯;s;t;ə;r]
+===  [b;ɵ˞;-;-;ɣ;-;m;ei̯;s;t;ə˞;-]
+§_Haamstede (Ze) : Sint-Annen (Gn) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ɵ;ɾ;ə;ħ;ə;m;e;s;t;ə;r
+b;ɵ˞;ɣ;-;-;-;m;ei̯;s;t;ə˞;-
+===  [b;ɵ;ɾ;ə;ħ;ə;m;e;s;t;ə;r]
+===  [b;ɵ˞;-;-;ɣ;-;m;ei̯;s;t;ə˞;-]
+§_Sint-Annen (Gn) : Waregem (BeWv) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ɵ˞;ɣ;-;-;m;ei̯;s;t;ə˞;-;-
+b;œ;r;h;ə;m;iə̯;s;t;ə;r;ə
+===  [b;ɵ˞;-;ɣ;-;m;ei̯;s;t;ə˞;-;-, b;ɵ˞;-;ɣ;-;m;ei̯;s;t;-;-;ə˞]
+===  [b;œ;r;h;ə;m;iə̯;s;t;ə;r;ə, b;œ;r;h;ə;m;iə̯;s;t;ə;r;ə]
+§_Midsland (Fr) : Sint-Annen (Gn) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ɵ;r;ə;ɣ;ə;m;eː;s;t;-;r
+b;ɵ˞;ɣ;-;-;-;m;ei̯;s;t;ə˞;-
+===  [b;ɵ;r;ə;ɣ;ə;m;eː;s;t;r;-]
+===  [b;ɵ˞;-;-;ɣ;-;m;ei̯;s;t;-;ə]
+§_Piershil (ZH) : Sint-Annen (Gn) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ʌ;r;ə;x;ə;m;eːi̯;s;t;ə;r
+b;ɵ˞;ɣ;-;-;-;m;ei̯;s;t;ə˞;-
+===  [b;ʌ;r;ə;x;ə;m;eːi̯;s;t;ə;r]
+===  [b;-;-;ɵ˞;ɣ;-;m;ei̯;s;t;ə˞;-]
+§_Brouwershaven (Ze) : Sint-Annen (Gn) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ɵ;r;ə;h;ə;m;ɪə̯;s;t;ə;r
+b;ɵ˞;ɣ;-;-;-;m;ei̯;s;t;ə˞;-
+===  [b;ɵ;r;ə;h;ə;m;ɪə̯;s;t;ə;r]
+===  [b;ɵ˞;-;-;ɣ;-;m;ei̯;s;t;ə˞;-]
+§_Sint-Annen (Gn) : Nazareth (BeOv) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ɵ˞;ɣ;-;-;m;ei̯;s;t;ə˞;-;-
+b;œə̯;r;h;ə;m;iə̯;s;t;ə;r;ə
+===  [b;ɵ˞;-;ɣ;-;m;ei̯;s;t;ə˞;-;-, b;ɵ˞;-;ɣ;-;m;ei̯;s;t;-;-;ə˞]
+===  [b;œə̯;r;h;ə;m;iə̯;s;t;ə;r;ə, b;œə̯;r;h;ə;m;iə̯;s;t;ə;r;ə]
+§_Schagen (NH) : Sint-Annen (Gn) : Dutch *'n burgemeester*,(phonalign_367.msa/Dutch)
+b;ɵ;ɾ;ə;ɣ;ə;m;ɛi̯;s;t;ə;ɾ
+b;ɵ˞;ɣ;-;-;-;m;ei̯;s;t;ə˞;-
+===  [b;ɵ;ɾ;ə;ɣ;ə;m;ɛi̯;s;t;ə;ɾ]
+===  [b;ɵ˞;-;-;ɣ;-;m;ei̯;s;t;ə˞;-]
+§_Dutch (Antwerp) : Central German (Honigberg) : "hunger",(phonalign_372.msa/Germanic)
+-;ʊ;ŋ;ə;s
+h;aː;-;-;r
+===  [-;ʊ;ŋ;ə;s]
+===  [h;aː;r;-;-]
+§_Yiddish (New York) : Central German (Honigberg) : "hunger",(phonalign_372.msa/Germanic)
+h;u;ŋ;ɡ;ɛ;ɾ
+h;aː;-;-;-;r
+===  [h;u;ŋ;ɡ;ɛ;ɾ]
+===  [h;-;-;-;aː;r]
+§_Dutch (Antwerp) : English (Singapore) : "hunger",(phonalign_372.msa/Germanic)
+-;ʊ;ŋ;-;ə;s
+h;ɑ;ŋ;ɡ;ɜ;-
+===  [-;ʊ;ŋ;ə;s;-]
+===  [h;ɑ;ŋ;-;ɡ;ɜ]
+§_High German (Walser) : Central German (Honigberg) : "hunger",(phonalign_372.msa/Germanic)
+h;ʊ;ŋ;ɡ;ə;ɾ
+h;aː;-;-;-;r
+===  [h;ʊ;ŋ;ɡ;ə;ɾ]
+===  [h;-;-;-;aː;r]
+§_Nigerian English (Igbo) : Dutch (Ostend) : "hunger",(phonalign_372.msa/Germanic)
+h;ʌ;ŋ;ɡ;ə;-
+-;ʊ;ŋ;-;-;r
+===  [h;ʌ;ŋ;ɡ;ə]
+===  [-;ʊ;ŋ;r;-]
+§_Faroese : Central German (Honigberg) : "hunger",(phonalign_372.msa/Germanic)
+h;ʊ;n;k;ə;ɹ
+h;aː;-;-;-;r
+===  [h;ʊ;n;k;ə;ɹ]
+===  [h;-;-;-;aː;r]
+§_Dutch (Antwerp) : South African English (Johannisburg) : "hunger",(phonalign_372.msa/Germanic)
+-;ʊ;ŋ;-;ə;s
+h;ɜ;ŋ;ɡ;ɛ;-
+===  [-;ʊ;ŋ;ə;s;-]
+===  [h;ɜ;ŋ;-;ɡ;ɛ]
+§_New Zealand English (Auckland) : Dutch (Ostend) : "hunger",(phonalign_372.msa/Germanic)
+h;ɜ;ŋ;ɡ;ɛ;-
+-;ʊ;ŋ;-;-;r
+===  [h;ɜ;ŋ;ɡ;ɛ]
+===  [-;ʊ;ŋ;r;-]
+§_Yiddish (New York) : Dutch (Ostend) : "nine",(phonalign_373.msa/Germanic)
+n;ɛɪ̯;-;-;n
+n;eː;h;ə~;-
+===  [n;ɛɪ̯;n;-]
+===  [n;eː;h;ə~]
+§_English (North Carolina) : Dutch (Antwerp) : "nine",(phonalign_373.msa/Germanic)
+n;aː;-;-;n
+n;eː;ʝ;ə;-
+===  [n;aː;n;-]
+===  [n;eː;ʝ;ə]
+§_Scottish : Swedish (Stockholm) : "nine",(phonalign_373.msa/Germanic)
+n;ʌɪ̯;-;n
+n;iːj̯;ə;-
+===  [n;-;ʌɪ̯;n]
+===  [n;iːj̯;ə;-]
+§_High German (Graubuenden) : Dutch : "nine",(phonalign_373.msa/Germanic)
+n;yː;-;-;n
+n;eɪ̯;χ;ə;-
+===  [n;yː;n;-]
+===  [n;eɪ̯;χ;ə]
+§_Central German (Murrhardt) : Icelandic : "nine",(phonalign_373.msa/Germanic)
+n;ɔɪ̯;-;n
+n;iːj̯;ʏ;-
+===  [n;-;ɔɪ̯;n]
+===  [n;iːj̯;ʏ;-]
+§_English (Liverpool : Dutch (Ostend) : "nine",(phonalign_373.msa/Germanic)
+n;aː;-;-;n
+n;eː;h;ə~;-
+===  [n;aː;n;-]
+===  [n;eː;h;ə~]
+§_South African English (Johannisburg) : Low German (Achterhoek) : "father",(phonalign_376.msa/Germanic)
+f;ɑ;ð;ɛ;-
+β;aː;d;-;ʁ
+===  [f;ɑ;-;ð;ɛ]
+===  [β;aː;d;ʁ;-]
+§_Danish : Low German (Achterhoek) : "father",(phonalign_376.msa/Germanic)
+f;ɛ;ð;ɔ;-
+β;aː;d;-;ʁ
+===  [f;ɛ;-;ð;ɔ]
+===  [β;aː;d;ʁ;-]
+§_English (London : Low German (Achterhoek) : "father",(phonalign_376.msa/Germanic)
+f;ɑː;ð;ə;-
+β;aː;d;-;ʁ
+===  [f;ɑː;-;ð;ə]
+===  [β;aː;d;ʁ;-]
+§_Central German (Luxembourg) : New Zealand English (Auckland) : "north",(phonalign_378.msa/Germanic)
+n;ʊə̯;ʁ;d;ə;n
+n;ɔ;-;θ;-;-
+===  [n;ʊə̯;ʁ;d;ə;n]
+===  [n;ɔ;θ;-;-;-]
+§_English (London : Central German (Luxembourg) : "north",(phonalign_378.msa/Germanic)
+n;oʊ̯;-;f;-;-
+n;ʊə̯;ʁ;d;ə;n
+===  [n;oʊ̯;f;-;-;-]
+===  [n;ʊə̯;ʁ;d;ə;n]
+§_Australian English (Perth) : Central German (Luxembourg) : "north",(phonalign_378.msa/Germanic)
+n;ɔː;-;θ;-;-
+n;ʊə̯;ʁ;d;ə;n
+===  [n;ɔː;θ;-;-;-]
+===  [n;ʊə̯;ʁ;d;ə;n]
+§_English (Lindisfarne) : Central German (Luxembourg) : "north",(phonalign_378.msa/Germanic)
+n;oɐ̯;-;θ;-;-
+n;ʊə̯;ʁ;d;ə;n
+===  [n;oɐ̯;θ;-;-;-]
+===  [n;ʊə̯;ʁ;d;ə;n]
+§_English (Singapore) : Faroese : "tear",(phonalign_381.msa/Germanic)
+t;ɪə̯;-;-
+tʰ;ɔa̯;ɹ;a
+===  [t;-;-;ɪə̯]
+===  [tʰ;ɔa̯;ɹ;a]
+§_English (Liverpool : Faroese : "tear",(phonalign_381.msa/Germanic)
+t͡θʰ;iə̯;-;-
+tʰ;ɔa̯;ɹ;a
+===  [t͡θʰ;-;-;iə̯]
+===  [tʰ;ɔa̯;ɹ;a]
+§_Icelandic : Central German (Honigberg) : "young",(phonalign_383.msa/Germanic)
+-;ʊ;ŋ;k
+ɡ;aː;-;-
+===  [ʊ;ŋ;k;-]
+===  [-;-;ɡ;aː]
+§_Faroese : Central German (Honigberg) : "young",(phonalign_383.msa/Germanic)
+-;ʊ;ŋ;k;ʌ;ɹ
+ɡ;aː;-;-;-;-
+===  [ʊ;ŋ;k;ʌ;ɹ]
+===  [-;-;ɡ;aː;-]
+§_Dutch (Ostend) : Danish : "five",(phonalign_384.msa/Germanic)
+v;ø;-;v;ə
+f;ɪ;mˀ;-;-
+===  [v;ø;v;ə]
+===  [f;ɪ;mˀ;-]
+§_English (Tyrone) : High German (Walser) : "ten",(phonalign_387.msa/Germanic)
+tʰ;ɛə̯;n;-;-
+ʦ;a;-;h;ə
+===  [tʰ;ɛə̯;n;-]
+===  [ʦ;a;h;ə]
+§_Canadian English : High German (Walser) : "ten",(phonalign_387.msa/Germanic)
+tʰ;ɛ;n;-;-
+ʦ;a;-;h;ə
+===  [tʰ;ɛ;n;-]
+===  [ʦ;a;h;ə]
+§_Norwegian (Stavanger) : Central German (Cologne) : "better",(phonalign_388.msa/Germanic)
+b;eə̯;-;-;ʁ;ə
+b;ɛ;s;ɒ;-;-
+===  [b;eə̯;ʁ;ə]
+===  [b;ɛ;s;ɒ]
+§_Faroese : Nigerian English (Igbo) : "better",(phonalign_388.msa/Germanic)
+b;eə̯;tʰ;-;ɹ;ə
+b;ɛ;t;ə;-;-
+===  [b;eə̯;tʰ;ɹ;ə]
+===  [b;ɛ;t;-;ə]
+§_Central German (Luxembourg) : Icelandic : "better",(phonalign_388.msa/Germanic)
+b;ɛ;s;ʌ;-;-
+b;eə̯;t;-;ɾ;ɪ
+===  [b;ɛ;-;s;ʌ]
+===  [b;eə̯;t;ɾ;ɪ]
+§_Belgian Dutch : Norwegian (Stavanger) : "better",(phonalign_388.msa/Germanic)
+b;e;t;ə;ɹ;-
+b;eə̯;-;-;ʁ;ə
+===  [b;e;t;ə;ɹ]
+===  [b;eə̯;ʁ;ə;-]
+§_South African English (Johannisburg) : Norwegian (Stavanger) : "better",(phonalign_388.msa/Germanic)
+b;e;t;ɜ;-;-
+b;eə̯;-;-;ʁ;ə
+===  [b;e;t;ɜ]
+===  [b;eə̯;ʁ;ə]
+§_High German (Ortisei) : Faroese : "better",(phonalign_388.msa/Germanic)
+b;ɪ;s;ə;χ;-
+b;eə̯;tʰ;-;ɹ;ə
+===  [b;ɪ;s;-;ə;χ]
+===  [b;eə̯;tʰ;ɹ;ə;-]
+§_Icelandic : German : "better",(phonalign_388.msa/Germanic)
+b;eə̯;t;-;ɾ;ɪ
+b;ɛ;s;ɐ;-;-
+===  [b;eə̯;t;ɾ;ɪ]
+===  [b;ɛ;-;s;ɐ]
+§_Danish : High German (Biel) : "out",(phonalign_391.msa/Germanic)
+ʔ;u;l
+-;uː;s
+===  [-;ʔ;u;l]
+===  [uː;s;-;-]
+§_Australian English (Perth) : Danish : "out",(phonalign_391.msa/Germanic)
+-;æʊ̯;t
+ʔ;u;l
+===  [æʊ̯;t;-;-]
+===  [-;ʔ;u;l]
+§_Dutch (Ostend) : Indian English (Delhi) : "four",(phonalign_395.msa/Germanic)
+v;iə̯;ɾ;ə
+f;ɔː;-;-
+===  [v;iə̯;ɾ;ə]
+===  [f;-;-;ɔː]
+§_Dutch (Ostend) : English (London : "four",(phonalign_395.msa/Germanic)
+v;iə̯;ɾ;ə
+f;ɔə̯;-;-
+===  [v;iə̯;ɾ;ə]
+===  [f;-;-;ɔə̯]
+§_Danish : Swedish (Stockholm) : "oven",(phonalign_397.msa/Germanic)
+ʔ;ɔ;-;n
+-;ø;ɡ;ŋ
+===  [-;ʔ;ɔ;n]
+===  [ø;ɡ;-;ŋ]
+§_Dutch (Antwerp) : Faroese : "thorn",(phonalign_398.msa/Germanic)
+d;oː;ɾ;ə;-;-;-
+tʰ;ɔ;ɹ;-;n;ʌ;ɹ
+===  [d;oː;ɾ;-;ə;-]
+===  [tʰ;ɔ;ɹ;n;ʌ;ɹ]
+§_Central German (Luxembourg) : Low German (Achterhoek) : "over",(phonalign_402.msa/Germanic)
+ʔ;i;v;a;-
+-;ɔː;β;-;ʁ
+===  [-;ʔ;i;v;a]
+===  [ɔː;β;-;ʁ;-]
+§_Low German (Bargstedt) : Icelandic : "over",(phonalign_402.msa/Germanic)
+ʔ;øː;b;ɐ;-
+-;eː;v;ɪ;s
+===  [-;ʔ;øː;b;ɐ]
+===  [eː;v;ɪ;s;-]
+§_High German (Tuebingen) : Central German (Honigberg) : "three",(phonalign_404.msa/Germanic)
+d;ʁ;ɛi̯;-
+t;ɾ;ɑw̯;eɪ̯
+===  [d;ʁ;-;ɛi̯]
+===  [t;ɾ;ɑw̯;eɪ̯]
+§_Central German (Honigberg) : Central German (Murrhardt) : "bone",(phonalign_405.msa/Germanic)
+b;e;n;ə;ɾ
+b;ɔe̯~;-;-;-
+===  [b;e;n;ə;ɾ]
+===  [b;-;-;ɔe̯~;-]
+§_High German (Bodensee) : Central German (Honigberg) : "bone",(phonalign_405.msa/Germanic)
+b;oɐ̯~;-;-;-
+b;e;n;ə;ɾ
+===  [b;-;-;oɐ̯~;-]
+===  [b;e;n;ə;ɾ]
+§_English (North Carolina) : High German (Ortisei) : "liver",(phonalign_407.msa/Germanic)
+lˤ;ɪ;v;-;ɹ
+l;eː;b;ə;χ
+===  [lˤ;ɪ;-;-;v;ɹ]
+===  [l;eː;b;ə;χ;-]
+§_Canadian English : High German (Tuebingen) : "liver",(phonalign_407.msa/Germanic)
+lˤ;ɪ;v;-;ɹ
+l;eː;b;ɔ;χ
+===  [lˤ;ɪ;-;-;v;ɹ]
+===  [l;eː;b;ɔ;χ;-]
+§_West Frisian (Grou) : High German (Ortisei) : "liver",(phonalign_407.msa/Germanic)
+lˤ;ɛɪ̯;v;-;r
+l;eː;b;ə;χ
+===  [lˤ;ɛɪ̯;-;-;v;r]
+===  [l;eː;b;ə;χ;-]
+§_Danish : High German (Biel) : "thunder",(phonalign_409.msa/Germanic)
+ʧ;oɐ̯;-;d;-;n;-
+d;ɔ;n;-;ə;-;ɾ
+===  [ʧ;oɐ̯;d;n;-;-]
+===  [d;ɔ;-;n;ə;ɾ]
+§_High German (Graubuenden) : Swedish (Stockholm) : "thunder",(phonalign_409.msa/Germanic)
+d;o;n;-;-;-;ɾ
+tʰ;oː;-;d;œ;n;-
+===  [d;o;-;-;n;ɾ]
+===  [tʰ;oː;d;œ;n;-]
+§_Dutch (Antwerp) : Faroese : "thunder",(phonalign_409.msa/Germanic)
+d;ɔ;n;d;ə;s;-
+tʰ;oː;-;-;-;ɹ;a
+===  [d;ɔ;n;d;ə;s]
+===  [tʰ;oː;ɹ;-;a;-]
+§_High German (Tuebingen) : Swedish (Stockholm) : "thunder",(phonalign_409.msa/Germanic)
+d;ɔ;n;-;ɔ;-;χ
+tʰ;oː;-;d;œ;n;-
+===  [d;ɔ;-;-;n;ɔ;χ]
+===  [tʰ;oː;d;œ;n;-;-]
+§_High German (Walser) : Swedish (Stockholm) : "thunder",(phonalign_409.msa/Germanic)
+d;ɔ;n;-;ɛ;-;ɾ
+tʰ;oː;-;d;œ;n;-
+===  [d;ɔ;n;ɛ;ɾ]
+===  [tʰ;oː;d;œ;n]
+§_High German (Ortisei) : Faroese : "thunder",(phonalign_409.msa/Germanic)
+d;ɔ;n;ə;χ;-
+tʰ;oː;-;-;ɹ;a
+===  [d;ɔ;n;ə;χ]
+===  [tʰ;oː;ɹ;a;-]
+§_Faroese : South African English (Johannisburg) : "thunder",(phonalign_409.msa/Germanic)
+tʰ;oː;-;-;-;ɹ;a
+θ;ɜ;n;d;ə;-;-
+===  [tʰ;oː;ɹ;-;a]
+===  [θ;ɜ;n;d;ə]
+§_Danish : High German (Ortisei) : "thunder",(phonalign_409.msa/Germanic)
+ʧ;oɐ̯;-;d;-;n;-
+d;ɔ;n;-;ə;-;χ
+===  [ʧ;oɐ̯;d;n;-;-]
+===  [d;ɔ;-;n;ə;χ]
+§_Swedish (Stockholm) : English (Buckie) : "brother",(phonalign_410.msa/Germanic)
+b;ə;r;uː;-;-;r
+b;-;ɾ;i;ð;ɐ;ɾ
+===  [b;ə;r;-;-;uː;r]
+===  [b;-;ɾ;i;ð;ɐ;ɾ]
+§_Swedish (Stockholm) : English : "brother",(phonalign_410.msa/Germanic)
+b;ə;r;uː;-;-;r
+b;-;ɹ;ɐ;ð;ə;-
+===  [b;ə;r;uː;r;-]
+===  [b;-;ɹ;ɐ;ð;ə]
+§_Swedish (Stockholm) : English (Tyrone) : "brother",(phonalign_410.msa/Germanic)
+b;ə;r;uː;-;-;r
+b;-;ɹ;ɔ;ð;ə˞;-
+===  [b;ə;r;uː;r;-]
+===  [b;-;ɹ;ɔ;ð;ə˞]
+§_Swedish (Stockholm) : Australian English (Perth) : "brother",(phonalign_410.msa/Germanic)
+b;ə;r;uː;-;-;r
+b;-;ɹ;ɐ;ð;ɜ;-
+===  [b;ə;r;-;-;uː;r]
+===  [b;-;ɹ;ɐ;ð;ɜ;-]
+§_Swedish (Stockholm) : High German (Ortisei) : "brother",(phonalign_410.msa/Germanic)
+b;ə;r;uː;-;-;r
+b;-;ʁ;ʊə̯;d;ə;χ
+===  [b;ə;r;uː;r;-;-]
+===  [b;-;ʁ;ʊə̯;d;ə;χ]
+§_Swedish (Stockholm) : English (Liverpool : "brother",(phonalign_410.msa/Germanic)
+b;ə;r;uː;-;-;r
+b;-;ɾ;ʊ;ð;ə;-
+===  [b;ə;r;uː;r;-]
+===  [b;-;ɾ;ʊ;ð;ə]
+§_Swedish (Stockholm) : High German (North Alsace) : "brother",(phonalign_410.msa/Germanic)
+b;ə;r;uː;-;-;r
+b;-;ʁ;eː;d;ə;χ
+===  [b;ə;r;-;-;uː;r]
+===  [b;-;ʁ;eː;d;ə;χ]
+§_High German (Bodensee) : West Frisian (Grou) : "rain",(phonalign_412.msa/Germanic)
+ʁ;eɐ̯;ɡ;ə;-
+r;ɒɪ̯;-;-;n
+===  [ʁ;eɐ̯;ɡ;ə;-]
+===  [r;-;-;ɒɪ̯;n]
+§_High German (Tuebingen) : Central German (Cologne) : "rain",(phonalign_412.msa/Germanic)
+ʁ;eə̯;ɡ;ə;-
+ʀ;ɛ;-;-;n
+===  [ʁ;eə̯;ɡ;ə]
+===  [ʀ;ɛ;n;-]
+§_Canadian English : High German (Bodensee) : "rain",(phonalign_412.msa/Germanic)
+ɹ;eɪ̯;-;-;n
+ʁ;eɐ̯;ɡ;ə;-
+===  [ɹ;eɪ̯;n;-]
+===  [ʁ;eɐ̯;ɡ;ə]
+§_High German (Graubuenden) : Swedish (Stockholm) : "toe",(phonalign_414.msa/Germanic)
+ʦ;eː;b;ɐ
+tʰ;oː;-;-
+===  [ʦ;eː;b;ɐ]
+===  [tʰ;-;-;oː]
+§_High German (Graubuenden) : Indian English (Delhi) : "toe",(phonalign_414.msa/Germanic)
+ʦ;eː;b;ɐ
+t;oː;-;-
+===  [ʦ;eː;b;ɐ]
+===  [t;-;-;oː]
+§_Scottish : West Frisian (Grou) : "calf",(phonalign_415.msa/Germanic)
+kʰ;aː;-;f
+k;ɪ͜iə̯;lˤ;-
+===  [kʰ;aː;f]
+===  [k;ɪ͜iə̯;lˤ]
+§_Low German (Achterhoek) : High German (Walser) : "green",(phonalign_416.msa/Germanic)
+χ;-;øː;n
+ɡ;r;yɛ̯;-
+===  [χ;øː;n;-]
+===  [ɡ;-;r;yɛ̯]
+§_Dutch (Ostend) : Central German (Murrhardt) : "green",(phonalign_416.msa/Germanic)
+h;ɾ;uə̯;n;ə
+ɡ;ʁ;eə̯~;-;-
+===  [h;ɾ;uə̯;n;ə]
+===  [ɡ;ʁ;-;-;eə̯~]
+§_Swedish (Skane) : Central German (Honigberg) : "mid",(phonalign_417.msa/Germanic)
+m;ɪ;tʰ;-;-;-
+m;a;t;ə;l;tʰ
+===  [m;ɪ;-;-;-;tʰ]
+===  [m;a;t;ə;l;tʰ]
+§_Faroese : Central German (Honigberg) : "mid",(phonalign_417.msa/Germanic)
+m;ɪ;tːʰ;-;-;-
+m;a;t;ə;l;tʰ
+===  [m;ɪ;-;-;-;tːʰ]
+===  [m;a;t;ə;l;tʰ]
+§_New Zealand English (Auckland) : Central German (Honigberg) : "mid",(phonalign_417.msa/Germanic)
+m;ə;d;-;-;-
+m;a;t;ə;l;tʰ
+===  [m;-;-;ə;-;d]
+===  [m;a;t;ə;l;tʰ]
+§_Central German (Honigberg) : Icelandic : "tongue",(phonalign_419.msa/Germanic)
+ʦ;aː;-;-;-
+tʰ;ʊ;ŋ;k;a
+===  [ʦ;-;-;-;aː]
+===  [tʰ;ʊ;ŋ;k;a]
+§_Central German (Honigberg) : Swedish (Skane) : "tongue",(phonalign_419.msa/Germanic)
+ʦ;aː;-;-
+tʰ;øʏ̯;ŋ;j͜ɐ
+===  [ʦ;-;-;aː]
+===  [tʰ;øʏ̯;ŋ;j͜ɐ]
+§_Low German (Achterhoek) : Central German (Honigberg) : "tongue",(phonalign_419.msa/Germanic)
+tʰ;ʊ;ŋ;ə
+ʦ;aː;-;-
+===  [tʰ;ʊ;ŋ;ə]
+===  [ʦ;-;-;aː]
+§_Central German (Honigberg) : West Frisian (Grou) : "tongue",(phonalign_419.msa/Germanic)
+ʦ;aː;-;-
+t;ɔ;ŋ;ə
+===  [ʦ;-;-;aː]
+===  [t;ɔ;ŋ;ə]
+§_Central German (Honigberg) : Dutch (Ostend) : "tongue",(phonalign_419.msa/Germanic)
+ʦ;aː;-;-
+t;ʊ;ŋ;ə
+===  [ʦ;-;-;aː]
+===  [t;ʊ;ŋ;ə]
+§_Central German (Murrhardt) : English (Tyrone) : "hand",(phonalign_421.msa/Germanic)
+h;ɒː~;-;t
+h;ɑː;n;-
+===  [h;ɒː~;t]
+===  [h;ɑː;n]
+§_Norwegian (Stavanger) : Central German (Murrhardt) : "hand",(phonalign_421.msa/Germanic)
+h;ɔ;n;-
+h;ɒː~;-;t
+===  [h;ɔ;n]
+===  [h;ɒː~;t]
+§_High German (North Alsace) : Icelandic : "milk",(phonalign_422.msa/Germanic)
+m;ɪ;l;ɪ;ʃ
+m;j͜ɔ;ɬ;-;k
+===  [m;ɪ;l;ɪ;ʃ;-, m;ɪ;l;ɪ;ʃ;-]
+===  [m;j͜ɔ;-;-;ɬ;k, m;-;-;j͜ɔ;ɬ;k]
+§_Icelandic : Central German (Luxembourg) : "milk",(phonalign_422.msa/Germanic)
+m;j͜ɔ;ɬ;-;k
+m;ɨ;l;ɪ;ʃ
+===  [m;j͜ɔ;-;-;ɬ;k]
+===  [m;ɨ;l;ɪ;ʃ;-]
+§_Central German (Cologne) : Icelandic : "milk",(phonalign_422.msa/Germanic)
+m;ɪ;l;ə;ʃ
+m;j͜ɔ;ɬ;-;k
+===  [m;ɪ;l;ə;ʃ;-]
+===  [m;-;-;j͜ɔ;ɬ;k]
+§_English (Liverpool : Dutch (Ostend) : "right",(phonalign_423.msa/Germanic)
+ɹ;aɪ̯;-;θ
+r;a;h;t
+===  [ɹ;aɪ̯;θ;-]
+===  [r;a;h;t]
+§_Australian English (Perth) : High German (Biel) : "tooth",(phonalign_425.msa/Germanic)
+tʰ;y;-;θ
+ʦ;ɑː;n;-
+===  [tʰ;y;θ]
+===  [ʦ;ɑː;n]
+§_Indian English (Delhi) : High German (Herrlisheim) : "tooth",(phonalign_425.msa/Germanic)
+t;u;-;t͡θ
+ʦ;aː;n;-
+===  [t;u;t͡θ]
+===  [ʦ;aː;n]
+§_Canadian English : High German (Biel) : "tooth",(phonalign_425.msa/Germanic)
+tʰ;ɵʊ̯;-;θ
+ʦ;ɑː;n;-
+===  [tʰ;ɵʊ̯;θ]
+===  [ʦ;ɑː;n]
+§_Indian English (Delhi) : Yiddish (New York) : "tooth",(phonalign_425.msa/Germanic)
+t;u;-;t͡θ
+ʦ;ɔ;n;-
+===  [t;u;t͡θ]
+===  [ʦ;ɔ;n]
+§_High German (Herrlisheim) : Nigerian English (Igbo) : "tooth",(phonalign_425.msa/Germanic)
+ʦ;aː;n;-
+tʰ;u;-;θ
+===  [ʦ;aː;n]
+===  [tʰ;u;θ]
+§_High German (North Alsace) : Scottish : "tooth",(phonalign_425.msa/Germanic)
+ʦ;aː;n;-
+tʰ;ʉ;-;θ
+===  [ʦ;aː;n]
+===  [tʰ;ʉ;θ]
+§_High German (Ortisei) : Dutch (Antwerp) : "corn",(phonalign_426.msa/Germanic)
+kʰ;ɔ;ʁ;-;n
+k;oː;r;ə;-
+===  [kʰ;ɔ;ʁ;n;-]
+===  [k;oː;-;r;ə]
+§_Low German (Bargstedt) : Dutch (Limburg) : "corn",(phonalign_426.msa/Germanic)
+kʰ;uɐ̯;-;n
+k;oɐ̯;ʁ;-
+===  [kʰ;uɐ̯;n]
+===  [k;oɐ̯;ʁ]
+§_English (Tyrone) : Dutch (Ostend) : "corn",(phonalign_426.msa/Germanic)
+kʰ;ɔ;ə˞;n
+k;ɔː;r;n
+===  [kʰ;ɔ;ə˞;-;n]
+===  [k;-;ɔː;r;n]
+§_Nigerian English (Igbo) : Dutch (Limburg) : "corn",(phonalign_426.msa/Germanic)
+kʰ;ɔː;-;n
+k;oɐ̯;ʁ;-
+===  [kʰ;ɔː;n]
+===  [k;oɐ̯;ʁ]
+§_Dutch (Ostend) : Swedish (Skane) : "head",(phonalign_427.msa/Germanic)
+-;oː;f;t
+h;ø͜ʊə̯;-;-
+===  [oː;f;t;-]
+===  [-;h;-;ø]
+§_Norwegian (Stavanger) : Icelandic : "head",(phonalign_427.msa/Germanic)
+h;oː;-;-;d;ə
+h;øː;v;ə;θ;-
+===  [h;oː;d;ə;-]
+===  [h;øː;v;ə;θ]
+§_English (Liverpool : Swedish (Stockholm) : "head",(phonalign_427.msa/Germanic)
+h;ɛ;-;-;ð
+h;ʉː;v;ʉ;d
+===  [h;-;-;ɛ;ð]
+===  [h;ʉː;v;ʉ;d]
+§_Canadian English : Icelandic : "head",(phonalign_427.msa/Germanic)
+h;ɛ;-;-;d
+h;øː;v;ə;θ
+===  [h;-;-;ɛ;d]
+===  [h;øː;v;ə;θ]
+§_Central German (Cologne) : Swedish (Stockholm) : "head",(phonalign_427.msa/Germanic)
+h;ɔʊ̯;p;-;-
+h;ʉː;v;ʉ;d
+===  [h;-;-;ɔʊ̯;p]
+===  [h;ʉː;v;ʉ;d]
+§_Central German (Cologne) : Norwegian (Stavanger) : "moon",(phonalign_428.msa/Germanic)
+m;ɔ~;-;-;t
+m;oə̯;n;ə;-
+===  [m;ɔ~;t;-]
+===  [m;oə̯;n;ə]
+§_Central German (Cologne) : Dutch (Ostend) : "moon",(phonalign_428.msa/Germanic)
+m;ɔ~;-;-;t
+m;ɔː;n;ə;-
+===  [m;ɔ~;t;-]
+===  [m;ɔː;n;ə]
+§_Danish : Central German (Cologne) : "moon",(phonalign_428.msa/Germanic)
+m;uː;n;ə;-
+m;ɔ~;-;-;t
+===  [m;uː;n;ə]
+===  [m;ɔ~;t;-]
+§_High German (Walser) : Central German (Cologne) : "moon",(phonalign_428.msa/Germanic)
+m;aː;n;a;-
+m;ɔ~;-;-;t
+===  [m;aː;n;a]
+===  [m;ɔ~;t;-]
+§_Faroese : Central German (Cologne) : "moon",(phonalign_428.msa/Germanic)
+m;ɑː;n;ə;-
+m;ɔ~;-;-;t
+===  [m;ɑː;n;ə]
+===  [m;ɔ~;t;-]
+§_Central German (Cologne) : West Frisian (Grou) : "moon",(phonalign_428.msa/Germanic)
+m;ɔ~;-;-;t
+m;ua̯;n;ə;-
+===  [m;ɔ~;t;-]
+===  [m;ua̯;n;ə]
+§_Central German (Cologne) : Swedish (Skane) : "moon",(phonalign_428.msa/Germanic)
+m;ɔ~;-;-;t
+m;aʉ̯;n;ə;-
+===  [m;ɔ~;t;-]
+===  [m;aʉ̯;n;ə]
+§_Central German (Cologne) : Icelandic : "moon",(phonalign_428.msa/Germanic)
+m;ɔ~;-;-;t
+m;ɑʊ̯;n;e;-
+===  [m;ɔ~;t;-]
+===  [m;ɑʊ̯;n;e]
+§_Central German (Cologne) : High German (North Alsace) : "moon",(phonalign_428.msa/Germanic)
+m;ɔ~;-;t
+m;oː;n;-
+===  [m;ɔ~;t]
+===  [m;oː;n]
+§_Dutch (Ostend) : English (North Carolina) : "to hear",(phonalign_432.msa/Germanic)
+-;ɔː;s
+h;i;ɹ
+===  [ɔː;s;-;-]
+===  [-;h;i;ɹ]
+§_High German (Biel) : Dutch (Antwerp) : "to hear",(phonalign_432.msa/Germanic)
+h;ɛɪ̯;r;a
+-;oə̯;s;-
+===  [-;h;ɛɪ̯;r;a]
+===  [oə̯;s;-;-;-]
+§_Dutch (Antwerp) : Canadian English : "to hear",(phonalign_432.msa/Germanic)
+-;oə̯;s
+h;i;ɹ
+===  [oə̯;s;-;-]
+===  [-;h;i;ɹ]
+§_Swedish (Skane) : Central German (Honigberg) : "ash",(phonalign_435.msa/Germanic)
+-;a;s;k;ə
+ʔ;æ͜iə̯;ʃ;-;-
+===  [a;s;k;ə;-]
+===  [-;-;ʔ;æ͜iə̯;ʃ]
+§_Central German (Honigberg) : Scottish : "two",(phonalign_436.msa/Germanic)
+ʦ;p;æj̯;ə
+tʰ;-;ʉː;-
+===  [ʦ;p;æj̯;ə]
+===  [tʰ;-;-;ʉː]
+§_English (Liverpool : Icelandic : "heart",(phonalign_438.msa/Germanic)
+h;ɑː;-;θ;-
+hʲ;a;s;t;a
+===  [h;ɑː;θ;-;-]
+===  [hʲ;a;s;t;a]
+§_Dutch (Antwerp) : Faroese : "warm",(phonalign_441.msa/Germanic)
+β;aː;ɾ;ə;m;-;-
+v;a;ɹ;-;m;ʌ;ɹ
+===  [β;aː;ɾ;-;ə;m]
+===  [v;a;ɹ;m;ʌ;ɹ]
+§_Faroese : English (Buckie) : "warm",(phonalign_441.msa/Germanic)
+v;a;ɹ;-;m;ʌ;ɹ
+w;ɑ;ɾ;ə;m;-;-
+===  [v;a;ɹ;m;ʌ;ɹ]
+===  [w;ɑ;ɾ;-;ə;m]
+§_Central German (Cologne) : Faroese : "warm",(phonalign_441.msa/Germanic)
+β;ɛ;ʁ;ə;m;-;-
+v;a;ɹ;-;m;ʌ;ɹ
+===  [β;ɛ;ʁ;-;ə;m]
+===  [v;a;ɹ;m;ʌ;ɹ]
+§_Faroese : English (Lindisfarne) : "warm",(phonalign_441.msa/Germanic)
+v;a;ɹ;-;m;ʌ;ɹ
+w;ɒ;ʁ;ɪ;m;-;-
+===  [v;a;ɹ;m;ʌ;ɹ]
+===  [w;ɒ;ʁ;-;ɪ;m]
+§_American English : West Frisian (Grou) : "mouth",(phonalign_444.msa/Germanic)
+m;æʊ̯;-;θ;-
+m;ʊ;ŋ;-;ə
+===  [m;-;-;æʊ̯;θ]
+===  [m;ʊ;ŋ;ə;-]
+§_English : West Frisian (Grou) : "mouth",(phonalign_444.msa/Germanic)
+m;aʊ̯;-;θ;-
+m;ʊ;ŋ;-;ə
+===  [m;-;-;aʊ̯;θ]
+===  [m;ʊ;ŋ;ə;-]
+§_West Frisian (Grou) : Indian English (Delhi) : "mouth",(phonalign_444.msa/Germanic)
+m;ʊ;ŋ;-;ə
+m;ɑʊ̯;-;θ;-
+===  [m;ʊ;ŋ;ə]
+===  [m;ɑʊ̯;θ;-]
+§_West Frisian (Grou) : Canadian English : "mouth",(phonalign_444.msa/Germanic)
+m;ʊ;ŋ;-;ə
+m;ʌʊ̯;-;θ;-
+===  [m;ʊ;ŋ;ə]
+===  [m;ʌʊ̯;θ;-]
+§_Scottish : West Frisian (Grou) : "mouth",(phonalign_444.msa/Germanic)
+m;ʌʉ̯;-;θ;-
+m;ʊ;ŋ;-;ə
+===  [m;ʌʉ̯;θ;-]
+===  [m;ʊ;ŋ;ə]
+§_West Frisian (Grou) : South African English (Johannisburg) : "mouth",(phonalign_444.msa/Germanic)
+m;ʊ;ŋ;-;ə
+m;ao̯;-;θ;-
+===  [m;ʊ;ŋ;ə;-]
+===  [m;-;-;ao̯;θ]
+§_West Frisian (Grou) : English (Singapore) : "mouth",(phonalign_444.msa/Germanic)
+m;ʊ;ŋ;-;ə
+m;ɐʊ̯;-;θ;-
+===  [m;ʊ;ŋ;ə;-]
+===  [m;-;-;ɐʊ̯;θ]
+§_West Frisian (Grou) : English (Lindisfarne) : "mouth",(phonalign_444.msa/Germanic)
+m;ʊ;ŋ;-;ə
+m;u;-;θ;-
+===  [m;ʊ;ŋ;ə]
+===  [m;u;θ;-]
+§_Swedish (Stockholm) : English (Buckie) : "seven",(phonalign_445.msa/Germanic)
+x;ʉ;-;-;-
+s;ɪ;v;ə;n
+===  [-;-;x;ʉ;-]
+===  [s;ɪ;v;ə;n]
+§_Danish : English : "seven",(phonalign_445.msa/Germanic)
+sʲ;ʉ;-;-;-
+s;ɛ;v;ə;n
+===  [sʲ;-;-;ʉ;-]
+===  [s;ɛ;v;ə;n]
+§_Swedish (Stockholm) : English (Buckie) : "nail",(phonalign_450.msa/Germanic)
+n;ɔː;ɡ;ə;l
+n;eə̯;-;-;lˤ
+===  [n;ɔː;ɡ;ə;l]
+===  [n;-;-;eə̯;lˤ]
+§_Danish : High German (Biel) : "nail",(phonalign_450.msa/Germanic)
+n;aɪ̯;-;-;l
+n;ɑ;k;u;-
+===  [n;aɪ̯;l;-]
+===  [n;ɑ;k;u]
+§_Swedish (Stockholm) : English : "nail",(phonalign_450.msa/Germanic)
+n;ɔː;ɡ;ə;l
+n;eɪ̯;-;-;lˤ
+===  [n;ɔː;ɡ;ə;l]
+===  [n;-;-;eɪ̯;lˤ]
+§_Canadian English : High German (Biel) : "nail",(phonalign_450.msa/Germanic)
+n;eə̯;-;-;lˤ
+n;ɑ;k;u;-
+===  [n;eə̯;lˤ;-]
+===  [n;ɑ;k;u]
+§_Indian English (Delhi) : Yiddish (New York) : "nail",(phonalign_450.msa/Germanic)
+n;eː;-;-;l
+n;ɔ;ɡ;ə;lˤ
+===  [n;-;-;eː;l]
+===  [n;ɔ;ɡ;ə;lˤ]
+§_Danish : Swedish (Stockholm) : "nail",(phonalign_450.msa/Germanic)
+n;aɪ̯;-;-;l
+n;ɔː;ɡ;ə;l
+===  [n;-;-;aɪ̯;l]
+===  [n;ɔː;ɡ;ə;l]
+§_Norwegian (Stavanger) : Scottish : "what",(phonalign_452.msa/Germanic)
+kʰ;-;ɑː;-
+-;ʍ;ɔ;tʰ
+===  [kʰ;ɑː;-]
+===  [ʍ;ɔ;tʰ]
+§_Norwegian (Stavanger) : Central German (Cologne) : "what",(phonalign_452.msa/Germanic)
+kʰ;-;ɑː;-
+-;β;a;t
+===  [kʰ;ɑː;-]
+===  [β;a;t]
+§_Belgian Dutch : Norwegian (Stavanger) : "what",(phonalign_452.msa/Germanic)
+-;β;ɑ;t
+kʰ;-;ɑː;-
+===  [β;ɑ;t]
+===  [kʰ;ɑː;-]
+§_Proto-Germanic : Swedish (Stockholm) : "what",(phonalign_452.msa/Germanic)
+x;w;a;t
+-;v;ɔː;d
+===  [x;w;a;t]
+===  [v;-;ɔː;d]
+§_Norwegian (Stavanger) : Central German (Murrhardt) : "what",(phonalign_452.msa/Germanic)
+kʰ;-;ɑː;-
+-;β;a;s
+===  [kʰ;ɑː;-]
+===  [β;a;s]
+§_Low German (Bargstedt) : Icelandic : "ear",(phonalign_453.msa/Germanic)
+ʔ;uə̯;-;-
+-;ɛɪ̯;r;a
+===  [-;ʔ;uə̯]
+===  [ɛɪ̯;r;a]
+§_Central German (Cologne) : Dutch (Antwerp) : "honey",(phonalign_454.msa/Germanic)
+h;ʊ;n;i;-;ʃ
+-;øː;n;ɪ;ŋ;-
+===  [h;ʊ;n;i;ʃ]
+===  [-;øː;n;ɪ;ŋ]
+§_Dutch (Limburg) : High German (Graubuenden) : "honey",(phonalign_454.msa/Germanic)
+-;øə̯;n;ɪ;ŋ;-
+h;o;n;i;-;k
+===  [-;øə̯;n;ɪ;ŋ]
+===  [h;o;n;i;k]
+§_Central German (Honigberg) : Norwegian (Stavanger) : "honey",(phonalign_454.msa/Germanic)
+h;o͜ʊə̯;n;-;-;ʃ
+h;ʊ;nː;ɪ;ŋ;-
+===  [h;o͜ʊə̯;n;-;ʃ]
+===  [h;ʊ;nː;ɪ;ŋ]
+§_High German (Tuebingen) : Norwegian (Stavanger) : "honey",(phonalign_454.msa/Germanic)
+h;oː;n;i;-;ç
+h;ʊ;nː;ɪ;ŋ;-
+===  [h;oː;n;i;ç]
+===  [h;ʊ;nː;ɪ;ŋ]
+§_Central German (Luxembourg) : Dutch (Antwerp) : "honey",(phonalign_454.msa/Germanic)
+h;ʊ;n;ə;-;ʃ
+-;øː;n;ɪ;ŋ;-
+===  [h;ʊ;n;ə;ʃ]
+===  [-;øː;n;ɪ;ŋ]
+§_Norwegian (Stavanger) : High German (Herrlisheim) : "honey",(phonalign_454.msa/Germanic)
+h;ʊ;nː;ɪ;ŋ;-
+h;o;n;i;-;k
+===  [h;ʊ;nː;ɪ;ŋ]
+===  [h;o;n;i;k]
+§_Dutch (Limburg) : Central German (Luxembourg) : "honey",(phonalign_454.msa/Germanic)
+-;øə̯;n;ɪ;ŋ;-
+h;ʊ;n;ə;-;ʃ
+===  [-;øə̯;n;ɪ;ŋ]
+===  [h;ʊ;n;ə;ʃ]
+§_High German (Graubuenden) : Dutch (Antwerp) : "honey",(phonalign_454.msa/Germanic)
+h;o;n;i;-;k
+-;øː;n;ɪ;ŋ;-
+===  [h;o;n;i;k]
+===  [-;øː;n;ɪ;ŋ]
+§_Low German (Achterhoek) : Dutch (Antwerp) : "honey",(phonalign_454.msa/Germanic)
+h;ɔ;n;ʌ;-;χ
+-;øː;n;ɪ;ŋ;-
+===  [h;ɔ;n;ʌ;χ]
+===  [-;øː;n;ɪ;ŋ]
+§_High German (Ortisei) : Dutch (Antwerp) : "honey",(phonalign_454.msa/Germanic)
+h;oː;n;i;-;k
+-;øː;n;ɪ;ŋ;-
+===  [h;oː;n;i;k]
+===  [-;øː;n;ɪ;ŋ]
+§_English (Buckie) : West Frisian (Grou) : "naked",(phonalign_455.msa/Germanic)
+n;j͜ɑ;kʰ;ə;-;tʰ
+n;iə̯;k;-;ŋ;-
+===  [n;j͜ɑ;kʰ;ə;tʰ]
+===  [n;iə̯;k;-;ŋ]
+§_English (Buckie) : High German (Walser) : "naked",(phonalign_455.msa/Germanic)
+n;j͜ɑ;kʰ;ə;-;tʰ
+n;a;k;ɪ;k;-
+===  [n;j͜ɑ;kʰ;ə;tʰ]
+===  [n;a;k;ɪ;k]
+§_English (Buckie) : Faroese : "naked",(phonalign_455.msa/Germanic)
+n;j͜ɑ;kʰ;ə;-;tʰ
+n;ɛa̯;ʧ;ɪ;n;-
+===  [n;j͜ɑ;kʰ;ə;tʰ]
+===  [n;ɛa̯;ʧ;ɪ;n]
+§_English (Buckie) : Norwegian (Stavanger) : "naked",(phonalign_455.msa/Germanic)
+n;j͜ɑ;kʰ;ə;-;tʰ
+n;ɑː;k;ɪ;n;-
+===  [n;j͜ɑ;kʰ;ə;tʰ]
+===  [n;ɑː;k;ɪ;n]
+§_English (Buckie) : Icelandic : "naked",(phonalign_455.msa/Germanic)
+n;j͜ɑ;kʰ;ə;-;tʰ
+n;aː;c;ɪ;n;-
+===  [n;j͜ɑ;kʰ;ə;tʰ]
+===  [n;aː;c;ɪ;n]
+§_High German (Biel) : English (Buckie) : "naked",(phonalign_455.msa/Germanic)
+n;ɒ;k;-;χ;t
+n;j͜ɑ;kʰ;ə;-;tʰ
+===  [n;ɒ;k;χ;-;t]
+===  [n;j͜ɑ;-;kʰ;ə;tʰ]
+§_English (Buckie) : Low German (Bargstedt) : "naked",(phonalign_455.msa/Germanic)
+n;j͜ɑ;kʰ;ə;-;tʰ
+n;a;k;ɪ;ç;-
+===  [n;j͜ɑ;kʰ;ə;tʰ]
+===  [n;a;k;ɪ;ç]
+§_Swedish (Stockholm) : English (Buckie) : "naked",(phonalign_455.msa/Germanic)
+n;ɒː;k;ɛ;n;-
+n;j͜ɑ;kʰ;ə;-;tʰ
+===  [n;ɒː;k;ɛ;n]
+===  [n;j͜ɑ;kʰ;ə;tʰ]
+§_Swedish (Stockholm) : Yiddish (New York) : "naked",(phonalign_455.msa/Germanic)
+n;ɒː;k;ɛ;n;-
+n;a;kʰ;ɪ;-;t
+===  [n;ɒː;k;ɛ;n]
+===  [n;a;kʰ;ɪ;t]
+§_Faroese : Australian English (Perth) : "naked",(phonalign_455.msa/Germanic)
+n;ɛa̯;ʧ;ɪ;n;-
+n;ɛɪ̯;k;ə;-;d
+===  [n;ɛa̯;ʧ;ɪ;n]
+===  [n;ɛɪ̯;k;ə;d]
+§_Swedish (Stockholm) : English (Buckie) : "earth",(phonalign_459.msa/Germanic)
+ʝ;oː;-;d
+-;ɛ;ɾ;θ
+===  [-;ʝ;oː;d]
+===  [ɛ;ɾ;-;θ]
+§_Faroese : Dutch (Ostend) : "horn",(phonalign_460.msa/Germanic)
+h;ɔ;-;-;n
+-;ɔː;ɾ;ə;n
+===  [-;h;ɔ;n]
+===  [ɔː;ɾ;ə;n]
+§_Faroese : Dutch (Antwerp) : "horn",(phonalign_460.msa/Germanic)
+h;ɔ;-;-;n
+-;oː;ɾ;ə;n
+===  [-;h;ɔ;n]
+===  [oː;ɾ;ə;n]
+§_Central German (Luxembourg) : Dutch (Antwerp) : "horn",(phonalign_460.msa/Germanic)
+h;aː;χ;-;-
+-;oː;ɾ;ə;n
+===  [-;h;aː;χ]
+===  [oː;ɾ;ə;n]
+§_Central German (Luxembourg) : Dutch (Ostend) : "horn",(phonalign_460.msa/Germanic)
+h;aː;χ;-;-
+-;ɔː;ɾ;ə;n
+===  [-;h;aː;χ]
+===  [ɔː;ɾ;ə;n]
+§_High German (Graubuenden) : English (Liverpool : "horn",(phonalign_460.msa/Germanic)
+h;oː;ɾ;ə;-
+h;ɔː;-;-;n
+===  [h;oː;ɾ;ə]
+===  [h;ɔː;n;-]
+§_High German (Graubuenden) : New Zealand English (Auckland) : "horn",(phonalign_460.msa/Germanic)
+h;oː;ɾ;ə;-
+h;ɔə̯;-;-;n
+===  [h;oː;ɾ;ə]
+===  [h;ɔə̯;n;-]
+§_English (Lindisfarne) : Faroese : "name",(phonalign_461.msa/Germanic)
+n;j͜ɛː;m;-;-
+n;a;w;ə;n
+===  [n;j͜ɛː;-;-;m]
+===  [n;a;w;ə;n]
+§_High German (Herrlisheim) : Danish : "name",(phonalign_461.msa/Germanic)
+n;ɒ;m;ə;-
+n;aʊ̯;-;-;n
+===  [n;ɒ;m;ə]
+===  [n;aʊ̯;n;-]
+§_English (North Carolina) : Faroese : "name",(phonalign_461.msa/Germanic)
+n;ɛɪ̯;m;-;-
+n;a;w;ə;n
+===  [n;ɛɪ̯;-;-;m]
+===  [n;a;w;ə;n]
+§_Dutch (Antwerp) : Faroese : "name",(phonalign_461.msa/Germanic)
+n;ɑː;m;-;-
+n;a;w;ə;n
+===  [n;-;-;ɑː;m]
+===  [n;a;w;ə;n]
+§_Central German (Cologne) : Norwegian (Stavanger) : "name",(phonalign_461.msa/Germanic)
+n;aː;m;ə;-
+n;a;v;-;n
+===  [n;aː;-;m;ə]
+===  [n;a;v;n;-]
+§_English (Lindisfarne) : Danish : "name",(phonalign_461.msa/Germanic)
+n;j͜ɛː;m;-
+n;aʊ̯;-;n
+===  [n;j͜ɛː;m]
+===  [n;aʊ̯;n]
+§_Belgian Dutch : Faroese : "name",(phonalign_461.msa/Germanic)
+n;aː;m;-;-
+n;a;w;ə;n
+===  [n;aː;-;-;m]
+===  [n;a;w;ə;n]
+§_Faroese : Low German (Bargstedt) : "name",(phonalign_461.msa/Germanic)
+n;a;w;ə;n
+n;oː;m;-;-
+===  [n;a;w;ə;n]
+===  [n;-;-;oː;m]
+§_Canadian English : Faroese : "name",(phonalign_461.msa/Germanic)
+n;eɪ̯;m;-;-
+n;a;w;ə;n
+===  [n;eɪ̯;-;-;m]
+===  [n;a;w;ə;n]
+§_Norwegian (Stavanger) : Central German (Murrhardt) : "wind",(phonalign_463.msa/Germanic)
+v;ɪ;nː;-
+β;ɛ~ː;-;t
+===  [v;ɪ;nː]
+===  [β;ɛ~ː;t]
+§_Low German (Achterhoek) : High German (Walser) : "needle",(phonalign_466.msa/Germanic)
+n;ɔː;-;lˤ;-;d;ə
+n;aː;d;l;ə;-;-
+===  [n;ɔː;lˤ;d;-;ə]
+===  [n;aː;-;d;l;ə]
+§_Proto-Germanic : Low German (Achterhoek) : "needle",(phonalign_466.msa/Germanic)
+n;eː;θ;l;oː;-;-
+n;ɔː;-;lˤ;-;d;ə
+===  [n;eː;θ;l;-;oː]
+===  [n;ɔː;-;lˤ;d;ə]
+§_English (London : Low German (Achterhoek) : "needle",(phonalign_466.msa/Germanic)
+n;ɪi̯;d;ɤ;-;-;-
+n;ɔː;-;-;lˤ;d;ə
+===  [n;ɪi̯;-;d;ɤ]
+===  [n;ɔː;lˤ;d;ə]
+§_English (Singapore) : Low German (Achterhoek) : "needle",(phonalign_466.msa/Germanic)
+n;i;d;ʊ;-;-;-
+n;ɔː;-;-;lˤ;d;ə
+===  [n;i;-;d;ʊ]
+===  [n;ɔː;lˤ;d;ə]
+§_Low German (Achterhoek) : New Zealand English (Auckland) : "needle",(phonalign_466.msa/Germanic)
+n;ɔː;-;-;lˤ;d;ə
+n;ɪi̯;d;ʊ;-;-;-
+===  [n;ɔː;lˤ;d;ə]
+===  [n;ɪi̯;-;d;ʊ]
+§_High German (Biel) : Low German (Achterhoek) : "needle",(phonalign_466.msa/Germanic)
+n;ɑː;d;ʊ;-;-;-
+n;ɔː;-;-;lˤ;d;ə
+===  [n;ɑː;-;d;ʊ]
+===  [n;ɔː;lˤ;d;ə]
+§_Low German (Achterhoek) : German : "needle",(phonalign_466.msa/Germanic)
+n;ɔː;-;-;lˤ;d;ə
+n;aː;d;ə;l;-;-
+===  [n;ɔː;lˤ;d;ə;-]
+===  [n;aː;-;d;ə;l]
+§_Dutch (Ostend) : Low German (Achterhoek) : "needle",(phonalign_466.msa/Germanic)
+n;ɑɔ̯;d;lˤ;-;-
+n;ɔː;-;lˤ;d;ə
+===  [n;ɑɔ̯;-;d;l;-, n;ɑɔ̯;-;d;lˤ;-]
+===  [n;ɔː;lˤ;d;-;ə, n;ɔː;lˤ;d;-;ə]
+§_Dutch (Limburg) : Scottish : "needle",(phonalign_466.msa/Germanic)
+n;ɔ;-;-;l;t
+n;i;d;ə;lˤ;-
+===  [n;-;-;ɔ;l;t]
+===  [n;i;d;ə;lˤ;-]
+§_English (North Carolina) : High German (Biel) : "one",(phonalign_468.msa/Germanic)
+w͜ɜː;n;-
+ɛɪ̯;-;s
+===  [w͜ɜː;n]
+===  [ɛɪ̯;s]
+§_Australian English (Perth) : High German (Biel) : "one",(phonalign_468.msa/Germanic)
+w͜ɐ;n;-
+ɛɪ̯;-;s
+===  [w͜ɐ;n]
+===  [ɛɪ̯;s]
+§_Low German (Achterhoek) : High German (Walser) : "one",(phonalign_468.msa/Germanic)
+-;eː;n;-
+ʔ;æɪ̯;-;s
+===  [-;eː;n]
+===  [ʔ;æɪ̯;s]
+§_Belgian Dutch : Central German (Murrhardt) : "one",(phonalign_468.msa/Germanic)
+-;eː;n;-
+ʔ;ɔe̯;-;s
+===  [-;eː;n]
+===  [ʔ;ɔe̯;s]
+§_Canadian English : High German (Biel) : "one",(phonalign_468.msa/Germanic)
+w͜ʌ;n;-
+ɛɪ̯;-;s
+===  [w͜ʌ;n]
+===  [ɛɪ̯;s]
+§_Nigerian English (Igbo) : High German (Walser) : "one",(phonalign_468.msa/Germanic)
+w;ɔ;n;-
+ʔ;æɪ̯;-;s
+===  [w;ɔ;n]
+===  [ʔ;æɪ̯;s]
+§_Swedish (Skane) : High German (Bodensee) : "one",(phonalign_468.msa/Germanic)
+-;æɪ̯;n;-
+ʔ;oɛ̯~;-;s
+===  [-;æɪ̯;n]
+===  [ʔ;oɛ̯~;s]
+§_Central German (Honigberg) : Icelandic : "wool",(phonalign_469.msa/Germanic)
+v;ɒ;lˤ
+-;ʏ;ɬ
+===  [-;v;ɒ;lˤ]
+===  [ʏ;ɬ;-;-]
+§_Low German (Bargstedt) : Icelandic : "wool",(phonalign_469.msa/Germanic)
+v;ʊ;l
+-;ʏ;ɬ
+===  [-;v;ʊ;l]
+===  [ʏ;ɬ;-;-]
+§_High German (Graubuenden) : English (Liverpool : "eight",(phonalign_470.msa/Germanic)
+ʔ;a;χ;t
+-;eɪ̯;-;θ
+===  [ʔ;a;χ;t]
+===  [-;eɪ̯;θ;-]
+§_English (Liverpool : Dutch (Ostend) : "new",(phonalign_472.msa/Germanic)
+n;j͜ʉː;-;-
+n;iː;β;ə
+===  [n;-;-;j͜ʉː]
+===  [n;iː;β;ə]
+§_Dutch (Ostend) : English (London : "new",(phonalign_472.msa/Germanic)
+n;iː;β;ə
+n;j͜ʉ;-;-
+===  [n;iː;β;ə]
+===  [n;-;-;j͜ʉ]
+§_English (Liverpool : Central German (Honigberg) : "new",(phonalign_472.msa/Germanic)
+n;j͜ʉː;-
+n;ɑw̯;əɪ̯
+===  [n;-;j͜ʉː]
+===  [n;ɑw̯;əɪ̯]
+§_Dutch (Ostend) : English (Lindisfarne) : "new",(phonalign_472.msa/Germanic)
+n;iː;β;ə
+n;j͜uː;-;-
+===  [n;iː;β;ə]
+===  [n;-;-;j͜uː]
+§_Central German (Honigberg) : Canadian English : "new",(phonalign_472.msa/Germanic)
+n;ɑw̯;əɪ̯
+n;j͜ɵu̯;-
+===  [n;ɑw̯;əɪ̯]
+===  [n;-;j͜ɵu̯]
+§_Central German (Honigberg) : English (London : "new",(phonalign_472.msa/Germanic)
+n;ɑw̯;əɪ̯
+n;j͜ʉ;-
+===  [n;ɑw̯;əɪ̯]
+===  [n;-;j͜ʉ]
+§_Dutch (Ostend) : Canadian English : "new",(phonalign_472.msa/Germanic)
+n;iː;β;ə
+n;j͜ɵu̯;-;-
+===  [n;iː;β;ə]
+===  [n;-;-;j͜ɵu̯]
+§_English (Singapore) : Dutch (Ostend) : "new",(phonalign_472.msa/Germanic)
+n;j͜u;-;-
+n;iː;β;ə
+===  [n;-;-;j͜u]
+===  [n;iː;β;ə]
+§_Australian English (Perth) : Central German (Honigberg) : "new",(phonalign_472.msa/Germanic)
+n;j͜ʏy̯;-
+n;ɑw̯;əɪ̯
+===  [n;-;j͜ʏy̯]
+===  [n;ɑw̯;əɪ̯]
+§_Low German (Bargstedt) : Icelandic : "word",(phonalign_474.msa/Germanic)
+v;uɐ̯;t
+ɔ;r;θ
+===  [v;uɐ̯;-;t]
+===  [-;ɔ;r;θ]
+§_Icelandic : Belgian Dutch : "word",(phonalign_474.msa/Germanic)
+ɔ;r;-;θ
+β;ɔː;r;t
+===  [-;ɔ;r;θ]
+===  [β;ɔː;r;t]
+§_Central German (Luxembourg) : Low German (Achterhoek) : "eye",(phonalign_475.msa/Germanic)
+ʔ;aː;-;-
+-;oː;ʁ;ə
+===  [-;ʔ;aː]
+===  [oː;ʁ;ə]
+§_Dutch (Limburg) : Dutch (Antwerp) : "hundred",(phonalign_476.msa/Germanic)
+h;oə̯;-;-;-;-;t
+-;ʌ;n;d;ə;s;tʰ
+===  [-;-;h;oə̯;-;t]
+===  [ʌ;n;d;ə;s;tʰ]
+§_New Zealand English (Auckland) : Dutch (Antwerp) : "hundred",(phonalign_476.msa/Germanic)
+h;ɜ;n;ʣ;-;ɹ;ə;d
+-;ʌ;n;d;ə;s;-;tʰ
+===  [h;ɜ;n;ʣ;ɹ;ə;-;d]
+===  [-;ʌ;n;d;-;ə;s;tʰ]
+§_Indian English (Delhi) : Dutch (Antwerp) : "hundred",(phonalign_476.msa/Germanic)
+h;ɜ;n;ʣ;-;-;ə;d
+-;ʌ;n;d;ə;s;-;tʰ
+===  [h;ɜ;n;ʣ;ə;-;d]
+===  [-;ʌ;n;d;ə;s;tʰ]
+§_Danish : Dutch (Antwerp) : "hundred",(phonalign_476.msa/Germanic)
+h;ʊ;n;-;-;ʁ;œː;-
+-;ʌ;n;d;ə;s;-;tʰ
+===  [h;ʊ;n;ʁ;œː;-;-]
+===  [-;ʌ;n;d;ə;s;tʰ]
+§_Faroese : Dutch (Antwerp) : "hundred",(phonalign_476.msa/Germanic)
+h;ʊ;n;t;-;ɹ;a;-
+-;ʌ;n;d;ə;s;-;tʰ
+===  [h;ʊ;n;t;ɹ;a;-;-]
+===  [-;ʌ;n;d;-;ə;s;tʰ]
+§_South African English (Johannisburg) : Dutch (Limburg) : "hundred",(phonalign_476.msa/Germanic)
+h;ɜ;n;d;ɹ;ə;d
+h;oə̯;-;-;-;-;t
+===  [h;ɜ;n;d;ɹ;ə;d, h;ɜ;n;d;ɹ;ə;d]
+===  [h;oə̯;-;t;-;-;-, h;-;-;-;-;oə̯;t]
+§_English : Dutch (Limburg) : "hundred",(phonalign_476.msa/Germanic)
+h;ɐ;n;d;ɹ;ə;d
+h;oə̯;-;-;-;-;t
+===  [h;ɐ;n;d;ɹ;ə;d]
+===  [h;-;-;-;-;oə̯;t]
+§_Dutch (Ostend) : Indian English (Delhi) : "hundred",(phonalign_476.msa/Germanic)
+-;ʊ;n;d;r;-;t
+h;ɜ;n;ʣ;-;ə;d
+===  [-;ʊ;n;d;r;-;t]
+===  [h;ɜ;n;-;ʣ;ə;d]
+§_South African English (Johannisburg) : Dutch (Limburg) : "night",(phonalign_477.msa/Germanic)
+n;aɛ̯;-;tʰ
+n;a;x;-
+===  [n;aɛ̯;tʰ]
+===  [n;a;x]
+§_Low German (Bargstedt) : Icelandic : "night",(phonalign_477.msa/Germanic)
+n;a;χ;-
+n;ɔʊ̯;-;tʰ
+===  [n;a;χ]
+===  [n;ɔʊ̯;tʰ]
+§_Norwegian (Stavanger) : Central German (Cologne) : "night",(phonalign_477.msa/Germanic)
+n;a;-;tʰ
+n;aː;χ;-
+===  [n;a;tʰ]
+===  [n;aː;χ]
+§_Low German (Achterhoek) : English (Singapore) : "night",(phonalign_477.msa/Germanic)
+n;a;χ;-
+n;ɐɪ̯;-;t
+===  [n;a;χ]
+===  [n;ɐɪ̯;t]
+§_Low German (Bargstedt) : English : "night",(phonalign_477.msa/Germanic)
+n;a;χ;-
+n;aɪ̯;-;tʰ
+===  [n;a;χ]
+===  [n;aɪ̯;tʰ]
+§_Shuri : Kagoshima : "tongue",(phonalign_480.msa/Japanese)
+ʃ;i;-;-;b;a
+s;i;t;a;-;-
+===  [ʃ;i;b;a]
+===  [s;i;t;a]
+§_Amami : Tokyo : "tongue",(phonalign_480.msa/Japanese)
+s;ɨ;-;-;b;a
+s;i;t;a;-;-
+===  [s;ɨ;b;a]
+===  [s;i;t;a]
+§_Oki : Shuri : "tongue",(phonalign_480.msa/Japanese)
+-;-;b;e;r;o
+ʃ;i;b;a;-;-
+===  [b;e;r;o]
+===  [ʃ;i;b;a]
+§_Oki : Amami : "tongue",(phonalign_480.msa/Japanese)
+-;-;b;e;r;o
+s;ɨ;b;a;-;-
+===  [b;e;r;o]
+===  [s;ɨ;b;a]
+§_Sado : Amami : "tongue",(phonalign_480.msa/Japanese)
+s;i;t;a;b;e;r;a
+s;ɨ;-;-;b;a;-;-
+===  [s;i;t;a;b;e;r;a]
+===  [s;ɨ;-;-;b;-;-;a]
+§_Sado : Shuri : "tongue",(phonalign_480.msa/Japanese)
+s;i;t;a;b;e;r;a
+ʃ;i;-;-;b;a;-;-
+===  [s;i;t;a;b;e;r;a]
+===  [ʃ;i;-;-;b;-;-;a]
+§_Amami : Miyako : "tongue",(phonalign_480.msa/Japanese)
+s;ɨ;-;-;b;a
+s;ɨ;t;a;-;-
+===  [s;ɨ;b;a]
+===  [s;ɨ;t;a]
+§_Shuri : Kagoshima : "drink",(phonalign_485.msa/Japanese)
+n;u;n;u;ɴ
+n;o;ɴ;-;-
+===  [n;u;n;u;ɴ, n;u;n;u;ɴ]
+===  [-;-;n;o;ɴ, n;o;-;-;ɴ]
+§_Shuri : Miyako : "drink",(phonalign_485.msa/Japanese)
+n;u;n;u;ɴ
+n;u;m;-;-
+===  [n;u;n;u;ɴ, n;u;n;u;ɴ]
+===  [-;-;n;u;m, n;u;-;-;m]
+§_Shuri : Amami : "bite",(phonalign_486.msa/Japanese)
+k;uː;j;u;ɴ;-;-;-;-;-
+k;ui̯;ʦ;ɨ;k;ɨ;r;u;r;i
+===  [k;uː;-;-;j;-;-;u;ɴ;-]
+===  [k;ui̯;ʦ;ɨ;k;ɨ;r;u;r;i]
+§_Kōchi : Amami : "bite",(phonalign_486.msa/Japanese)
+k;ui̯;t;u;k;u;-;-;-;-
+k;ui̯;ʦ;ɨ;k;ɨ;r;u;r;i
+===  [k;ui̯;t;u;k;-;-;u;-;-]
+===  [k;ui̯;ʦ;ɨ;k;ɨ;r;u;r;i]
+§_Kōchi : Shuri : "bite",(phonalign_486.msa/Japanese)
+k;ui̯;t;u;k;u
+k;uː;j;u;ɴ;-
+===  [k;ui̯;t;u;k;u;-, k;ui̯;t;u;k;u;-]
+===  [k;uː;-;-;j;u;ɴ, k;-;-;uː;j;u;ɴ]
+§_Shuri : Hachijō : "bite",(phonalign_486.msa/Japanese)
+k;uː;j;u;ɴ;-
+k;ui̯;ʦ;u;k;u
+===  [k;uː;-;-;j;u;ɴ, k;-;-;uː;j;u;ɴ]
+===  [k;ui̯;ʦ;u;k;u;-, k;ui̯;ʦ;u;k;u;-]
+§_Hachijō : Amami : "bite",(phonalign_486.msa/Japanese)
+k;ui̯;ʦ;u;k;u;-;-;-;-
+k;ui̯;ʦ;ɨ;k;ɨ;r;u;r;i
+===  [k;ui̯;ʦ;u;k;-;-;u;-;-]
+===  [k;ui̯;ʦ;ɨ;k;ɨ;r;u;r;i]
+§_Kagoshima : Kyoto : "know",(phonalign_489.msa/Japanese)
+s;iː;ʨ;o;-;-
+s;i;tː;e;r;u
+===  [s;iː;ʨ;-;-;o]
+===  [s;i;tː;e;r;u]
+§_Kōchi : Miyako : "know",(phonalign_489.msa/Japanese)
+s;i;tː;j͜uː
+s;ɨː;-;-
+===  [s;i;tː;j͜uː]
+===  [s;-;-;ɨː]
+§_Amami : Kagoshima : "kill",(phonalign_490.msa/Japanese)
+-;x;u;-;-;sː;u;r;i
+u;kː;o;r;o;s;-;-;-
+===  [x;u;sː;u;r;i;-]
+===  [-;u;kː;o;r;o;s]
+§_Amami : Miyako : "kill",(phonalign_490.msa/Japanese)
+x;u;-;-;sː;u;r;i
+k;u;r;u;s;ɨ;-;-
+===  [x;u;sː;u;r;-;-;i, x;u;sː;u;r;-;-;i]
+===  [k;u;-;-;r;u;s;ɨ, k;-;-;u;r;u;s;ɨ]
+§_Oki : Miyako : "all",(phonalign_493.msa/Japanese)
+-;ɴː;n;a
+mː;-;n;a
+===  [ɴː;n;a]
+===  [mː;n;a]
+§_Miyako : Shuri : "all",(phonalign_493.msa/Japanese)
+mː;-;n;a
+-;ɴ;n;a
+===  [mː;n;a]
+===  [ɴ;n;a]
+§_Kagoshima : Hachijō : "one",(phonalign_494.msa/Japanese)
+h;i;t;o;-;i
+-;-;t;eː;ʦ;u
+===  [h;i;t;o;i]
+===  [t;eː;ʦ;u;-]
+§_Kagoshima : Amami : "one",(phonalign_494.msa/Japanese)
+h;i;t;o;-;i
+-;-;t;ɨː;ʦ;ɨ
+===  [h;i;t;o;i]
+===  [t;ɨː;ʦ;-;ɨ]
+§_Kagoshima : Amami : "two",(phonalign_495.msa/Japanese)
+h;u;t;a;-;i
+-;-;t;aː;ʦ;ɨ
+===  [h;u;t;a;i]
+===  [t;aː;ʦ;-;ɨ]
+§_Shuri : Kagoshima : "two",(phonalign_495.msa/Japanese)
+-;-;t;aː;ɕ;i
+h;u;t;a;-;i
+===  [t;aː;ɕ;-;i]
+===  [h;u;t;a;i]
+§_Amami : Oki : "long",(phonalign_497.msa/Japanese)
+n;a;g;a;s;a;r;i
+n;a;ŋ;eː;-;-;-;-
+===  [n;a;g;a;s;a;r;i, n;a;g;a;s;a;r;i]
+===  [n;a;-;-;-;-;ŋ;eː, n;-;-;-;-;a;ŋ;eː]
+§_Oki : Shuri : "long",(phonalign_497.msa/Japanese)
+n;a;ŋ;eː;-;-;-
+n;a;g;a;s;a;ɴ
+===  [n;a;-;-;-;-;ŋ;eː, n;-;-;-;-;a;ŋ;eː]
+===  [n;a;g;a;s;a;ɴ;-, n;a;g;a;s;a;ɴ;-]
+§_Amami : Kagoshima : "long",(phonalign_497.msa/Japanese)
+n;a;g;a;s;a;r;i
+n;a;g;e;-;-;-;-
+===  [n;a;g;a;s;a;r;i]
+===  [n;a;g;-;-;-;-;e]
+§_Tokyo : Shuri : "long",(phonalign_497.msa/Japanese)
+n;a;ŋ;a;-;-;-;i
+n;a;g;a;s;a;ɴ;-
+===  [n;a;ŋ;a;-;i;-]
+===  [n;a;g;a;s;a;ɴ]
+§_Hachijō : Tokyo : "long",(phonalign_497.msa/Japanese)
+n;a;g;a;kʲ;a;-
+n;a;ŋ;a;-;-;i
+===  [n;a;g;a;kʲ;a]
+===  [n;a;ŋ;a;-;i]
+§_Shuri : Sado : "woman",(phonalign_498.msa/Japanese)
+w͜i;n;-;a;g;u
+o;ɴ;n;-;-;a
+===  [w͜i;-;n;a;g;u]
+===  [o;ɴ;n;a;-;-]
+§_Kyoto : Sado : "woman",(phonalign_498.msa/Japanese)
+o;n;-;a;ŋ;o
+o;ɴ;n;-;-;a
+===  [o;n;a;ŋ;o]
+===  [o;ɴ;-;n;a]
+§_Sado : Kagoshima : "woman",(phonalign_498.msa/Japanese)
+o;ɴ;n;-;-;a
+o;n;-;a;g;o
+===  [o;ɴ;n;a;-;-]
+===  [o;-;n;a;g;o]
+§_Amami : Tokyo : "woman",(phonalign_498.msa/Japanese)
+o;n;-;a;g;u
+o;ɴ;n;-;-;a
+===  [o;-;n;a;g;u]
+===  [o;ɴ;n;a;-;-]
+§_Shuri : Hachijō : "woman",(phonalign_498.msa/Japanese)
+w͜i;n;-;a;g;u
+o;ɴ;n;a;g;o
+===  [w͜i;-;n;a;g;u]
+===  [o;ɴ;n;a;g;o]
+§_Hachijō : Sado : "woman",(phonalign_498.msa/Japanese)
+o;ɴ;n;a;g;o
+o;ɴ;n;-;-;a
+===  [o;ɴ;n;a;g;o]
+===  [o;ɴ;n;a;-;-]
+§_Amami : Hachijō : "woman",(phonalign_498.msa/Japanese)
+o;n;-;a;g;u
+o;ɴ;n;a;g;o
+===  [o;-;n;a;g;u]
+===  [o;ɴ;n;a;g;o]
+§_Kyoto : Hachijō : "woman",(phonalign_498.msa/Japanese)
+o;n;-;a;ŋ;o
+o;ɴ;n;a;g;o
+===  [o;-;n;a;ŋ;o]
+===  [o;ɴ;n;a;g;o]
+§_Miyako : Amami : "louse",(phonalign_502.msa/Japanese)
+sː;a;-;-;m
+s;i;r;a;ɴ
+===  [sː;-;-;a;m]
+===  [s;i;r;a;ɴ]
+§_Miyako : Sado : "louse",(phonalign_502.msa/Japanese)
+sː;a;-;-;m;-
+s;i;r;a;m;i
+===  [sː;-;-;a;m;-]
+===  [s;i;r;a;m;i]
+§_Miyako : Oki : "louse",(phonalign_502.msa/Japanese)
+sː;a;-;-;m;-
+s;i;r;a;m;e
+===  [sː;-;-;a;m;-]
+===  [s;i;r;a;m;e]
+§_Miyako : Kagoshima : "louse",(phonalign_502.msa/Japanese)
+sː;a;-;-;m;-
+s;i;t;a;m;e
+===  [sː;-;-;a;m;-]
+===  [s;i;t;a;m;e]
+§_Shuri : Oki : "leaf",(phonalign_503.msa/Japanese)
+h;w;aː
+-;ɸ;a
+===  [h;w;aː]
+===  [ɸ;-;a]
+§_Miyako : Amami : "leaf",(phonalign_503.msa/Japanese)
+-;p;aː
+h;w;a
+===  [p;-;aː]
+===  [h;w;a]
+§_Tokyo : Oki : "leaf",(phonalign_503.msa/Japanese)
+h;a;pː;a
+-;-;ɸ;a
+===  [h;a;pː;a, h;a;pː;a]
+===  [ɸ;a;-;-, ɸ;-;-;a]
+§_Hachijō : Oki : "leaf",(phonalign_503.msa/Japanese)
+h;-;a
+-;ɸ;a
+===  [h;a]
+===  [ɸ;a]
+§_Amami : Oki : "leaf",(phonalign_503.msa/Japanese)
+h;w;a
+-;ɸ;a
+===  [h;w;a]
+===  [ɸ;-;a]
+§_Miyako : Kyoto : "leaf",(phonalign_503.msa/Japanese)
+-;p;aː
+h;-;aː
+===  [p;aː]
+===  [h;aː]
+§_Hachijō : Miyako : "grease (fat)",(phonalign_504.msa/Japanese)
+a;b;u;r;a;n;i;k;u
+a;vː;a;-;-;-;-;-;-
+===  [a;b;u;r;a;n;i;k;u]
+===  [a;vː;-;-;a;-;-;-;-]
+§_Miyako : Kagoshima : "grease (fat)",(phonalign_504.msa/Japanese)
+a;vː;a;-;-;-;-
+a;b;u;r;a;m;i
+===  [a;vː;-;-;a;-;-]
+===  [a;b;u;r;a;m;i]
+§_Miyako : Kōchi : "grease (fat)",(phonalign_504.msa/Japanese)
+a;vː;a;-;-
+a;b;u;r;a
+===  [a;vː;-;-;a]
+===  [a;b;u;r;a]
+§_Stjørdal : Tynset sentrum : Norwegian *sterkaste*,(phonalign_508.msa/Norwegian)
+s;t;æ;ʂ;k;ɑ;s;-;n
+s;θ;æ;ɾ;k;ɛ;s;t;ə
+===  [s;t;æ;ʂ;k;ɑ;s;n;-]
+===  [s;θ;æ;ɾ;k;ɛ;s;t;ə]
+§_Tromsø : Stjørdal : Norwegian *sterkaste*,(phonalign_508.msa/Norwegian)
+s;θ;æ;ɾ;k;ə;s;t;ə
+s;t;æ;ʂ;k;ɑ;s;-;n
+===  [s;θ;æ;ɾ;k;ə;s;t;ə]
+===  [s;t;æ;ʂ;k;ɑ;s;n;-]
+§_Stjørdal : Støa : Norwegian *sterkaste*,(phonalign_508.msa/Norwegian)
+s;t;æ;ʂ;k;ɑ;s;-;n
+s;t;æ;ɾ;k;ə;s;t;ə
+===  [s;t;æ;ʂ;k;ɑ;s;n;-]
+===  [s;t;æ;ɾ;k;ə;s;t;ə]
+§_Stjørdal : Mørkved : Norwegian *sterkaste*,(phonalign_508.msa/Norwegian)
+s;t;æ;ʂ;k;ɑ;s;-;n
+s;t;æ;ɾ;k;e;s;t;ə
+===  [s;t;æ;ʂ;k;ɑ;s;n;-]
+===  [s;t;æ;ɾ;k;e;s;t;ə]
+§_Hisøy : Stjørdal : Norwegian *sterkaste*,(phonalign_508.msa/Norwegian)
+s;t;æ;ɰ;k;ə;s;t;ə
+s;t;æ;ʂ;k;ɑ;s;-;n
+===  [s;t;æ;ɰ;k;ə;s;t;ə]
+===  [s;t;æ;ʂ;k;ɑ;s;n;-]
+§_Hafrsfjord : Stjørdal : Norwegian *sterkaste*,(phonalign_508.msa/Norwegian)
+s;t;æ;ɰ;k;a;s;t;ə
+s;t;æ;ʂ;k;ɑ;s;-;n
+===  [s;t;æ;ɰ;k;a;s;t;ə]
+===  [s;t;æ;ʂ;k;ɑ;s;n;-]
+§_Sørkjosen : Fagerhaug : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;oːɑ̯;-;-;n;ə;s
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+===  [ɡ;oːɑ̯;n;ə;s]
+===  [ɡ;ɑ;ŋː;ɑ;ɲ]
+§_Eggesbøneset : Fagerhaug : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;oːɑ̯;-;-;nʲ;dʲ;ə
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+===  [ɡ;oːɑ̯;nʲ;dʲ;ə;-]
+===  [ɡ;ɑ;ŋː;-;ɑ;ɲ]
+§_Bygstad : Fagerhaug : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;oːə̯;-;-;n;d;ə
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+===  [ɡ;oːə̯;n;d;ə;-]
+===  [ɡ;ɑ;ŋː;-;ɑ;ɲ]
+§_Gjøra : Mørkved : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+ɡ;oːə̯;-;-;n;ə;s
+===  [ɡ;ɑ;ŋː;ɑ;ɲ]
+===  [ɡ;oːə̯;n;ə;s]
+§_Lomnes : Gjøra : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;oː;-;-;n;ə;s
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+===  [ɡ;oː;n;ə;s]
+===  [ɡ;ɑ;ŋː;ɑ;ɲ]
+§_Selfors : Fagerhaug : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;oɑ̯;-;-;n;ə;s
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+===  [ɡ;oɑ̯;n;ə;s]
+===  [ɡ;ɑ;ŋː;ɑ;ɲ]
+§_Støa : Fagerhaug : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;oː;-;-;n;ə;s
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+===  [ɡ;oː;n;ə;s]
+===  [ɡ;ɑ;ŋː;ɑ;ɲ]
+§_Orkanger : Fagerhaug : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;ɔːɑ̯;-;-;n;ə;s
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+===  [ɡ;ɔːɑ̯;n;ə;s]
+===  [ɡ;ɑ;ŋː;ɑ;ɲ]
+§_Russland : Gjøra : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;ɔːə̯;-;-;n;d;ə
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+===  [ɡ;ɔːə̯;n;d;ə;-]
+===  [ɡ;ɑ;ŋː;-;ɑ;ɲ]
+§_Selfors : Gjøra : Norwegian *gåande*,(phonalign_511.msa/Norwegian)
+ɡ;oːɑ̯;-;-;n;æ;s
+ɡ;ɑ;ŋː;ɑ;ɲ;-;-
+===  [ɡ;oːɑ̯;n;æ;s]
+===  [ɡ;ɑ;ŋː;ɑ;ɲ]
+§_Mandal : Russland : Norwegian *enige*,(phonalign_519.msa/Norwegian)
+ʔ;eː;n;ɪ;-
+-;ɛː;n;-;j͜ə
+===  [ʔ;eː;n;ɪ]
+===  [-;ɛː;n;j͜ə]
+§_Russland : Stjørdal : Norwegian *enige*,(phonalign_519.msa/Norwegian)
+-;ɛː;n;-;j͜ə
+ʔ;eː;n;i;-
+===  [-;ɛː;n;j͜ə]
+===  [ʔ;eː;n;i]
+§_Russland : Bø : Norwegian *enige*,(phonalign_519.msa/Norwegian)
+-;ɛː;n;-;j͜ə
+ʔ;eː;n;iə̯;-
+===  [-;ɛː;n;j͜ə]
+===  [ʔ;eː;n;iə̯]
+§_Asserøy : Kristiansand : Norwegian *først*,(phonalign_522.msa/Norwegian)
+f;ɐ;-;ʃ;t
+f;ø;ɰ̥;s;-
+===  [f;ɐ;ʃ;t]
+===  [f;ø;ɰ̥;s]
+§_Selfors : Fyresdal : Norwegian *mannen*,(phonalign_525.msa/Norwegian)
+m;ɑː;ɲ;-;-
+m;ɑ;nː;ə;n
+===  [m;ɑː;-;-;ɲ]
+===  [m;ɑ;nː;ə;n]
+§_Russland : Fyllingsdalen : Norwegian *mannen*,(phonalign_525.msa/Norwegian)
+m;a;nː;ə;n
+m;ɑːɑ̯;n;-;-
+===  [m;a;nː;ə;n]
+===  [mɑː;-;-;ɑ̯;n]
+§_Trondheim : Hafrsfjord : Norwegian *mannen*,(phonalign_525.msa/Norwegian)
+m;ɑː;n;-;-
+m;a;nː;ə;n
+===  [m;-;-;ɑː;n]
+===  [m;a;nː;ə;n]
+§_Flåte : Undheim : Norwegian *mannen*,(phonalign_525.msa/Norwegian)
+m;ɑ;nː;-;-
+m;aː;n;ə;n
+===  [m;-;-;ɑ;nː]
+===  [m;aː;n;ə;n]
+§_Naas, Eide : Hundvåg : Norwegian *mannen*,(phonalign_525.msa/Norwegian)
+m;ɑː;ɲ;-;-
+m;a;nː;ə;n
+===  [m;-;-;ɑː;ɲ]
+===  [m;a;nː;ə;n]
+§_Trondheim : Fyresdal : Norwegian *mannen*,(phonalign_525.msa/Norwegian)
+m;ɑː;n;-;-
+m;ɑ;nː;ə;n
+===  [m;ɑː;-;-;n]
+===  [m;ɑ;nː;ə;n]
+§_Bryne : Hafrsfjord : Norwegian *mannen*,(phonalign_525.msa/Norwegian)
+m;ɑː;n;-;-
+m;a;nː;ə;n
+===  [m;-;-;ɑː;n]
+===  [m;a;nː;ə;n]
+§_Fagerhaug : Undheim : Norwegian *mannen*,(phonalign_525.msa/Norwegian)
+m;ɑ;ɲ;-;-
+m;aː;n;ə;n
+===  [m;-;-;ɑ;ɲ]
+===  [m;aː;n;ə;n]
+§_Hundvåg : Sandnessjøen : Norwegian *mannen*,(phonalign_525.msa/Norwegian)
+m;a;nː;ə;n
+m;ɑ;ɲː;-;-
+===  [m;a;nː;ə;n]
+===  [m;-;-;ɑ;ɲː]
+§_Dokka : Asserøy : Norwegian *gjelde/regne*,(phonalign_529.msa/Norwegian)
+j;e;lː;ə
+j;æ;ʎ;s
+===  [j;e;lː;ə;-]
+===  [j;æ;ʎ;-;s]
+§_Sandnessjøen : Bryne : Norwegian *gjelde/regne*,(phonalign_529.msa/Norwegian)
+j;e;ʎ;s
+j;ɛ;lː;ɑ
+===  [j;e;ʎ;s;-]
+===  [j;ɛ;lː;-;ɑ]
+§_Dovre : Asserøy : Norwegian *gjelde/regne*,(phonalign_529.msa/Norwegian)
+j;e;ʎː;ə
+j;æ;ʎ;s
+===  [j;e;ʎː;ə;-]
+===  [j;æ;ʎ;-;s]
+§_Asserøy : Bryne : Norwegian *gjelde/regne*,(phonalign_529.msa/Norwegian)
+j;æ;ʎ;s
+j;ɛ;lː;ɑ
+===  [j;æ;ʎ;s;-]
+===  [j;ɛ;lː;-;ɑ]
+§_Asserøy : Foldvik, Brunlanes : Norwegian *gjelde/regne*,(phonalign_529.msa/Norwegian)
+j;æ;ʎ;s
+j;e;l;ə
+===  [j;æ;ʎ;s;-]
+===  [j;e;l;-;ə]
+§_Jaqaru : Chimborazo : "dog",(phonalign_53.msa/Andean)
+h;a;ʎ;ə;qʼ;o
+-;a;ʒ;-;k;u
+===  [-;h;a;ʎ;ə;qʼ;o]
+===  [a;ʒ;-;-;-;k;u]
+§_Huancayo : Cajamarca : "dog",(phonalign_53.msa/Andean)
+a;ʎ;-;ʔ;u
+a;ʧ;ə;ʁ;o
+===  [a;ʎ;ʔ;-;-;u]
+===  [a;-;ʧ;ə;ʁ;o]
+§_Stjørdalshalsen : Gjøra : Norwegian *andre*,(phonalign_531.msa/Norwegian)
+ɑ;ɲː;-;-;-;ə;ɳ
+ɑ;n;d;ə;ɾ;-;-
+===  [ɑ;ɲː;-;ə;ɳ]
+===  [ɑ;n;d;ə;ɾ]
+§_Øra : Flåte : Norwegian *tettare*,(phonalign_539.msa/Norwegian)
+ç;e;tː;ɑ;-;-
+tʰ;æ;t;æ;ɾˠ;ə
+===  [ç;e;tː;-;-;ɑ]
+===  [tʰ;æ;t;æ;ɾˠ;ə]
+§_Hundvåg : Øra : Norwegian *tettare*,(phonalign_539.msa/Norwegian)
+tʰ;ɛ;tːʰ;æ;ɰ;ə
+ç;e;tː;ɑ;-;-
+===  [tʰ;ɛ;tːʰ;æ;ɰ;ə]
+===  [ç;e;tː;-;-;ɑ]
+§_Krogtoft, Borge : Lillehammer : Norwegian *tettare*,(phonalign_539.msa/Norwegian)
+tʰ;æ;tːʰ;ɑ;-;-
+tʰ;e;tː;-;ɾ;ə
+===  [tʰ;æ;tːʰ;-;ɑ]
+===  [tʰ;e;tː;ɾ;ə]
+§_Jaqaru : Huancayo : "horn",(phonalign_54.msa/Andean)
+w;ɑ;x;ə;ɾ;ɐ
+w;aː;-;-;l;a
+===  [w;ɑ;x;ə;ɾ;ɐ]
+===  [w;-;-;aː;l;a]
+§_Kawki : Huancayo : "horn",(phonalign_54.msa/Andean)
+w;œ;x;ə;ɾ;ɐ
+w;aː;-;-;l;a
+===  [w;œ;x;ə;ɾ;ɐ]
+===  [w;-;-;aː;l;a]
+§_Tremjugan Khanti : Sinja Khanti : "fire",(phonalign_558.msa/Ob-Ugrian)
+t;e;ɣʷ;ə;t
+t;u;-;-;t
+===  [t;e;ɣʷ;ə;t]
+===  [t;-;-;u;t]
+§_Middle Lozva Mansi : Tremjugan Khanti : "fire",(phonalign_558.msa/Ob-Ugrian)
+t;oɔ̯;-;-;t
+t;e;ɣʷ;ə;t
+===  [t;-;-;oɔ̯;t]
+===  [t;e;ɣʷ;ə;t]
+§_Obdorsk Khanti : Malyj Jugan Khanti : "fire",(phonalign_558.msa/Ob-Ugrian)
+t;uː;-;-;t
+t;e;ɣʷ;ə;t
+===  [t;-;-;uː;t]
+===  [t;e;ɣʷ;ə;t]
+§_Konda Mansi : Konda Khanti : "fish",(phonalign_559.msa/Ob-Ugrian)
+q;u;l;-
+χ;uː;t;j
+===  [q;u;-;l]
+===  [χ;uː;t;j]
+§_Tavda Mansi : Upper Demjanka Khanti : "fish",(phonalign_559.msa/Ob-Ugrian)
+q;o;l;-
+χ;uː;t;j
+===  [q;o;-;l]
+===  [χ;uː;t;j]
+§_Pelimka Mansi : North Mansi : "foot",(phonalign_561.msa/Ob-Ugrian)
+l;ə;-;-;l
+l;a;ɣ;ɨ;l
+===  [l;-;-;ə;l]
+===  [l;a;ɣ;ɨ;l]
+§_North Mansi : Verkhne Kalimsk Khanti : "full",(phonalign_562.msa/Ob-Ugrian)
+t;a;-;ɣ;ɨ;l
+t;eː;l;-;-;-
+===  [t;a;ɣ;ɨ;l]
+===  [t;eː;-;-;l]
+§_Pelimka Mansi : Verkhne Kalimsk Khanti : "full",(phonalign_562.msa/Ob-Ugrian)
+t;æ;-;ɣ;ɨ;l
+t;eː;l;-;-;-
+===  [t;æ;ɣ;ɨ;l]
+===  [t;eː;-;-;l]
+§_Likrisovskoje Khanti : North Mansi : "full",(phonalign_562.msa/Ob-Ugrian)
+t;æ;θ;-;-;-
+t;a;-;ɣ;ɨ;l
+===  [t;æ;θ;-;-]
+===  [t;a;ɣ;ɨ;l]
+§_North Mansi : Kazim Khanti : "full",(phonalign_562.msa/Ob-Ugrian)
+t;a;-;ɣ;ɨ;l
+t;ɛː;ɬ;-;-;-
+===  [t;a;ɣ;ɨ;l]
+===  [t;ɛː;ɬ;-;-]
+§_North Mansi : Middle Lozva Mansi : "full",(phonalign_562.msa/Ob-Ugrian)
+t;a;-;ɣ;ɨ;l
+t;aɨ̯;l;-;-;-
+===  [t;a;ɣ;ɨ;l]
+===  [t;aɨ̯;-;-;l]
+§_Konda Mansi : Sherkali Khanti : "full",(phonalign_562.msa/Ob-Ugrian)
+t;a;-;ɣ;ɨ;l
+t;eː;t;-;-;-
+===  [t;a;ɣ;ɨ;l]
+===  [t;eː;t;-;-]
+§_Tremjugan Khanti : North Mansi : "full",(phonalign_562.msa/Ob-Ugrian)
+t;æ;ɬ;-;-;-
+t;a;-;ɣ;ɨ;l
+===  [t;æ;ɬ;-;-]
+===  [t;a;ɣ;ɨ;l]
+§_Konda Mansi : Jugan Khanti : "full",(phonalign_562.msa/Ob-Ugrian)
+t;a;-;ɣ;ɨ;l
+t;æ;ɬ;-;ə;ɬ
+===  [t;a;ɣ;ɨ;l]
+===  [t;æ;ɬ;ə;ɬ]
+§_Kazim Khanti : Vakh Khanti : "full",(phonalign_562.msa/Ob-Ugrian)
+t;ɛː;ɬ;-;-;-
+t;eː;l;ɣ;æː;l
+===  [t;ɛː;-;ɬ;-;-]
+===  [t;eː;l;ɣ;æː;l]
+§_Tavda Mansi : Konda Mansi : "full",(phonalign_562.msa/Ob-Ugrian)
+t;æu̯;l;-;-;-
+t;a;-;ɣ;ɨ;l
+===  [t;æu̯;-;-;l]
+===  [t;a;ɣ;ɨ;l]
+§_Malyj Jugan Khanti : Tavda Mansi : "hear",(phonalign_565.msa/Ob-Ugrian)
+k;oː;ɬ;-;-;-
+q;ɔ;l;ɔ;n;t
+===  [k;oː;-;-;-;ɬ, k;-;-;oː;-;ɬ]
+===  [q;ɔ;l;ɔ;n;t, q;ɔ;l;ɔ;n;t]
+§_Tavda Mansi : Upper Demjanka Khanti : "hear",(phonalign_565.msa/Ob-Ugrian)
+q;ɔ;l;ɔ;n;t
+χ;uː;t;-;-;-
+===  [q;ɔ;l;ɔ;n;t, q;ɔ;l;ɔ;n;t]
+===  [χ;uː;-;-;-;t, χ;-;-;uː;-;t]
+§_Kazim Khanti : Tavda Mansi : "hear",(phonalign_565.msa/Ob-Ugrian)
+χ;ɵː;ɬ;-;-;-
+q;ɔ;l;ɔ;n;t
+===  [χ;ɵː;-;-;-;ɬ, χ;-;-;ɵː;-;ɬ]
+===  [q;ɔ;l;ɔ;n;t, q;ɔ;l;ɔ;n;t]
+§_Konda Mansi : Sinja Khanti : "knee",(phonalign_567.msa/Ob-Ugrian)
+s;ɔ;n;ə;s
+ʃ;aː;-;-;ʃ
+===  [s;ɔ;n;ə;s]
+===  [ʃ;-;-;aː;ʃ]
+§_Jugan Khanti : Vartovskoje Khanti : "big",(phonalign_568.msa/Ob-Ugrian)
+e;n;t;ɬ;-
+e;-;-;ɭ;ə
+===  [e;n;t;ɬ;-]
+===  [e;ɭ;-;-;ə]
+§_Jugan Khanti : Vasjugan Khanti : "big",(phonalign_568.msa/Ob-Ugrian)
+e;n;t;ɬ;-
+e;-;-;ɭː;ə
+===  [e;n;t;ɬ;-]
+===  [e;ɭː;-;-;ə]
+§_Likrisovskoje Khanti : Upper Demjanka Khanti : "big",(phonalign_568.msa/Ob-Ugrian)
+e;-;ɭ;ə
+eː;n;-;ə
+===  [e;ɭ;ə]
+===  [eː;n;ə]
+§_Vasjugan Khanti : Upper Demjanka Khanti : "big",(phonalign_568.msa/Ob-Ugrian)
+e;-;ɭː;ə
+eː;n;-;ə
+===  [e;ɭː;ə]
+===  [eː;n;ə]
+§_Verkhne Kalimsk Khanti : Tremjugan Khanti : "big",(phonalign_568.msa/Ob-Ugrian)
+e;-;ɭ;ə
+e;n;ɬ;-
+===  [e;ɭ;ə;-]
+===  [e;n;-;ɬ]
+§_Vasjugan Khanti : Malyj Jugan Khanti : "big",(phonalign_568.msa/Ob-Ugrian)
+e;-;ɭː;ə
+e;n;ɬ;-
+===  [e;ɭː;ə;-]
+===  [e;n;-;ɬ]
+§_North Mansi : Malyj Jugan Khanti : "louse",(phonalign_571.msa/Ob-Ugrian)
+t;aː;k;-;ə;m
+t;æ;ɣʷ;t;ə;m
+===  [t;aː;-;k;ə;m]
+===  [t;æ;ɣʷ;t;ə;m]
+§_North Mansi : Kazim Khanti : "louse",(phonalign_571.msa/Ob-Ugrian)
+t;aː;k;-;ə;m
+t;eː;w;t;ə;m
+===  [t;aː;-;k;ə;m]
+===  [t;eː;w;t;ə;m]
+§_Vakh Khanti : North Mansi : "louse",(phonalign_571.msa/Ob-Ugrian)
+t;œː;ɣ;t;ə;m
+t;aː;k;-;ə;m
+===  [t;œː;ɣ;t;ə;m]
+===  [t;aː;-;k;ə;m]
+§_Tremjugan Khanti : Middle Lozva Mansi : "meat",(phonalign_572.msa/Ob-Ugrian)
+ɲ;a;ɣʷ;ɨː;-
+ɲ;ou̯;-;-;l
+===  [ɲ;a;ɣʷ;ɨː;-]
+===  [ɲ;-;-;ou̯;l]
+§_Middle Lozva Mansi : Sherkali Khanti : "meat",(phonalign_572.msa/Ob-Ugrian)
+ɲ;ou̯;-;-;l
+ɲ;o;χ;ə;-
+===  [ɲ;ou̯;l;-]
+===  [ɲ;o;χ;ə]
+§_Tavda Mansi : Vasjugan Khanti : "meat",(phonalign_572.msa/Ob-Ugrian)
+ɲ;əːu̯;-;-;l
+ɲ;oː;ɣ;ɨː;-
+===  [ɲ;-;-;əːu̯;l]
+===  [ɲ;oː;ɣ;ɨː;-]
+§_Konda Mansi : Sinja Khanti : "meat",(phonalign_572.msa/Ob-Ugrian)
+ɲ;ou̯;-;-;l
+ɲ;o;χ;iː;-
+===  [ɲ;ou̯;l;-]
+===  [ɲ;o;χ;iː]
+§_Nizjam Khanti : Pelimka Mansi : "meat",(phonalign_572.msa/Ob-Ugrian)
+ɲ;o;χ;ə;-
+ɲ;ɔu̯;-;-;ʎ
+===  [ɲ;o;χ;ə]
+===  [ɲ;ɔu̯;ʎ;-]
+§_Tavda Mansi : Kazim Khanti : "meat",(phonalign_572.msa/Ob-Ugrian)
+ɲ;əːu̯;-;-;l
+ɲ;o;χ;iː;-
+===  [ɲ;əːu̯;l;-]
+===  [ɲ;o;χ;iː]
+§_Tremjugan Khanti : Nizjam Khanti : "moon",(phonalign_573.msa/Ob-Ugrian)
+t;ɨː;ɬ;ə;s;-
+t;i;l;ə;s;j
+===  [t;-;-;ɨː;ɬ;ə;s]
+===  [t;i;l;ə;s;-;j]
+§_Tremjugan Khanti : Obdorsk Khanti : "moon",(phonalign_573.msa/Ob-Ugrian)
+t;ɨː;ɬ;ə;s;-
+t;iː;l;ə;s;j
+===  [t;-;-;ɨː;ɬ;ə;s]
+===  [t;iː;l;ə;s;-;j]
+§_Nizjam Khanti : Middle Lozva Mansi : "neck",(phonalign_575.msa/Ob-Ugrian)
+s;aː;p;ə;t;-
+ʃ;i;p;-;l;u
+===  [s;aː;p;-;ə;t]
+===  [ʃ;i;p;l;u;-]
+§_Kazim Khanti : Pelimka Mansi : "neck",(phonalign_575.msa/Ob-Ugrian)
+s;aː;p;ə;ɬ;-
+ʃ;i;p;-;l;u
+===  [s;aː;p;-;ə;ɬ]
+===  [ʃ;i;p;l;u;-]
+§_Tremjugan Khanti : Middle Lozva Mansi : "neck",(phonalign_575.msa/Ob-Ugrian)
+s;æː;p;ə;ɬ;-
+ʃ;i;p;-;l;u
+===  [s;æː;p;-;ə;ɬ]
+===  [ʃ;i;p;l;u;-]
+§_Upper Demjanka Khanti : Pelimka Mansi : "neck",(phonalign_575.msa/Ob-Ugrian)
+s;æː;p;ə;t;-
+ʃ;i;p;-;l;u
+===  [s;æː;p;-;ə;t]
+===  [ʃ;i;p;l;u;-]
+§_Likrisovskoje Khanti : Pelimka Mansi : "neck",(phonalign_575.msa/Ob-Ugrian)
+s;æː;p;ə;θ;-
+ʃ;i;p;-;l;u
+===  [s;æː;p;-;ə;θ]
+===  [ʃ;i;p;l;u;-]
+§_Likrisovskoje Khanti : Konda Mansi : "neck",(phonalign_575.msa/Ob-Ugrian)
+s;æː;p;ə;θ;-
+s;o;p;-;l;o
+===  [s;æː;p;-;ə;θ]
+===  [s;o;p;l;o;-]
+§_Tremjugan Khanti : North Mansi : "neck",(phonalign_575.msa/Ob-Ugrian)
+s;æː;p;ə;ɬ;-
+s;i;p;-;l;u
+===  [s;æː;p;-;ə;ɬ]
+===  [s;i;p;l;u;-]
+§_Pelimka Mansi : Verkhne Kalimsk Khanti : "new",(phonalign_576.msa/Ob-Ugrian)
+ʎ;æ;ʎ;-;p;ə;l
+j;e;l;ə;w;-;-
+===  [ʎ;æ;ʎ;p;ə;l]
+===  [j;e;l;-;ə;w]
+§_Vartovskoje Khanti : Pelimka Mansi : "new",(phonalign_576.msa/Ob-Ugrian)
+j;e;ɬ;ə;w;-;-
+ʎ;æ;ʎ;-;p;ə;l
+===  [j;e;-;ɬ;ə;w]
+===  [ʎ;æ;ʎ;p;ə;l]
+§_Middle Lozva Mansi : Malyj Jugan Khanti : "new",(phonalign_576.msa/Ob-Ugrian)
+ʎ;æ;ʎ;-;p;ə;l
+j;e;ɬ;ə;p;-;-
+===  [ʎ;æ;ʎ;p;ə;l]
+===  [j;e;-;ɬ;ə;p]
+§_Nizjam Khanti : Pelimka Mansi : "new",(phonalign_576.msa/Ob-Ugrian)
+j;i;t;ə;p;-;-
+ʎ;æ;ʎ;-;p;ə;l
+===  [j;i;-;t;ə;p]
+===  [ʎ;æ;ʎ;p;ə;l]
+§_Middle Lozva Mansi : Sherkali Khanti : "new",(phonalign_576.msa/Ob-Ugrian)
+ʎ;æ;ʎ;-;p;ə;l
+j;a;t;ə;p;-;-
+===  [ʎ;æ;ʎ;p;ə;l]
+===  [j;a;-;t;ə;p]
+§_Middle Lozva Mansi : Konda Khanti : "new",(phonalign_576.msa/Ob-Ugrian)
+ʎ;æ;ʎ;-;p;ə;l
+j;e;t;ə;p;-;-
+===  [ʎ;æ;ʎ;p;ə;l]
+===  [j;e;-;t;ə;p]
+§_Likrisovskoje Khanti : Pelimka Mansi : "new",(phonalign_576.msa/Ob-Ugrian)
+j;e;θ;ə;p;-;-
+ʎ;æ;ʎ;-;p;ə;l
+===  [j;e;-;θ;ə;p]
+===  [ʎ;æ;ʎ;p;ə;l]
+§_Kazim Khanti : Tavda Mansi : "new",(phonalign_576.msa/Ob-Ugrian)
+j͜i;ɬ;ə;p;-;-
+e;l;-;p;ə;ʎ
+===  [j͜i;-;ɬ;ə;p]
+===  [e;l;p;ə;ʎ]
+§_Vakh Khanti : North Mansi : "bird",(phonalign_579.msa/Ob-Ugrian)
+-;-;-;-;-;w͜aː;j;ə;ɣ
+t;ɔw̯;l;ə;ŋ;u;j;-;-
+===  [-;w͜aː;j;ə;-;-;ɣ]
+===  [t;ɔw̯;l;ə;ŋ;u;j]
+§_Lower Lozva Mansi : Tremjugan Khanti : "bird",(phonalign_579.msa/Ob-Ugrian)
+-;-;-;-;-;-;u;j;-;-
+t;o;ɣ;ɬ;ə;ŋ;w͜ɔː;j;ə;ɣ
+===  [-;u;-;-;-;-;-;j;-;-]
+===  [t;o;ɣ;ɬ;ə;ŋ;w͜ɔː;j;ə;ɣ]
+§_Vasjugan Khanti : Middle Lozva Mansi : "bird",(phonalign_579.msa/Ob-Ugrian)
+-;-;-;-;-;w͜aː;j;ə;ɣ
+t;ɔu̯;l;ə;ŋ;u;j;-;-
+===  [-;w͜aː;j;ə;-;-;ɣ]
+===  [t;ɔu̯;l;ə;ŋ;u;j]
+§_Upper Demjanka Khanti : Lower Lozva Mansi : "bird",(phonalign_579.msa/Ob-Ugrian)
+t;o;χ;t;ə;ŋ;w͜oː;j;ə
+-;-;-;-;-;-;u;j;-
+===  [t;o;χ;t;ə;ŋ;w͜oː;j;ə]
+===  [-;u;-;-;-;-;-;j;-]
+§_Kazim Khanti : Lower Lozva Mansi : "bird",(phonalign_579.msa/Ob-Ugrian)
+t;o;χ;ɬ;ə;ŋ;w͜ɔː;j
+-;-;-;-;-;-;u;j
+===  [t;o;χ;ɬ;ə;ŋ;w͜ɔː;j]
+===  [-;u;-;-;-;-;-;j]
+§_Sherkali Khanti : North Mansi : "bird",(phonalign_579.msa/Ob-Ugrian)
+-;-;-;-;-;w͜ɔː;j
+t;ɔw̯;l;ə;ŋ;u;j
+===  [-;w͜ɔː;-;-;-;-;j]
+===  [t;ɔw̯;l;ə;ŋ;u;j]
+§_Sherkali Khanti : Middle Lozva Mansi : "bird",(phonalign_579.msa/Ob-Ugrian)
+-;-;-;-;-;w͜ɔː;j
+t;ɔu̯;l;ə;ŋ;u;j
+===  [-;w͜ɔː;-;-;-;-;j]
+===  [t;ɔu̯;l;ə;ŋ;u;j]
+§_Vasjugan Khanti : Kazim Khanti : "bird",(phonalign_579.msa/Ob-Ugrian)
+-;-;-;-;-;-;w;aː;j;ə;ɣ
+t;o;χ;ɬ;ə;ŋ;w;ɔː;j;-;-
+===  [w;aː;j;-;ə;-;-;-;ɣ]
+===  [t;o;χ;ɬ;ə;ŋ;w;ɔː;j]
+§_North Mansi : Tremjugan Khanti : "red",(phonalign_583.msa/Ob-Ugrian)
+w;ɨ;ɣ;ɨ;r;-;-
+w;e;-;-;r;t;ə
+===  [w;ɨ;-;ɣ;ɨ;r]
+===  [w;e;r;t;ə;-]
+§_Nizjam Khanti : North Mansi : "red",(phonalign_583.msa/Ob-Ugrian)
+w;u;-;-;r;t;ə
+w;ɨ;ɣ;ɨ;r;-;-
+===  [w;u;r;t;ə;-]
+===  [w;ɨ;-;ɣ;ɨ;r]
+§_Kazim Khanti : North Mansi : "red",(phonalign_583.msa/Ob-Ugrian)
+w;u;-;-;r;t;iː
+w;ɨ;ɣ;ɨ;r;-;-
+===  [w;u;r;t;iː;-]
+===  [w;ɨ;-;ɣ;ɨ;r]
+§_Tavda Mansi : Jugan Khanti : "road",(phonalign_584.msa/Ob-Ugrian)
+ʎ;ɔ;ŋ;-
+ɭ;eː;-;kʷ
+===  [ʎ;ɔ;ŋ]
+===  [ɭ;eː;kʷ]
+§_Tavda Mansi : Vasjugan Khanti : "road",(phonalign_584.msa/Ob-Ugrian)
+ʎ;ɔ;ŋ;-
+ɭ;œː;-;k
+===  [ʎ;ɔ;ŋ]
+===  [ɭ;œː;k]
+§_Tavda Mansi : Middle Lozva Mansi : "road",(phonalign_584.msa/Ob-Ugrian)
+ʎ;ɔ;ŋ;-
+ʎ;o;-;χ
+===  [ʎ;ɔ;ŋ]
+===  [ʎ;o;χ]
+§_Kazim Khanti : Tavda Mansi : "black",(phonalign_588.msa/Ob-Ugrian)
+p;i;-;t;iː
+p;æ;ŋ;-;-
+===  [p;i;t;iː]
+===  [p;æ;ŋ;-]
+§_Obdorsk Khanti : Tavda Mansi : "black",(phonalign_588.msa/Ob-Ugrian)
+p;uː;-;t;iː
+p;æ;ŋ;-;-
+===  [p;uː;t;iː;-]
+===  [p;-;-;æ;ŋ]
+§_Puno : Huancané : "woman",(phonalign_59.msa/Andean)
+ɨ;w;a;ɾ;m;ı͜iı̯
+-;w;ɐ;ɾ;m;i
+===  [ɨ;w;a;ɾmı͜iı̯;-;-]
+===  [-;w;ɐ;ɾ;m;i]
+§_Puno : Corongo : "woman",(phonalign_59.msa/Andean)
+ɨ;w;a;ɾ;m;ı͜iı̯
+-;w;ɐ;ɾ;m;ɪ
+===  [ɨ;w;a;ɾmı͜iı̯;-;-]
+===  [-;w;ɐ;ɾ;m;ɪ]
+§_Puno : Caraz : "woman",(phonalign_59.msa/Andean)
+ɨ;w;a;ɾ;m;ı͜iı̯
+-;w;ɑ;ɾ;m;i
+===  [ɨ;w;a;ɾmı͜iı̯;-;-]
+===  [-;w;ɑ;ɾ;m;i]
+§_Huancayo : Puno : "woman",(phonalign_59.msa/Andean)
+-;w;a;l;m;i
+ɨ;w;a;ɾ;m;ı͜iı̯
+===  [-;w;a;l;m;i]
+===  [ɨ;w;a;ɾmı͜iı̯;-;-]
+§_Likrisovskoje Khanti : Jugan Khanti : "smoke",(phonalign_590.msa/Ob-Ugrian)
+t;œ;ɣ;ə;θ;ɨː;p;ə;t
+-;-;n;æːj̯;ɬ;ɨː;p;ə;t
+===  [t;œ;ɣ;ə;θ;ɨː;p;ə;t]
+===  [n;-;-;æːj̯;ɬ;ɨː;p;ə;t]
+§_Tavda Mansi : Vasjugan Khanti : "walk",(phonalign_598.msa/Ob-Ugrian)
+m;i;ɲ;æ;n;t
+m;e;n;-;-;-
+===  [m;i;ɲ;æ;n;t]
+===  [m;e;-;-;n;-]
+§_Tavda Mansi : Sherkali Khanti : "walk",(phonalign_598.msa/Ob-Ugrian)
+m;i;ɲ;æ;n;t
+m;a;n;-;-;-
+===  [m;i;ɲ;æ;n;t]
+===  [m;-;-;a;n;-]
+§_Tavda Mansi : Obdorsk Khanti : "walk",(phonalign_598.msa/Ob-Ugrian)
+m;i;ɲ;æ;n;t
+m;æ;n;-;-;-
+===  [m;i;ɲ;æ;n;t]
+===  [m;-;-;æ;n;-]
+§_Tavda Mansi : Kazim Khanti : "bone",(phonalign_599.msa/Ob-Ugrian)
+l;o;ʃ;ə;m
+ɬ;u;w;-;-
+===  [l;o;ʃ;ə;m]
+===  [-;-;ɬ;u;w]
+§_Tavda Mansi : Upper Demjanka Khanti : "bone",(phonalign_599.msa/Ob-Ugrian)
+l;o;ʃ;ə;m
+t;e;w;-;-
+===  [l;o;ʃ;ə;m]
+===  [-;-;t;e;w]
+§_Vasjugan Khanti : Sinja Khanti : "heavy",(phonalign_600.msa/Ob-Ugrian)
+j;æː;ɣ;ə;r;t
+l;aː;w;ə;r;-
+===  [-;-;j;æː;ɣ;ə;r;t]
+===  [l;aː;w;-;-;ə;r;-]
+§_Upper Demjanka Khanti : Konda Mansi : "breast",(phonalign_601.msa/Ob-Ugrian)
+m;eː;ɣ;ə;t
+m;ɔu̯;-;-;l
+===  [m;eː;ɣ;ə;t]
+===  [m;-;-;ɔu̯;l]
+§_Tavda Mansi : Kazim Khanti : "breast",(phonalign_601.msa/Ob-Ugrian)
+m;əu̯;-;l
+m;eːw̯;ə;ɬ
+===  [m;-;əu̯;l]
+===  [m;eːw̯;ə;ɬ]
+§_Tavda Mansi : Malyj Jugan Khanti : "breast",(phonalign_601.msa/Ob-Ugrian)
+m;əu̯;-;-;l
+m;æ;ɣʷ;ə;ɬ
+===  [m;-;-;əu̯;l]
+===  [m;æ;ɣʷ;ə;ɬ]
+§_Konda Mansi : Tremjugan Khanti : "breast",(phonalign_601.msa/Ob-Ugrian)
+m;ɔu̯;-;-;l
+m;æ;ɣʷ;ə;ɬ
+===  [m;-;-;ɔu̯;l]
+===  [m;æ;ɣʷ;ə;ɬ]
+§_French : Occitan : Latin *lacrimam* "tear",(phonalign_606.msa/Romance)
+l;a;-;ʁ;-;m;-
+-;-;ɡ;ɾ;i;mː;ɤ
+===  [-;l;a;ʁ;m;-]
+===  [ɡ;ɾ;i;-;mː;ɤ]
+§_French : Venetian : Latin *lacrimam* "tear",(phonalign_606.msa/Romance)
+l;a;-;ʁ;-;m;-
+j;aː;ɡ;ɾ;ɪ;m;a
+===  [l;a;ʁ;-;-;m;-]
+===  [j;aː;ɡ;ɾ;ɪ;m;a]
+§_French : Lombard (West) : Latin *lacrimam* "tear",(phonalign_606.msa/Romance)
+l;a;-;ʁ;-;m;-
+l;aː;x;ɾ;i;m;ɐ
+===  [l;a;ʁ;-;-;m;-]
+===  [l;aː;x;ɾ;i;m;ɐ]
+§_French : Italian : Latin *lacrimam* "tear",(phonalign_606.msa/Romance)
+l;a;-;ʁ;-;m;-
+l;aː;k;ɾ;i;m;a
+===  [l;a;ʁ;-;-;m;-]
+===  [l;aː;k;ɾ;i;m;a]
+§_Ligurian : French : Latin *dentem* "tooth",(phonalign_608.msa/Romance)
+d;ɛː;n;t;e
+d;ɑ~;-;-;-
+===  [d;ɛː;n;t;e]
+===  [d;-;-;-;ɑ~]
+§_Lombard (East) : Ladino : Latin *capram* "goat",(phonalign_611.msa/Romance)
+k;a;v;ɾ;ɜ
+ʧ;ɐʊ̯;-;ʁ;ɐ
+===  [k;a;v;ɾ;ɜ]
+===  [ʧ;ɐʊ̯;ʁ;-;ɐ]
+§_French : Lombard (West) : Latin *capram* "goat",(phonalign_611.msa/Romance)
+ʃ;-;ɛː;v;ʁ;-
+k;x;aː;p;ɾ;ɐ
+===  [-;ʃ;ɛː;v;ʁ;-]
+===  [k;x;aː;p;ɾ;ɐ]
+§_Ligurian : Italian : Latin *brācchium* "arm",(phonalign_617.msa/Romance)
+b;ɾ;a;-;s;ʊ
+b;ɾ;a;t;ʧ;o
+===  [b;ɾ;a;s;-;ʊ]
+===  [b;ɾ;a;t;ʧ;o]
+§_French : Italian : Latin *duo* "two",(phonalign_619.msa/Romance)
+d;ø;-
+d;uː;e
+===  [d;-;ø]
+===  [d;uː;e]
+§_Lombard (West) : Italian : Latin *duo* "two",(phonalign_619.msa/Romance)
+d;y;-
+d;uː;e
+===  [d;-;y]
+===  [d;uː;e]
+§_Italian : Occitan : Latin *duo* "two",(phonalign_619.msa/Romance)
+d;uː;e
+d;yi̯;-
+===  [d;uː;e]
+===  [d;-;yi̯]
+§_Lombard (East) : French : Latin *oculum* "eye",(phonalign_620.msa/Romance)
+ø;ʧ;-
+œ;-;j
+===  [ø;ʧ]
+===  [œ;j]
+§_Lombard (West) : Occitan : Latin *oculum* "eye",(phonalign_620.msa/Romance)
+œː;ʧ;-
+œ;-;j
+===  [œː;ʧ]
+===  [œ;j]
+§_Italian : Lombard (East) : Latin *ūnum* "one",(phonalign_622.msa/Romance)
+-;uː;n;o
+ʤ;y;-;-
+===  [uː;n;o]
+===  [-;ʤ;y]
+§_Lombard (West) : Venetian : Latin *ūnum* "one",(phonalign_622.msa/Romance)
+v;y~;-;-
+-;uː;n;ɔ
+===  [-;v;y~]
+===  [uː;n;ɔ]
+§_Lombard (East) : Venetian : Latin *ūnum* "one",(phonalign_622.msa/Romance)
+ʤ;y;-;-
+-;uː;n;ɔ
+===  [-;ʤ;y]
+===  [uː;n;ɔ]
+§_Italian : Lombard (West) : Latin *ūnum* "one",(phonalign_622.msa/Romance)
+-;uː;n;o
+v;y~;-;-
+===  [uː;n;o]
+===  [-;v;y~]
+§_Ligurian : Occitan : Latin *decem* "ten",(phonalign_624.msa/Romance)
+d;eː;ʒ;e
+d;e;-;-
+===  [d;eː;ʒ;e]
+===  [d;-;-;e]
+§_French : Occitan : Latin *aquam* "water",(phonalign_625.msa/Romance)
+o;-;-
+ai̯;ɡ;ɤ
+===  [-;-;o]
+===  [ai̯;ɡ;ɤ]
+§_Ladino : Italian : Latin *auriculam* "ear",(phonalign_626.msa/Romance)
+ʔ;u;ʁ;ɜ;d;l;ɐ
+-;o;ɾ;ɛ;kː;j;o
+===  [-;ʔ;u;-;ʁ;ɜ;d;l;ɐ]
+===  [o;ɾ;ɛ;kː;j;o;-;-;-]
+§_Occitan : Ligurian : Latin *auriculam* "ear",(phonalign_626.msa/Romance)
+oː;ɾ;ʌ;-;ʎ;-
+-;w;ɛː;ʧ;-;ɐ
+===  [-;oː;ɾ;ʌ;ʎ]
+===  [w;ɛː;ʧ;ɐ;-]
+§_Ladino : French : Latin *auriculam* "ear",(phonalign_626.msa/Romance)
+ʔ;u;ʁ;ɜ;d;l;ɐ
+-;o;ʁ;ei̯;-;-;-
+===  [ʔ;u;ʁ;ɜ;d;l;ɐ]
+===  [-;o;ʁ;-;-;-;ei̯]
+§_Ladino : Venetian : Latin *digitum* "finger",(phonalign_627.msa/Romance)
+d;ɜi̯;t;-
+d;eː;-;o
+===  [d;-;ɜi̯;t]
+===  [d;eː;o;-]
+§_Lombard (East) : Venetian : Latin *sex* "six",(phonalign_631.msa/Romance)
+h;e;-;s
+s;iː;e;-
+===  [h;-;e;s]
+===  [s;iː;e;-]
+§_Ladino : French : Latin *bēstiam* "beast",(phonalign_632.msa/Romance)
+-;-;t;j͜ɜ;ʁ
+b;ɛː;t;-;-
+===  [t;j͜ɜ;ʁ]
+===  [b;ɛː;t]
+§_Venetian : Ladino : Latin *bēstiam* "beast",(phonalign_632.msa/Romance)
+b;ɛ;s;t;j;a;-
+-;-;-;t;j;ɜ;ʁ
+===  [b;ɛ;s;t;j;a]
+===  [t;-;j;ɜ;ʁ;-]
+§_Ladino : Italian : Latin *pedem* "foot",(phonalign_633.msa/Romance)
+p;e;-;-
+p;j͜eː;d;e
+===  [p;-;-;e]
+===  [p;j͜eː;d;e]
+§_Venetian : Italian : Latin *pedem* "foot",(phonalign_633.msa/Romance)
+p;iː;e;-;-
+p;-;j͜eː;d;e
+===  [p;iː;-;e]
+===  [p;j͜eː;d;e]
+§_French : Italian : Latin *pedem* "foot",(phonalign_633.msa/Romance)
+p;j͜e;-;-
+p;j͜eː;d;e
+===  [p;-;-;j͜e]
+===  [p;j͜eː;d;e]
+§_Nánchàng : Chángshà : "tomorrow",(phonalign_638.msa/Sinitic)
+m;i͜ɑ;ŋ;￤;ɲ;i;ʔ
+m;i;n;￤;ʐ;ɨ;-
+===  [m;i͜ɑ;ŋ;￤;ɲ;i;ʔ;-]
+===  [m;i;n;￤;-;-;ʐ;ɨ]
+§_Kùnmíng : Nánchàng : "yesterday",(phonalign_640.msa/Sinitic)
+ʦ;o;-;￤;ʐ;ɨ;-
+ʦʰ;ɔ;ʔ;￤;ɲ;i;ʔ
+===  [ʦ;o;-;￤;-;-;ʐ;ɨ]
+===  [ʦʰ;ɔ;ʔ;￤;ɲ;i;ʔ;-]
+§_Nánchàng : Chángshà : "yesterday",(phonalign_640.msa/Sinitic)
+ʦʰ;ɔ;ʔ;￤;ɲ;i;ʔ
+ʦ;o;-;￤;ʐ;ɨ;-
+===  [ʦʰ;ɔ;ʔ;￤;ɲ;i;ʔ;-]
+===  [ʦ;o;-;￤;-;-;ʐ;ɨ]
+§_Xiāngtàn : Hǎikǒu : "moon",(phonalign_641.msa/Sinitic)
+-;y͜æ;￤;n;i͜a;n
+v;u͜e;￤;-;-;-
+===  [y͜æ;￤;n;i͜a;n]
+===  [-;-;v;u͜e;-]
+§_Xiàmén : Ürümqi : "moon",(phonalign_641.msa/Sinitic)
+g;e;ʔ;￤;-;-;-
+-;y͜ɤ;-;￤;l;i͜ɑ;ŋ
+===  [-;-;g;e;ʔ]
+===  [y͜ɤ;￤;l;i͜ɑ;ŋ]
+§_Zhèngzhōu : Xiàmén : "moon",(phonalign_641.msa/Sinitic)
+-;yɛ̯;-;￤;l;i͜a;ŋ
+g;e;ʔ;￤;-;-;-
+===  [yɛ̯;￤;l;i͜a;ŋ]
+===  [-;-;g;e;ʔ]
+§_Hǎrbīn : Fùzhōu : "moon",(phonalign_641.msa/Sinitic)
+-;yɛ̯;-;￤;l;i͜a;ŋ
+ŋ;uo̯;ʔ;￤;-;-;-
+===  [yɛ̯;￤;l;i͜a;ŋ]
+===  [-;-;ŋ;uo̯;ʔ]
+§_Hohhot : Wǔhàn : "moon",(phonalign_641.msa/Sinitic)
+ya;ʔ;￤;l;i͜ɑ~;-
+y͜e;-;￤;n;i͜a;ŋ
+===  [y;a;ʔ;￤;l;i͜ɑ~;-]
+===  [y͜e;-;-;￤;n;i͜a;ŋ]
+§_Czech : Russian : Proto-Slavic **jɪmẽ*,(phonalign_668.msa/Slavic)
+j;m;ɛː;n;o
+i;mʲ;ə;-;-
+===  [j;m;ɛː;n;o]
+===  [-;-;i;mʲ;ə]
+§_Polish : Czech : Proto-Slavic **jɪmẽ*,(phonalign_668.msa/Slavic)
+i;mʲ;ɛ;-;-
+j;m;ɛː;n;o
+===  [-;-;i;mʲ;ɛ]
+===  [j;m;ɛː;n;o]
+§_Czech : Serbian : Proto-Slavic **jɪmẽ*,(phonalign_668.msa/Slavic)
+j;m;ɛː;n;o
+i;m;e;-;-
+===  [j;m;ɛː;n;o]
+===  [-;-;i;m;e]
+§_Czech : Bulgarian : Proto-Slavic **jɪmẽ*,(phonalign_668.msa/Slavic)
+j;m;ɛː;n;o
+i;m;ɛ;-;-
+===  [j;m;ɛː;n;o]
+===  [-;-;i;m;ɛ]
+§_Serbian : Czech : Proto-Slavic **ʒɪltə*,(phonalign_673.msa/Slavic)
+ʒ;u;-;-;t;-
+ʒ;-;l;ʊ;t;iː
+===  [ʒ;-;u;t;-]
+===  [ʒ;l;ʊ;t;iː]
+§_Landeron : Le Sentier : French *la clef* (< Latin *clave*), Chart 103,(phonalign_676.msa/French)
+k;-;ɑː;r
+ç;ʎ;ɛː;-
+===  [k;ɑː;r;-]
+===  [ç;-;ʎ;ɛː]
+§_Savagnier : Montbovon : French *la clef* (< Latin *clave*), Chart 103,(phonalign_676.msa/French)
+kʲ;-;ɑː;r
+ç;lʲ;a;-
+===  [kʲ;ɑː;r;-]
+===  [ç;-;lʲ;a]
+§_Boudry : Avry-sur-Matran : French *la clef* (< Latin *clave*), Chart 103,(phonalign_676.msa/French)
+tʲ;-;aː;r
+ç;lʲ;ɑː;-
+===  [tʲ;aː;r;-]
+===  [ç;-;lʲ;ɑː]
+§_Prahins : Grône : French *(un) fléau* (< Latin *flagellu*), Chart 115,(phonalign_677.msa/French)
+ɛ;ç;lʲ;iː;-
+-;f;l;aj̯;eː
+===  [ɛ;ç;lʲ;-;iː]
+===  [-;f;l;aj̯;eː]
+§_Château-d'Oex : Orsières : French *(un) fléau* (< Latin *flagellu*), Chart 115,(phonalign_677.msa/French)
+θ;iː;-;-
+f;ɛ;v;eː
+===  [θ;-;-;iː]
+===  [f;ɛ;v;eː]
+§_Grimentz : Vaugondry : French *(un) fléau* (< Latin *flagellu*), Chart 115,(phonalign_677.msa/French)
+-;h;lˤ;ɛj̯;e
+ɛ;f;lʲ;iː;-
+===  [-;h;lˤ;ɛj̯;e]
+===  [ɛ;f;lʲ;-;iː]
+§_Fully : Court : French *le cercle* (< Latin *circulu*), Chart 154,(phonalign_683.msa/French)
+ʃ;-;a;ç;o
+s;a;r;ʨ;-
+===  [ʃ;a;-;ç;o]
+===  [s;a;r;ʨ;-]
+§_Orsières : Vullierens : French *le cercle* (< Latin *circulu*), Chart 154,(phonalign_683.msa/French)
+ʃ;æ;r;f;w͜o
+s;-;a;ç;ɔ
+===  [ʃ;æ;r;f;w͜o]
+===  [s;a;-;ç;ɔ]
+§_Charnex : Develier : French *le cercle* (< Latin *circulu*), Chart 154,(phonalign_683.msa/French)
+s;-;e;ç;lʲ;o
+ʃ;a;r;ʃ;-;-
+===  [s;e;ç;lʲ;o;-, s;e;ç;lʲ;o;-]
+===  [ʃ;a;-;r;-;ʃ, ʃ;a;-;r;-;ʃ]
+§_Cerlatez : Évolène : French *le cercle* (< Latin *circulu*), Chart 154,(phonalign_683.msa/French)
+s;w;a;s;j;-
+ʃ;e;r;k;lʲ;ɔ
+===  [s;-;w;a;s;j;-]
+===  [ʃ;e;r;-;k;lʲ;ɔ]
+§_Veyrier : Arnex : French *le cercle* (< Latin *circulu*), Chart 154,(phonalign_683.msa/French)
+f;a;r;k;lʲ;ə
+s;-;a;ç;-;ɔ
+===  [f;a;r;k;lʲ;ə]
+===  [s;a;-;ç;-;ɔ]
+§_Fully : Savagnier : French *le cercle* (< Latin *circulu*), Chart 154,(phonalign_683.msa/French)
+ʃ;-;a;ç;o
+s;ɛ;r;kʲ;-
+===  [ʃ;a;-;ç;o]
+===  [s;ɛ;r;kʲ;-]
+§_Develier : Courtedoux : French *le cercle* (< Latin *circulu*), Chart 154,(phonalign_683.msa/French)
+ʃ;a;r;ʃ
+s;w;æ;ç
+===  [ʃ;a;r;-;ʃ]
+===  [s;-;w;æ;ç]
+§_Avry-sur-Matran : Vernier : French *la hache* (< Latin *happia (+ itta)*), Chart 163,(phonalign_687.msa/French)
+ʦ;ɛ;t;a
+θ;ɔ~;-;-
+===  [ʦ;ɛ;t;a]
+===  [-;-;θ;ɔ~]
+§_Chaux-du-Milieu : Laconnex : French *la hache* (< Latin *happia (+ itta)*), Chart 163,(phonalign_687.msa/French)
+ʧ;-;t;a
+θ;ɔ~;-;-
+===  [ʧ;t;a]
+===  [-;θ;ɔ~]
+§_Montbovon : Collex : French *la hache* (< Latin *happia (+ itta)*), Chart 163,(phonalign_687.msa/French)
+ʦ;ɛ;t;a
+θ;o~;-;-
+===  [ʦ;ɛ;t;a]
+===  [-;-;θ;o~]
+§_Vaugondry : Vermes : French *la cuiller* (< Latin *cochleare*), Chart 241,(phonalign_701.msa/French)
+k;w͜ɛ;lʲ;ø
+ʨ;-;-;iː
+===  [k;w͜ɛ;lʲ;ø]
+===  [ʨ;iː;-;-]
+§_Court : Noiraigue : French *(une) cuillerée, (des) cuillerées* (< Latin *cochlearata, -atas*), Chart 244,(phonalign_702.msa/French)
+ʨ;ø;ʒ;r;ɛː
+k;w͜ɛ;r;l;eːj̯
+===  [ʨ;ø;ʒ;r;-;ɛː]
+===  [k;w͜ɛ;-;r;l;eːj̯]
+§_Orsières : Vermes : French *(une) cuillerée, (des) cuillerées* (< Latin *cochlearata, -atas*), Chart 244,(phonalign_702.msa/French)
+k;w͜o;d;ɛ;r;o
+ʨ;-;-;i;rː;ɑ~
+===  [k;w͜o;d;ɛ;r;o]
+===  [-;-;ʨ;i;rː;ɑ~]
+§_Vaugondry : Vermes : French *(une) cuillerée, (des) cuillerées* (< Latin *cochlearata, -atas*), Chart 244,(phonalign_702.msa/French)
+k;w͜e;lʲ;ɛ;r;aː
+ʨ;-;-;i;rː;ɑ~
+===  [k;w͜e;lʲ;ɛ;r;aː]
+===  [ʨ;i;-;-;rː;ɑ~]
+§_Montalchez : Vermes : French *(une) cuillerée, (des) cuillerées* (< Latin *cochlearata, -atas*), Chart 244,(phonalign_702.msa/French)
+k;w͜ə;ʁ;-;l;aːj̯
+ʨ;-;-;i;rː;ɑ~
+===  [k;w͜ə;ʁ;l;aːj̯]
+===  [ʨ;i;-;rː;ɑ~]
+§_Corcelles : Vermes : French *(une) cuillerée, (des) cuillerées* (< Latin *cochlearata, -atas*), Chart 244,(phonalign_702.msa/French)
+k;w͜ɛ;r;-;l;aːj̯
+ʨ;-;-;i;rː;ɑ~
+===  [k;w͜ɛ;r;l;aːj̯]
+===  [ʨ;i;rː;-;ɑ~]
+§_Chevroux : Plagne : French *mûr* (< Latin *maturu*), Chart 249,(phonalign_703.msa/French)
+m;-;ɑː;-
+m;aj̯;ɛ;r
+===  [m;ɑː;-;-]
+===  [m;aj̯;ɛ;r]
+§_Miège : Avry-sur-Matran : French *mûr* (< Latin *maturu*), Chart 249,(phonalign_703.msa/French)
+m;a;v;uː;r
+m;-;-;aː;-
+===  [m;a;v;uː;r]
+===  [m;aː;-;-;-]
+§_Sugiez : Cerneux-Péquignot : French *mûr* (< Latin *maturu*), Chart 249,(phonalign_703.msa/French)
+m;-;-;ɔ;r
+m;œ;v;y;-
+===  [m;ɔ;r;-]
+===  [m;œ;v;y]
+§_Arconciel : Corcelles : French *notre* (< Latin *nostru*), Chart 254,(phonalign_704.msa/French)
+n;ɔ;θ;-;-;ɔ~
+n;u;t;ə;r;-
+===  [n;ɔ;θ;ɔ~;-]
+===  [n;u;t;ə;r]
+§_Vullierens : Savièse : French *notre* (< Latin *nostru*), Chart 254,(phonalign_704.msa/French)
+n;u;t;r;ɔ~
+n;ɔ;-;-;-
+===  [n;u;t;r;ɔ~]
+===  [n;-;-;-;ɔ]
+§_Savièse : Côte-aux-Fées : French *notre* (< Latin *nostru*), Chart 254,(phonalign_704.msa/French)
+n;ɔ;-;-;-
+n;uː;t;r;u
+===  [n;-;-;-;ɔ]
+===  [n;uː;t;r;u]
+§_Montalchez : Ayent : French *croître* (< Latin *crescere*), Chart 260,(phonalign_705.msa/French)
+k;ʁ;ɛ;t;ʁ;-
+k;r;ɛː;h;-;ɛ
+===  [k;ʁ;ɛ;t;ʁ;-]
+===  [k;r;ɛː;-;h;ɛ]
+§_Vermes : Ayent : French *croître* (< Latin *crescere*), Chart 260,(phonalign_705.msa/French)
+k;r;ɑː;t;ə;r;-
+k;r;ɛː;h;-;-;ɛ
+===  [k;r;ɑː;t;ə;r]
+===  [k;r;ɛː;h;ɛ;-]
+§_Vermes : Château-d'Oex : French *croître* (< Latin *crescere*), Chart 260,(phonalign_705.msa/French)
+k;r;ɑː;t;ə;r;-
+k;r;ɛ;θ;-;-;ɛ
+===  [k;r;ɑː;t;ə;r]
+===  [k;r;ɛ;θ;ɛ;-]
+§_Plagne : Ayent : French *croître* (< Latin *crescere*), Chart 260,(phonalign_705.msa/French)
+k;r;ɛ;t;ə;r;-
+k;r;ɛː;h;-;-;ɛ
+===  [k;r;ɛ;t;ə;r]
+===  [k;r;ɛː;h;ɛ;-]
+§_Montbovon : Avry-sur-Matran : French *m’appeler* (< Latin *appellare (quiritare)*), Chart 274,(phonalign_709.msa/French)
+tʲ;i;r;-;a
+k;-;r;ij̯;ɑː
+===  [tʲ;i;r;a;-]
+===  [k;-;r;ij̯;ɑː]
+§_Montbovon : Hermance : French *m’appeler* (< Latin *appellare (quiritare)*), Chart 274,(phonalign_709.msa/French)
+tʲ;i;r;-;a
+k;-;r;ij̯;ɔː
+===  [tʲ;i;r;a;-]
+===  [k;-;r;ij̯;ɔː]
+§_Cerlatez : Vullierens : French *une perte* (< Latin *perdita*), Chart 287,(phonalign_710.msa/French)
+p;eː;-;d;r;-
+p;ɛː;r;t;-;a
+===  [p;eː;d;r;-;-]
+===  [p;ɛː;-;r;t;a]
+§_Develier : Plagne : French *une perte* (< Latin *perdita*), Chart 287,(phonalign_710.msa/French)
+p;eː;-;d;r;ə
+p;ɛː;r;t;-;-
+===  [p;eː;d;r;ə;-]
+===  [p;ɛː;-;r;-;t]
+§_Develier : L'Auberson : French *une perte* (< Latin *perdita*), Chart 287,(phonalign_710.msa/French)
+p;eː;-;d;r;ə
+p;ɛː;r;t;-;a
+===  [p;eː;d;r;-;ə]
+===  [p;ɛː;-;r;t;a]
+§_Noiraigue : Cerlatez : French *une perte* (< Latin *perdita*), Chart 287,(phonalign_710.msa/French)
+p;aː;r;t;-;a
+p;eː;-;d;r;-
+===  [p;aː;-;r;t;a]
+===  [p;eː;d;r;-;-]
+§_Champéry : Courtedoux : French *une perte* (< Latin *perdita*), Chart 287,(phonalign_710.msa/French)
+p;ɛ;r;t;-;ə
+p;eː;-;d;r;-
+===  [p;ɛ;-;r;t;ə]
+===  [p;eː;d;r;-;-]
+§_Courtedoux : Orvin : French *ils peuvent* (< Latin *potunt*), Chart 295,(phonalign_711.msa/French)
+p;w͜ej̯;ɑ~;-;-
+p;-;œi̯;n;o
+===  [p;w͜ej̯;-;ɑ~]
+===  [p;œi̯;n;o]
+§_Champéry : Orvin : French *ils peuvent* (< Latin *potunt*), Chart 295,(phonalign_711.msa/French)
+p;w͜ɑː;v;ɔ~;-;-
+p;-;-;œi̯;n;o
+===  [p;w͜ɑː;v;ɔ~]
+===  [p;œi̯;n;o]
+§_Boudry : Orvin : French *ils peuvent* (< Latin *potunt*), Chart 295,(phonalign_711.msa/French)
+p;øː;v;ɛ;-;-
+p;-;-;œi̯;n;o
+===  [p;øː;v;ɛ]
+===  [p;œi̯;n;o]
+§_Orvin : Laconnex : French *ils peuvent* (< Latin *potunt*), Chart 295,(phonalign_711.msa/French)
+p;-;-;œi̯;n;o
+p;yː;v;ɔ~;-;-
+===  [p;œi̯;n;o]
+===  [p;yː;v;ɔ~]
+§_Orvin : Chaux-du-Milieu : French *ils peuvent* (< Latin *potunt*), Chart 295,(phonalign_711.msa/French)
+p;-;-;œi̯;n;o
+p;øː;v;a;-;-
+===  [p;œi̯;n;o]
+===  [p;øː;v;a]
+§_Orvin : Fully : French *ils peuvent* (< Latin *potunt*), Chart 295,(phonalign_711.msa/French)
+p;-;-;œi̯;n;o
+p;œu̯;v;ɔ~;-;-
+===  [p;œi̯;n;o]
+===  [p;œu̯;v;ɔ~]
+§_Develier : Orvin : French *ils peuvent* (< Latin *potunt*), Chart 295,(phonalign_711.msa/French)
+p;oj̯;ɑ~;-;-
+p;-;œi̯;n;o
+===  [p;oj̯;-;ɑ~]
+===  [p;œi̯;n;o]
+§_Orvin : Montbovon : French *ils peuvent* (< Latin *potunt*), Chart 295,(phonalign_711.msa/French)
+p;-;œi̯;n;o
+p;yːj̯;ɔ~;-;-
+===  [p;œi̯;n;o]
+===  [p;yːj̯;-;ɔ~]
+§_Orvin : Cerlatez : French *ils peuvent* (< Latin *potunt*), Chart 295,(phonalign_711.msa/French)
+p;-;œi̯;n;o
+p;ɔj̯;ɔ~;-;-
+===  [p;œi̯;n;o]
+===  [p;ɔj̯;-;ɔ~]
+§_Roche : Vernier : French *de ma sœur* (< Latin *soror*), Chart 298,(phonalign_712.msa/French)
+ʃ;æː;r;a
+s;œ;-;-
+===  [ʃ;æː;r;a]
+===  [s;-;-;œ]
+§_Le Sentier : Semsalves : French *ne savent pas* (< Latin *sapunt*), Chart 314,(phonalign_714.msa/French)
+s;a~;-;-;ŋ
+ʃ;a;v;ɔ~;-
+===  [s;a~;ŋ;-]
+===  [ʃ;a;v;ɔ~]
+§_Ayent : Charnex : French *ne savent pas* (< Latin *sapunt*), Chart 314,(phonalign_714.msa/French)
+ʃ;a~;-;-;n
+s;ɑː;v;ɔ~;-
+===  [ʃ;a~;n;-]
+===  [s;ɑː;v;ɔ~]
+§_Longirod : Nendaz : French *ne savent pas* (< Latin *sapunt*), Chart 314,(phonalign_714.msa/French)
+s;ɑː;v;ɔ~
+ʃ;ɔ~;-;-
+===  [s;ɑː;v;ɔ~]
+===  [ʃ;-;-;ɔ~]
+§_Lamboing : Montalchez : French *pauvreté* (< Latin *paupertate*), Chart 378,(phonalign_720.msa/French)
+p;ø;v;ə;r;-;t;a
+p;uː;-;-;ʁ;ə;t;aː
+===  [p;ø;v;ə;r;t;a]
+===  [p;uː;ʁ;ə;-;t;aː]
+§_Court : Martigny : French *pauvreté* (< Latin *paupertate*), Chart 378,(phonalign_720.msa/French)
+p;oː;v;ə;r;-;t;aː
+p;uː;-;-;r;a;j;-
+===  [p;oː;v;ə;r;t;aː;-]
+===  [p;uː;-;-;r;-;a;j]
+§_Vermes : Montalchez : French *pauvreté* (< Latin *paupertate*), Chart 378,(phonalign_720.msa/French)
+p;o;v;ə;r;-;t;ɛː
+p;uː;-;-;ʁ;ə;t;aː
+===  [p;o;v;ə;r;t;ɛː]
+===  [p;uː;ʁ;ə;-;t;aː]
+§_Commugny : Montalchez : French *pauvreté* (< Latin *paupertate*), Chart 378,(phonalign_720.msa/French)
+p;u;v;ə;r;-;t;ɑ
+p;uː;-;-;ʁ;ə;t;aː
+===  [p;u;v;ə;r;t;ɑ]
+===  [p;uː;ʁ;ə;-;t;aː]
+§_Vermes : Martigny : French *pauvreté* (< Latin *paupertate*), Chart 378,(phonalign_720.msa/French)
+p;o;v;ə;r;-;t;ɛː
+p;uː;-;-;r;a;j;-
+===  [p;o;v;ə;r;t;ɛː;-]
+===  [p;uː;-;-;r;-;a;j]
+§_Lamboing : Martigny : French *pauvreté* (< Latin *paupertate*), Chart 378,(phonalign_720.msa/French)
+p;ø;v;ə;r;-;t;a
+p;uː;-;-;r;a;j;-
+===  [p;ø;v;ə;r;t;a;-]
+===  [p;uː;-;-;r;-;a;j]
+§_Vermes : Chaux-du-Milieu : French *pauvreté* (< Latin *paupertate*), Chart 378,(phonalign_720.msa/French)
+p;o;v;ə;r;t;ɛː
+p;uː;-;-;ʁ;t;aː
+===  [p;o;v;ə;r;t;ɛː]
+===  [p;uː;ʁ;-;-;t;aː]
+§_Charnex : Chaux-du-Milieu : French *pauvreté* (< Latin *paupertate*), Chart 378,(phonalign_720.msa/French)
+p;u;v;r;ɛ;t;ɔː
+p;uː;-;ʁ;-;t;aː
+===  [p;u;v;r;ɛ;t;ɔː]
+===  [p;uː;ʁ;-;-;t;aː]
+§_Vaugondry : Évolène : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;æː;-;-;ʣ;ɔ;-
+m;ɛ;d;e;s;i;ŋ
+===  [m;æː;ʣ;ɔ;-;-;-]
+===  [m;ɛ;d;e;s;i;ŋ]
+§_Grimentz : Court : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;ɛ;d;ɛ;s;i;ŋ
+m;eː;-;-;ʤ;-;-
+===  [m;ɛ;d;ɛ;s;i;ŋ]
+===  [m;eː;ʤ;-;-;-;-]
+§_Montbovon : Grimentz : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;eː;-;-;ʣ;ɔ;-
+m;ɛ;d;ɛ;s;i;ŋ
+===  [m;eː;ʣ;ɔ;-;-;-]
+===  [m;ɛ;d;ɛ;s;i;ŋ]
+§_Charnex : Grimentz : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;ɔi̯;-;-;ʣ;o;-
+m;ɛ;d;ɛ;s;i;ŋ
+===  [m;ɔi̯;ʣ;o;-;-;-, m;ɔi̯;ʣ;-;-;o;-]
+===  [m;ɛ;d;ɛ;s;i;ŋ, m;ɛ;d;ɛ;s;i;ŋ]
+§_Miège : Hermance : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;ɛ;d;ə;s;ɪ~;ŋ
+m;ə;-;-;ʦ;ɛi̯~;-
+===  [m;ɛ;d;ə;s;ɪ~;ŋ]
+===  [m;ə;ʦ;-;-;ɛi̯~;-]
+§_Ormont-Dessus : Miège : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;a;-;-;ʣ;ə;-
+m;ɛ;d;ə;s;ɪ~;ŋ
+===  [m;a;ʣ;ə;-;-;-]
+===  [m;ɛ;d;ə;s;ɪ~;ŋ]
+§_Chevroux : Évolène : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;ɑː;-;-;ʣ;u;-
+m;ɛ;d;e;s;i;ŋ
+===  [m;ɑː;ʣ;-;-;u;-]
+===  [m;ɛ;d;e;s;i;ŋ]
+§_Miège : Corcelles : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;ɛ;d;ə;s;ɪ~;ŋ
+m;iː;-;-;ʤ;-;-
+===  [m;ɛ;d;ə;s;ɪ~;ŋ]
+===  [m;iː;ʤ;-;-;-;-]
+§_Ormont-Dessus : Grimentz : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;a;-;-;ʣ;ə;-
+m;ɛ;d;ɛ;s;i;ŋ
+===  [m;a;ʣ;ə;-;-;-]
+===  [m;ɛ;d;ɛ;s;i;ŋ]
+§_Grimentz : Montpreveyres : French *le médecin* (< Latin *medicu*), Chart 388,(phonalign_722.msa/French)
+m;ɛ;d;ɛ;s;i;ŋ
+m;aː;-;-;ʣ;u;-
+===  [m;ɛ;d;ɛ;s;i;ŋ]
+===  [m;aː;ʣ;-;-;u;-]
+§_Cerlatez : Évolène : French *(cela m’a) aidé* (< Latin *adjutatu*), Chart 400,(phonalign_726.msa/French)
+e;-;d;iː
+ei̯;g;ʒ;j͜a
+===  [e;d;-;iː]
+===  [ei̯;g;ʒ;j͜a]
+§_Évolène : Savagnier : French *(au) pouce* (< Latin *pollice*), Chart 411,(phonalign_728.msa/French)
+p;uː;g;z;ɔ
+p;øː;-;ʤ;-
+===  [p;uː;g;z;ɔ]
+===  [p;øː;ʤ;-;-]
+§_Évolène : Landeron : French *(au) pouce* (< Latin *pollice*), Chart 411,(phonalign_728.msa/French)
+p;uː;g;z;ɔ
+p;eː;-;ʤ;-
+===  [p;uː;g;z;ɔ]
+===  [p;eː;ʤ;-;-]
+§_Ormont-Dessus : Lourtier : French *suivre* (< Latin *sequere*), Chart 51,(phonalign_744.msa/French)
+s;ɥ;iː;v;r;ɛ
+ʃ;j;ø;-;ʁ;ə
+===  [s;ɥ;iː;v;r;ɛ]
+===  [ʃ;j;ø;ʁ;-;ə]
+§_Lourtier : Cerlatez : French *suivre* (< Latin *sequere*), Chart 51,(phonalign_744.msa/French)
+ʃ;j͜ø;-;-;ʁ;ə
+s;øː;d;ə;r;-
+===  [ʃ;j͜ø;ʁ;ə;-]
+===  [s;øː;d;ə;r]
+§_Longirod : Montalchez : French *suivre* (< Latin *sequere*), Chart 51,(phonalign_744.msa/French)
+ʃ;ɥ;i;v;-;r;ɛ
+s;-;a;g;ə;ʁ;-
+===  [ʃ;-;ɥ;i;v;r;ɛ]
+===  [s;a;g;ə;ʁ;-;-]
+§_Ēnqī : Luòběnzhuō : "bee",(phonalign_77.msa/Bai)
+-;-;-;f;o;-
+ʨ;ɛ;￤;ɴ̥;-;ɴ̣
+===  [f;o;￤;-;-]
+===  [ʨ;ɛ;￤;ɴ̥;ɴ̣]
+§_Jiànchuàn : Luòběnzhuō : "bee",(phonalign_77.msa/Bai)
+-;-;-;f;ɤ~;-
+ʨ;ɛ;￤;ɴ̥;-;ɴ̣
+===  [f;ɤ~;￤;-;-]
+===  [ʨ;ɛ;￤;ɴ̥;ɴ̣]
+§_Xiángyún : Luòběnzhuō : "bee",(phonalign_77.msa/Bai)
+-;-;-;f;ɯ̃;-
+ʨ;ɛ;￤;ɴ̥;-;ɴ̣
+===  [f;ɯ̃;￤;-;-]
+===  [ʨ;ɛ;￤;ɴ̥;ɴ̣]
+§_Zhōuchéng : Luòběnzhuō : "bee",(phonalign_77.msa/Bai)
+-;-;-;f;ɤ;-
+ʨ;ɛ;￤;ɴ̥;-;ɴ̣
+===  [f;ɤ;￤;-;-]
+===  [ʨ;ɛ;￤;ɴ̥;ɴ̣]
+§_Égà : Luòběnzhuō : "bee",(phonalign_77.msa/Bai)
+-;-;-;x;o~;-
+ʨ;ɛ;￤;ɴ̥;-;ɴ̣
+===  [x;o~;￤;-;-]
+===  [ʨ;ɛ;￤;ɴ̥;ɴ̣]
+§_Mǎzhělóng : Yúnlóng : "bee",(phonalign_77.msa/Bai)
+-;-;-;pʰ;e;n
+ʦ;ɨ;￤;f;ɤ;-
+===  [pʰ;e;n;￤;-;-]
+===  [ʦ;ɨ;-;￤;f;ɤ]
+§_Luòběnzhuō : Gōngxìng : "bee",(phonalign_77.msa/Bai)
+ʨ;ɛ;￤;ɴ̥;-;ɴ̣
+-;-;-;p͡f;u;ŋ
+===  [ʨ;ɛ;-;￤;ɴ̥;ɴ̣]
+===  [p͡f;u;ŋ;￤;-;-]
+§_Mǎzhělóng : Luòběnzhuō : "bee",(phonalign_77.msa/Bai)
+-;-;-;pʰ;e;n
+ʨ;ɛ;￤;ɴ̥;-;ɴ̣
+===  [pʰ;e;n;￤;-;-]
+===  [ʨ;ɛ;-;￤;ɴ̥;ɴ̣]
+§_Luòběnzhuō : Mǎzhělóng : "bitter",(phonalign_83.msa/Bai)
+qʰ;ɤ;￤;-;-
+kʰ;u;￤;kʰ;əw̯
+===  [-;-;-;qʰ;ɤ]
+===  [kʰ;u;￤;kʰ;əw̯]
+§_Hèqìng : Tuōluò : "ant",(phonalign_88.msa/Bai)
+p;i;-;￤;p;ɯ;￤;ʦ;ɨ
+ʨ;j͜e;n;￤;-;-;-;-;-
+===  [p;i;￤;p;ɯ;￤;ʦ;ɨ;-]
+===  [-;-;-;-;-;-;ʨ;j͜e;n]
+§_Xiángyún : Tuōluò : "ant",(phonalign_88.msa/Bai)
+p;i;-;￤;p;ow̯;￤;ʦ;ɨ
+ʨ;j͜e;n;￤;-;-;-;-;-
+===  [p;i;￤;p;ow̯;￤;ʦ;ɨ;-]
+===  [-;-;-;-;-;-;ʨ;j͜e;n]
+§_Tuōluò : Lánpíng : "ant",(phonalign_88.msa/Bai)
+ʨ;j͜e;n;￤;-;-;-;-;-
+p;i;-;￤;p;w͜a;￤;ʦ;ɨ
+===  [-;-;-;-;-;-;ʨ;j͜e;n]
+===  [p;i;￤;p;w͜a;￤;ʦ;ɨ;-]
+§_Lánpíng : Tuōluò : "breast",(phonalign_90.msa/Bai)
+p;a;￤;p;e
+b;o;￤;-;-
+===  [p;a;￤;p;e]
+===  [-;-;-;b;o]
+§_Qīlǐqiáo : Tuōluò : "breast",(phonalign_90.msa/Bai)
+p;a;￤;k;u
+b;o;￤;-;-
+===  [p;a;￤;k;u]
+===  [-;-;-;b;o]
+§_Égà : Luòběnzhuō : "classifier (chicken)",(phonalign_98.msa/Bai)
+ʦ;u;￤;ʨ;i
+-;-;-;ʈ;ɯ
+===  [ʦ;u;￤;ʨ;i]
+===  [ʈ;ɯ;￤;-;-]

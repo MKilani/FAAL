@@ -1,0 +1,114 @@
+% List of values for the two extra features that can be used in association with difference saliences
+% to distinguish various categories of matches.
+%
+% Both features can be set according to three values: +, ±, -
+%
+% In the default settings, the first feature (first column) distinguish between a) consonants [-], b) semiconsonants [±],
+% and vowels [+] as according to the feature "syllabic" (nr. 1 in the file phon_features.txt). By contrast,
+% the second feature (second column) distinguishes egments according to the feature "Manner - sonorant" (nr. 3 in the file phon_features.txt)
+% is encoded as a) + or - (both encoded as [+] here) or b) as 0 (encoded as [-] here). ʋ, ʁ, ʀ, ɾ and the semivowels j, w, ʍ and ɥ are encoded 
+% as [±] here because their similarity with phones of both previous categories.
+%
+% Lines starting with % are ignored.
+%
+% Columns are separated by the character "	" (horizontal tab character - U+0009)
+%
+p	-	-
+b	-	-
+ɸ	-	-
+β	-	-
+m	-	+
+ʙ	-	+
+f	-	-
+v	-	-
+ɱ	-	+
+ʋ	-	±
+θ	-	-
+ð	-	-
+t	-	-
+d	-	-
+ʦ	-	-
+ʣ	-	-
+s	-	-
+z	-	-
+n	-	+
+l	-	+
+ɬ	-	-
+ɮ	-	-
+ɾ	-	±
+ɺ	-	+
+r	-	+
+ʧ	-	-
+ʤ	-	-
+ʃ	-	-
+ʒ	-	-
+ɹ	-	+
+ʈ	-	-
+ɖ	-	-
+ʂ	-	-
+ʐ	-	-
+ɳ	-	+
+ɭ	-	+
+ɽ	-	+
+ɻ	-	+
+j	±	±
+k	-	-
+g	-	-
+ɡ	-	-
+ŋ	-	+
+x	-	-
+ɣ	-	-
+ʟ	-	+
+q	-	-
+ɢ	-	-
+χ	-	-
+ʁ	-	±
+ɴ	-	+
+ʀ	-	±
+ħ	-	-
+ʕ	-	-
+ʔ	-	-
+h	-	-
+ɦ	-	-
+w	±	±
+ʍ	±	±
+ɥ	±	±
+ʨ	-	-
+ʥ	-	-
+ɕ	-	-
+ʑ	-	-
+c	-	-
+ɟ	-	-
+ç	-	-
+ʝ	-	-
+ɲ	-	+
+ʎ	-	+
+ɰ	-	±
+i	+	+
+y	+	+
+ɨ	+	+
+ʉ	+	+
+ɯ	+	+
+u	+	+
+ɪ	+	+
+ʏ	+	+
+ʊ	+	+
+e	+	+
+ø	+	+
+ɘ	+	+
+ɵ	+	+
+ɤ	+	+
+o	+	+
+ɛ	+	+
+œ	+	+
+ə	+	+
+ɞ	+	+
+ʌ	+	+
+ɔ	+	+
+æ	+	+
+ɶ	+	+
+a	+	+
+ɑ	+	+
+ɒ	+	+
+ɐ	+	+
+ɜ	+	+

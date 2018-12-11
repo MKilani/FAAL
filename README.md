@@ -3,6 +3,22 @@
 
 FAAL is a new algorithm for the alignment of phonetically transcribed lexical items based on the comparison of phonetic features. The algorithm can be run on any pair of phonetically transcribed words without requiring any specific setting or tuning, although various parameters of its implementation as .jar library can indeed be modified by the user, if needed.
 
+(I will add the reference tot he article once it will be accepted)
+
+## Organisation of the repository
+
+- config : folder with config files to be used together with the FAAL_2.0.0.jar library
+- CONTRIBUTING.md : notes on how to contribute
+- Example : folder containing the java projects with the code of the examples presented here below
+- FAAL_2.0.0.jar : library contianing the FAAL lagorithm, to be used together with the files in the folder config
+- LICENCE.md : licence
+- NOTICE.md : note about third party code used in FAAL
+- OnlineDoc : additional docs about the functioning of FAAL
+- README.md : readme file ( the present file )
+- TestArticle : folder containing the datasets and codes used in the test case discussed in the article, as well as the scripts to analyse the results - see readme.md within the folder for details
+- TuningDatasets : folder containing the datasets and codes used in the tuning of FAAL discussed in the article, as well as the scripts to analyse the results - see readme.md within the folder for details
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -27,13 +43,16 @@ The resulting tree of your project should be:
  	|	+---FAAL_2.0.0.jar
  	|
  	+---config
- 		+---cons_vows_semi.txt
+ 		+---saliences
+ 			+---salience_cat_1.txt
+ 			+---etc. ...
  		+---external_corr_glob_sim_score_function.txt
+ 		+---features_coarticulation.txt
+ 		+---features_diphthongs.txt
+ 		+---phon_categories.txt
  		+---phon_diacritics.txt
  		+---phon_features.txt
- 		+---salience_features_cons.txt
- 		+---salience_features_semi.txt
- 		+---salience_features_vows.txt
+ 		+---saliences_to_use_matches_phon_categories.txt
 ```
 
 
@@ -55,7 +74,7 @@ Their topic are the following:
 
 ### Example 1
 
-The first option it is the easiest, and consists in using the method FAAL.faal(String, String, Boolean).
+The easiest way to use FAAL consists in using the method FAAL.faal(String, String, Boolean).
 This method requires three arguments:
 
 - word1 (String): IPA transcription of the first word to be aligned.
@@ -124,8 +143,8 @@ The best result, printed after the alignments found by the algorithm, is:
 h	e┊	k	a	0	t	o	n┊	￤
 :0:0┊:k:e:n:t:u:m┊:￤
 :h:e┊:k:a:0:t:o:n┊:￤
-Global Similarity Score: 12.173429683157309
-Corrected Global Similarity Score: 12.19559184531947
+Global Similarity Score: 19.31628682601445
+Corrected Global Similarity Score: 19.268667778395404
 [k - k, e - a, t - t, u - o, m - n]
 [1, 1, 1, 1, 1]
 ```
@@ -146,7 +165,7 @@ In this case, a fourth argument must be added:
 - word1 (String): IPA transcription of the first word to be aligned.
 - word2 (String): IPA transcription of the second word to be aligned.
 - printResults (Boolean): print the results in the console - True = print all the alignments found; False = print only the best alignment.
-- optionExternalFunction (Integer): select if using or not an external function - 0 = do not use any external function; 1 = use external function from config. folder.
+- optionExternalFunction (Integer): select if using or not an external function - 0 = use default settings (with automatic selection of Global or Corrected Global Similarity Score); 1 = use external function from config. folder; 2 = use function provided as next argument; 3 = use only the Global Similarity Score; 4 = use only the default Corrected Global Similarity Score
 
 The following minimal example aligns the English word tongue /tʌŋ/ with the Latin word lingua /liŋgʷa/ the external corrected global similarity score present in the file, which is the same as the default one. The information about how to modify such functions can be found in the file external_corr_glob_sim_score_function.txt itself.
 
@@ -185,8 +204,8 @@ The result, printed after the alignments found by the algorithm, should be:
 ┊l	i	ŋ┊	gʷ	a	￤
 ┊:t:ʌ:ŋ┊:0:0:￤
 ┊:l:i:ŋ┊:g:a:￤
-Global Similarity Score: 5.24828608486196
-Corrected Global Similarity Score: 5.355978392554268
+Global Similarity Score: 7.476375764313508
+Corrected Global Similarity Score: 7.209709097646841
 [t - l, ʌ - i, ŋ - ŋ]
 [1, 1, 1]
 ```
@@ -198,7 +217,7 @@ A new Corrected Global Similarity Score function can also be set programmaticall
 - word1 (String): IPA transcription of the first word to be aligned.
 - word2 (String): IPA transcription of the second word to be aligned.
 - printResults (Boolean): print the results in the console - True = print all the alignments found; False = print only the best alignment.
-- optionExternalFunction (Integer): select if using or not an external function - 0 = do not use any external function; 1 = use external function from config. folder; 2 = use function provided as next argument
+- optionExternalFunction (Integer): select if using or not an external function - 0 = use default settings (with automatic selection of Global or Corrected Global Similarity Score); 1 = use external function from config. folder; 2 = use function provided as next argument; 3 = use only the Global Similarity Score; 4 = use only the default Corrected Global Similarity Score
 - externalFunction (String): alternative function to use for the calculation of the Corrected Global Similarity Score. See readme.md and config/external_corr_glob_sim_score_function.txt for details about the options and syntax of the formula.
 
 The new function must be passed as a string. Basic mathematical operators are recognized, and the following values for the alignment can be retrieved from FAAL and used in the new function:
@@ -206,10 +225,13 @@ The new function must be passed as a string. Basic mathematical operators are re
 ```
 SumFeat = total number of features in common between the two words
 NrFeat = number of phonetic features taken into consideration
-Divider = length of the longest of the two words being aligned
+LongestWord = length of the longest of the two words being aligned
+ShortestWord = length of the shortest of the two words being aligned
 LenSeq = length of the longest matching sequence, without counting initial or final unmatched pairs.
 LenWord1 = length word 1
 LenWord2 = length word 2
+LenAlign = length of the whole alignment, counting initial or final unmatched pairs.
+
 ```
 
 In the default version of FAAL, both the Global and the Corrected Global Similarity Scores are conceived as scores that cumulate the similarities of each pair in the alignment. Therefore, the Global or the Corrected Global Similarity Score of a perfect match word1 = _t_ -  word2 = _t_ is _x_, then the score of a perfect match word1 = _tt_ - word2 =  _tt_ will be _2x_, that of a of a perfect match word1 = _ttt_ - word2 =  _ttt_ will be _3x_, and so on.
@@ -221,18 +243,18 @@ In some cases, however, it can be useful to have also an average score obtained 
 In this current example we will test two functions that provide such a score, one based on the Global Similarity Score, and the other based on the Corrected Global Similarity Score. They are the following:
 
 ```java
-"((SumFeat) / (NrFeat * 7.71)) / Divider"
+"((SumFeat) / (NrFeat * 7.71)) / LongestWord"
 ```
 
-where "((SumFeat) / (NrFeat * 7.71))" is the default Global Similarity Score function and "Divider" is the variable storing the length of the longest word (see here above),
+where "((SumFeat) / (NrFeat * 7.71))" is the default Global Similarity Score function and "LongestWord" is the variable storing the length of the longest word (see here above),
 
 and:
 
 ```java
-"(((SumFeat) / ( 7.71 * NrFeat)) - 1 / ( Divider + ( 1 / Divider ) ) + 1 / ( LenSeq + ( 1 / LenSeq ))) / Divider"
+"(((SumFeat) / (NrFeat * 7.71)) - ((LenSeq - ShortestWord)/1.04 + ((LenAlign - LenSeq)/LenSeq)) * (1-(ShortestWord/LongestWord))) / LongestWord"
 ```
 
-where "(((SumFeat) / ( 7.71 * NrFeat)) - 1 / ( Divider + ( 1 / Divider ) ) + 1 / ( LenSeq + ( 1 / LenSeq )))" is the default Corrected Global Similarity Score function and "Divider" is, again, the variable storing the length of the longest word.
+where "(((SumFeat) / (NrFeat * 7.71)) - ((LenSeq - ShortestWord)/1.04 + ((LenAlign - LenSeq)/LenSeq)) * (1-(ShortestWord/LongestWord)))" is the default Corrected Global Similarity Score function and "LongestWord" is, again, the variable storing the length of the longest word.
 
 In the following code the words θiɣatɛra and doxtəɾ are aligned first according to the default function, and then according to the two functions just described.
 
@@ -258,9 +280,9 @@ public class Example3 {
 
 		// Calculate Global Similarity Score / Length longest word
 		// Global Similarity Score function = ((SumFeat) / (NrFeat * 7.71))
-		// Length longest word = Divider
+		// Length longest word = LongestWord
 
-		String newFunction1 = "((SumFeat) / (NrFeat * 7.71)) / Divider";
+		String newFunction1 = "((SumFeat) / (NrFeat * 7.71)) / LongestWord";
 
 		List<Alignment> resultsAlignments1 = FAAL.align(word1, word2, false, 2, newFunction1);
 
@@ -269,11 +291,10 @@ public class Example3 {
 		PrintAlignmentScoreLenght(resultsAlignments1);
 
 		// Calculate Corrected Global Similarity Score / Length longest word
-		// Corrected Global Similarity Score function = (((SumFeat) / ( 7.71 * NrFeat))
-		// - 1 / ( Divider + ( 1 / Divider ) ) + 1 / ( LenSeq + ( 1 / LenSeq )))
-		// Length longest word = Divider
+		// Corrected Global Similarity Score function = ((SumFeat) / (NrFeat * 7.71)) - ((LenSeq - ShortestWord)/1.04 + ((LenAlign - LenSeq)/LenSeq)) * (1-(ShortestWord/LongestWord))
+		// Length longest word = LongestWord
 
-		String newFunction2 = "(((SumFeat) / ( 7.71 * NrFeat)) - 1 / ( Divider + ( 1 / Divider ) ) + 1 / ( LenSeq + ( 1 / LenSeq ))) / Divider";
+		String newFunction2 = "(((SumFeat) / (NrFeat * 7.71)) - ((LenSeq - ShortestWord)/1.04 + ((LenAlign - LenSeq)/LenSeq)) * (1-(ShortestWord/LongestWord))) / LongestWord";
 
 		List<Alignment> resultsAlignments2 = FAAL.align(word1, word2, false, 2, newFunction2);
 
@@ -325,8 +346,8 @@ The results are the following:
 ┊d	o	x	0	t	ə	ɾ┊	0	￤
 ┊:θ:i:ɣ:a:t:ɛ:r┊:a:￤
 ┊:d:o:x:0:t:ə:ɾ┊:0:￤
-Global Similarity Score: 15.46692607003891
-Corrected Global Similarity Score: 15.483849146961989
+Global Similarity Score: 22.943301834352418
+Corrected Global Similarity Score: 22.667202933253517
 [θ - d, i - o, ɣ - x, t - t, ɛ - ə, r - ɾ]
 [1, 1, 1, 1, 1, 1]
 
@@ -336,8 +357,8 @@ Corrected Global Similarity Score: 15.483849146961989
 ┊d	o	x	0	t	ə	ɾ┊	0	￤
 ┊:θ:i:ɣ:a:t:ɛ:r┊:a:￤
 ┊:d:o:x:0:t:ə:ɾ┊:0:￤
-Global Similarity Score: 15.46692607003891
-New function Score / Length: 1.9333657587548638
+Global Similarity Score: 22.943301834352418
+New function Score / Length: 2.8679127292940523
 [θ - d, i - o, ɣ - x, t - t, ɛ - ə, r - ɾ]
 [1, 1, 1, 1, 1, 1]
 
@@ -347,8 +368,8 @@ New function Score / Length: 1.9333657587548638
 ┊d	o	x	0	t	ə	ɾ┊	0	￤
 ┊:θ:i:ɣ:a:t:ɛ:r┊:a:￤
 ┊:d:o:x:0:t:ə:ɾ┊:0:￤
-Global Similarity Score: 15.46692607003891
-New function Score / Length: 1.9354811433702486
+Global Similarity Score: 22.943301834352418
+New function Score / Length: 2.8334003666566896
 [θ - d, i - o, ɣ - x, t - t, ɛ - ə, r - ɾ]
 [1, 1, 1, 1, 1, 1]
 ```
@@ -410,12 +431,12 @@ public class Example4 {
 		// ==================
 		// Set the personalised parameters for the IPA_Parser module:
 
-		settingsConfigIPA.pathPhoneticFeatures("config/phon_features.txt");
+		settingsConfigIPA.pathPhonologicalFeatures("config/phon_features.txt");
 		settingsConfigIPA.pathPhoneticDiacritics("config/phon_diacritics.txt");
-		settingsConfigIPA.pathSalienceFeaturesConsonants("config/salience_features_cons.txt");
-		settingsConfigIPA.pathSalienceFeaturesVowels("config/salience_features_vows.txt");
-		settingsConfigIPA.pathSalienceFeaturesSemiconsonants("config/salience_features_semi.txt");
-		settingsConfigIPA.parseVowels("yes_vow");
+		settingsConfigIPA.pathFeaturesDiphthongs("config/features_diphthongs.txt");
+		settingsConfigIPA.pathFeaturesCoarticulation("config/features_coarticulation.txt");
+		settingsConfigIPA.pathPhonCategories("config/phon_categories.txt");
+		settingsConfigIPA.saliencesMatchesPhonCategories("config/saliences_to_use_matches_phon_categories.txt");
 
 		// Initialise the configIPA variable:
 
@@ -426,7 +447,7 @@ public class Example4 {
 
 		// Set the MatcherConfig1 personalised parameters for the Matcher module:
 
-		settingsMatcherConfig1.printResults(false); // set to true to print all the results
+		settingsMatcherConfig1.printResults(false); // by default, this value is true
 		settingsMatcherConfig1.minimumLimitFeatures(false);
 		settingsMatcherConfig1.autoDetectMorphBound(true);
 		settingsMatcherConfig1.excludeSemiconsonants(false);
@@ -459,8 +480,8 @@ public class Example4 {
 
 		// Set the MatcherConfig3 personalised parameters for the Matcher module:
 
-		settingsMatcherConfig3.pathSalienceFeaturesConsonants("config/salience_features_cons.txt");
-		settingsMatcherConfig3.pathPhoneClass("config/cons_vows_semi.txt");
+		settingsMatcherConfig3.pathPhonologicalFeatures("config/phon_features.txt");
+		settingsMatcherConfig3.pathPhoneClass("config/phon_categories.txt");
 		settingsMatcherConfig3.pathPhoneticDiacritics("config/phon_diacritics.txt");
 
 		// Initialise the matcherConfig3 variable:
@@ -557,8 +578,8 @@ The results are:
 ┊p	e	k	ç	j͜ʌ	ɭ	g	u┊	￤
 ┊:h:ɐ:k:0:e:0:k:ɯ┊:￤
 ┊:p:e:k:ç:ʌ:ɭ:g:u┊:￤
-Global Similarity Score: 15.239948119325552
-Corrected Global Similarity Score: 15.239948119325552
+Global Similarity Score: 21.42857142857143
+Corrected Global Similarity Score: 20.9478021978022
 [h - p, ɐ - e, k - k, e - ʌ, k - g, ɯ - u]
 [1, 1, 1, 1, 1, 1]
 
@@ -569,8 +590,8 @@ Corrected Global Similarity Score: 15.239948119325552
 ┊p	e	k	￤	ç	j͜ʌ	ɭ	￤	g	u┊	￤
 ┊:h:ɐ:0:￤:k:e:0:￤:k:ɯ┊:￤
 ┊:p:e:k:￤:ç:ʌ:ɭ:￤:g:u┊:￤
-Global Similarity Score: 14.433944784139337
-Corrected Global Similarity Score: 14.433944784139337
+Global Similarity Score: 19.839725773577914
+Corrected Global Similarity Score: 19.358956542808684
 [h - p, ɐ - e, k - ç, e - ʌ, k - g, ɯ - u]
 [1, 1, 1, 1, 1, 1]
 ```
@@ -628,8 +649,8 @@ The results are the following:
 ┊ɒ	l	ɪ	g┊	0	￤	ɑː	k	i	￤
 ┊:ɒ:l:ɪ:g┊:ə:￤:0:0:0:0
 ┊:ɒ:l:ɪ:g┊:0:￤:ɑ:k:i:￤
-Global Similarity Score: 10.292755234389476
-Corrected Global Similarity Score: 10.388049352036534
+Global Similarity Score: 15.508615897720956
+Corrected Global Similarity Score: 15.497626886731945
 [ɒ - ɒ, l - l, ɪ - ɪ, g - g]
 [1, 1, 1, 1]
 ```
@@ -782,8 +803,8 @@ As it appears, the results are the same obtained in Example 1:
 h	e┊	k	a	0	t	o	n┊	￤
 :0:0┊:k:e:n:t:u:m┊:￤
 :h:e┊:k:a:0:t:o:n┊:￤
-Global Similarity Score: 12.17342968315731
-Corrected Global Similarity Score: 12.19559184531947
+Global Similarity Score: 19.31628682601445
+Corrected Global Similarity Score: 19.268667778395404
 [k - k, e - a, t - t, u - o, m - n]
 [1, 1, 1, 1, 1]
 ```
@@ -802,7 +823,7 @@ The following examples show how the config files of FAAL can be modified to diff
 
 The first example shows a possible way to modify FAAL so that the algorithm will include tones in the comparison, and will compare them primarily on the basis of their form (level tone, falling tone, rising tone, dipping tone, peaking tone), and secondarily on the basis of their pitch level or levels.
 
-The aim is to compare two words taken from three different Bai dialects, and taken from List's and Prokić's BDPA database, for which see:
+The aim is to compare two words taken from three different Bai dialects. They are taken from List's and Prokić's BDPA database, for which see:
 
 ```
 http://alignments.lingpy.org
@@ -831,8 +852,6 @@ Mǎzhělóng
 s	əw̯	³³	ʦ	i	⁴⁴
 ```
 
-
-Nota: əw̯
 And according to List's and Prokić's BDPA database ( phonalign_130.msa - see Multiple Alignments, meaning: "fingernail"), their correct alignment is:
 
 ```
@@ -864,13 +883,13 @@ Mǎzhělóng	səw̯￤ʦi
 the following basic implementation of the algorithm can be used:
 
 ```
-FAAL.faal("sɯ￤ʦɨ￤ʦɨ", "ʂɯ￤ti", true)
+FAAL.align("sɯ￤ʦɨ￤ʦɨ", "ʂɯ￤ti", true)
 ```
 
 and 
 
 ```
-FAAL.faal("sɯ￤ʦɨ￤ʦɨ", "səw̯￤ʦi", true)
+FAAL.align("sɯ￤ʦɨ￤ʦɨ", "səw̯￤ʦi", true)
 ```
 
 which results in the following alignments:
@@ -882,9 +901,9 @@ which results in the following alignments:
 ┊:s:ɯ:￤:ʦ:ɨ┊:￤:ʦ:ɨ:￤
 ┊:ʂ:ɯ:￤:t:i┊:￤:0:0:0
 Global Similarity Score:
-9.82490272373541
+14.855475264035576
 Corrected Global Similarity Score:
-9.898034679220306
+14.68880859736891
 Attested Pairs:
 [s - ʂ, ɯ - ɯ, ʦ - t, ɨ - i]
 ----
@@ -894,9 +913,9 @@ Attested Pairs:
 ┊:s:ɯ:￤:ʦ:ɨ:￤:ʦ:ɨ┊:￤
 ┊:ʂ:ɯ:￤:0:0:0:t:i┊:￤
 Global Similarity Score:
-9.82490272373541
+14.855475264035576
 Corrected Global Similarity Score:
-9.82490272373541
+14.214449623009935
 Attested Pairs:
 [s - ʂ, ɯ - ɯ, ʦ - t, ɨ - i]
 ```
@@ -910,9 +929,9 @@ and:
 ┊:s:ɯ:￤:ʦ:ɨ┊:￤:ʦ:ɨ:￤
 ┊:s:ə:￤:ʦ:i┊:￤:0:0:0
 Global Similarity Score:
-10.292755234389476
+15.128775245506763
 Corrected Global Similarity Score:
-10.365887189874373
+14.962108578840096
 Attested Pairs:
 [s - s, ɯ - ə, ʦ - ʦ, ɨ - i]
 ----
@@ -922,15 +941,15 @@ Attested Pairs:
 ┊:s:ɯ:￤:ʦ:ɨ:￤:ʦ:ɨ┊:￤
 ┊:s:ə:￤:0:0:0:ʦ:i┊:￤
 Global Similarity Score:
-10.292755234389476
+15.128775245506763
 Corrected Global Similarity Score:
-10.292755234389476
+14.487749604481122
 Attested Pairs:
 [s - s, ɯ - ə, ʦ - ʦ, ɨ - i]
 ```
 
 
-As it appears, the global similarity score of both alignments in both cases is the same, while the corrected global similarity score is better when the last syllable of the Dàshí and Mǎzhělóng words are aligned with the second syllable of the Qīlǐqiáo form. This normal, because since there is no difference between the last two syllables of the Qīlǐqiáo word, the corrected global similarity score will favour the alignment that are more compact, with less gaps within both words.
+As it appears, the global similarity score of both alignments in both cases is the same, while the corrected global similarity score is better when the last syllable of the Dàshí and Mǎzhělóng words are aligned with the second syllable of the Qīlǐqiáo form. This normal is, because since there is no difference between the last two syllables of the Qīlǐqiáo word, the corrected global similarity score will favour the alignment that are more compact, with less gaps within both words.
 
 Better results can be obtained if tones are considered, and if FAAL's settings are modified accordingly.
 
@@ -983,7 +1002,7 @@ Finally, the sixth tone, ˩˦˧, can also be described as a rising tone [+ featu
 
 
 In order to implement these additional features into FAAL, new versions of the following config files need to be created:
-_phon_features.txt_; _salience_features_cons.txt_; _salience_features_semi.txt_; salience_features_vows.txt
+_phon_features.txt_; _phon_diacritics.txt_ ; _saliences_to_use_matches_phon_categories.txt_ , as well as new versions of the following files within the folder _config/saliences_ : _salience_cat_1.txt_ ; _salience_cat_2.txt_ ; _salience_cat_3.txt_ .
 
 Note that it is better to create new distinct config files and to point to them when running the algorithm (see below), rather than modifying the existing default ones.
 
@@ -1010,16 +1029,16 @@ b	0	-	+	-	-	-	-	-	-	-	+	-	-	+	-	-	-	0	0	0	-	-	0	0	0	0	0	-	0	0	0	0	0	0	0	0	0	0	0	
 ...
 ```
 
-Then, the saliences for these new features need to be configured. To do that, the files _salience_features_cons_contour_tones.txt_; _salience_features_semi_contour_tones.txt_; salience_features_vows_contour_tones.txt need to be created.
+Then, the saliences for these new features need to be configured. To do that, the files _salience_cat_1_contour_tones.txt_; _salience_cat_2_contour_tones.txt_; _salience_cat_3_contour_tones.txt in the _saliences_ subfolder need to be created. Moreover, a new file _saliences_to_use_matches_phon_categories_contour_tones.txt_ explicitly pointing the these salience files needs to be created as well.
 
-Also in this case, the default files _salience_features_cons.txt_; _salience_features_semi.txt_; salience_features_vows.txt can be used as starting points.
+Also in this case, the default files _salience_cat_1.txt_; _salience_cat_2.txt_; _salience_cat_3.txt_ can be used as starting points.
 
 These files all share the same structure: there are two columns, and each line corresponds to a feature. The first column contains the number corresponding to the feature (see files _phon_features.txt_ and _phon_features_contour_tones.txt_), while the second column correspond to the multiplying factor of the salience to be applied to the feature.
 As a good practice, each row is preceded by a line of comment (introduced by %) given a brief description of the feature.
 
 Since the contour of the tones will be the primary comparing factor, the salience of the corresponding features can be increased. It this example we will set it to 5, which is a low but still significant value, compared with the other saliences. Since the levels of the tones will be only a secondary criterion in the comparison, their salience can be low - in this example we set it to 1.
 
-In this example, we treat tones as features of vocalic phonemes only, therefore specific saliences need to be set only in the case a vowel is involved. To do so, the following lines have to be added to each of the new config file _salience_features_vows.txt:
+In this example, we treat tones as features of vocalic phonemes only, therefore specific saliences need to be set only in the case a vowel is involved. As appears from the file _saliences_to_use_matches_phon_categories.txt_ , matches between between vowels are modified by the file _salience_cat_2.txt. Therefore, the following lines have to be added to the new config file _salience_cat_2_contour_tones.txt_:
 
 ```
 % 28 - Tone_contour - level_tone
@@ -1064,7 +1083,7 @@ In this example, we treat tones as features of vocalic phonemes only, therefore 
 47	1
 ```
 
-By contrast, the features related with the tones should be ignored when a consonant or a semivowel is involved. To do so, their saliences have to be set to 0 in the files _salience_features_cons_contour_tones.txt_; _salience_features_semi_contour_tones.txt_. Therefore, these files can be created by adding the following lines to the files _salience_features_cons.txt_; _salience_features_semi.txt_.
+By contrast, the features related with the tones should be ignored when a consonant or a semiconsonant is involved, or when a vowel is matched with a non-vowel. As appears from the file _saliences_to_use_matches_phon_categories.txt_, such matches are modified by the salience files _salience_cat_1.txt and _salience_cat_3.txt. Therefore, the saliences of features related to tones have to be set to 0 in the new files _salience_cat_1_contour_tones.txt_ and _salience_cat_3_contour_tones.txt_. These files can be created by adding the following lines to the files _salience_cat_1.txt_; _salience_cat_3.txt_.
 
 ```
 % 28 - Tone_contour - level_tone
@@ -1108,6 +1127,8 @@ By contrast, the features related with the tones should be ignored when a conson
 % 47 - Tone_end - position 5
 47	0
 ```
+
+Finally, a new file _saliences_to_use_matches_phon_categories_contour_tones.txt_ that explicitely points to these new salience files need to be created. To do so, it is enough to create a new file based on the file _saliences_to_use_matches_phon_categories.txt_ in which all references in the last column to the files _config/saliences/salience_cat_1.txt_ ; _config/saliences/salience_cat_2.txt_ ; _config/saliences/salience_cat_3.txt_ are changed to references to the files _config_contour_tones/saliences/salience_cat_1_contour_tones.txt_ ; _config_contour_tones/saliences/salience_cat_2_contour_tones.txt_ ; _config_contour_tones/saliences/salience_cat_3_contour_tones.txt_ respectively.
 
 Then, a transcription system to mark these features has to be devised. Again, various solutions are possible. In this example the following system is used:
 
@@ -1209,12 +1230,10 @@ public class Example7 {
 		// Set the personalised parameters for the IPA_Parser module.
 		// The location of the new config files to compare the Bai tones needs to be
 		// set here:
-
-		settingsConfigIPA.pathPhoneticFeatures("config_contour_tones/phon_features_contour_tones.txt");
+	
+		settingsConfigIPA.pathPhonologicalFeatures("config_contour_tones/phon_features_contour_tones.txt");
 		settingsConfigIPA.pathPhoneticDiacritics("config_contour_tones/phon_diacritics_contour_tones.txt");
-		settingsConfigIPA.pathSalienceFeaturesConsonants("config_contour_tones/salience_features_cons_contour_tones.txt");
-		settingsConfigIPA.pathSalienceFeaturesVowels("config_contour_tones/salience_features_vows_contour_tones.txt");
-		settingsConfigIPA.pathSalienceFeaturesSemiconsonants("config_contour_tones/salience_features_semi_contour_tones.txt");
+		settingsConfigIPA.saliencesMatchesPhonCategories("config_contour_tones/saliences_to_use_matches_phon_categories_contour_tones.txt");
 
 		// Initialise the configIPA variable:
 
@@ -1252,7 +1271,7 @@ public class Example7 {
 		// files.
 		// For all of the other parameters, the default values are used:
 
-		settingsMatcherConfig3.pathSalienceFeaturesConsonants("config_contour_tones/salience_features_cons_contour_tones.txt");
+		settingsMatcherConfig3.pathPhonologicalFeatures("config_contour_tones/phon_features_contour_tones.txt");
 		settingsMatcherConfig3.pathPhoneticDiacritics("config_contour_tones/phon_diacritics_contour_tones.txt");
 
 		// Initialise the matcherConfig3 variable:
@@ -1343,8 +1362,8 @@ The results are:
 ┊ʂ	ɯ̄³₃	￤	t	î³₁┊	￤	0	0	0
 ┊:s:ɯ:￤:ʦ:ɨ┊:￤:ʦ:ɨ:￤
 ┊:ʂ:ɯ:￤:t:i┊:￤:0:0:0
-Global Similarity Score: 5.947362732382187
-Corrected Global Similarity Score: 6.020494687867084
+Global Similarity Score: 8.881863380890618
+Corrected Global Similarity Score: 8.715196714223952
 [s - ʂ, ɯ - ɯ, ʦ - t, ɨ - i]
 [1, 1, 1, 1]
 
@@ -1354,8 +1373,8 @@ Corrected Global Similarity Score: 6.020494687867084
 ┊s	əw̯̄³₃	￤	0	0	0	ʦ	ī⁴₄┊	￤
 ┊:s:ɯ:￤:ʦ:ɨ:￤:ʦ:ɨ┊:￤
 ┊:s:ə:￤:0:0:0:ʦ:i┊:￤
-Global Similarity Score: 6.2094682230869
-Corrected Global Similarity Score: 6.2094682230869
+Global Similarity Score: 9.030479896238651
+Corrected Global Similarity Score: 8.38945425521301
 [s - s, ɯ - ə, ʦ - ʦ, ɨ - i]
 [1, 1, 1, 1]
 ```
@@ -1390,9 +1409,9 @@ The default configuration of FAAL can correctly align these words, but since the
 
 |  | [kòːɽaː]<br>'horse' | [kóːɽaː]<br>'leper' | [koːɽaː]<br>'whip' |  |
 | --- | --- | --- | --- | --- |
-| [gʰoːɽɑː]<br>'horse' | 10.28349082823791<br>10.28349082823791 | 10.28349082823791<br>10.28349082823791 | 10.28349082823791<br>10.28349082823791 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
-| [koːɽʰi]<br>'leper' | 10.288123031313692<br>10.288123031313694 | 10.288123031313692<br>10.288123031313694 | 10.288123031313692<br>10.288123031313694 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
-| [koːɽɑː]<br>'whip' | 10.292755234389476<br>10.292755234389476 | 10.292755234389476<br>10.292755234389476 | 10.292755234389476<br>10.292755234389476 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
+| [gʰoːɽɑː]<br>'horse' | 15.12414304243098<br>15.12414304243098 | 15.12414304243098<br>15.12414304243098 | 15.12414304243098<br>15.12414304243098 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
+| [koːɽʰi]<br>'leper' | 15.480822679266259<br>15.480822679266259 | 15.480822679266259<br>15.480822679266259 | 15.480822679266259<br>15.480822679266259 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
+| [koːɽɑː]<br>'whip' | 15.133407448582545<br>15.133407448582545 | 15.133407448582545<br>15.133407448582545 | 15.133407448582545<br>15.133407448582545 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
 
 
 It is clear that the Similarity Scores obtained with the default configuration of FAAL can be used to correctly align these words, but it cannot be used to identify which one, among the Punjabi words, is the closer match for each of the Hindi words.
@@ -1403,19 +1422,21 @@ As above, a series of new config files needs to be created. Since here the form 
 
 In this case the high-falling and low-rising tones can be conceptualised as a reflex of the features of the associated consonant from which the derive, historically. 
 
-First of all, the very opposition between "presence of high-falling/low-rising tone" vs "absence of such tones/level tone" can be seen as a feature of the associated consonant.
+First of all, the very opposition between "presence of high-falling or low-rising tone" vs "absence of such tones/level tone" can be seen as a feature of the associated consonant.
 
 Moreover, the high-falling tone can be seen as a reflex of the historical aspiration and voiceness of the previous consonant, while the low-rising tone can be seen as a reflex of the historical aspiration of the following consonant.
 
-Therefore, we can represent these two tones through diacritics referring to the associated consonant. Such diacritics would represent a feature [+ tone], and would modify the features related to aspiration and voice of the associated consonant according to their historical origins.
+Therefore, we can represent these two tones through diacritics linked to the associated consonants. Such diacritics would represent a feature [+ tone], and would modify the features related to aspiration and voice of the associated consonants according to their historical origins.
 
 This approach can be implemented in FAAL as follow (for details about the structure of the config files involved, see Example 7).
 
 First, a new version of the file _phon_features.txt_ needs to be created. The new file is called _phon_features_punjabi_tones.txt_, and can be created by adding one column (no. 28) to the file _phon_features.txt_. This columns represents the new feature _tone_, and its default value can be set to - for all rows/phonemes.
 
-Then, the salience for this new feature has to be set. This can be done through three new config files: _salience_features_cons_punjabi_tones.txt_, _salience_features_vows_punjabi_tones.txt_, and _salience_features_semi_punjabi_tones.txt_.
+Then, the salience for this new feature has to be set. 
 
-Since Punjabi tones are strictly related with consonants, the file _salience_features_cons_punjabi_tones.txt_ can be created by adding the following lines to the file _salience_features_cons.txt_. This new feature will not be an important factor in the alignment process, and its main function will only be to introduce a slight distinction between theoretically possible minimal pairs differing only because of the presence/absence of a tone. Therefore, its salience can be set to 1.
+This can be done through three new config files: _salience_cat_1_punjabi_tones.txt_, _salience_cat_2_punjabi_tones.txt_, and _salience_cat_3_punjabi_tones.txt_.
+
+Since Punjabi tones are strictly related with consonants, and matches involving consonants are modifies by the salience file _salience_cat_1.txt_ (see the file _saliences_to_use_matches_phon_categories.txt_ ), the file _salience_cat_1_punjabi_tones.txt_ can be created by adding the following lines to the file _salience_cat_1.txt_. This new feature will not be an important factor in the alignment process, and its main function will only be to introduce a slight distinction between theoretically possible minimal pairs differing only because of the presence/absence of a tone. Therefore, its salience can be set to 1.
 
 ```
 % 28 - Tone - yes/no
@@ -1435,12 +1456,16 @@ The features modified by the tones, instead, can be set to 2, instead of the def
 12	2
 ```
 
-By contrast, within the perspective adopted in this example, the presence of tones is irrelevant for the comparison of vowels and semiconsonants. Therefore in their case the salience of the new feature _tone_ can be set to 0, and the files _salience_features_vows_punjabi_tones.txt_ and _salience_features_semi_punjabi_tones.txt_ can be created by adding the following lines to the files _salience_features_vows.txt_, and _salience_features_semi.txt_:
+By contrast, within the approach adopted in this example, the presence of tones is irrelevant for matches involving vowels, or matches involving phonemes with different "feature Manner - delayed release" (for details on this point, see file _saliences_to_use_matches_phon_categories.txt_ ). Therefore in these case the salience of the new feature _tone_ can be set to 0, and therefore the files _salience_cat_2_punjabi_tones.txt_ and _salience_cat_3_punjabi_tones.txt_ can be created by adding the following lines to the files _salience_cat_2.txt_, and _salience_cat_3.txt_:
 
 ```
 % 28 - Tone - yes/no
 28	0
 ```
+
+No modification of any other feature is needed.
+
+Finally, a new file _saliences_to_use_matches_phon_categories_punjabi_tones.txt_ that explicitely points to these new salience files need to be created. To do so, it is enough to create a new file based on the file _saliences_to_use_matches_phon_categories.txt_ in which all references in the last column to the files _config/saliences/salience_cat_1.txt_ ; _config/saliences/salience_cat_2.txt_ ; _config/saliences/salience_cat_3.txt_ are changed to references to the files _config_punjabi_tones/saliences/salience_cat_1_punjabi_tones.txt_ ; _config_punjabi_tones/saliences/salience_cat_2_punjabi_tones.txt_ ; _config_punjabi_tones/saliences/salience_cat_3_punjabi_tones.txt_ respectively.
 
 Then, a way to transcribe the tones had to be devised. Since in the systems adopted here tones are conceptualized in relation with nearby consonants, they can be transcribed as diacritics following (in the case of the high-falling tone) or preceding (in the case of the low_rising tone) such consonants. In this example, the characters ˨ (U+02E8) and ꜓ (U+A713) will be used to represent the high-falling tone and the low-rising tone respectively. Since the level tone does not reflect any modification of any associated phoneme, it is left unmarked.
 
@@ -1507,12 +1532,10 @@ public class Example8 {
 		// Set the personalised parameters for the IPA_Parser module.
 		// The location of the new config files to compare the Punjabi tones needs to be
 		// set here:
-
-		settingsConfigIPA.pathPhoneticFeatures("config_punjabi_tones/phon_features_punjabi_tones.txt");
+		
+		settingsConfigIPA.pathPhonologicalFeatures("config_punjabi_tones/phon_features_punjabi_tones.txt");
 		settingsConfigIPA.pathPhoneticDiacritics("config_punjabi_tones/phon_diacritics_punjabi_tones.txt");
-		settingsConfigIPA.pathSalienceFeaturesConsonants("config_punjabi_tones/salience_features_cons_punjabi_tones.txt");
-		settingsConfigIPA.pathSalienceFeaturesVowels("config_punjabi_tones/salience_features_vows_punjabi_tones.txt");
-		settingsConfigIPA.pathSalienceFeaturesSemiconsonants("config_punjabi_tones/salience_features_semi_punjabi_tones.txt");
+		settingsConfigIPA.saliencesMatchesPhonCategories("config_punjabi_tones/saliences_to_use_matches_phon_categories_punjabi_tones.txt");
 
 		// Initialise the configIPA variable:
 
@@ -1550,7 +1573,7 @@ public class Example8 {
 		// files.
 		// For all of the other parameters, the default values are used:
 
-		settingsMatcherConfig3.pathSalienceFeaturesConsonants("config_punjabi_tones/salience_features_cons_punjabi_tones.txt");
+		settingsMatcherConfig3.pathPhonologicalFeatures("config_punjabi_tones/phon_features_punjabi_tones.txt");
 		settingsMatcherConfig3.pathPhoneticDiacritics("config_punjabi_tones/phon_diacritics_punjabi_tones.txt");
 
 		// Initialise the matcherConfig3 variable:
@@ -1723,9 +1746,9 @@ The results are summarized in the following table:
 
 |  | [kòːɽaː]<br>'horse' | [kóːɽaː]<br>'leper' | [koːɽaː]<br>'whip' |  |
 | --- | --- | --- | --- | --- |
-| [gʰoːɽɑː]<br>'horse' | __9.969139943646853__<br>__9.969139943646853__ | 9.942305112035424<br>9.942305112035422 | 9.955722527841138<br>9.955722527841138 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
-| [koːɽʰi]<br>'leper' | 9.942305112035424<br>9.942305112035422 | __9.969139943646853__<br>__9.969139943646853__ | 9.964667471711616<br>9.964667471711614 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
-| [koːɽɑː]<br>'whip' | 9.951250055905899<br>9.951250055905899 | 9.960194999776375<br>9.960194999776377 | __9.973612415582092__<br>__9.973612415582092__ | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
+| [gʰoːɽɑː]<br>'horse' | __14.642873115971197__<br>__14.642873115971197__ | 14.616038284359766<br>14.616038284359766 | 14.629455700165481<br>14.629455700165481 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
+| [koːɽʰi]<br>'leper' | 14.9559461514379<br>14.9559461514379 | __14.98278098304933__<br>__14.98278098304933__ | 14.978308511114092<br>14.978308511114092 | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
+| [koːɽɑː]<br>'whip' | 14.624983228230242<br>14.624983228230242 | 14.63392817210072<br>14.63392817210072 | __14.647345587906436__<br>__14.647345587906436__ | Glob. Sim. Score <br> Corr. Glob. Sim. Score |
 
 
 As it appears, with this configuration FAAL is able to differentiate between the three Punjabi words, and the best matches it identifies for each of the Hindi words (in bold in the table above) are indeed the correct ones.

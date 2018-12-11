@@ -1,0 +1,246 @@
+§_Spanish : French : yo/je
+jo
+ʒə
+§_Spanish : French : tu/tu
+tu
+ty
+§_Spanish : French : nosotros/nous
+nosotros
+nu
+§_Spanish : French : quién/qui
+kj͜en
+ki
+§_Spanish : French : qué/quoi
+ke
+kw͜a
+§_Spanish : French : todos/tous
+todos
+tu
+§_Spanish : French : una/une
+una
+yn
+§_Spanish : French : dos/deux
+dos
+dø
+§_Spanish : French : tres/troix
+tres
+trw͜a
+§_Spanish : French : hombre/homme
+ombre
+om
+§_Spanish : French : árbol/arbre
+arbol
+arbrə
+§_Spanish : French : plume/plume
+pluma
+plym
+§_Spanish : French : cabeza/cap
+kabeθa
+kap
+§_Spanish : French : boca/bouche
+boka
+buʃ
+§_Spanish : French : pie/pied
+pje
+pje
+§_Spanish : French : corazón/coeur
+koraθon
+kør
+§_Spanish : French : ver/voir
+ber
+vw͜ar
+§_Spanish : French : venir/venir
+benir
+vənir
+§_Spanish : French : decir/dire
+deθir
+dir
+§_Spanish : French : pobre/pauvre
+pobre
+povrə
+§_English : German : this/dieses
+ðis
+diːzes
+§_English : German : that/das
+ðæt
+das
+§_English : German : what/was
+wat
+vas
+§_English : German : not/nicht
+nat
+nixt
+§_English : German : long/lang
+loŋ
+laŋ
+§_English : German : man/Mann
+mæn
+man
+§_English : German : flesh/Fleisch
+fleʃ
+flai̯ʃ
+§_English : German : blood/Blut
+bləd
+bluːt
+§_English : German : feather/Feder
+feðər
+feːdər
+§_English : German : hair/Haar
+hær
+haːr
+§_English : German : ear/Ohr
+iːr
+oːr
+§_English : German : eye/Auge
+ai̯
+au̯gə
+§_English : German : nose/Nase
+nou̯z
+naːzə
+§_English : German : mouth/Mund
+mau̯θ
+munt
+§_English : German : tongue/Zunge
+təŋ
+ʦuŋə
+§_English : German : foot/Fuß
+fut
+fuːs
+§_English : German : knee/Knie
+niː
+kniː
+§_English : German : hand/Hand
+hænd
+hant
+§_English : German : hart/Herz
+hart
+herʦ
+§_English : German : liver/Leber
+livər
+leːbər
+§_English : Latin : and/ante
+ænd
+ante
+§_English : Latin : at/at
+æt
+at
+§_English : Latin : blow/flare
+blou̯
+flaːre
+§_English : Latin : ear/auris
+iːr
+aw̯ris
+§_English : Latin : eat/edere
+iːt
+edere
+§_English : Latin : fish/piscis
+fiʃ
+piskis
+§_English : Latin : flow/flu.ere
+flou̯
+fluere
+§_English : Latin : star/stella
+star
+steːlːa
+§_English : Latin : full/plenus
+ful
+pleːnus
+§_English : Latin : grass/gramen
+græs
+graːmen
+§_English : Latin : heart/cordis
+hart
+kordis
+§_English : Latin : horn/cornu
+horn
+kornuː
+§_English : Latin : I/ego
+ai̯
+ego
+§_English : Latin : knee/genu
+niː
+genuː
+§_English : Latin : mother/mater
+məðər
+maːter
+§_English : Latin : mountain/mons
+mau̯ntən
+moːns
+§_English : Latin : new/novus
+niu̯
+now̯us
+§_English : Latin : name/nomen
+name
+nomen
+§_English : Latin : one/unus
+w͜ən
+uːnus
+§_English : Latin : round/rotundus
+rau̯nd
+rotundus
+§_English : Latin : sew/suere
+sou̯
+suere
+§_English : Latin : sit/sedere
+sit
+seːdere
+§_English : Latin : three/tres
+θriː
+treːs
+§_English : Latin : tooth/dentis
+tuθ
+dentis
+§_English : Latin : thin/tenuis
+θin
+tenw͜is
+§_Fox : Menomini : kiinwaawa/kenuaq
+kiːnw͜aːwa
+kenu͜aʔ
+§_Fox : Menomini : niina/nenah
+niːna
+nenah
+§_Fox : Menomini : naapeewa/naapeew
+naːpeːwa
+naːpɛːw
+§_Fox : Menomini : waapimini/waapemen
+waːpimini
+waːpemen
+§_Fox : Menomini : nameesa/nameeqs
+nameːsa
+namɛːʔs
+§_Fox : Menomini : okimaawa/okeemaaw
+okimaːwa
+okeːmaːw
+§_Fox : Menomini : šišiipa/seeqsep
+ʃiːʃiːpa
+seːʔsep
+§_Fox : Menomini : ahkohkwa/ahkeeh
+ahkohkw͜a
+ahkɛːh
+§_Fox : Menomini : pemaatesiweni/pemaateswen
+pemaːtesiweni
+pemaːtesewen
+§_Fox : Menomini : asenya/aqsen
+asenj͜a
+aʔsɛn
+§_Old_Greek : Latin : δίδωμι/do
+didoːmi
+doː
+§_Old_Greek : German : θυγατηρ/Tochter
+tʰugateːr
+toxtər
+§_English : Old_Greek : daughter/θυγατηρ
+dɔːtər
+tʰugateːr
+§_Latin : Sanskrit : ager/ajras
+ager
+aʥras
+§_Sanskrit : Old_Greek : bharāmi/φέρθ
+bʱaraːmi
+pʰero
+§_Latin : Old_Greek : centum/ἕκατον
+kentum
+hekaton
+§_Latin : Iranian : centum/satəm
+kentum
+satəm
