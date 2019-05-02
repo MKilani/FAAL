@@ -1,0 +1,95 @@
+% Saliences for the features of the vowels - see file phon_features.txt for the list of features
+%
+% Lines starting with % are ignored.
+%
+% The structure of this file is the following: there are two columns,
+% and each line corresponds to a feature.
+% The first column contains the number corresponding to the feature (see file phon_features.txt ),
+% while the second column correspond to the multiplying factor of the salience to be applied to the feature.
+% As a good practice, each row is preceded by a line of comment (introduced by %) given a brief description of the feature.
+% Columns are separated by the character "	" (horizontal tab character - U+0009).
+%
+%
+% 0 - diphthong
+0	0
+%
+% 1 - syllabic
+1	500
+%
+% 2 - Manner - consonantal
+2	0
+%
+% 3 - Manner - sonorant
+3	0
+%
+% 4 - Manner - continuant
+4	0
+%
+% 5 - Manner - delayed release
+5	0
+%
+% 6 - Manner - approximant
+6	0
+%
+% 7 - Manner - tap
+7	0
+%
+% 8 - Manner - trill
+8	0
+%
+% 9 - Manner - nasal
+9	0
+%
+% 10 - Laryng. - voice
+10	0
+%
+% 11 - Laryng. - spread glottis
+11	0
+%
+% 12 - Laryng. - constr glottis
+12	0
+%
+% 13 - Place - labial
+13	0
+%
+% 14 - Place - round
+14	60
+%
+% 15 - Place - labiodental
+15	0
+%
+% 16 - Place - coronal
+16	0
+%
+% 17 - Place - anterior
+17	0
+%
+% 18 - Place - distributed
+18	0
+%
+% 19 - Place - strident
+19	0
+%
+% 20 - Place - lateral
+20	0
+%
+% 21 - Place - dorsal
+21	0
+%
+% 22 - Place - high
+22	1
+%
+% 23 - Place - low
+23	1
+%
+% 24 - Place - front
+24	40
+%
+% 25 - Place - back
+25	40
+%
+% 26 - Place - tense
+26	1
+%
+% 27 - Place - long
+27	1

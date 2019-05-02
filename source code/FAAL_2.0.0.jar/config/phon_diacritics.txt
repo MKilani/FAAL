@@ -1,0 +1,58 @@
+% List of diacritics used in the IPA transcriptions
+%
+% Lines starting with % are ignored.
+%
+% This file has three columns, and each line corresponds to a diacritic. 
+% The first column contains the diacritic character, 
+% the second column contains an index indicating if the diacritic character is written 
+% before (marked as 1) or after (marked as 0) the phoneme it modifies. 
+% Finally, the third column contains the features of the main phonemes that are modified by the diacritic.
+% The format of this last column is: 
+% nr_of_the_feature_to_be_modified - semicolon - new_value_of_the_feature. 
+% When more than one feature is modified by the same diacritic, 
+% all the features are listed in the third column 
+% according to the format just described, separated by a space (U+0020).
+% Columns are separated by the character "	" (horizontal tab character - U+0009).
+%
+% As a good practice, each row is preceded by a line of comment (introduced by %) describing the function of the diacritic.
+%
+% creaky voice
+̰	0	11;- 12;+
+% breathy voice
+̤	0	11;+ 12;-
+% voiceless
+̥	0	10;-
+% palato-alveolar
+˗	0	17;- 18;+
+% dental
+̪	0	17;+ 18;+
+% fronted velar
+˖	0	24;+ 25;-
+% backed velar
+̱	0	24;- 25;+
+% long
+:	0	27;+
+% graphic variant of the previous one
+ː	0	27;+
+% aspirated
+ʰ	0	11;+ 12;-
+% palatalised
+ʲ	0	21;+ 22;+ 23;- 24;+ 25;-
+% labialised
+ʷ	0	13;+ 14;+
+% rounded
+ᵝ	0	13;+ 14;+
+% velarised
+ˠ	0	21;+ 22;+ 23;- 24;- 25;+
+% pharyngealised
+ˤ	0	21;+ 22;- 23;+ 24;- 25;+
+% graphic variant of the previous one
+ˁ	0	21;+ 22;- 23;+ 24;- 25;+
+% nasalised
+~	0	9;+
+% rhotic
+˞	0	16;+ 17;+ 18;+ 19;-
+% ejective
+ʼ	0	11;- 12;+
+% pre-nasalised
+ⁿ	1	9;+
