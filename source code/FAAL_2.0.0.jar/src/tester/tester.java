@@ -25,6 +25,9 @@ public class tester {
 	public static void main(String[] args) throws Exception {
 		
 		
+		long startTime = System.nanoTime();
+		
+		
 		String word_1 = "hɐ￤kːe￤kʲːɯː";
 		String word_2 = "pek￤çj͜ʌɭ￤gu";
 		
@@ -54,7 +57,11 @@ public class tester {
 		System.out.println(Results_matcher.get(0).getPhoneticPairs() );
 		System.out.println(Results_matcher.get(0).getNrAttestationsPhoneticPairs() );
 		
-	   
+		long endTime = System.nanoTime();
+
+		long duration = (endTime - startTime);
+		System.out.println("Duration in msec: ");
+		System.out.println(duration/1000000);
 		
 		}
 }

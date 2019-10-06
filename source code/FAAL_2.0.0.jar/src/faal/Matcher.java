@@ -16,12 +16,24 @@
 package faal;
 
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Set;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 
 import exp4j.Expression;
 import exp4j.ExpressionBuilder;
 
+import faal.ThreadBeforeMax;
+
 public class Matcher {
+	
+	
 
 	/**
 	 * Method corresponding to the Matcher module. It parses one pair of words at a
@@ -75,9 +87,11 @@ public class Matcher {
 	 *         7. .getNrAttestationsPhoneticPairs() - List&lt;Integer&gt;: Returns the number of attestations within the alignment
 	 *         for each phonetic pair of point 6. here above.
 	 *         <p>
+	 * @throws ExecutionException 
+	 * @throws InterruptedException 
 	 */
 	public static List<Alignment> match(String word1Parsed, String word2Parsed, int[][] matrixResultComparison,
-			int[][] matrixResultComparisonOriginal, String word1Unparsed, String word2Unparsed) {
+			int[][] matrixResultComparisonOriginal, String word1Unparsed, String word2Unparsed) throws InterruptedException, ExecutionException {
 
 		List<Alignment> results = new ArrayList<>();
 		List<Boolean> matcherConfig1 = new ArrayList<Boolean>();
@@ -210,11 +224,13 @@ public class Matcher {
 	 *         7. .getNrAttestationsPhoneticPairs() - List&lt;Integer&gt;: Returns the number of attestations within the alignment
 	 *         for each phonetic pair of point 6. here above.
 	 *         <p>
+	 * @throws ExecutionException 
+	 * @throws InterruptedException 
 	 */
 	public static List<Alignment> match(String word1Parsed, String word2Parsed, int[][] matrixResultComparison,
 			int[][] matrixResultComparisonOriginal, String word1Unparsed, String word2Unparsed,
 			List<Boolean> matcherConfig1, List<Integer> matcherConfig2, List<String> matcherConfig3,
-			List<Double> matcherConfig4, Integer optionFunction, String externalFunction) {
+			List<Double> matcherConfig4, Integer optionFunction, String externalFunction) throws InterruptedException, ExecutionException {
 
 		List<List<String>> indexPhoneticPairs = new ArrayList<>();
 		List<List<Integer>> indexPhoneticPairsValue = new ArrayList<>();
@@ -317,8 +333,8 @@ public class Matcher {
 
 		boolean newItem = true;
 
-		int nextCharacter;
-		int nextCharacter_Tail;
+		int nextCharacter = 0;
+		int nextCharacter_Tail = 0;
 
 		int lengthWord1 = word1.length();
 		int lengthWord2 = word2.length();
@@ -400,6 +416,7 @@ public class Matcher {
 
 		List<int[]> sequence = new ArrayList<int[]>();
 		List<int[]> sequence_Tail = new ArrayList<int[]>();
+		
 
 		List<List<Integer>> listWord1Pre = new ArrayList<List<Integer>>();
 		List<List<Integer>> listWord2Pre = new ArrayList<List<Integer>>();
@@ -517,557 +534,111 @@ public class Matcher {
 				;
 			}
 			;
+			
+			
+	          
+	          
+	          ExecutorService pool = Executors.newFixedThreadPool(2);
+	          // Wait until One finishes it's task.
+	          pool.submit(new ThreadBeforeMax (bestPairs, sequence, matrixResultComparison, sequenceCount, index)).get();
+	          // Wait until Two finishes it's task.
+	          pool.submit(new ThreadAfterMax (lengthWord1, lengthWord2, bestPairs, sequence_Tail, matrixResultComparison, sequenceCount_Tail, index_Tail)).get();
 
-			// loop to build the matches - before max value
-			for (int a = 0; a < bestPairs.length; a++) {
-				bestPairs[a] = 0;
-			}
+	          pool.shutdown();
+	          
+	          
 
-			for (int z = 0; z < sequence.size(); z++) {
-				if (sequence.get(z)[1] > 0 & sequence.get(z)[2] > 0) {
-					// search for max values
-					for (int n = 0; n < sequence.get(z)[2]; n++) {
-						int i = sequence.get(z)[1] - 1;
-						for (int a = 0; a < bestPairs.length; a++) {
-							if (matrixResultComparison[i][n] > 0 & matrixResultComparison[i][n] == bestPairs[a]) {
-								break;
-							}
-							if (matrixResultComparison[i][n] < 0) {
-								break;
-							}
-							if (matrixResultComparison[i][n] > bestPairs[a]) {
-								if (a < bestPairs.length) {
-									for (int x = bestPairs.length - 1; x > a; x--) {
-										bestPairs[x] = bestPairs[x - 1];
-									}
-								}
-								bestPairs[a] = matrixResultComparison[i][n];
-								break;
-							}
-						}
-						;
-					}
-					;
-					for (int i = 0; i < sequence.get(z)[1]; i++) {
-						int n = sequence.get(z)[2] - 1;
-						for (int a = 0; a < bestPairs.length; a++) {
-							if (matrixResultComparison[i][n] > 0 & matrixResultComparison[i][n] == bestPairs[a]) {
-								break;
-							}
-							if (matrixResultComparison[i][n] < 0) {
-								break;
-							}
-							if (matrixResultComparison[i][n] > bestPairs[a]) {
-								if (a < bestPairs.length) {
-									for (int x = bestPairs.length - 1; x > a; x--) {
-										bestPairs[x] = bestPairs[x - 1];
-									}
-								}
-								bestPairs[a] = matrixResultComparison[i][n];
-								break;
-							}
-						}
-						;
-					}
-					;
-					// - store max values
-					for (int i = 0; i < sequence.get(z)[1]; i++) {
-						for (int n = 0; n < sequence.get(z)[2]; n++) {
-							for (int x = 0; x < bestPairs.length; x++) {
-								if (matrixResultComparison[i][n] == bestPairs[x]) {
-
-									int[] sequenceData = { sequenceCount, i, n, matrixResultComparison[i][n], index, z,
-											0 };
-									sequence.add(sequenceData);
-									sequenceCount++;
-									index++;
-								}
-								;
-							}
-							;
-						}
-						;
-					}
-					;
-					for (int a = 0; a < bestPairs.length; a++) {
-						bestPairs[a] = 0;
-					}
-				} else {
-					sequence.get(z)[6] = 1;
-				}
-			}
-			;
-
-			// -----
-			// =========
-			// loop to build the matches - after max value
-			for (int a = 0; a < bestPairs.length; a++) {
-				bestPairs[a] = 0;
-			}
-
-			for (int z = 0; z < sequence_Tail.size(); z++) {
-				for (int a = 0; a < bestPairs.length; a++) {
-					bestPairs[a] = 0;
-				}
-				if (sequence_Tail.get(z)[1] + 1 < lengthWord1 & sequence_Tail.get(z)[2] + 1 < lengthWord2) {
-					// search for max values
-					for (int i = sequence_Tail.get(z)[1] + 1; i < lengthWord1; i++) {
-						int n = sequence_Tail.get(z)[2] + 1;
-						// for(int n = sequence_Tail.get(z)[2]+1; n < lengthWord2; n++){
-						// int check = 0;
-						for (int a = 0; a < bestPairs.length; a++) {
-							// check = matrixResultComparison[i][n];
-							if (matrixResultComparison[i][n] > 0 & matrixResultComparison[i][n] == bestPairs[a]) {
-								break;
-							}
-							if (matrixResultComparison[i][n] < 0) {
-								break;
-							}
-							if (matrixResultComparison[i][n] > bestPairs[a]) {
-								if (a < bestPairs.length) {
-									for (int x = bestPairs.length - 1; x > a; x--) {
-										bestPairs[x] = bestPairs[x - 1];
-									}
-								}
-								bestPairs[a] = matrixResultComparison[i][n];
-								break;
-							}
-						}
-						;
-						// };
-					}
-					;
-
-					// for(int i = sequence_Tail.get(z)[1]+1; i < lengthWord1; i++){
-
-					for (int n = sequence_Tail.get(z)[2] + 1; n < lengthWord2; n++) {
-						int i = sequence_Tail.get(z)[1] + 1;
-						// int check = 0;
-						for (int a = 0; a < bestPairs.length; a++) {
-							// check = matrixResultComparison[i][n];
-							if (matrixResultComparison[i][n] > 0 & matrixResultComparison[i][n] == bestPairs[a]) {
-								break;
-							}
-							if (matrixResultComparison[i][n] < 0) {
-								break;
-							}
-							if (matrixResultComparison[i][n] > bestPairs[a]) {
-								if (a < bestPairs.length) {
-									for (int x = bestPairs.length - 1; x > a; x--) {
-										bestPairs[x] = bestPairs[x - 1];
-									}
-								}
-								bestPairs[a] = matrixResultComparison[i][n];
-								break;
-							}
-						}
-						;
-						// };
-					}
-					;
-					// ---- store max values
-					for (int i = sequence_Tail.get(z)[1] + 1; i < lengthWord1; i++) {
-						for (int n = sequence_Tail.get(z)[2] + 1; n < lengthWord2; n++) {
-							for (int x = 0; x < bestPairs.length; x++) {
-								if (matrixResultComparison[i][n] == bestPairs[x]) {
-
-									int[] sequenceData_Tail = { sequenceCount_Tail, i, n, matrixResultComparison[i][n],
-											index_Tail, z, 0 };
-									sequence_Tail.add(sequenceData_Tail);
-									sequenceCount_Tail++;
-									index_Tail++;
-								}
-								;
-							}
-							;
-						}
-						;
-					}
-					;
-					for (int a = 0; a < bestPairs.length; a++) {
-						bestPairs[a] = 0;
-					}
-				} else {
-					sequence_Tail.get(z)[6] = 9;
-				}
-				for (int a = 0; a < bestPairs.length; a++) {
-					bestPairs[a] = 0;
-				}
-			}
-			;
-
+			
 			// ==========
 			// Build alignments
 
 			// ---------
 			// Build initial sequence
-
-			for (int z = 0; z < sequence.size(); z++) {
-
-				if (sequence.get(z)[6] == 1) {
-
-					List<Integer> listLine1 = new ArrayList<Integer>(0);
-					List<Integer> listLine2 = new ArrayList<Integer>(0);
-
-					List<Integer> item1 = new ArrayList<Integer>();
-					List<Integer> item2 = new ArrayList<Integer>();
-
-					line1 = line1 + word1.charAt(sequence.get(z)[1]);
-					line2 = line2 + word2.charAt(sequence.get(z)[2]);
-
-					listLine1.add(sequence.get(z)[1]);
-					listLine2.add(sequence.get(z)[2]);
-
-					nextCharacter = sequence.get(z)[5];
-
-					for (int i = sequence.size() - 1; i > -1; i--) {
-
-						if (sequence.get(i)[4] == nextCharacter) {
-							nextCharacter = sequence.get(i)[5];
-							listLine1.add(sequence.get(i)[1]);
-							listLine2.add(sequence.get(i)[2]);
-
-							line1 = line1 + word1.charAt(sequence.get(i)[1]);
-							line2 = line2 + word2.charAt(sequence.get(i)[2]);
-						}
-
-					}
-
-					int gap = 0;
-					int difference = 0;
-
-					line1 = line1 + ":";
-					line2 = line2 + ":";
-
-					for (int i = 0; i < listLine1.size(); i++) {
-						if (i == 0) {
-							difference = listLine1.get(i) - listLine2.get(i);
-						} else {
-							difference = (listLine1.get(i) - listLine1.get(i - 1))
-									- (listLine2.get(i) - listLine2.get(i - 1));
-						}
-						;
-
-						if (difference == 0) {
-							if (i == 0) {
-								line1 = line1 + word1.charAt(listLine1.get(i));
-								line2 = line2 + word2.charAt(listLine2.get(i));
-								item1.add(listLine1.get(i));
-								item2.add(listLine2.get(i));
-							} else {
-								gap = listLine1.get(i) - listLine1.get(i - 1);
-								if (gap == 1) {
-									line1 = line1 + "-" + word1.charAt(listLine1.get(i));
-									line2 = line2 + "-" + word2.charAt(listLine2.get(i));
-									item1.add(listLine1.get(i));
-									item2.add(listLine2.get(i));
-								} else if (gap > 1) {
-									for (int n = 1; n <= gap - 1; n++) {
-										line1 = line1 + word1.charAt(listLine1.get(i - 1) + n) + "-0";
-										line2 = line2 + "-0" + word2.charAt(listLine2.get(i - 1) + n);
-										item1.add(listLine1.get(i - 1) + n);
-										item1.add(-1);
-										item2.add(-1);
-										item2.add(listLine2.get(i - 1) + n);
-									}
-
-									line1 = line1 + "-" + word1.charAt(listLine1.get(i));
-									line2 = line2 + "-" + word2.charAt(listLine2.get(i));
-									item1.add(listLine1.get(i));
-									item2.add(listLine2.get(i));
-
-								}
-							}
-						}
-						if (difference < 0) {
-
-							if (i > 0) {
-								gap = listLine1.get(i) - listLine1.get(i - 1);
-							}
-							if (gap > 1) {
-								for (int n = 1; n < gap; n++) {
-									line1 = line1 + "-" + word1.charAt(listLine1.get(i - 1) + n) + "-0";
-									line2 = line2 + "-0-" + word2.charAt(listLine2.get(i - 1) + n);
-									item1.add(listLine1.get(i - 1) + n);
-									item1.add(-1);
-									item2.add(-1);
-									item2.add(listLine2.get(i - 1) + n);
-								}
-							}
-							// ----
-							for (int n = -1 * difference; n > 0; n--) {
-								line1 = line1 + "-0";
-								line2 = line2 + "-" + word2.charAt(listLine2.get(i) - n);
-								item1.add(-1);
-								item2.add(listLine2.get(i) - n);
-							}
-
-							line1 = line1 + "-" + word1.charAt(listLine1.get(i));
-							line2 = line2 + "-" + word2.charAt(listLine2.get(i));
-							item1.add(listLine1.get(i));
-							item2.add(listLine2.get(i));
-							// -------
-
-						} else if (difference > 0) {
-
-							if (i > 0) {
-								gap = listLine2.get(i) - listLine2.get(i - 1);
-							}
-							if (gap > 1) {
-								for (int n = 1; n < gap; n++) {
-									line1 = line1 + "-" + word1.charAt(listLine1.get(i - 1) + n) + "-0";
-									line2 = line2 + "-0-" + word2.charAt(listLine2.get(i - 1) + n);
-									item1.add(listLine1.get(i - 1) + n);
-									item1.add(-1);
-									item2.add(-1);
-									item2.add(listLine2.get(i - 1) + n);
-								}
-							}
-							// ----
-							for (int n = difference; n > 0; n--) {
-								line2 = line2 + "-0";
-								line1 = line1 + "-" + word1.charAt(listLine1.get(i) - n);
-								item2.add(-1);
-								item1.add(listLine1.get(i) - n);
-							}
-
-							line1 = line1 + "-" + word1.charAt(listLine1.get(i));
-							line2 = line2 + "-" + word2.charAt(listLine2.get(i));
-							item1.add(listLine1.get(i));
-							item2.add(listLine2.get(i));
-							// -------
-
-						}
-
-					}
-					gap = 0;
-					difference = 0;
-
-					line1 = "";
-					line2 = "";
-
-					boolean alreadyListed_Pre = false;
-
-					for (int g = 0; g < listWord1Pre.size(); g++) {
-						if (listWord1Pre.get(g).equals(item1) & listWord2Pre.get(g).equals(item2)) {
-							alreadyListed_Pre = true;
-							break;
-						}
-					}
-
-					if (alreadyListed_Pre == false) {
-						listWord1Pre.add(item1);
-						listWord2Pre.add(item2);
-						alreadyListed_Pre = true;
-					}
-
-				}
-				;
-
-			}
+	          
+	          
+	          List<List<List<Integer>>> initialSeqs = new ArrayList<List<List<Integer>>>();
+	          List<List<List<Integer>>> tailSeqs = new ArrayList<List<List<Integer>>>();
+	          
+	          ExecutorService pool1 = Executors.newFixedThreadPool(2);
+	          // Wait until One finishes it's task.
+	          pool1.submit(new ThreadInitialSeq (initialSeqs, sequence, line1, word1, line2, word2, nextCharacter)).get();
+	          
+	          line1 = "";
+	          line2 = "";
+				
+	          // Wait until Two finishes it's task.
+	          pool1.submit(new ThreadTailSeq (lengthWord1, lengthWord2, tailSeqs, sequence_Tail, line1, word1, line2, word2, nextCharacter_Tail)).get();
+	          
+	          pool1.shutdown();
+	          
+	          
+	         //-----
+	         
+			//======
+			
+			
+			listWord1Pre.addAll(initialSeqs.get(0));
+			listWord2Pre.addAll(initialSeqs.get(1));
+			
+			listWord1Post.addAll(tailSeqs.get(0));
+			listWord2Post.addAll(tailSeqs.get(1));
+			
 
 			line1 = "";
 			line2 = "";
 
-			// System.out.println("-------");
-			// build final sequence
-			for (int z = 0; z < sequence_Tail.size(); z++) {
-				if (sequence_Tail.get(z)[6] == 9) {
-
-					List<Integer> line1Tail_Inverted = new ArrayList<Integer>(0);
-					List<Integer> line2Tail_Inverted = new ArrayList<Integer>(0);
-					List<Integer> line1_Tail = new ArrayList<Integer>(0);
-					List<Integer> line2_Tail = new ArrayList<Integer>(0);
-
-					List<Integer> item1_2 = new ArrayList<Integer>();
-					List<Integer> item2_2 = new ArrayList<Integer>();
-
-					line1Tail_Inverted.add(sequence_Tail.get(z)[1]);
-					line2Tail_Inverted.add(sequence_Tail.get(z)[2]);
-
-					nextCharacter_Tail = sequence_Tail.get(z)[5];
-
-					for (int i = sequence_Tail.size() - 1; i > -1; i--) {
-
-						if (sequence_Tail.get(i)[4] == nextCharacter_Tail) {
-							nextCharacter_Tail = sequence_Tail.get(i)[5];
-							line1Tail_Inverted.add(sequence_Tail.get(i)[1]);
-							line2Tail_Inverted.add(sequence_Tail.get(i)[2]);
-
-						}
-
-					}
-
-					for (int i = line1Tail_Inverted.size() - 1; i > -1; i--) {
-						line1_Tail.add(line1Tail_Inverted.get(i));
-						line2_Tail.add(line2Tail_Inverted.get(i));
-					}
-
-					for (int i = 0; i < line1Tail_Inverted.size(); i++) {
-						line1 = line1 + word1.charAt(line1Tail_Inverted.get(i));
-						line2 = line2 + word2.charAt(line2Tail_Inverted.get(i));
-					}
-
-					int gap = 0;
-					int difference = 0;
-
-					line1 = line1 + "::";
-					line2 = line2 + "::";
-
-					for (int i = 0; i < line1_Tail.size(); i++) {
-						if (i == 0) {
-							difference = line1_Tail.get(i) - line2_Tail.get(i);
-						} else {
-							difference = (line1_Tail.get(i) - line1_Tail.get(i - 1))
-									- (line2_Tail.get(i) - line2_Tail.get(i - 1));
-						}
-						;
-
-						if (difference == 0) {
-							if (i == 0) {
-								line1 = line1 + word1.charAt(line1_Tail.get(i));
-								line2 = line2 + word2.charAt(line2_Tail.get(i));
-								item1_2.add(line1_Tail.get(i));
-								item2_2.add(line2_Tail.get(i));
-
-							} else {
-								gap = line1_Tail.get(i) - line1_Tail.get(i - 1);
-								if (gap == 1) {
-									line1 = line1 + "-" + word1.charAt(line1_Tail.get(i));
-									line2 = line2 + "-" + word2.charAt(line2_Tail.get(i));
-									item1_2.add(line1_Tail.get(i));
-									item2_2.add(line2_Tail.get(i));
-
-								} else if (gap > 1) {
-									for (int n = 1; n <= gap - 1; n++) {
-										line1 = line1 + "-" + word1.charAt(line1_Tail.get(i - 1) + n) + "-0";
-										line2 = line2 + "-0-" + word2.charAt(line2_Tail.get(i - 1) + n);
-										item1_2.add(line1_Tail.get(i - 1) + n);
-										item1_2.add(-1);
-										item2_2.add(-1);
-										item2_2.add(line2_Tail.get(i - 1) + n);
-									}
-
-									line1 = line1 + "-" + word1.charAt(line1_Tail.get(i));
-									line2 = line2 + "-" + word2.charAt(line2_Tail.get(i));
-									item1_2.add(line1_Tail.get(i));
-									item2_2.add(line2_Tail.get(i));
-
-								}
-							}
-						}
-						if (difference < 0) {
-
-							if (i > 0) {
-								gap = line1_Tail.get(i) - line1_Tail.get(i - 1);
-							}
-							if (gap > 1) {
-								for (int n = 1; n < gap; n++) {
-									line1 = line1 + "-" + word1.charAt(line1_Tail.get(i - 1) + n) + "-0";
-									line2 = line2 + "-0-" + word2.charAt(line2_Tail.get(i - 1) + n);
-									item1_2.add(line1_Tail.get(i - 1) + n);
-									item1_2.add(-1);
-									item2_2.add(-1);
-									item2_2.add(line2_Tail.get(i - 1) + n);
-								}
-							}
-							// ----
-							for (int n = -1 * difference; n > 0; n--) {
-								if (item1_2.size() > 0) {
-									line1 = line1 + "-0";
-									line2 = line2 + "-" + word2.charAt(line2_Tail.get(i) - n);
-									item1_2.add(-1);
-									item2_2.add(line2_Tail.get(i) - n);
-								}
-							}
-
-							line1 = line1 + "-" + word1.charAt(line1_Tail.get(i));
-							line2 = line2 + "-" + word2.charAt(line2_Tail.get(i));
-							item1_2.add(line1_Tail.get(i));
-							item2_2.add(line2_Tail.get(i));
-							// -------
-
-						} else if (difference > 0) {
-
-							if (i > 0) {
-								gap = line2_Tail.get(i) - line2_Tail.get(i - 1);
-							}
-							if (gap > 1) {
-								for (int n = 1; n < gap; n++) {
-									line1 = line1 + "-" + word1.charAt(line1_Tail.get(i - 1) + n) + "-0";
-									line2 = line2 + "-0-" + word2.charAt(line2_Tail.get(i - 1) + n);
-									item1_2.add(line1_Tail.get(i - 1) + n);
-									item1_2.add(-1);
-									item2_2.add(-1);
-									item2_2.add(line2_Tail.get(i - 1) + n);
-								}
-							}
-							// ----
-							for (int n = difference; n > 0; n--) {
-								if (item1_2.size() > 0) {
-									line2 = line2 + "-0";
-									line1 = line1 + "-" + word1.charAt(line1_Tail.get(i) - n);
-									item2_2.add(-1);
-									item1_2.add(line1_Tail.get(i) - n);
-								}
-							}
-
-							line1 = line1 + "-" + word1.charAt(line1_Tail.get(i));
-							line2 = line2 + "-" + word2.charAt(line2_Tail.get(i));
-							item1_2.add(line1_Tail.get(i));
-							item2_2.add(line2_Tail.get(i));
-							// -------
-
-						}
-
-					}
-
-					if (item1_2.get(item1_2.size() - 1) != lengthWord1 - 1) {
-						for (int i = item1_2.get(item1_2.size() - 1) + 1; i < lengthWord1; i++) {
-							item1_2.add(i);
-							item2_2.add(-1);
-							line1 = line1 + ":" + word1.charAt(i);
-							line2 = line2 + "-0";
-						}
-					} else if (item2_2.get(item2_2.size() - 1) != lengthWord2 - 1) {
-						for (int i = item2_2.get(item2_2.size() - 1) + 1; i < lengthWord2; i++) {
-							item1_2.add(-1);
-							item2_2.add(i);
-							line1 = line1 + "-0";
-							line2 = line2 + ":" + word2.charAt(i);
-						}
-					}
-
-					gap = 0;
-					difference = 0;
-
-					line1 = "";
-					line2 = "";
-
-					boolean alreadyListed_Post = false;
-					for (int g = 0; g < listWord1Post.size(); g++) {
-						if (listWord1Post.get(g).equals(item1_2) & listWord2Post.get(g).equals(item2_2)) {
-							alreadyListed_Post = true;
-							break;
-						}
-					}
-
-					if (alreadyListed_Post == false) {
-						listWord1Post.add(item1_2);
-						listWord2Post.add(item2_2);
-						alreadyListed_Post = true;
-					}
-
-				}
-			}
+			
+			
+			
 
 			// join initial and final sequences
+			
+			
+			
+			//this part is conceived if one wants to split the joining of the sequences into batches - this approach may speed up he algorithm, but it is not implemented here
+			List<Integer> batches = new ArrayList<Integer>();
+			
+			batches.add(0);
+			
+			for (int w = 1; w < 100000; w++){
+					
+				if (w*10 > listWord1Pre.size()) {
+					batches.add(listWord1Pre.size());
+					break;
+				}else {
+					batches.add(w*10);
+				}
+			}
+			
+			List<List<List<Integer>>> listMatchedSeqTemp = new ArrayList<List<List<Integer>>>();
+			
+			
+			/*
+			[
+			 [IN, [A], [B]]*/
+			
+			List<List<List<List<Integer>>>> listMatchedSeqTempBatchThreads = new ArrayList<List<List<List<Integer>>>>();
+			
+			List<List<List<Integer>>> listMatchedSeqTempBatch = new ArrayList<List<List<Integer>>>();
+			
+			List<List<List<Integer>>> listMatchedSeqTempCleaned = new ArrayList<List<List<Integer>>>();
+			
 
+			
+			
+			
+			
+			
 			for (int i = 0; i < listWord1Pre.size(); i++) {
 				for (int n = 0; n < listWord1Post.size(); n++) {
 
 					List<Integer> match1_Pre_Post = new ArrayList<Integer>();
 					List<Integer> match2_Pre_Post = new ArrayList<Integer>();
+					List<Integer> indexes = new ArrayList<Integer>();
+					indexes.add(i);
+					indexes.add(n);
+					
+					List<List<Integer>> entry = new ArrayList<List<Integer>>();
 
 					if (listWord1Pre.get(i).get(listWord1Pre.get(i).size() - 1) == listWord1Post.get(n).get(0)
 							& listWord2Pre.get(i).get(listWord2Pre.get(i).size() - 1) == listWord2Post.get(n).get(0)) {
@@ -1089,8 +660,15 @@ public class Matcher {
 
 						line1 = "";
 						line2 = "";
+						
+						//entry.add(indexes);
+						entry.add(match1_Pre_Post);
+						entry.add(match2_Pre_Post);
+						
+						listMatchedSeqTemp.add(entry);
 
 						newItem = true;
+						/*
 						if (matchWord1.size() < 1) {
 							matchWord1.add(match1_Pre_Post);
 							matchWord2.add(match2_Pre_Post);
@@ -1106,18 +684,56 @@ public class Matcher {
 								matchWord2.add(match2_Pre_Post);
 							}
 
-						}
+						}*/
 					}
 				}
 			}
 
+			//=============
+			
+			//combine batches of sequences all together into a single list
+			
+			listMatchedSeqTempBatchThreads.add(listMatchedSeqTemp);
+			
+			for (int i = 0; i < listMatchedSeqTempBatchThreads.size(); i++) {
+				for (int n = 0; n < listMatchedSeqTempBatchThreads.get(i).size(); n++) {
+					
+					listMatchedSeqTempBatch.add(listMatchedSeqTempBatchThreads.get(i).get(n));
+					
+				}
+			}
+			
 			// delete double matches
-			newItem = false;
+			
+			Set<List<List<Integer>>> set = new LinkedHashSet<>(listMatchedSeqTempBatch);
+			listMatchedSeqTempBatch.clear();
+			listMatchedSeqTempBatch.addAll(set);
+			/*
+			List<List<Integer>> matchWord1_Temp = new ArrayList<>();
+			List<List<Integer>> matchWord2_Temp = new ArrayList<>();
+			*/
+			
+			for (int i = 0; i < listMatchedSeqTempBatch.size(); i++) {
+				matchWord1.add(listMatchedSeqTempBatch.get(i).get(0));
+				matchWord2.add(listMatchedSeqTempBatch.get(i).get(1));
+				
+			}
+			
+			/*
+			if (newItem == true) {
+				matchWord1.add(match1_Pre_Post);
+				matchWord2.add(match2_Pre_Post);
+			}
+			
+			newItem = false;*/
+			
 		}
 
 		// ====================
 		// calculate similarity of various pairs
 		// distinguish between Global or Corrected Global Similarity Scores
+		
+		
 
 		for (int i = 0; i < matchWord1.size(); i++) {
 

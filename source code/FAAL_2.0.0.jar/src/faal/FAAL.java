@@ -17,6 +17,7 @@ package faal;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ExecutionException;
 
 public class FAAL {
 
@@ -67,8 +68,10 @@ public class FAAL {
 	 *         the number of attestations within the alignment for each phonetic
 	 *         pair of point 6. here above.
 	 *         <p>
+	 * @throws ExecutionException 
+	 * @throws InterruptedException 
 	 */
-	public static List<Alignment> align(String word1, String word2, Boolean printResults) {
+	public static List<Alignment> align(String word1, String word2, Boolean printResults) throws InterruptedException, ExecutionException {
 
 		List<Alignment> alignResults = new ArrayList<>();
 
@@ -179,9 +182,11 @@ public class FAAL {
 	 *         the number of attestations within the alignment for each phonetic
 	 *         pair of point 6. here above.
 	 *         <p>
+	 * @throws ExecutionException 
+	 * @throws InterruptedException 
 	 */
 	public static List<Alignment> align(String word1, String word2, Boolean printResults,
-			Integer optionFunction) {
+			Integer optionFunction) throws InterruptedException, ExecutionException {
 
 		List<Alignment> alignResults = new ArrayList<>();
 
@@ -306,9 +311,11 @@ public class FAAL {
 	 *         the number of attestations within the alignment for each phonetic
 	 *         pair of point 6. here above.
 	 *         <p>
+	 * @throws ExecutionException 
+	 * @throws InterruptedException 
 	 */
 	public static List<Alignment> align(String word1, String word2, Boolean printResults,
-			Integer optionFunction, String externalFunction) {
+			Integer optionFunction, String externalFunction) throws InterruptedException, ExecutionException {
 
 		List<Alignment> alignResults = new ArrayList<>();
 
@@ -445,10 +452,12 @@ public class FAAL {
 	 *         the number of attestations within the alignment for each phonetic
 	 *         pair of point 6. here above.
 	 *         <p>
+	 * @throws ExecutionException 
+	 * @throws InterruptedException 
 	 */
 	public static List<Alignment> align(String word1, String word2, Integer optionFunction,
 			List<String> configIPA, List<Boolean> matcherConfig1, List<Integer> matcherConfig2,
-			List<String> matcherConfig3, List<Double> matcherConfig4) {
+			List<String> matcherConfig3, List<Double> matcherConfig4) throws InterruptedException, ExecutionException {
 
 		ParsedWord stringParsed = new ParsedWord();
 		List<Alignment> alignResults = new ArrayList<>();
@@ -562,10 +571,12 @@ public class FAAL {
 	 *         the number of attestations within the alignment for each phonetic
 	 *         pair of point 6. here above.
 	 *         <p>
+	 * @throws ExecutionException 
+	 * @throws InterruptedException 
 	 */
 	public static List<Alignment> align(String word1, String word2, Integer optionFunction,
 			String externalFunction, List<String> configIPA, List<Boolean> matcherConfig1, List<Integer> matcherConfig2,
-			List<String> matcherConfig3, List<Double> matcherConfig4) {
+			List<String> matcherConfig3, List<Double> matcherConfig4) throws InterruptedException, ExecutionException {
 
 		ParsedWord stringParsed = new ParsedWord();
 		List<Alignment> alignResults = new ArrayList<>();
