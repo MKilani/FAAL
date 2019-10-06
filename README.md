@@ -3,7 +3,7 @@
 
 FAAL is a new algorithm for the alignment of phonetically transcribed lexical items based on the comparison of phonetic features. The algorithm can be run on any pair of phonetically transcribed words without requiring any specific setting or tuning, although various parameters of its implementation as .jar library can indeed be modified by the user, if needed.
 
-(I will add the reference tot he article once it will be accepted)
+(I will add the reference to the article once it will be accepted)
 
 ## Organisation of the repository
 
