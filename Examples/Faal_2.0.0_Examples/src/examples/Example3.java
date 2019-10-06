@@ -5,7 +5,7 @@ import faal.*;
 
 public class Example3 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		String word1 = "θiɣatɛra";
 		String word2 = "doxtəɾ";

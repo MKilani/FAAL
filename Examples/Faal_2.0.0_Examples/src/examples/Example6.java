@@ -2,7 +2,6 @@ package examples;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import faal.*;
 
 public class Example6 {

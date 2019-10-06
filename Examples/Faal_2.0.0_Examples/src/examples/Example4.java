@@ -2,12 +2,12 @@ package examples;
 
 import java.util.ArrayList;
 import java.util.List;
-
+import java.util.concurrent.ExecutionException;
 import faal.*;
 
 public class Example4 {
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) throws Exception, InterruptedException, ExecutionException {
 
 		// Variables
 

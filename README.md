@@ -117,7 +117,7 @@ import faal.*;
 
 public class Example1 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		List<Alignment> resultsAlignments = FAAL.align("kentum", "hekaton", true);
 
@@ -133,6 +133,7 @@ public class Example1 {
 	}
 	
 }
+
 ```
 
 The best result, printed after the alignments found by the algorithm, is:
@@ -178,7 +179,7 @@ import faal.*;
 
 public class Example2 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		List<Alignment> resultsAlignments = FAAL.align("tʌŋ", "liŋgʷa", true, 1);
 
@@ -194,6 +195,7 @@ public class Example2 {
 	}
 
 }
+
 ```
 
 The result, printed after the alignments found by the algorithm, should be:
@@ -266,7 +268,7 @@ import faal.*;
 
 public class Example3 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		String word1 = "θiɣatɛra";
 		String word2 = "doxtəɾ";
@@ -405,12 +407,12 @@ package examples;
 
 import java.util.ArrayList;
 import java.util.List;
-
+import java.util.concurrent.ExecutionException;
 import faal.*;
 
 public class Example4 {
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) throws Exception, InterruptedException, ExecutionException {
 
 		// Variables
 
@@ -454,7 +456,7 @@ public class Example4 {
 		settingsMatcherConfig1.excludeVowels(false);
 		settingsMatcherConfig1.excludeNonInitialVowels(false);
 		settingsMatcherConfig1.displayBoundaries(true);
-		settingsMatcherConfig1.matchSameCategory(true);
+		settingsMatcherConfig1.matchOnlySameCategory(true);
 
 		// Initialise the matcherConfig1 variable:
 
@@ -623,7 +625,7 @@ import faal.*;
 
 public class Example5 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		List<Alignment> resultsAlignments = FAAL.align("ɒlɪgəʊ̯", "ɒlɪg￤ɑːki", false);
 
@@ -666,7 +668,6 @@ package examples;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import faal.*;
 
 public class Example6 {
@@ -1211,7 +1212,6 @@ package examples;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import faal.*;
 
 public class Example7 {
@@ -1513,7 +1513,6 @@ package examples;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import faal.*;
 
 public class Example8 {

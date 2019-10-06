@@ -5,7 +5,7 @@ import faal.*;
 
 public class Example5 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		List<Alignment> resultsAlignments = FAAL.align("ɒlɪgəʊ̯", "ɒlɪg￤ɑːki", false);
 

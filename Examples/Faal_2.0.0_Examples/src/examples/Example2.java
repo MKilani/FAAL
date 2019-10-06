@@ -1,11 +1,12 @@
 package examples;
 
 import java.util.List;
+
 import faal.*;
 
 public class Example2 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		List<Alignment> resultsAlignments = FAAL.align("tʌŋ", "liŋgʷa", true, 1);
 
